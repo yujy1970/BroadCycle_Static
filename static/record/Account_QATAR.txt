@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: QATAR
+Current Date: 2021-09-30 16:00
+Mode: Index Data
+Current Position: QATAR
+  Holding Quantity: 704
+  Current Price: 11485.23
+  Holding Value: 8085601.92
+  Buy Date: 2020-03-26
+  Holding Days: 279
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1132.76
+Account Total: 8086734.68
+Date Of Trading Start: 1998-08-11
+
+Target Latest Close : 11485.230
+Target Total Return (Start->Latest): 767.78%
+Target Annualized Return (CAGR): 9.79%
+Target Max Drawdown: -67.19%
+Target Max Drawdown Period: 2005-09-20 (Close=12892.760) -> 2009-03-03 (Close=4230.190) (867 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.30%
+Max Drawdown: -51.97%
+Max Drawdown Period: 2014-09-18 (Account total=9275222.00) -> 2017-11-30 (Account total=4455053.40) (610 trading days)

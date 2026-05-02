@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GERMANY_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: GERMANY_PRIMARY
+  Holding Quantity: 20958
+  Current Price: 38.67
+  Holding Value: 810445.86
+  Buy Date: 2026-01-08
+  Holding Days: 55
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 38.49
+Account Total: 810484.35
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 38.670
+Target Total Return (Start->Latest): 175.45%
+Target Annualized Return (CAGR): 4.92%
+Target Max Drawdown: -65.13%
+Target Max Drawdown Period: 2007-12-10 (Close=27.746) -> 2009-03-09 (Close=9.675) (312 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.85%
+Max Drawdown: -37.81%
+Max Drawdown Period: 2011-04-29 (Account total=654718.96) -> 2011-10-03 (Account total=407189.59) (111 trading days)

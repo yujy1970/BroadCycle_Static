@@ -1,0 +1,165 @@
+=== Trade Process ===
+1998-01-02 00:00:00 Initial Buy ITALY, Price: 25734.0, Quantity: 11, Cash Balance: 16926.00
+1998-07-17 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 2.2059, Deri_MMRatio: 0.004671, Price: 38767.0, Quantity: 11, Holding Days: 137, P/L: 50.65%, Account Total: 443363.00
+1999-02-24 00:00:00 Buy ITALY, Price: 36339.0, Quantity: 12, Cash Balance: 7295.00
+1999-03-31 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 3.4898, Deri_MMRatio: 0.001850, Price: 38130.0, Quantity: 12, Holding Days: 25, P/L: 4.93%, Account Total: 464855.00
+1999-07-05 00:00:00 Buy ITALY, Price: 38101.0, Quantity: 12, Cash Balance: 7643.00
+1999-08-11 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 4.8237, Deri_MMRatio: -0.004759, Price: 34096.0, Quantity: 12, Holding Days: 27, P/L: -10.51%, Account Total: 416795.00
+2000-04-28 00:00:00 Buy ITALY, Price: 46168.0, Quantity: 9, Cash Balance: 1283.00
+2000-09-13 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 12.0209, Deri_MMRatio: -0.001226, Price: 47793.0, Quantity: 9, Holding Days: 96, P/L: 3.52%, Account Total: 431420.00
+2001-01-12 00:00:00 Buy ITALY, Price: 44047.0, Quantity: 9, Cash Balance: 34997.00
+2001-01-31 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 0.5909, Deri_MMRatio: 0.004279, Price: 44579.0, Quantity: 9, Holding Days: 13, P/L: 1.21%, Account Total: 436208.00
+2001-07-02 00:00:00 Buy ITALY, Price: 37842.0, Quantity: 11, Cash Balance: 19946.00
+2001-09-05 00:00:00 Cond3 sell ITALY, Accu_MMRatio: -9.0442, Deri_MMRatio: -0.003205, Price: 32047.0, Quantity: 11, Holding Days: 46, P/L: -15.31%, Account Total: 372463.00
+2002-02-27 00:00:00 Buy ITALY, Price: 31820.0, Quantity: 11, Cash Balance: 22443.00
+2002-03-19 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -9.2230, Deri_MMRatio: 0.004721, Price: 33240.0, Quantity: 11, Holding Days: 14, P/L: 4.46%, Account Total: 388083.00
+2003-02-03 00:00:00 Buy ITALY, Price: 22079.0, Quantity: 17, Cash Balance: 12740.00
+2003-02-20 00:00:00 Cond3 sell ITALY, Accu_MMRatio: -12.0668, Deri_MMRatio: 0.000742, Price: 23264.0, Quantity: 17, Holding Days: 13, P/L: 5.37%, Account Total: 408228.00
+2003-06-18 00:00:00 Buy ITALY, Price: 25853.0, Quantity: 15, Cash Balance: 20433.00
+2003-10-09 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 2.9058, Deri_MMRatio: -0.000984, Price: 25563.0, Quantity: 15, Holding Days: 80, P/L: -1.12%, Account Total: 403878.00
+2003-12-01 00:00:00 Buy ITALY, Price: 27478.0, Quantity: 14, Cash Balance: 19186.00
+2004-03-17 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 7.5971, Deri_MMRatio: -0.001864, Price: 27263.0, Quantity: 14, Holding Days: 73, P/L: -0.78%, Account Total: 400868.00
+2004-09-03 00:00:00 Buy ITALY, Price: 27690.0, Quantity: 14, Cash Balance: 13208.00
+2007-08-21 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 4.5690, Deri_MMRatio: -0.002825, Price: 39082.0, Quantity: 14, Holding Days: 755, P/L: 41.14%, Account Total: 560356.00
+2007-09-19 00:00:00 Buy ITALY, Price: 40046.0, Quantity: 13, Cash Balance: 39758.00
+2007-10-31 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 0.1979, Deri_MMRatio: 0.000397, Price: 40544.0, Quantity: 13, Holding Days: 30, P/L: 1.24%, Account Total: 566830.00
+2009-09-16 00:00:00 Buy ITALY, Price: 23465.49, Quantity: 24, Cash Balance: 3658.24
+2010-01-27 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 12.0312, Deri_MMRatio: -0.002855, Price: 22279.53, Quantity: 24, Holding Days: 91, P/L: -5.05%, Account Total: 538366.96
+2010-05-12 00:00:00 Buy ITALY, Price: 21259.09, Quantity: 25, Cash Balance: 6889.71
+2010-05-20 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 6.3654, Deri_MMRatio: -0.005890, Price: 19296.24, Quantity: 25, Holding Days: 6, P/L: -9.23%, Account Total: 489295.71
+2010-10-13 00:00:00 Buy ITALY, Price: 21182.39, Quantity: 23, Cash Balance: 2100.74
+2011-02-02 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -2.9191, Deri_MMRatio: 0.004224, Price: 22581.54, Quantity: 23, Holding Days: 78, P/L: 6.61%, Account Total: 521476.16
+2011-03-24 00:00:00 Buy ITALY, Price: 22094.37, Quantity: 23, Cash Balance: 13305.65
+2011-06-23 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 2.3310, Deri_MMRatio: -0.001443, Price: 19688.79, Quantity: 23, Holding Days: 63, P/L: -10.89%, Account Total: 466147.82
+2012-04-27 00:00:00 Buy ITALY, Price: 14867.57, Quantity: 31, Cash Balance: 5253.15
+2012-05-02 00:00:00 Cond3 sell ITALY, Accu_MMRatio: -10.7480, Deri_MMRatio: -0.005178, Price: 14323.88, Quantity: 31, Holding Days: 2, P/L: -3.66%, Account Total: 449293.43
+2012-10-17 00:00:00 Buy ITALY, Price: 16248.26, Quantity: 27, Cash Balance: 10590.41
+2013-01-11 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 0.2673, Deri_MMRatio: 0.004151, Price: 17576.25, Quantity: 27, Holding Days: 57, P/L: 8.17%, Account Total: 485149.16
+2013-03-08 00:00:00 Buy ITALY, Price: 16039.62, Quantity: 30, Cash Balance: 3960.56
+2013-04-29 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 5.1663, Deri_MMRatio: 0.004256, Price: 17033.45, Quantity: 30, Holding Days: 34, P/L: 6.20%, Account Total: 514964.06
+2013-09-19 00:00:00 Buy ITALY, Price: 18080.42, Quantity: 28, Cash Balance: 8712.30
+2014-01-16 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 4.7845, Deri_MMRatio: 0.004185, Price: 19880.51, Quantity: 28, Holding Days: 80, P/L: 9.96%, Account Total: 565366.58
+2014-03-28 00:00:00 Buy ITALY, Price: 21616.09, Quantity: 26, Cash Balance: 3348.24
+2014-07-15 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 10.7592, Deri_MMRatio: -0.003681, Price: 20528.09, Quantity: 26, Holding Days: 74, P/L: -5.03%, Account Total: 537078.58
+2014-08-27 00:00:00 Buy ITALY, Price: 20672.58, Quantity: 25, Cash Balance: 20264.08
+2014-09-04 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 7.0608, Deri_MMRatio: 0.004437, Price: 21372.76, Quantity: 25, Holding Days: 6, P/L: 3.39%, Account Total: 554583.08
+2014-10-22 00:00:00 Buy ITALY, Price: 19139.18, Quantity: 28, Cash Balance: 18686.04
+2014-10-29 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 3.7950, Deri_MMRatio: -0.002241, Price: 19330.7, Quantity: 28, Holding Days: 5, P/L: 1.00%, Account Total: 559945.64
+2014-12-23 00:00:00 Buy ITALY, Price: 19326.3, Quantity: 28, Cash Balance: 18809.24
+2015-01-09 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 0.3595, Deri_MMRatio: -0.004213, Price: 18310.17, Quantity: 28, Holding Days: 8, P/L: -5.26%, Account Total: 531494.00
+2015-04-07 00:00:00 Buy ITALY, Price: 23709.74, Quantity: 22, Cash Balance: 9879.72
+2015-08-03 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 4.4844, Deri_MMRatio: 0.004181, Price: 23657.52, Quantity: 22, Holding Days: 83, P/L: -0.22%, Account Total: 530345.16
+2015-10-05 00:00:00 Buy ITALY, Price: 21945.48, Quantity: 24, Cash Balance: 3653.64
+2015-10-22 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 5.0691, Deri_MMRatio: 0.004836, Price: 22717.17, Quantity: 24, Holding Days: 13, P/L: 3.52%, Account Total: 548865.72
+2016-06-20 00:00:00 Buy ITALY, Price: 17320.75, Quantity: 31, Cash Balance: 11922.47
+2016-07-05 00:00:00 Cond3 sell ITALY, Accu_MMRatio: -10.2605, Deri_MMRatio: -0.005809, Price: 15667.42, Quantity: 31, Holding Days: 11, P/L: -9.55%, Account Total: 497612.49
+2016-10-18 00:00:00 Buy ITALY, Price: 16970.98, Quantity: 29, Cash Balance: 5454.07
+2016-12-12 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -8.0884, Deri_MMRatio: 0.004063, Price: 18291.2, Quantity: 29, Holding Days: 39, P/L: 7.78%, Account Total: 535898.87
+2017-03-01 00:00:00 Buy ITALY, Price: 19383.71, Quantity: 27, Cash Balance: 12538.70
+2017-10-23 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 10.5058, Deri_MMRatio: -0.000717, Price: 22389.52, Quantity: 27, Holding Days: 164, P/L: 15.51%, Account Total: 617055.74
+2018-01-05 00:00:00 Buy ITALY, Price: 22867.8, Quantity: 26, Cash Balance: 22492.94
+2018-08-23 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 0.2592, Deri_MMRatio: -0.001319, Price: 20628.23, Quantity: 26, Holding Days: 160, P/L: -9.79%, Account Total: 558826.92
+2019-01-08 00:00:00 Buy ITALY, Price: 19151.96, Quantity: 29, Cash Balance: 3420.08
+2019-01-28 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -6.8514, Deri_MMRatio: 0.004346, Price: 19593.97, Quantity: 29, Holding Days: 14, P/L: 2.31%, Account Total: 571645.21
+2019-03-18 00:00:00 Buy ITALY, Price: 21275.24, Quantity: 26, Cash Balance: 18488.97
+2019-09-12 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 1.2981, Deri_MMRatio: 0.004788, Price: 22126.78, Quantity: 26, Holding Days: 124, P/L: 4.00%, Account Total: 593785.25
+2019-11-04 00:00:00 Buy ITALY, Price: 23346.34, Quantity: 25, Cash Balance: 10126.75
+2020-01-20 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 6.6045, Deri_MMRatio: -0.000480, Price: 23858.03, Quantity: 25, Holding Days: 50, P/L: 2.19%, Account Total: 606577.50
+2020-11-03 00:00:00 Buy ITALY, Price: 18673.2, Quantity: 32, Cash Balance: 9035.10
+2020-11-16 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -6.4945, Deri_MMRatio: 0.004002, Price: 21306.6, Quantity: 32, Holding Days: 9, P/L: 14.10%, Account Total: 690846.30
+2021-02-03 00:00:00 Buy ITALY, Price: 22561.5, Quantity: 30, Cash Balance: 14001.30
+2021-05-14 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 10.7973, Deri_MMRatio: -0.001176, Price: 24846.39, Quantity: 30, Holding Days: 70, P/L: 10.13%, Account Total: 759393.00
+2021-07-26 00:00:00 Buy ITALY, Price: 25224.64, Quantity: 30, Cash Balance: 2653.80
+2021-08-16 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 9.9257, Deri_MMRatio: 0.004051, Price: 26330.5, Quantity: 30, Holding Days: 15, P/L: 4.38%, Account Total: 792568.80
+2021-11-05 00:00:00 Buy ITALY, Price: 27809.41, Quantity: 28, Cash Balance: 13905.32
+2022-03-11 00:00:00 Cond3 sell ITALY, Accu_MMRatio: 4.4797, Deri_MMRatio: -0.006122, Price: 23325.39, Quantity: 28, Holding Days: 88, P/L: -16.12%, Account Total: 667016.24
+2022-10-04 00:00:00 Buy ITALY, Price: 21545.56, Quantity: 30, Cash Balance: 20649.44
+2022-10-25 00:00:00 Cond1 sell ITALY, Accu_MMRatio: -8.0246, Deri_MMRatio: 0.004053, Price: 22243.9, Quantity: 30, Holding Days: 15, P/L: 3.24%, Account Total: 687966.44
+2023-01-04 00:00:00 Buy ITALY, Price: 24804.54, Quantity: 27, Cash Balance: 18243.86
+2023-09-13 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 10.3487, Deri_MMRatio: 0.000214, Price: 28412.13, Quantity: 27, Holding Days: 176, P/L: 14.54%, Account Total: 785371.37
+2023-11-02 00:00:00 Buy ITALY, Price: 28611.52, Quantity: 27, Cash Balance: 12860.33
+2025-05-07 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 3.4824, Deri_MMRatio: 0.004043, Price: 38479.52, Quantity: 27, Holding Days: 379, P/L: 34.49%, Account Total: 1051807.37
+2025-07-09 00:00:00 Buy ITALY, Price: 40951.56, Quantity: 25, Cash Balance: 28018.37
+2025-12-03 00:00:00 Cond1 sell ITALY, Accu_MMRatio: 8.5762, Deri_MMRatio: -0.000904, Price: 43522.96, Quantity: 25, Holding Days: 104, P/L: 6.28%, Account Total: 1116092.37
+2026-02-03 00:00:00 Buy ITALY, Price: 46557.38, Quantity: 23, Cash Balance: 45272.63
+
+=== Account Position Information ===
+Code: ITALY
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: ITALY
+  Holding Quantity: 23
+  Current Price: 44316.92
+  Holding Value: 1019289.16
+  Buy Date: 2026-02-04
+  Holding Days: 27
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 45272.63
+Account Total: 1064561.79
+Date Of Trading Start: 1998-01-05
+
+Target Latest Close : 44316.920
+Target Total Return (Start->Latest): 77.88%
+Target Annualized Return (CAGR): 2.06%
+Target Max Drawdown: -75.33%
+Target Max Drawdown Period: 2000-03-06 (Close=50109.000) -> 2012-07-24 (Close=12362.510) (3147 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.60%
+Max Drawdown: -35.09%
+Max Drawdown Period: 2007-05-18 (Account total=634304.00) -> 2012-11-16 (Account total=411696.74) (1401 trading days)
+
+Annual Returns (from first buy):
+  1998: 47.79%
+  1999: -5.99%
+  2000: 3.51%
+  2001: -13.67%
+  2002: 4.19%
+  2003: 1.94%
+  2004: 12.70%
+  2005: 15.08%
+  2006: 15.64%
+  2007: -4.46%
+  2008: 0.00%
+  2009: -0.92%
+  2010: -17.01%
+  2011: 0.01%
+  2012: -3.47%
+  2013: 19.96%
+  2014: 2.10%
+  2015: -0.41%
+  2016: -2.36%
+  2017: 15.14%
+  2018: -9.44%
+  2019: 6.97%
+  2020: 15.57%
+  2021: 12.85%
+  2022: -11.76%
+  2023: 20.99%
+  2024: 12.44%
+  2025: 19.26%
+  2026: -4.62%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ITALY
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 0.004
+Trend2 = 99.0
+MedMax1 = -0.06
+Accu1 = -12.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 1995-04-01

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GREECE
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-05-16
+Cash Balance: 559062.24
+Account Total: 559062.24
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 2132.560
+Target Total Return (Start->Latest): 157.48%
+Target Annualized Return (CAGR): 3.10%
+Target Max Drawdown: -93.06%
+Target Max Drawdown Period: 1999-09-17 (Close=6355.040) -> 2016-02-11 (Close=440.880) (4060 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.03%
+Max Drawdown: -24.37%
+Max Drawdown Period: 1998-07-21 (Account total=323395.26) -> 1998-10-12 (Account total=244585.58) (59 trading days)

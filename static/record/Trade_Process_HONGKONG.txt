@@ -1,0 +1,125 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy HONGKONG, Price: 8428.9, Quantity: 35, Cash Balance: 4988.50
+1997-10-13 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 22.1180, Deri_MMRatio: -0.004728, Price: 14147.6, Quantity: 35, Holding Days: 624, P/L: 67.85%, Account Total: 500154.50
+1998-01-19 00:00:00 Buy HONGKONG, Price: 9328.2, Quantity: 53, Cash Balance: 5759.90
+1998-01-26 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 3.4272, Deri_MMRatio: -0.001891, Price: 9047.8, Quantity: 53, Holding Days: 5, P/L: -3.01%, Account Total: 485293.30
+1998-06-18 00:00:00 Buy HONGKONG, Price: 8396.26, Quantity: 57, Cash Balance: 6706.48
+1999-04-27 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: -10.4417, Deri_MMRatio: 0.007408, Price: 13568.2, Quantity: 57, Holding Days: 209, P/L: 61.60%, Account Total: 780093.88
+1999-10-25 00:00:00 Buy HONGKONG, Price: 12933.0, Quantity: 60, Cash Balance: 4113.88
+2000-03-03 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 38.3575, Deri_MMRatio: 0.000551, Price: 17501.0, Quantity: 60, Holding Days: 90, P/L: 35.32%, Account Total: 1054173.88
+2000-05-31 00:00:00 Buy HONGKONG, Price: 14652.9, Quantity: 71, Cash Balance: 13817.98
+2001-03-06 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 1.7206, Deri_MMRatio: -0.000896, Price: 14177.9, Quantity: 71, Holding Days: 189, P/L: -3.24%, Account Total: 1020448.88
+2001-09-28 00:00:00 Buy HONGKONG, Price: 9995.22, Quantity: 102, Cash Balance: 936.44
+2004-02-17 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 17.3367, Deri_MMRatio: 0.001300, Price: 13948.7, Quantity: 102, Holding Days: 588, P/L: 39.55%, Account Total: 1423703.84
+2004-05-27 00:00:00 Buy HONGKONG, Price: 12089.5, Quantity: 117, Cash Balance: 9232.34
+2004-06-03 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 28.6805, Deri_MMRatio: -0.002370, Price: 11965.6, Quantity: 117, Holding Days: 5, P/L: -1.02%, Account Total: 1409207.54
+2004-08-25 00:00:00 Buy HONGKONG, Price: 12793.1, Quantity: 110, Cash Balance: 1966.54
+2007-10-22 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 23.2377, Deri_MMRatio: 0.004664, Price: 28727.0, Quantity: 110, Holding Days: 780, P/L: 124.55%, Account Total: 3161936.54
+2008-07-21 00:00:00 Buy HONGKONG, Price: 22430.6, Quantity: 140, Cash Balance: 21652.54
+2008-09-19 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 4.4462, Deri_MMRatio: -0.001682, Price: 19869.0, Quantity: 140, Holding Days: 41, P/L: -11.42%, Account Total: 2803312.54
+2008-11-26 00:00:00 Buy HONGKONG, Price: 13901.5, Quantity: 201, Cash Balance: 9111.04
+2009-08-05 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: -35.2689, Deri_MMRatio: 0.003862, Price: 20484.3, Quantity: 201, Holding Days: 169, P/L: 47.35%, Account Total: 4126455.34
+2010-04-07 00:00:00 Buy HONGKONG, Price: 21836.4, Quantity: 188, Cash Balance: 21212.14
+2010-04-26 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 35.0763, Deri_MMRatio: 0.000755, Price: 21341.5, Quantity: 188, Holding Days: 13, P/L: -2.27%, Account Total: 4033414.14
+2010-10-14 00:00:00 Buy HONGKONG, Price: 23733.79, Quantity: 169, Cash Balance: 22403.63
+2011-10-13 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 2.7352, Deri_MMRatio: -0.000789, Price: 18639.43, Quantity: 169, Holding Days: 247, P/L: -21.46%, Account Total: 3172467.30
+2012-01-19 00:00:00 Buy HONGKONG, Price: 20161.72, Quantity: 157, Cash Balance: 7077.26
+2013-07-17 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 11.3796, Deri_MMRatio: -0.002638, Price: 21426.9, Quantity: 157, Holding Days: 365, P/L: 6.28%, Account Total: 3371100.56
+2013-11-18 00:00:00 Buy HONGKONG, Price: 23834.52, Quantity: 141, Cash Balance: 10433.24
+2015-07-28 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 9.5125, Deri_MMRatio: -0.003018, Price: 24630.44, Quantity: 141, Holding Days: 416, P/L: 3.34%, Account Total: 3483325.28
+2016-03-02 00:00:00 Buy HONGKONG, Price: 20082.01, Quantity: 173, Cash Balance: 9137.55
+2018-05-10 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 21.4224, Deri_MMRatio: -0.000961, Price: 31151.8, Quantity: 173, Holding Days: 538, P/L: 55.12%, Account Total: 5398398.95
+2018-11-02 00:00:00 Buy HONGKONG, Price: 26050.34, Quantity: 207, Cash Balance: 5978.57
+2018-11-28 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 2.4072, Deri_MMRatio: 0.000057, Price: 26904.21, Quantity: 207, Holding Days: 18, P/L: 3.28%, Account Total: 5575150.04
+2019-04-03 00:00:00 Buy HONGKONG, Price: 29950.42, Quantity: 186, Cash Balance: 4371.92
+2020-02-05 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: 0.2170, Deri_MMRatio: 0.000978, Price: 27174.53, Quantity: 186, Holding Days: 206, P/L: -9.27%, Account Total: 5058834.50
+2020-06-03 00:00:00 Buy HONGKONG, Price: 24643.84, Quantity: 205, Cash Balance: 6847.30
+2021-09-13 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 12.0282, Deri_MMRatio: -0.001729, Price: 25827.7, Quantity: 205, Holding Days: 317, P/L: 4.80%, Account Total: 5301525.80
+2022-03-17 00:00:00 Buy HONGKONG, Price: 21232.88, Quantity: 249, Cash Balance: 14538.68
+2023-11-10 00:00:00 Cond3 sell HONGKONG, Accu_MMRatio: -0.0861, Deri_MMRatio: -0.000705, Price: 17263.0, Quantity: 249, Holding Days: 405, P/L: -18.70%, Account Total: 4313025.68
+2024-01-25 00:00:00 Buy HONGKONG, Price: 16158.72, Quantity: 266, Cash Balance: 14806.16
+2025-09-29 00:00:00 Cond1 sell HONGKONG, Accu_MMRatio: 24.7453, Deri_MMRatio: 0.000688, Price: 26622.88, Quantity: 266, Holding Days: 412, P/L: 64.76%, Account Total: 7096492.24
+
+=== Account Position Information ===
+Code: HONGKONG
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-29
+Cash Balance: 7096492.24
+Account Total: 7096492.24
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 24856.430
+Target Total Return (Start->Latest): 195.90%
+Target Annualized Return (CAGR): 3.56%
+Target Max Drawdown: -65.18%
+Target Max Drawdown Period: 2007-10-30 (Close=31638.200) -> 2008-10-27 (Close=11015.800) (242 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.73%
+Max Drawdown: -42.44%
+Max Drawdown Period: 2021-02-17 (Account total=6379260.00) -> 2022-10-31 (Account total=3671606.66) (420 trading days)
+
+Annual Returns (from first buy):
+  1995: 18.32%
+  1996: 33.07%
+  1997: 5.12%
+  1998: 15.86%
+  1999: 76.34%
+  2000: 6.24%
+  2001: 7.17%
+  2002: -18.20%
+  2003: 34.88%
+  2004: 22.09%
+  2005: 4.54%
+  2006: 34.16%
+  2007: 43.85%
+  2008: -8.25%
+  2009: 42.24%
+  2010: -5.11%
+  2011: -18.97%
+  2012: 12.35%
+  2013: -7.51%
+  2014: 1.28%
+  2015: 4.33%
+  2016: 9.53%
+  2017: 35.91%
+  2018: 7.52%
+  2019: -5.87%
+  2020: 6.51%
+  2021: -5.15%
+  2022: -6.82%
+  2023: -12.69%
+  2024: 24.06%
+  2025: 32.63%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = HONGKONG
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.03
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.21
+date_start_backtest = 1995-04-01

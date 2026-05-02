@@ -1,0 +1,134 @@
+=== Trade Process ===
+1997-07-10 00:00:00 Initial Buy IRELAND, Price: 3490.59, Quantity: 85, Cash Balance: 3299.85
+1998-03-03 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 3.7108, Deri_MMRatio: 0.002767, Price: 5064.96, Quantity: 85, Holding Days: 162, P/L: 45.10%, Account Total: 433821.45
+1998-09-09 00:00:00 Buy IRELAND, Price: 4215.94, Quantity: 102, Cash Balance: 3795.57
+1999-02-02 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 1.7261, Deri_MMRatio: 0.001868, Price: 5294.55, Quantity: 102, Holding Days: 98, P/L: 25.58%, Account Total: 543839.67
+1999-11-15 00:00:00 Buy IRELAND, Price: 4738.89, Quantity: 114, Cash Balance: 3606.21
+1999-11-30 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 1.0208, Deri_MMRatio: 0.002248, Price: 4871.49, Quantity: 114, Holding Days: 11, P/L: 2.80%, Account Total: 558956.07
+2000-02-09 00:00:00 Buy IRELAND, Price: 5076.39, Quantity: 110, Cash Balance: 553.17
+2001-01-11 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 5.4594, Deri_MMRatio: -0.002013, Price: 5561.74, Quantity: 110, Holding Days: 230, P/L: 9.56%, Account Total: 612344.57
+2001-03-27 00:00:00 Buy IRELAND, Price: 5536.04, Quantity: 110, Cash Balance: 3380.17
+2001-08-13 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 6.2220, Deri_MMRatio: -0.003482, Price: 5880.28, Quantity: 110, Holding Days: 89, P/L: 6.22%, Account Total: 650210.97
+2001-10-11 00:00:00 Buy IRELAND, Price: 5190.76, Quantity: 125, Cash Balance: 1365.97
+2001-10-16 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 1.3073, Deri_MMRatio: -0.000986, Price: 5347.74, Quantity: 125, Holding Days: 3, P/L: 3.02%, Account Total: 669833.47
+2001-11-23 00:00:00 Buy IRELAND, Price: 5458.1, Quantity: 122, Cash Balance: 3945.27
+2004-03-23 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 8.1194, Deri_MMRatio: -0.000715, Price: 5116.77, Quantity: 122, Holding Days: 585, P/L: -6.25%, Account Total: 628191.21
+2004-11-08 00:00:00 Buy IRELAND, Price: 5925.03, Quantity: 106, Cash Balance: 138.03
+2006-05-18 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 8.2430, Deri_MMRatio: -0.002540, Price: 7576.51, Quantity: 106, Holding Days: 384, P/L: 27.87%, Account Total: 803248.09
+2006-08-04 00:00:00 Buy IRELAND, Price: 7718.77, Quantity: 104, Cash Balance: 496.01
+2007-07-09 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 8.5672, Deri_MMRatio: -0.001389, Price: 9434.45, Quantity: 104, Holding Days: 234, P/L: 22.23%, Account Total: 981678.81
+2007-10-01 00:00:00 Buy IRELAND, Price: 7983.55, Quantity: 122, Cash Balance: 7685.71
+2007-10-08 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 1.0726, Deri_MMRatio: 0.001391, Price: 8443.55, Quantity: 122, Holding Days: 5, P/L: 5.76%, Account Total: 1037798.81
+2007-11-28 00:00:00 Buy IRELAND, Price: 6912.87, Quantity: 150, Cash Balance: 868.31
+2008-02-06 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: -10.0015, Deri_MMRatio: -0.000010, Price: 6576.78, Quantity: 150, Holding Days: 47, P/L: -4.86%, Account Total: 987385.31
+2009-11-06 00:00:00 Buy IRELAND, Price: 2970.8, Quantity: 332, Cash Balance: 1079.71
+2010-03-08 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 10.3185, Deri_MMRatio: 0.000853, Price: 3014.95, Quantity: 332, Holding Days: 83, P/L: 1.49%, Account Total: 1002043.11
+2010-05-27 00:00:00 Buy IRELAND, Price: 2990.76, Quantity: 335, Cash Balance: 138.51
+2010-08-09 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 1.1447, Deri_MMRatio: 0.000113, Price: 2983.97, Quantity: 335, Holding Days: 51, P/L: -0.23%, Account Total: 999768.46
+2010-11-09 00:00:00 Buy IRELAND, Price: 2775.68, Quantity: 360, Cash Balance: 523.66
+2011-09-08 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 0.4910, Deri_MMRatio: -0.002210, Price: 2524.01, Quantity: 360, Holding Days: 210, P/L: -9.07%, Account Total: 909167.26
+2011-10-24 00:00:00 Buy IRELAND, Price: 2694.42, Quantity: 337, Cash Balance: 1147.72
+2012-10-24 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 7.4305, Deri_MMRatio: -0.000977, Price: 3211.8, Quantity: 337, Holding Days: 255, P/L: 19.20%, Account Total: 1083524.32
+2013-01-04 00:00:00 Buy IRELAND, Price: 3497.94, Quantity: 309, Cash Balance: 2660.86
+2013-07-25 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 7.9213, Deri_MMRatio: 0.001185, Price: 4123.54, Quantity: 309, Holding Days: 140, P/L: 17.88%, Account Total: 1276834.72
+2014-02-07 00:00:00 Buy IRELAND, Price: 4829.77, Quantity: 264, Cash Balance: 1775.44
+2015-10-06 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 10.4360, Deri_MMRatio: 0.000800, Price: 6287.64, Quantity: 264, Holding Days: 421, P/L: 30.19%, Account Total: 1661712.40
+2016-02-17 00:00:00 Buy IRELAND, Price: 6110.74, Quantity: 271, Cash Balance: 5701.86
+2016-05-11 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 0.1973, Deri_MMRatio: 0.000062, Price: 6161.6, Quantity: 271, Holding Days: 57, P/L: 0.83%, Account Total: 1675495.46
+2016-06-21 00:00:00 Buy IRELAND, Price: 6253.8, Quantity: 267, Cash Balance: 5730.86
+2018-04-09 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 0.4827, Deri_MMRatio: -0.000415, Price: 6635.77, Quantity: 267, Holding Days: 456, P/L: 6.11%, Account Total: 1777481.45
+2019-01-04 00:00:00 Buy IRELAND, Price: 5656.45, Quantity: 314, Cash Balance: 1356.15
+2020-02-19 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 5.8187, Deri_MMRatio: -0.001411, Price: 7254.49, Quantity: 314, Holding Days: 285, P/L: 28.25%, Account Total: 2279266.01
+2020-05-27 00:00:00 Buy IRELAND, Price: 5903.56, Quantity: 386, Cash Balance: 491.85
+2020-09-22 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 0.1221, Deri_MMRatio: -0.002572, Price: 6228.24, Quantity: 386, Holding Days: 84, P/L: 5.50%, Account Total: 2404592.49
+2020-11-03 00:00:00 Buy IRELAND, Price: 6698.82, Quantity: 358, Cash Balance: 6414.93
+2021-05-14 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 11.3438, Deri_MMRatio: -0.000940, Price: 8101.87, Quantity: 358, Holding Days: 132, P/L: 20.94%, Account Total: 2906884.39
+2021-07-23 00:00:00 Buy IRELAND, Price: 8249.56, Quantity: 352, Cash Balance: 3039.27
+2022-03-28 00:00:00 Cond3 sell IRELAND, Accu_MMRatio: 0.7793, Deri_MMRatio: -0.002913, Price: 7229.24, Quantity: 352, Holding Days: 173, P/L: -12.37%, Account Total: 2547731.75
+2022-05-17 00:00:00 Buy IRELAND, Price: 7158.39, Quantity: 355, Cash Balance: 6503.30
+2023-09-22 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 9.1329, Deri_MMRatio: -0.001369, Price: 8502.19, Quantity: 355, Holding Days: 347, P/L: 18.77%, Account Total: 3024780.75
+2023-12-06 00:00:00 Buy IRELAND, Price: 8556.81, Quantity: 353, Cash Balance: 4226.82
+2025-10-03 00:00:00 Cond1 sell IRELAND, Accu_MMRatio: 5.6441, Deri_MMRatio: -0.000534, Price: 11721.83, Quantity: 353, Holding Days: 463, P/L: 36.99%, Account Total: 4142032.81
+2025-11-25 00:00:00 Buy IRELAND, Price: 12623.1, Quantity: 328, Cash Balance: 1656.01
+
+=== Account Position Information ===
+Code: IRELAND
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: IRELAND
+  Holding Quantity: 328
+  Current Price: 13163.04
+  Holding Value: 4317477.12
+  Buy Date: 2025-11-26
+  Holding Days: 63
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1656.01
+Account Total: 4319133.13
+Date Of Trading Start: 1997-07-11
+
+Target Latest Close : 13163.040
+Target Total Return (Start->Latest): 277.10%
+Target Annualized Return (CAGR): 4.74%
+Target Max Drawdown: -80.80%
+Target Max Drawdown Period: 2007-02-20 (Close=9981.080) -> 2009-03-09 (Close=1916.380) (519 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.74%
+Max Drawdown: -37.57%
+Max Drawdown Period: 2001-06-22 (Account total=713726.07) -> 2002-10-09 (Account total=445590.15) (326 trading days)
+
+Annual Returns (from first buy):
+  1997: 15.18%
+  1998: 47.57%
+  1999: 8.88%
+  2000: 12.72%
+  2001: 10.48%
+  2002: -29.41%
+  2003: 22.99%
+  2004: 8.74%
+  2005: 18.81%
+  2006: 25.39%
+  2007: 6.34%
+  2008: -5.15%
+  2009: 0.14%
+  2010: 5.10%
+  2011: -5.78%
+  2012: 10.67%
+  2013: 17.84%
+  2014: 8.16%
+  2015: 20.32%
+  2016: 5.06%
+  2017: 7.97%
+  2018: -5.70%
+  2019: 26.97%
+  2020: 17.29%
+  2021: 12.40%
+  2022: -14.97%
+  2023: 22.39%
+  2024: 11.36%
+  2025: 24.64%
+  2026: 0.49%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = IRELAND
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.022
+QQQ = 10
+MedMax2 = 0.12
+Accu2 = 12.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.2
+Accu1 = -10.0
+Deri1 = -99.0
+Trend1 = -0.28
+date_start_backtest = 1995-04-01

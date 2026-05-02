@@ -1,0 +1,92 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy NETHERLANDS_PRIMARY, Price: 15.57, Quantity: 19267, Cash Balance: 12.81
+2006-07-03 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 40.8585, Deri_MMRatio: 0.000545, Price: 17.974, Quantity: 19267, Holding Days: 345, P/L: 15.44%, Account Total: 346317.87
+2007-03-22 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 22.45, Quantity: 15426, Cash Balance: 4.17
+2007-08-20 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 42.2407, Deri_MMRatio: -0.006569, Price: 22.577, Quantity: 15426, Holding Days: 104, P/L: 0.57%, Account Total: 348276.97
+2008-10-31 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 11.837, Quantity: 29422, Cash Balance: 8.76
+2011-07-28 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 28.7714, Deri_MMRatio: -0.001693, Price: 16.364, Quantity: 29422, Holding Days: 702, P/L: 38.24%, Account Total: 481470.36
+2011-10-10 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 13.9, Quantity: 34638, Cash Balance: 2.16
+2014-08-15 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 32.3528, Deri_MMRatio: -0.001712, Price: 20.806, Quantity: 34638, Holding Days: 728, P/L: 49.68%, Account Total: 720680.39
+2014-12-23 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 21.094, Quantity: 34165, Cash Balance: 3.88
+2015-09-23 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 37.3788, Deri_MMRatio: -0.001352, Price: 20.054, Quantity: 34165, Holding Days: 190, P/L: -4.93%, Account Total: 685148.79
+2016-02-17 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 19.958, Quantity: 34329, Cash Balance: 10.61
+2018-03-08 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 27.8701, Deri_MMRatio: 0.000689, Price: 29.994, Quantity: 34329, Holding Days: 527, P/L: 50.29%, Account Total: 1029674.64
+2020-03-24 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 24.236, Quantity: 42485, Cash Balance: 8.18
+2022-02-14 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 52.0786, Deri_MMRatio: -0.003090, Price: 45.08, Quantity: 42485, Holding Days: 487, P/L: 86.00%, Account Total: 1915231.98
+2022-06-27 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 36.139, Quantity: 52996, Cash Balance: 9.53
+2025-01-02 00:00:00 Cond1 sell NETHERLANDS_PRIMARY, Accu_MMRatio: 35.7833, Deri_MMRatio: -0.000468, Price: 44.71, Quantity: 52996, Holding Days: 645, P/L: 23.72%, Account Total: 2369460.69
+2025-04-15 00:00:00 Buy NETHERLANDS_PRIMARY, Price: 46.442, Quantity: 51019, Cash Balance: 36.29
+
+=== Account Position Information ===
+Code: NETHERLANDS_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: NETHERLANDS_PRIMARY
+  Holding Quantity: 51019
+  Current Price: 58.63
+  Holding Value: 2991243.97
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 36.29
+Account Total: 2991280.26
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 56.850
+Target Total Return (Start->Latest): 268.49%
+Target Annualized Return (CAGR): 6.38%
+Target Max Drawdown: -68.15%
+Target Max Drawdown Period: 2007-10-12 (Close=25.970) -> 2009-03-09 (Close=8.272) (352 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.60%
+Max Drawdown: -38.06%
+Max Drawdown Period: 2007-07-19 (Account total=392919.81) -> 2009-03-09 (Account total=243387.54) (418 trading days)
+
+Annual Returns (from first buy):
+  2005: 4.09%
+  2006: 11.86%
+  2007: 0.57%
+  2008: -0.35%
+  2009: 37.16%
+  2010: 3.10%
+  2011: -1.17%
+  2012: 21.87%
+  2013: 28.74%
+  2014: -7.09%
+  2015: -3.09%
+  2016: 9.61%
+  2017: 33.73%
+  2018: 2.53%
+  2019: 0.00%
+  2020: 66.71%
+  2021: 22.74%
+  2022: -6.33%
+  2023: 19.84%
+  2024: -0.31%
+  2025: 23.41%
+  2026: 2.81%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NETHERLANDS
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.035
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

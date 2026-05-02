@@ -1,0 +1,9 @@
+=== Account Holding Information ===
+Current date: 2025-12-31
+Mode: Index data
+Current holding: US10Y
+  Holding quantity: 144565
+  Current price: 4.18
+  Holding value: 604281.70
+Cash balance: 2.65
+Account total: 604284.35

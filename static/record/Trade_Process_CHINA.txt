@@ -1,0 +1,86 @@
+=== Trade Process ===
+2005-01-04 00:00:00 Initial Buy CHINA, Price: 981.577, Quantity: 305, Cash Balance: 619.02
+2007-09-19 00:00:00 Cond1 sell CHINA, Accu_MMRatio: 100.2734, Deri_MMRatio: -0.008568, Price: 5436.641, Quantity: 305, Holding Days: 657, P/L: 453.87%, Account Total: 1658794.52
+2008-11-10 00:00:00 Buy CHINA, Price: 1795.301, Quantity: 923, Cash Balance: 1731.70
+2011-07-28 00:00:00 Cond1 sell CHINA, Accu_MMRatio: 16.7382, Deri_MMRatio: -0.004674, Price: 2981.021, Quantity: 923, Holding Days: 662, P/L: 66.05%, Account Total: 2753214.08
+2011-10-28 00:00:00 Buy CHINA, Price: 2704.535, Quantity: 1017, Cash Balance: 2701.99
+2015-08-17 00:00:00 Cond1 sell CHINA, Accu_MMRatio: 99.2871, Deri_MMRatio: 0.007600, Price: 4084.311, Quantity: 1017, Holding Days: 924, P/L: 51.02%, Account Total: 4156446.27
+2016-03-21 00:00:00 Buy CHINA, Price: 3231.615, Quantity: 1286, Cash Balance: 589.38
+2018-07-05 00:00:00 Cond1 sell CHINA, Accu_MMRatio: 25.3286, Deri_MMRatio: -0.007150, Price: 3347.062, Quantity: 1286, Holding Days: 560, P/L: 3.57%, Account Total: 4304911.11
+2018-09-21 00:00:00 Buy CHINA, Price: 3375.972, Quantity: 1275, Cash Balance: 546.81
+2021-06-29 00:00:00 Cond1 sell CHINA, Accu_MMRatio: 56.5205, Deri_MMRatio: -0.000432, Price: 5189.38, Quantity: 1275, Holding Days: 668, P/L: 53.72%, Account Total: 6617006.31
+2024-09-24 00:00:00 Buy CHINA, Price: 3403.702, Quantity: 1944, Cash Balance: 209.63
+
+=== Account Position Information ===
+Code: CHINA
+Current Date: 2026-03-27 16:00
+Mode: Index Data
+Current Position: CHINA
+  Holding Quantity: 1944
+  Current Price: 4502.57
+  Holding Value: 8752996.08
+  Buy Date: 2024-09-25
+  Holding Days: 361
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 209.63
+Account Total: 8753205.71
+Date Of Trading Start: 2005-01-05
+
+Target Latest Close : 4502.570
+Target Total Return (Start->Latest): 358.14%
+Target Annualized Return (CAGR): 7.43%
+Target Max Drawdown: -72.30%
+Target Max Drawdown Period: 2007-10-16 (Close=5877.202) -> 2008-11-04 (Close=1627.759) (258 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 17.17%
+Max Drawdown: -39.23%
+Max Drawdown Period: 2009-08-03 (Account total=3497163.16) -> 2014-03-20 (Account total=2125147.42) (1120 trading days)
+
+Annual Returns (from first buy):
+  2005: -6.95%
+  2006: 120.76%
+  2007: 166.20%
+  2008: 1.25%
+  2009: 96.61%
+  2010: -12.51%
+  2011: -17.33%
+  2012: 7.55%
+  2013: -7.64%
+  2014: 51.60%
+  2015: 15.57%
+  2016: 2.43%
+  2017: 21.77%
+  2018: -25.95%
+  2019: 36.06%
+  2020: 27.21%
+  2021: -0.42%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 15.61%
+  2025: 17.66%
+  2026: -2.75%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHINA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

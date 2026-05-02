@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CANADA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: CANADA
+  Holding Quantity: 151
+  Current Price: 33891.18
+  Holding Value: 5117568.18
+  Buy Date: 2022-10-05
+  Holding Days: 896
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2210.95
+Account Total: 5119779.13
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 33891.180
+Target Total Return (Start->Latest): 692.37%
+Target Annualized Return (CAGR): 6.89%
+Target Max Drawdown: -49.99%
+Target Max Drawdown Period: 2000-09-01 (Close=11388.800) -> 2002-10-09 (Close=5695.300) (528 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.58%
+Max Drawdown: -38.29%
+Max Drawdown Period: 2006-04-19 (Account total=1278471.80) -> 2008-10-27 (Account total=788937.30) (634 trading days)

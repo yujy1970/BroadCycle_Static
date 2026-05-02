@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ETHA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-07-18
+Cash Balance: 736556.90
+Account Total: 736556.90
+Date Of Trading Start: 2024-07-24
+
+Target Latest Close : 17.420
+Target Total Return (Start->Latest): -33.61%
+Target Annualized Return (CAGR): -20.65%
+Target Max Drawdown: -64.02%
+Target Max Drawdown Period: 2024-12-06 (Close=30.770) -> 2025-04-08 (Close=11.070) (82 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 69.13%
+Max Drawdown: -34.00%
+Max Drawdown Period: 2024-07-24 (Account total=290764.38) -> 2024-09-06 (Account total=191909.04) (31 trading days)

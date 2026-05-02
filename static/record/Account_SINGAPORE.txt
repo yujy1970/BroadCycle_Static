@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SINGAPORE
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SINGAPORE
+  Holding Quantity: 346
+  Current Price: 4842.27
+  Holding Value: 1675425.42
+  Buy Date: 2024-04-25
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 678.92
+Account Total: 1676104.34
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 4842.270
+Target Total Return (Start->Latest): 133.40%
+Target Annualized Return (CAGR): 2.78%
+Target Max Drawdown: -67.72%
+Target Max Drawdown Period: 1996-02-06 (Close=2493.700) -> 1998-09-04 (Close=805.040) (641 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.72%
+Max Drawdown: -25.17%
+Max Drawdown Period: 2000-01-03 (Account total=501212.94) -> 2003-09-10 (Account total=375036.80) (926 trading days)

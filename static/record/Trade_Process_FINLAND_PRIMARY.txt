@@ -1,0 +1,77 @@
+=== Trade Process ===
+2012-05-31 00:00:00 Initial Buy FINLAND_PRIMARY, Price: 16.198, Quantity: 18520, Cash Balance: 13.04
+2013-06-28 00:00:00 Cond1 sell FINLAND_PRIMARY, Accu_MMRatio: 7.3872, Deri_MMRatio: -0.002707, Price: 19.974, Quantity: 18520, Holding Days: 269, P/L: 23.31%, Account Total: 369931.52
+2013-09-10 00:00:00 Buy FINLAND_PRIMARY, Price: 24.103, Quantity: 15347, Cash Balance: 22.78
+2014-07-17 00:00:00 Cond1 sell FINLAND_PRIMARY, Accu_MMRatio: 7.8080, Deri_MMRatio: -0.000917, Price: 27.225, Quantity: 15347, Holding Days: 210, P/L: 12.95%, Account Total: 417844.85
+2015-01-22 00:00:00 Buy FINLAND_PRIMARY, Price: 25.474, Quantity: 16402, Cash Balance: 20.31
+2017-07-13 00:00:00 Cond1 sell FINLAND_PRIMARY, Accu_MMRatio: 6.3533, Deri_MMRatio: -0.000778, Price: 32.811, Quantity: 16402, Holding Days: 623, P/L: 28.80%, Account Total: 538186.33
+2020-03-25 00:00:00 Buy FINLAND_PRIMARY, Price: 26.116, Quantity: 20607, Cash Balance: 13.92
+2020-11-11 00:00:00 Cond1 sell FINLAND_PRIMARY, Accu_MMRatio: 2.0888, Deri_MMRatio: -0.000913, Price: 38.349, Quantity: 20607, Holding Days: 160, P/L: 46.84%, Account Total: 790271.76
+2022-03-14 00:00:00 Buy FINLAND_PRIMARY, Price: 37.761, Quantity: 20928, Cash Balance: 9.55
+
+=== Account Position Information ===
+Code: FINLAND_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: FINLAND_PRIMARY
+  Holding Quantity: 20928
+  Current Price: 48.44
+  Holding Value: 1013752.32
+  Buy Date: 2022-03-15
+  Holding Days: 1004
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 9.55
+Account Total: 1013761.87
+Date Of Trading Start: 2012-06-01
+
+Target Latest Close : 48.236
+Target Total Return (Start->Latest): 192.09%
+Target Annualized Return (CAGR): 8.07%
+Target Max Drawdown: -38.70%
+Target Max Drawdown Period: 2021-09-03 (Close=49.803) -> 2022-09-27 (Close=30.529) (267 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.28%
+Max Drawdown: -23.37%
+Max Drawdown Period: 2022-03-29 (Account total=833822.93) -> 2022-09-27 (Account total=638920.46) (126 trading days)
+
+Annual Returns (from first buy):
+  2012: 24.42%
+  2013: 10.83%
+  2014: 1.47%
+  2015: 0.52%
+  2016: 1.97%
+  2017: 25.65%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 46.84%
+  2021: 0.00%
+  2022: -0.92%
+  2023: -4.31%
+  2024: -9.23%
+  2025: 47.27%
+  2026: 1.22%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FINLAND
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.038
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2012-05-31

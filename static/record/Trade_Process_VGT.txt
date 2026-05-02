@@ -1,0 +1,93 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy VGT, Price: 4.395, Quantity: 68259, Cash Balance: 1.70
+2009-01-05 00:00:00 Cond3 sell VGT, Accu_MMRatio: -15.4911, Deri_MMRatio: 0.008826, Price: 4.479, Quantity: 68259, Holding Days: 1, P/L: 1.91%, Account Total: 305733.76
+2009-01-27 00:00:00 Buy VGT, Price: 4.294, Quantity: 71200, Cash Balance: 0.96
+2010-01-13 00:00:00 Cond1 sell VGT, Accu_MMRatio: 18.1204, Deri_MMRatio: 0.000170, Price: 6.89, Quantity: 71200, Holding Days: 243, P/L: 60.46%, Account Total: 490568.96
+2010-04-14 00:00:00 Buy VGT, Price: 7.336, Quantity: 66871, Cash Balance: 3.30
+2014-04-08 00:00:00 Cond1 sell VGT, Accu_MMRatio: 8.8110, Deri_MMRatio: -0.001771, Price: 11.294, Quantity: 66871, Holding Days: 1003, P/L: 53.95%, Account Total: 755244.37
+2014-10-21 00:00:00 Buy VGT, Price: 12.125, Quantity: 62288, Cash Balance: 2.37
+2017-06-30 00:00:00 Cond1 sell VGT, Accu_MMRatio: 9.8539, Deri_MMRatio: -0.002991, Price: 17.698, Quantity: 62288, Holding Days: 678, P/L: 45.96%, Account Total: 1102375.40
+2017-10-27 00:00:00 Buy VGT, Price: 20.062, Quantity: 54948, Cash Balance: 8.62
+2018-01-04 00:00:00 Cond1 sell VGT, Accu_MMRatio: 10.4748, Deri_MMRatio: 0.001172, Price: 21.321, Quantity: 54948, Holding Days: 46, P/L: 6.28%, Account Total: 1171554.93
+2018-02-23 00:00:00 Buy VGT, Price: 22.29, Quantity: 52559, Cash Balance: 14.82
+2020-03-02 00:00:00 Cond1 sell VGT, Accu_MMRatio: 10.6832, Deri_MMRatio: -0.002775, Price: 31.2, Quantity: 52559, Holding Days: 507, P/L: 39.97%, Account Total: 1639855.62
+2020-04-14 00:00:00 Buy VGT, Price: 28.735, Quantity: 57068, Cash Balance: 6.64
+2020-11-03 00:00:00 Cond1 sell VGT, Accu_MMRatio: 12.8522, Deri_MMRatio: -0.002555, Price: 39.169, Quantity: 57068, Holding Days: 142, P/L: 36.31%, Account Total: 2235303.13
+2020-12-17 00:00:00 Buy VGT, Price: 43.846, Quantity: 50980, Cash Balance: 34.05
+2021-04-01 00:00:00 Cond1 sell VGT, Accu_MMRatio: 17.7486, Deri_MMRatio: 0.002202, Price: 46.08, Quantity: 50980, Holding Days: 71, P/L: 5.10%, Account Total: 2349192.45
+2021-05-24 00:00:00 Buy VGT, Price: 46.711, Quantity: 50292, Cash Balance: 2.84
+2023-10-16 00:00:00 Cond1 sell VGT, Accu_MMRatio: 11.1279, Deri_MMRatio: -0.000665, Price: 52.751, Quantity: 50292, Holding Days: 603, P/L: 12.93%, Account Total: 2652956.13
+2023-12-13 00:00:00 Buy VGT, Price: 60.013, Quantity: 44206, Cash Balance: 21.45
+2024-04-09 00:00:00 Cond1 sell VGT, Accu_MMRatio: 12.1848, Deri_MMRatio: -0.001569, Price: 64.007, Quantity: 44206, Holding Days: 79, P/L: 6.66%, Account Total: 2829514.90
+2024-06-11 00:00:00 Buy VGT, Price: 70.774, Quantity: 39979, Cash Balance: 41.15
+2026-03-27 00:00:00 Cond1 sell VGT, Accu_MMRatio: 11.6051, Deri_MMRatio: -0.001581, Price: 85.938, Quantity: 39979, Holding Days: 449, P/L: 21.43%, Account Total: 3435756.45
+
+=== Account Position Information ===
+Code: VGT
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-27
+Cash Balance: 3435756.45
+Account Total: 3435756.45
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 104.850
+Target Total Return (Start->Latest): 2649.80%
+Target Annualized Return (CAGR): 21.08%
+Target Max Drawdown: -35.08%
+Target Max Drawdown Period: 2021-12-27 (Close=56.661) -> 2022-10-14 (Close=36.787) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.99%
+Max Drawdown: -35.08%
+Max Drawdown Period: 2021-12-27 (Account total=2849597.85) -> 2022-10-14 (Account total=1850094.64) (202 trading days)
+
+Annual Returns (from first buy):
+  2009: 38.19%
+  2010: 5.92%
+  2011: 0.55%
+  2012: 13.95%
+  2013: 30.97%
+  2014: 8.68%
+  2015: 5.05%
+  2016: 13.77%
+  2017: 20.93%
+  2018: -2.00%
+  2019: 48.63%
+  2020: 41.66%
+  2021: 28.69%
+  2022: -29.70%
+  2023: 34.19%
+  2024: 16.94%
+  2025: 21.77%
+  2026: -8.70%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = VGT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 18.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.16
+Accu1 = -99.0
+Deri1 = -0.012
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NVDA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NVDA
+  Holding Quantity: 1109616
+  Current Price: 198.45
+  Holding Value: 220203295.20
+  Buy Date: 2024-01-09
+  Holding Days: 579
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 18.76
+Account Total: 220203313.96
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 198.450
+Target Total Return (Start->Latest): 99125.00%
+Target Annualized Return (CAGR): 48.92%
+Target Max Drawdown: -66.34%
+Target Max Drawdown Period: 2021-11-29 (Close=33.306) -> 2022-10-14 (Close=11.212) (221 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 45.89%
+Max Drawdown: -59.10%
+Max Drawdown Period: 2018-10-01 (Account total=10871611.65) -> 2019-06-03 (Account total=4446888.63) (167 trading days)

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: MEXICO
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: MEXICO
+  Holding Quantity: 256
+  Current Price: 67858.09
+  Holding Value: 17371672.06
+  Buy Date: 2025-10-17
+  Holding Days: 131
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1757.98
+Account Total: 17373430.04
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 67858.094
+Target Total Return (Start->Latest): 3480.52%
+Target Annualized Return (CAGR): 12.20%
+Target Max Drawdown: -48.56%
+Target Max Drawdown Period: 2007-10-18 (Close=32836.121) -> 2008-10-27 (Close=16891.029) (255 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.92%
+Max Drawdown: -50.52%
+Max Drawdown Period: 1997-10-21 (Account total=894066.60) -> 1998-09-10 (Account total=442400.00) (222 trading days)

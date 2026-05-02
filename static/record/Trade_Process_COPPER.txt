@@ -1,0 +1,94 @@
+=== Trade Process ===
+2001-10-15 00:00:00 Initial Buy COPPER, Price: 1413.0, Quantity: 212, Cash Balance: 444.00
+2004-12-17 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 81.9648, Deri_MMRatio: 0.000305, Price: 3054.0, Quantity: 212, Holding Days: 802, P/L: 116.14%, Account Total: 647892.00
+2005-06-03 00:00:00 Buy COPPER, Price: 3311.0, Quantity: 195, Cash Balance: 2247.00
+2006-05-11 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 70.3810, Deri_MMRatio: 0.017767, Price: 8525.0, Quantity: 195, Holding Days: 237, P/L: 157.48%, Account Total: 1664622.00
+2007-07-02 00:00:00 Buy COPPER, Price: 7730.0, Quantity: 215, Cash Balance: 2672.00
+2008-10-10 00:00:00 Cond3 sell COPPER, Accu_MMRatio: 14.6111, Deri_MMRatio: -0.007812, Price: 4900.0, Quantity: 215, Holding Days: 324, P/L: -36.61%, Account Total: 1056172.00
+2008-12-31 00:00:00 Buy COPPER, Price: 3055.0, Quantity: 345, Cash Balance: 2197.00
+2011-07-11 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 66.9221, Deri_MMRatio: 0.000812, Price: 9604.5, Quantity: 345, Holding Days: 636, P/L: 214.39%, Account Total: 3315749.50
+2011-10-12 00:00:00 Buy COPPER, Price: 7429.5, Quantity: 446, Cash Balance: 2192.50
+2018-07-02 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 44.4346, Deri_MMRatio: -0.002214, Price: 6565.5, Quantity: 446, Holding Days: 1691, P/L: -11.63%, Account Total: 2930405.50
+2018-09-21 00:00:00 Buy COPPER, Price: 6312.5, Quantity: 464, Cash Balance: 1405.50
+2021-12-31 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 71.9596, Deri_MMRatio: -0.000629, Price: 9681.0, Quantity: 464, Holding Days: 827, P/L: 53.36%, Account Total: 4493389.50
+2022-07-28 00:00:00 Buy COPPER, Price: 7769.0, Quantity: 578, Cash Balance: 2907.50
+2025-02-19 00:00:00 Cond1 sell COPPER, Accu_MMRatio: 18.1185, Deri_MMRatio: 0.000860, Price: 9460.0, Quantity: 578, Holding Days: 646, P/L: 21.77%, Account Total: 5470787.50
+2025-10-03 00:00:00 Buy COPPER, Price: 10688.5, Quantity: 511, Cash Balance: 8964.00
+
+=== Account Position Information ===
+Code: COPPER
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: COPPER
+  Holding Quantity: 511
+  Current Price: 12147.00
+  Holding Value: 6207117.00
+  Buy Date: 2025-10-06
+  Holding Days: 120
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 8964.00
+Account Total: 6216081.00
+Date Of Trading Start: 2001-10-16
+
+Target Latest Close : 12147.000
+Target Total Return (Start->Latest): 765.79%
+Target Annualized Return (CAGR): 9.23%
+Target Max Drawdown: -68.06%
+Target Max Drawdown Period: 2008-07-02 (Close=8850.000) -> 2008-12-23 (Close=2827.000) (123 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.20%
+Max Drawdown: -50.53%
+Max Drawdown Period: 2012-02-09 (Account total=3909152.50) -> 2016-01-15 (Account total=1933818.50) (991 trading days)
+
+Annual Returns (from first buy):
+  2001: 4.80%
+  2002: 5.18%
+  2003: 47.44%
+  2004: 32.70%
+  2005: 32.63%
+  2006: 93.72%
+  2007: -13.37%
+  2008: -25.92%
+  2009: 138.39%
+  2010: 30.14%
+  2011: 2.34%
+  2012: 4.35%
+  2013: -7.20%
+  2014: -14.39%
+  2015: -25.30%
+  2016: 17.63%
+  2017: 30.89%
+  2018: -14.38%
+  2019: 3.50%
+  2020: 25.77%
+  2021: 24.65%
+  2022: 7.76%
+  2023: 2.23%
+  2024: 2.44%
+  2025: 25.37%
+  2026: -2.22%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = COPPER
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.03
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.016
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.007
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

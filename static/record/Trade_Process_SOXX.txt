@@ -1,0 +1,90 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy SOXX, Price: 9.81, Quantity: 30581, Cash Balance: 0.39
+2009-01-05 00:00:00 Cond3 sell SOXX, Accu_MMRatio: -18.5184, Deri_MMRatio: 0.009775, Price: 9.953, Quantity: 30581, Holding Days: 1, P/L: 1.46%, Account Total: 304373.08
+2009-01-26 00:00:00 Buy SOXX, Price: 9.29, Quantity: 32763, Cash Balance: 4.81
+2010-02-12 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 17.2279, Deri_MMRatio: -0.002993, Price: 15.43, Quantity: 32763, Holding Days: 265, P/L: 66.09%, Account Total: 505537.90
+2010-04-05 00:00:00 Buy SOXX, Price: 16.847, Quantity: 30007, Cash Balance: 9.97
+2013-12-09 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 9.3079, Deri_MMRatio: 0.000856, Price: 23.427, Quantity: 30007, Holding Days: 928, P/L: 39.06%, Account Total: 702983.96
+2014-02-10 00:00:00 Buy SOXX, Price: 24.42, Quantity: 28787, Cash Balance: 5.42
+2014-09-04 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 9.3950, Deri_MMRatio: -0.000777, Price: 29.363, Quantity: 28787, Holding Days: 143, P/L: 20.24%, Account Total: 845278.10
+2014-10-20 00:00:00 Buy SOXX, Price: 26.783, Quantity: 31560, Cash Balance: 6.62
+2017-05-19 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 13.7251, Deri_MMRatio: 0.000843, Price: 48.207, Quantity: 31560, Holding Days: 650, P/L: 79.99%, Account Total: 1521419.54
+2017-07-10 00:00:00 Buy SOXX, Price: 48.043, Quantity: 31667, Cash Balance: 41.86
+2020-02-18 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 11.4941, Deri_MMRatio: -0.000882, Price: 88.473, Quantity: 31667, Holding Days: 656, P/L: 84.15%, Account Total: 2801716.35
+2020-03-26 00:00:00 Buy SOXX, Price: 68.707, Quantity: 40777, Cash Balance: 51.02
+2021-04-26 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 20.9612, Deri_MMRatio: 0.001098, Price: 147.673, Quantity: 40777, Holding Days: 272, P/L: 114.93%, Account Total: 6021712.94
+2021-06-28 00:00:00 Buy SOXX, Price: 149.927, Quantity: 40164, Cash Balance: 44.91
+2023-10-17 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 13.1332, Deri_MMRatio: -0.003039, Price: 157.237, Quantity: 40164, Holding Days: 580, P/L: 4.88%, Account Total: 6315311.78
+2023-12-11 00:00:00 Buy SOXX, Price: 178.98, Quantity: 35285, Cash Balance: 2.48
+2024-05-01 00:00:00 Cond1 sell SOXX, Accu_MMRatio: 13.9143, Deri_MMRatio: -0.003596, Price: 210.3, Quantity: 35285, Holding Days: 97, P/L: 17.50%, Account Total: 7420437.98
+2024-07-03 00:00:00 Buy SOXX, Price: 256.28, Quantity: 28954, Cash Balance: 106.86
+
+=== Account Position Information ===
+Code: SOXX
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: SOXX
+  Holding Quantity: 28954
+  Current Price: 465.75
+  Holding Value: 13485325.50
+  Buy Date: 2024-07-05
+  Holding Days: 457
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 106.86
+Account Total: 13485432.36
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 465.750
+Target Total Return (Start->Latest): 5525.00%
+Target Annualized Return (CAGR): 26.19%
+Target Max Drawdown: -45.75%
+Target Max Drawdown Period: 2021-12-27 (Close=178.799) -> 2022-10-14 (Close=96.992) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 24.47%
+Max Drawdown: -46.14%
+Max Drawdown Period: 2024-03-07 (Account total=8272817.72) -> 2025-04-08 (Account total=4455461.51) (272 trading days)
+
+Annual Returns (from first buy):
+  2009: 48.99%
+  2010: 4.09%
+  2011: -10.60%
+  2012: 6.62%
+  2013: 56.24%
+  2014: 23.76%
+  2015: -2.02%
+  2016: 38.35%
+  2017: 40.26%
+  2018: -6.49%
+  2019: 62.42%
+  2020: 96.65%
+  2021: 41.92%
+  2022: -35.09%
+  2023: 46.82%
+  2024: -7.34%
+  2025: 40.74%
+  2026: 54.75%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SOXX
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

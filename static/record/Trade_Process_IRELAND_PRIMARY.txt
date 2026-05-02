@@ -1,0 +1,97 @@
+=== Trade Process ===
+2010-05-07 00:00:00 Initial Buy IRELAND_PRIMARY, Price: 19.462, Quantity: 15414, Cash Balance: 12.73
+2010-08-09 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 1.1447, Deri_MMRatio: 0.000113, Price: 18.192, Quantity: 15414, Holding Days: 65, P/L: -6.53%, Account Total: 280424.22
+2010-11-09 00:00:00 Buy IRELAND_PRIMARY, Price: 17.03, Quantity: 16466, Cash Balance: 8.24
+2011-09-08 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 0.4910, Deri_MMRatio: -0.002210, Price: 15.149, Quantity: 16466, Holding Days: 210, P/L: -11.05%, Account Total: 249451.67
+2011-10-24 00:00:00 Buy IRELAND_PRIMARY, Price: 16.675, Quantity: 14959, Cash Balance: 10.35
+2012-10-24 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 7.4305, Deri_MMRatio: -0.000977, Price: 19.582, Quantity: 14959, Holding Days: 255, P/L: 17.43%, Account Total: 292937.49
+2013-01-04 00:00:00 Buy IRELAND_PRIMARY, Price: 21.85, Quantity: 13406, Cash Balance: 16.39
+2013-07-25 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 7.9213, Deri_MMRatio: 0.001185, Price: 26.772, Quantity: 13406, Holding Days: 140, P/L: 22.53%, Account Total: 358921.82
+2014-02-07 00:00:00 Buy IRELAND_PRIMARY, Price: 32.871, Quantity: 10919, Cash Balance: 3.37
+2015-10-06 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 10.4360, Deri_MMRatio: 0.000800, Price: 35.644, Quantity: 10919, Holding Days: 421, P/L: 8.44%, Account Total: 389200.21
+2016-02-17 00:00:00 Buy IRELAND_PRIMARY, Price: 34.023, Quantity: 11439, Cash Balance: 11.11
+2016-05-11 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 0.1973, Deri_MMRatio: 0.000062, Price: 36.165, Quantity: 11439, Holding Days: 57, P/L: 6.30%, Account Total: 413702.54
+2016-06-21 00:00:00 Buy IRELAND_PRIMARY, Price: 36.25, Quantity: 11412, Cash Balance: 17.54
+2018-04-09 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 0.4827, Deri_MMRatio: -0.000415, Price: 43.968, Quantity: 11412, Holding Days: 456, P/L: 21.29%, Account Total: 501780.36
+2019-01-04 00:00:00 Buy IRELAND_PRIMARY, Price: 36.853, Quantity: 13615, Cash Balance: 26.76
+2020-02-19 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 5.8187, Deri_MMRatio: -0.001411, Price: 43.703, Quantity: 13615, Holding Days: 285, P/L: 18.59%, Account Total: 595043.11
+2020-05-27 00:00:00 Buy IRELAND_PRIMARY, Price: 35.788, Quantity: 16626, Cash Balance: 31.82
+2020-09-22 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 0.1221, Deri_MMRatio: -0.002572, Price: 38.782, Quantity: 16626, Holding Days: 84, P/L: 8.37%, Account Total: 644821.35
+2020-11-03 00:00:00 Buy IRELAND_PRIMARY, Price: 42.509, Quantity: 15169, Cash Balance: 2.33
+2021-05-14 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 11.3438, Deri_MMRatio: -0.000940, Price: 57.723, Quantity: 15169, Holding Days: 132, P/L: 35.79%, Account Total: 875602.52
+2021-07-23 00:00:00 Buy IRELAND_PRIMARY, Price: 56.474, Quantity: 15504, Cash Balance: 29.62
+2022-03-28 00:00:00 Cond3 sell IRELAND_PRIMARY, Accu_MMRatio: 0.7793, Deri_MMRatio: -0.002913, Price: 49.014, Quantity: 15504, Holding Days: 173, P/L: -13.21%, Account Total: 759942.68
+2022-05-17 00:00:00 Buy IRELAND_PRIMARY, Price: 42.993, Quantity: 17675, Cash Balance: 41.41
+2023-09-22 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 9.1329, Deri_MMRatio: -0.001369, Price: 54.05, Quantity: 17675, Holding Days: 347, P/L: 25.72%, Account Total: 955375.16
+2023-12-06 00:00:00 Buy IRELAND_PRIMARY, Price: 57.46, Quantity: 16626, Cash Balance: 45.20
+2025-10-03 00:00:00 Cond1 sell IRELAND_PRIMARY, Accu_MMRatio: 5.6441, Deri_MMRatio: -0.000534, Price: 68.015, Quantity: 16626, Holding Days: 463, P/L: 18.37%, Account Total: 1130862.58
+2025-11-25 00:00:00 Buy IRELAND_PRIMARY, Price: 71.51, Quantity: 15814, Cash Balance: 3.44
+
+=== Account Position Information ===
+Code: IRELAND_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: IRELAND_PRIMARY
+  Holding Quantity: 15814
+  Current Price: 75.08
+  Holding Value: 1187315.12
+  Buy Date: 2025-11-26
+  Holding Days: 63
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3.44
+Account Total: 1187318.56
+Date Of Trading Start: 2010-05-10
+
+Target Latest Close : 67.578
+Target Total Return (Start->Latest): 279.14%
+Target Annualized Return (CAGR): 8.75%
+Target Max Drawdown: -46.48%
+Target Max Drawdown Period: 2018-01-24 (Close=47.113) -> 2020-03-18 (Close=25.214) (540 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.10%
+Max Drawdown: -33.07%
+Max Drawdown Period: 2011-04-29 (Account total=324371.97) -> 2011-11-23 (Account total=217095.36) (146 trading days)
+
+Annual Returns (from first buy):
+  2010: -6.58%
+  2011: -13.54%
+  2012: 20.90%
+  2013: 22.53%
+  2014: -5.79%
+  2015: 15.10%
+  2016: 2.04%
+  2017: 29.82%
+  2018: -2.67%
+  2019: 22.63%
+  2020: 22.13%
+  2021: 16.23%
+  2022: -7.46%
+  2023: 25.75%
+  2024: -3.93%
+  2025: 19.05%
+  2026: 2.14%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = IRELAND
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.022
+QQQ = 10
+MedMax2 = 0.12
+Accu2 = 12.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.2
+Accu1 = -10.0
+Deri1 = -99.0
+Trend1 = -0.28
+date_start_backtest = 2010-05-07

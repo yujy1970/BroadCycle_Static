@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: RUSSELL2000
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: RUSSELL2000
+  Holding Quantity: 3482
+  Current Price: 2812.82
+  Holding Value: 9794246.20
+  Buy Date: 2025-04-15
+  Holding Days: 262
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1569.51
+Account Total: 9795815.71
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 2812.822
+Target Total Return (Start->Latest): 978.49%
+Target Annualized Return (CAGR): 7.95%
+Target Max Drawdown: -59.89%
+Target Max Drawdown Period: 2007-07-13 (Close=855.770) -> 2009-03-09 (Close=343.260) (416 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.87%
+Max Drawdown: -59.88%
+Max Drawdown Period: 2007-07-13 (Account total=1605548.77) -> 2009-03-09 (Account total=644080.01) (416 trading days)

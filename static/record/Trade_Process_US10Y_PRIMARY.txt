@@ -1,0 +1,118 @@
+=== Trade Process ===
+2002-07-30 00:00:00 Initial Buy US10Y_PRIMARY, Price: 82.05, Quantity: 3656, Cash Balance: 25.20
+2003-04-14 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -35.2333, Deri_MMRatio: 0.004210, Price: 85.6, Quantity: 3656, Holding Days: 178, P/L: 4.33%, Account Total: 312978.80
+2003-07-03 00:00:00 Buy US10Y_PRIMARY, Price: 87.16, Quantity: 3590, Cash Balance: 74.40
+2003-07-15 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -40.9615, Deri_MMRatio: 0.006075, Price: 85.52, Quantity: 3590, Holding Days: 7, P/L: -1.88%, Account Total: 307091.20
+2004-04-02 00:00:00 Buy US10Y_PRIMARY, Price: 85.13, Quantity: 3607, Cash Balance: 27.29
+2004-04-12 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -14.6349, Deri_MMRatio: 0.004067, Price: 84.44, Quantity: 3607, Holding Days: 5, P/L: -0.81%, Account Total: 304602.37
+2005-02-18 00:00:00 Buy US10Y_PRIMARY, Price: 84.8, Quantity: 3592, Cash Balance: 0.77
+2005-03-11 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: 9.2480, Deri_MMRatio: 0.003371, Price: 83.04, Quantity: 3592, Holding Days: 14, P/L: -2.08%, Account Total: 298280.45
+2007-12-07 00:00:00 Buy US10Y_PRIMARY, Price: 86.42, Quantity: 3451, Cash Balance: 45.03
+2007-12-21 00:00:00 Cond3 sell US10Y_PRIMARY, Accu_MMRatio: 0.9423, Deri_MMRatio: 0.000168, Price: 86.08, Quantity: 3451, Holding Days: 10, P/L: -0.39%, Account Total: 297107.11
+2008-02-14 00:00:00 Buy US10Y_PRIMARY, Price: 88.93, Quantity: 3340, Cash Balance: 80.91
+2008-04-24 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -17.6648, Deri_MMRatio: 0.004314, Price: 88.51, Quantity: 3340, Holding Days: 48, P/L: -0.47%, Account Total: 295704.31
+2008-09-19 00:00:00 Buy US10Y_PRIMARY, Price: 88.64, Quantity: 3336, Cash Balance: 1.27
+2008-10-14 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -33.0546, Deri_MMRatio: 0.004261, Price: 86.66, Quantity: 3336, Holding Days: 17, P/L: -2.23%, Account Total: 289099.03
+2009-01-21 00:00:00 Buy US10Y_PRIMARY, Price: 96.72, Quantity: 2989, Cash Balance: 2.95
+2009-01-26 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -37.7480, Deri_MMRatio: 0.004898, Price: 95.91, Quantity: 2989, Holding Days: 3, P/L: -0.84%, Account Total: 286677.94
+2010-10-15 00:00:00 Buy US10Y_PRIMARY, Price: 99.23, Quantity: 2889, Cash Balance: 2.47
+2010-11-12 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -11.0586, Deri_MMRatio: 0.004844, Price: 97.46, Quantity: 2889, Holding Days: 20, P/L: -1.78%, Account Total: 281564.41
+2011-09-27 00:00:00 Buy US10Y_PRIMARY, Price: 104.31, Quantity: 2699, Cash Balance: 31.72
+2011-10-14 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -13.9219, Deri_MMRatio: 0.004574, Price: 102.56, Quantity: 2699, Holding Days: 13, P/L: -1.68%, Account Total: 276841.16
+2012-02-03 00:00:00 Buy US10Y_PRIMARY, Price: 105.27, Quantity: 2629, Cash Balance: 86.33
+2012-03-14 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -53.5935, Deri_MMRatio: 0.004944, Price: 102.57, Quantity: 2629, Holding Days: 27, P/L: -2.56%, Account Total: 269742.86
+2012-06-22 00:00:00 Buy US10Y_PRIMARY, Price: 107.99, Quantity: 2497, Cash Balance: 91.83
+2012-08-14 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -69.7769, Deri_MMRatio: 0.004250, Price: 107.14, Quantity: 2497, Holding Days: 36, P/L: -0.79%, Account Total: 267620.41
+2012-11-21 00:00:00 Buy US10Y_PRIMARY, Price: 108.2, Quantity: 2473, Cash Balance: 41.81
+2012-12-18 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -66.9497, Deri_MMRatio: 0.004002, Price: 107.27, Quantity: 2473, Holding Days: 18, P/L: -0.86%, Account Total: 265320.52
+2013-05-03 00:00:00 Buy US10Y_PRIMARY, Price: 108.15, Quantity: 2453, Cash Balance: 28.57
+2013-05-10 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -54.1396, Deri_MMRatio: 0.005054, Price: 107.1, Quantity: 2453, Holding Days: 5, P/L: -0.97%, Account Total: 262744.87
+2015-10-29 00:00:00 Buy US10Y_PRIMARY, Price: 106.89, Quantity: 2458, Cash Balance: 9.25
+2015-11-06 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -25.9089, Deri_MMRatio: 0.006075, Price: 105.04, Quantity: 2458, Holding Days: 6, P/L: -1.73%, Account Total: 258197.57
+2016-03-01 00:00:00 Buy US10Y_PRIMARY, Price: 109.27, Quantity: 2362, Cash Balance: 101.83
+2016-03-15 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -20.5342, Deri_MMRatio: 0.004525, Price: 108.31, Quantity: 2362, Holding Days: 10, P/L: -0.88%, Account Total: 255930.05
+2016-06-21 00:00:00 Buy US10Y_PRIMARY, Price: 110.99, Quantity: 2305, Cash Balance: 98.10
+2016-07-05 00:00:00 Cond3 sell US10Y_PRIMARY, Accu_MMRatio: -29.7180, Deri_MMRatio: -0.008135, Price: 113.82, Quantity: 2305, Holding Days: 9, P/L: 2.55%, Account Total: 262453.20
+2016-07-19 00:00:00 Buy US10Y_PRIMARY, Price: 112.03, Quantity: 2342, Cash Balance: 78.94
+2016-08-09 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -33.9374, Deri_MMRatio: 0.004038, Price: 112.28, Quantity: 2342, Holding Days: 15, P/L: 0.22%, Account Total: 263038.70
+2019-10-10 00:00:00 Buy US10Y_PRIMARY, Price: 112.13, Quantity: 2345, Cash Balance: 93.85
+2019-11-07 00:00:00 Cond1 sell US10Y_PRIMARY, Accu_MMRatio: -30.9112, Deri_MMRatio: 0.006238, Price: 110.29, Quantity: 2345, Holding Days: 20, P/L: -1.64%, Account Total: 258723.90
+2020-02-05 00:00:00 Buy US10Y_PRIMARY, Price: 112.61, Quantity: 2297, Cash Balance: 58.73
+2020-02-28 00:00:00 Cond3 sell US10Y_PRIMARY, Accu_MMRatio: -53.5647, Deri_MMRatio: -0.009351, Price: 117.55, Quantity: 2297, Holding Days: 16, P/L: 4.39%, Account Total: 270071.08
+
+=== Account Position Information ===
+Code: US10Y_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2020-02-28
+Cash Balance: 270071.08
+Account Total: 270071.08
+Date Of Trading Start: 2002-07-31
+
+Target Latest Close : 94.740
+Target Total Return (Start->Latest): 132.06%
+Target Annualized Return (CAGR): 3.61%
+Target Max Drawdown: -23.93%
+Target Max Drawdown Period: 2020-08-04 (Close=106.736) -> 2023-10-19 (Close=81.199) (808 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.49%
+Max Drawdown: -47.87%
+Max Drawdown Period: 2003-04-14 (Account total=312978.80) -> 2003-07-07 (Account total=163164.51) (57 trading days)
+
+Annual Returns (from first buy):
+  2002: 6.60%
+  2003: 91.23%
+  2004: -0.81%
+  2005: -2.08%
+  2006: 0.00%
+  2007: -0.39%
+  2008: -2.70%
+  2009: -0.84%
+  2010: -1.78%
+  2011: -1.68%
+  2012: -4.16%
+  2013: -0.97%
+  2014: 0.00%
+  2015: -1.73%
+  2016: 1.87%
+  2017: 0.00%
+  2018: 0.00%
+  2019: -1.64%
+  2020: 4.39%
+  2021: 0.00%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 0.00%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US10Y
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 55
+PPP = 1.0325
+QQQ = 10
+MedMax2 = 0.04
+Accu2 = 20.0
+Deri2 = 0.004
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.008
+Trend1 = -0.35
+date_start_backtest = 2002-07-30

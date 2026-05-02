@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>BroadCycle · Portfolio</title>
+  <link rel="stylesheet" href="/static/css/site.css"/>
+  
+  <style>
+    .app{display:flex;min-height:100vh;width:100%}
+    .main{flex:1}
+    .wrap{max-width:1100px;margin:0 auto;padding:16px}
+    .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 10px;font-size:14px;cursor:pointer}
+    .overlay{position:fixed;inset:0;background:rgba(0,0,0,.28);display:none;z-index:50}
+    .overlay.open{display:block}
+    .overlay-panel{position:absolute;right:10px;top:10px;width:min(340px, calc(100% - 20px));background:#fff;border-radius:14px;border:1px solid var(--line);box-shadow:0 10px 30px rgba(0,0,0,.12);padding:10px}
+    .overlay-panel a{display:block;padding:10px 10px;border-radius:10px;color:var(--text);text-decoration:none}
+    .overlay-panel a:hover{background:#f5f5f5}
+    @media (max-width: 900px){
+      .sidebar{display:none}
+      .menu-btn{display:inline-block}
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Research demo — not investment advice</div>
+        </div>
+      </div>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    <a class="nav-item " href="/Home/Introduction/">Introduction</a>
+    <a class="nav-item " href="/Home/Explorer/">Global Explorer</a>
+    <a class="nav-item " href="/Home/Combination/">Combination Strategy</a>
+    <a class="nav-item active" href="/Home/Portfolio/">Portfolio</a>
+    <a class="nav-item " href="/Home/MessageBoard/">Message Board</a>
+    <a class="nav-item " href="/Home/Contacts/">Contact us</a>
+  </nav>
+</aside>
+
+  <main class="main">
+    <header class="header" style="position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);z-index:5">
+      <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+        <div style="font-weight:700">Portfolio</div>
+        <button class="menu-btn" id="bcMenuBtn">Menu</button>
+      </div>
+    </header>
+    
+<div class="wrap" style="max-width:980px">
+  <h1 style="font-size:22px;margin:10px 0 10px">Portfolio</h1>
+  <p style="line-height:1.65;color:var(--text)">
+    Your custom asset allocation will live here. You will be able to pick assets and weights,
+    then view the simulated combined performance.
+  </p>
+  <div class="card" style="border:1px solid var(--line);border-radius:18px;padding:12px 14px;background:#fafafa;color:var(--muted)">
+    Coming next: portfolio builder + combined equity curve.
+  </div>
+</div>
+
+  </main>
+</div>
+
+<div class="overlay" id="bcOverlay" aria-hidden="true">
+  <div class="overlay-panel" role="dialog" aria-label="Menu">
+    <a href="/Home/Introduction/">Introduction</a>
+    <a href="/Home/Explorer/">Global Explorer</a>
+    <a href="/Home/Combination/">Combination Strategy</a>
+    <a href="/Home/Portfolio/">Portfolio</a>
+    <a href="/Home/MessageBoard/">Message Board</a>
+    <a href="/Home/Contacts/">Contact us</a>
+  </div>
+</div>
+
+<script>
+  window.addEventListener("load", () => {
+    const btn = document.getElementById("bcMenuBtn");
+    const ov  = document.getElementById("bcOverlay");
+    if (!btn || !ov) return;
+    btn.addEventListener("click", () => {
+      ov.classList.toggle("open");
+      ov.setAttribute("aria-hidden", ov.classList.contains("open") ? "false" : "true");
+    });
+    ov.addEventListener("click", (e) => { if (e.target === ov) ov.classList.remove("open"); });
+    window.addEventListener("keydown", (e) => { if (e.key === "Escape") ov.classList.remove("open"); });
+  });
+</script>
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

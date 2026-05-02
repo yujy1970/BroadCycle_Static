@@ -1,0 +1,90 @@
+=== Trade Process ===
+2010-05-07 00:00:00 Initial Buy INDONESIA_PRIMARY, Price: 23.69, Quantity: 12663, Cash Balance: 13.53
+2013-07-05 00:00:00 Cond1 sell INDONESIA_PRIMARY, Accu_MMRatio: 7.5793, Deri_MMRatio: -0.003757, Price: 28.44, Quantity: 12663, Holding Days: 779, P/L: 20.05%, Account Total: 360149.25
+2013-09-10 00:00:00 Buy INDONESIA_PRIMARY, Price: 25.09, Quantity: 14354, Cash Balance: 7.39
+2013-12-23 00:00:00 Cond3 sell INDONESIA_PRIMARY, Accu_MMRatio: 0.5103, Deri_MMRatio: -0.000742, Price: 21.86, Quantity: 14354, Holding Days: 71, P/L: -12.87%, Account Total: 313785.83
+2014-03-14 00:00:00 Buy INDONESIA_PRIMARY, Price: 28.25, Quantity: 11107, Cash Balance: 13.08
+2015-07-24 00:00:00 Cond3 sell INDONESIA_PRIMARY, Accu_MMRatio: 1.0110, Deri_MMRatio: -0.000000, Price: 22.08, Quantity: 11107, Holding Days: 329, P/L: -21.84%, Account Total: 245255.64
+2015-10-05 00:00:00 Buy INDONESIA_PRIMARY, Price: 19.61, Quantity: 12506, Cash Balance: 12.98
+2016-11-30 00:00:00 Cond1 sell INDONESIA_PRIMARY, Accu_MMRatio: 6.1927, Deri_MMRatio: -0.001778, Price: 23.57, Quantity: 12506, Holding Days: 284, P/L: 20.19%, Account Total: 294779.40
+2017-05-19 00:00:00 Buy INDONESIA_PRIMARY, Price: 27.16, Quantity: 10853, Cash Balance: 11.92
+2018-10-04 00:00:00 Cond3 sell INDONESIA_PRIMARY, Accu_MMRatio: 0.1671, Deri_MMRatio: -0.000784, Price: 21.29, Quantity: 10853, Holding Days: 329, P/L: -21.61%, Account Total: 231072.29
+2019-05-27 00:00:00 Buy INDONESIA_PRIMARY, Price: 23.93, Quantity: 9656, Cash Balance: 4.21
+2019-12-12 00:00:00 Cond3 sell INDONESIA_PRIMARY, Accu_MMRatio: 0.6802, Deri_MMRatio: -0.000060, Price: 25.14, Quantity: 9656, Holding Days: 137, P/L: 5.06%, Account Total: 242756.05
+2020-04-30 00:00:00 Buy INDONESIA_PRIMARY, Price: 15.88, Quantity: 15286, Cash Balance: 14.37
+2021-05-25 00:00:00 Cond1 sell INDONESIA_PRIMARY, Accu_MMRatio: 9.2232, Deri_MMRatio: -0.001063, Price: 21.4, Quantity: 15286, Holding Days: 254, P/L: 34.76%, Account Total: 327134.77
+2021-09-30 00:00:00 Buy INDONESIA_PRIMARY, Price: 21.83, Quantity: 14985, Cash Balance: 12.22
+2023-02-14 00:00:00 Cond3 sell INDONESIA_PRIMARY, Accu_MMRatio: 0.5251, Deri_MMRatio: 0.000702, Price: 23.3, Quantity: 14985, Holding Days: 341, P/L: 6.73%, Account Total: 349162.72
+2024-05-17 00:00:00 Buy INDONESIA_PRIMARY, Price: 20.91, Quantity: 16698, Cash Balance: 7.54
+2024-11-15 00:00:00 Cond1 sell INDONESIA_PRIMARY, Accu_MMRatio: 3.1819, Deri_MMRatio: -0.001753, Price: 19.98, Quantity: 16698, Holding Days: 125, P/L: -4.45%, Account Total: 333633.58
+2025-03-27 00:00:00 Buy INDONESIA_PRIMARY, Price: 14.95, Quantity: 22316, Cash Balance: 9.38
+2026-04-01 00:00:00 Cond1 sell INDONESIA_PRIMARY, Accu_MMRatio: 8.3222, Deri_MMRatio: -0.002353, Price: 15.45, Quantity: 22316, Holding Days: 234, P/L: 3.34%, Account Total: 344791.58
+
+=== Account Position Information ===
+Code: INDONESIA_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-01
+Cash Balance: 344791.58
+Account Total: 344791.58
+Date Of Trading Start: 2010-05-10
+
+Target Latest Close : 14.960
+Target Total Return (Start->Latest): -6.74%
+Target Annualized Return (CAGR): -0.44%
+Target Max Drawdown: -63.21%
+Target Max Drawdown Period: 2013-05-20 (Close=27.398) -> 2020-03-23 (Close=10.080) (1722 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.84%
+Max Drawdown: -48.09%
+Max Drawdown Period: 2013-07-05 (Account total=360149.25) -> 2015-10-05 (Account total=186952.67) (544 trading days)
+
+Annual Returns (from first buy):
+  2010: 23.64%
+  2011: 1.87%
+  2012: 3.13%
+  2013: 9.52%
+  2014: -24.50%
+  2015: -12.15%
+  2016: 41.64%
+  2017: -14.94%
+  2018: -7.84%
+  2019: 5.06%
+  2020: 26.19%
+  2021: -1.93%
+  2022: -0.33%
+  2023: 16.61%
+  2024: -4.45%
+  2025: 24.88%
+  2026: -17.25%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = INDONESIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.006
+Trend1 = -0.21
+date_start_backtest = 2010-05-07

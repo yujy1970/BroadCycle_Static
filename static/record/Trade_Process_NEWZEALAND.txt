@@ -1,0 +1,100 @@
+=== Trade Process ===
+2003-01-03 00:00:00 Initial Buy NEWZEALAND, Price: 1981.1, Quantity: 151, Cash Balance: 853.90
+2004-04-22 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 7.9544, Deri_MMRatio: 0.000748, Price: 2648.22, Quantity: 151, Holding Days: 326, P/L: 33.67%, Account Total: 400735.12
+2004-11-04 00:00:00 Buy NEWZEALAND, Price: 2884.77, Quantity: 138, Cash Balance: 2636.86
+2007-08-24 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 6.3148, Deri_MMRatio: -0.001314, Price: 4052.45, Quantity: 138, Holding Days: 692, P/L: 40.48%, Account Total: 561874.96
+2007-12-27 00:00:00 Buy NEWZEALAND, Price: 4068.63, Quantity: 138, Cash Balance: 404.02
+2008-02-07 00:00:00 Cond3 sell NEWZEALAND, Accu_MMRatio: -0.3334, Deri_MMRatio: -0.001382, Price: 3636.2, Quantity: 138, Holding Days: 27, P/L: -10.63%, Account Total: 502199.62
+2008-10-21 00:00:00 Buy NEWZEALAND, Price: 2952.02, Quantity: 170, Cash Balance: 356.22
+2008-10-30 00:00:00 Cond3 sell NEWZEALAND, Accu_MMRatio: -8.8267, Deri_MMRatio: -0.003158, Price: 2762.82, Quantity: 170, Holding Days: 6, P/L: -6.41%, Account Total: 470035.62
+2009-03-16 00:00:00 Buy NEWZEALAND, Price: 2544.33, Quantity: 184, Cash Balance: 1878.90
+2010-03-10 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 6.7010, Deri_MMRatio: 0.000219, Price: 3226.19, Quantity: 184, Holding Days: 249, P/L: 26.80%, Account Total: 595497.86
+2010-09-03 00:00:00 Buy NEWZEALAND, Price: 3107.43, Quantity: 191, Cash Balance: 1978.73
+2013-07-03 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 9.5002, Deri_MMRatio: -0.002292, Price: 4450.76, Quantity: 191, Holding Days: 634, P/L: 43.23%, Account Total: 852073.89
+2013-10-23 00:00:00 Buy NEWZEALAND, Price: 4876.4, Quantity: 174, Cash Balance: 3580.29
+2013-11-27 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 9.6005, Deri_MMRatio: -0.000222, Price: 4799.35, Quantity: 174, Holding Days: 24, P/L: -1.58%, Account Total: 838667.19
+2014-01-13 00:00:00 Buy NEWZEALAND, Price: 4899.4, Quantity: 171, Cash Balance: 869.79
+2016-10-11 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 7.8167, Deri_MMRatio: -0.001533, Price: 7124.24, Quantity: 171, Holding Days: 691, P/L: 45.41%, Account Total: 1219114.83
+2018-06-07 00:00:00 Buy NEWZEALAND, Price: 8899.52, Quantity: 136, Cash Balance: 8780.11
+2020-01-10 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 7.3404, Deri_MMRatio: 0.000970, Price: 11551.7, Quantity: 136, Holding Days: 401, P/L: 29.80%, Account Total: 1579811.31
+2020-03-26 00:00:00 Buy NEWZEALAND, Price: 9625.43, Quantity: 164, Cash Balance: 1240.79
+2020-04-01 00:00:00 Cond3 sell NEWZEALAND, Accu_MMRatio: 5.7444, Deri_MMRatio: -0.005439, Price: 9926.08, Quantity: 164, Holding Days: 4, P/L: 3.12%, Account Total: 1629117.91
+2020-05-27 00:00:00 Buy NEWZEALAND, Price: 11049.19, Quantity: 147, Cash Balance: 4886.98
+2024-11-22 00:00:00 Cond1 sell NEWZEALAND, Accu_MMRatio: 3.7322, Deri_MMRatio: -0.000296, Price: 13196.08, Quantity: 147, Holding Days: 1125, P/L: 19.43%, Account Total: 1944710.74
+2025-05-02 00:00:00 Buy NEWZEALAND, Price: 12327.89, Quantity: 157, Cash Balance: 9232.01
+
+=== Account Position Information ===
+Code: NEWZEALAND
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NEWZEALAND
+  Holding Quantity: 157
+  Current Price: 13039.20
+  Holding Value: 2047154.40
+  Buy Date: 2025-05-05
+  Holding Days: 248
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 9232.01
+Account Total: 2056386.41
+Date Of Trading Start: 2003-01-06
+
+Target Latest Close : 13039.200
+Target Total Return (Start->Latest): 566.98%
+Target Annualized Return (CAGR): 8.48%
+Target Max Drawdown: -44.20%
+Target Max Drawdown Period: 2007-05-24 (Close=4333.240) -> 2009-03-03 (Close=2417.950) (444 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.61%
+Max Drawdown: -23.89%
+Max Drawdown Period: 2007-05-24 (Account total=600623.98) -> 2008-10-28 (Account total=457163.22) (359 trading days)
+
+Annual Returns (from first buy):
+  2003: 23.62%
+  2004: 14.74%
+  2005: 9.93%
+  2006: 20.21%
+  2007: -0.74%
+  2008: -15.78%
+  2009: 26.85%
+  2010: 6.34%
+  2011: -1.03%
+  2012: 24.10%
+  2013: 7.70%
+  2014: 13.64%
+  2015: 13.56%
+  2016: 12.64%
+  2017: 0.00%
+  2018: -0.98%
+  2019: 30.20%
+  2020: 22.76%
+  2021: -0.44%
+  2022: -11.94%
+  2023: 2.58%
+  2024: 12.08%
+  2025: 9.85%
+  2026: -3.74%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NEWZEALAND
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.06
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

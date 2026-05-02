@@ -1,0 +1,103 @@
+=== Trade Process ===
+2011-12-13 00:00:00 Initial Buy GREECE_PRIMARY, Price: 34.385, Quantity: 8724, Cash Balance: 25.26
+2011-12-14 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: -21.4090, Deri_MMRatio: 0.002734, Price: 34.314, Quantity: 8724, Holding Days: 1, P/L: -0.21%, Account Total: 299380.60
+2012-06-14 00:00:00 Buy GREECE_PRIMARY, Price: 27.053, Quantity: 11066, Cash Balance: 12.10
+2012-06-20 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: -21.6106, Deri_MMRatio: 0.000772, Price: 30.056, Quantity: 11066, Holding Days: 4, P/L: 11.10%, Account Total: 332611.79
+2012-12-07 00:00:00 Buy GREECE_PRIMARY, Price: 39.974, Quantity: 8320, Cash Balance: 28.11
+2012-12-13 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 4.7241, Deri_MMRatio: 0.000419, Price: 41.496, Quantity: 8320, Holding Days: 4, P/L: 3.81%, Account Total: 345274.83
+2013-04-09 00:00:00 Buy GREECE_PRIMARY, Price: 38.948, Quantity: 8865, Cash Balance: 0.81
+2013-05-08 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 14.3646, Deri_MMRatio: 0.000628, Price: 48.61, Quantity: 8865, Holding Days: 17, P/L: 24.81%, Account Total: 430928.46
+2014-01-02 00:00:00 Buy GREECE_PRIMARY, Price: 56.195, Quantity: 7668, Cash Balance: 25.20
+2014-01-07 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 7.4891, Deri_MMRatio: 0.000051, Price: 58.807, Quantity: 7668, Holding Days: 2, P/L: 4.65%, Account Total: 450957.28
+2014-05-22 00:00:00 Buy GREECE_PRIMARY, Price: 52.964, Quantity: 8514, Cash Balance: 21.78
+2014-05-30 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 10.3214, Deri_MMRatio: 0.000831, Price: 56.245, Quantity: 8514, Holding Days: 6, P/L: 6.19%, Account Total: 478891.71
+2014-08-14 00:00:00 Buy GREECE_PRIMARY, Price: 50.052, Quantity: 9567, Cash Balance: 44.23
+2014-08-21 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 9.7202, Deri_MMRatio: 0.000536, Price: 52.174, Quantity: 9567, Holding Days: 4, P/L: 4.24%, Account Total: 499192.89
+2014-11-06 00:00:00 Buy GREECE_PRIMARY, Price: 38.649, Quantity: 12916, Cash Balance: 2.40
+2014-11-19 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: -2.2710, Deri_MMRatio: 0.000314, Price: 40.745, Quantity: 12916, Holding Days: 9, P/L: 5.42%, Account Total: 526264.82
+2017-02-21 00:00:00 Buy GREECE_PRIMARY, Price: 20.045, Quantity: 26254, Cash Balance: 3.39
+2017-03-09 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 5.3080, Deri_MMRatio: -0.001523, Price: 20.124, Quantity: 26254, Holding Days: 11, P/L: 0.39%, Account Total: 528338.89
+2018-04-10 00:00:00 Buy GREECE_PRIMARY, Price: 26.244, Quantity: 20131, Cash Balance: 20.93
+2018-04-20 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 5.6160, Deri_MMRatio: 0.000550, Price: 27.876, Quantity: 20131, Holding Days: 8, P/L: 6.22%, Account Total: 561192.68
+2019-08-22 00:00:00 Buy GREECE_PRIMARY, Price: 23.977, Quantity: 23405, Cash Balance: 11.00
+2019-09-19 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 7.2626, Deri_MMRatio: 0.000219, Price: 25.71, Quantity: 23405, Holding Days: 20, P/L: 7.23%, Account Total: 601753.55
+2020-03-20 00:00:00 Buy GREECE_PRIMARY, Price: 13.83, Quantity: 43510, Cash Balance: 10.25
+2020-04-27 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 1.5431, Deri_MMRatio: 0.003783, Price: 17.318, Quantity: 43510, Holding Days: 21, P/L: 25.22%, Account Total: 753516.43
+2021-03-01 00:00:00 Buy GREECE_PRIMARY, Price: 24.301, Quantity: 31007, Cash Balance: 15.32
+2021-03-08 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 2.2687, Deri_MMRatio: 0.000216, Price: 24.48, Quantity: 31007, Holding Days: 5, P/L: 0.74%, Account Total: 759066.68
+2021-07-27 00:00:00 Buy GREECE_PRIMARY, Price: 25.635, Quantity: 29610, Cash Balance: 14.33
+2021-08-11 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 11.7405, Deri_MMRatio: 0.000011, Price: 26.372, Quantity: 29610, Holding Days: 11, P/L: 2.87%, Account Total: 780889.25
+2022-03-30 00:00:00 Buy GREECE_PRIMARY, Price: 26.062, Quantity: 29962, Cash Balance: 19.61
+2022-04-11 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 1.7091, Deri_MMRatio: 0.001000, Price: 26.699, Quantity: 29962, Holding Days: 8, P/L: 2.44%, Account Total: 799975.04
+2024-04-22 00:00:00 Buy GREECE_PRIMARY, Price: 40.36, Quantity: 19820, Cash Balance: 39.84
+2024-04-26 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 7.5748, Deri_MMRatio: 0.000171, Price: 40.95, Quantity: 19820, Holding Days: 4, P/L: 1.46%, Account Total: 811668.84
+2025-05-12 00:00:00 Buy GREECE_PRIMARY, Price: 51.74, Quantity: 15687, Cash Balance: 23.46
+2025-05-16 00:00:00 Cond1 sell GREECE_PRIMARY, Accu_MMRatio: 4.3952, Deri_MMRatio: 0.000011, Price: 52.55, Quantity: 15687, Holding Days: 4, P/L: 1.57%, Account Total: 824375.31
+
+=== Account Position Information ===
+Code: GREECE_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-05-16
+Cash Balance: 824375.31
+Account Total: 824375.31
+Date Of Trading Start: 2011-12-14
+
+Target Latest Close : 62.400
+Target Total Return (Start->Latest): 79.79%
+Target Annualized Return (CAGR): 4.19%
+Target Max Drawdown: -79.48%
+Target Max Drawdown Period: 2014-03-18 (Close=63.376) -> 2020-03-18 (Close=13.003) (1511 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.37%
+Max Drawdown: -14.16%
+Max Drawdown Period: 2020-03-26 (Account total=730325.60) -> 2020-04-01 (Account total=626945.84) (4 trading days)
+
+Annual Returns (from first buy):
+  2011: 0.00%
+  2012: 15.33%
+  2013: 24.81%
+  2014: 22.12%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 0.39%
+  2018: 6.22%
+  2019: 7.23%
+  2020: 25.22%
+  2021: 3.63%
+  2022: 2.44%
+  2023: 0.00%
+  2024: 1.46%
+  2025: 1.57%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = GREECE
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2011-12-13

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GOOG
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: GOOG
+  Holding Quantity: 5002
+  Current Price: 383.22
+  Holding Value: 1916866.44
+  Buy Date: 2026-04-02
+  Holding Days: 20
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 174.94
+Account Total: 1917041.38
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 383.220
+Target Total Return (Start->Latest): 4727.66%
+Target Annualized Return (CAGR): 25.08%
+Target Max Drawdown: -44.60%
+Target Max Drawdown Period: 2021-11-18 (Close=149.482) -> 2022-11-03 (Close=82.810) (241 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.07%
+Max Drawdown: -50.54%
+Max Drawdown Period: 2010-01-04 (Account total=411233.37) -> 2012-06-14 (Account total=203401.81) (617 trading days)

@@ -1,0 +1,119 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy SPAIN_PRIMARY, Price: 23.366, Quantity: 12839, Cash Balance: 3.93
+2006-05-24 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 7.4613, Deri_MMRatio: -0.002468, Price: 26.413, Quantity: 12839, Holding Days: 316, P/L: 13.04%, Account Total: 339120.43
+2006-07-28 00:00:00 Buy SPAIN_PRIMARY, Price: 28.247, Quantity: 12005, Cash Balance: 15.20
+2007-01-23 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 7.8438, Deri_MMRatio: -0.000968, Price: 35.204, Quantity: 12005, Holding Days: 124, P/L: 24.63%, Account Total: 422639.22
+2007-03-22 00:00:00 Buy SPAIN_PRIMARY, Price: 36.216, Quantity: 11669, Cash Balance: 34.71
+2007-07-09 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 8.8117, Deri_MMRatio: -0.000387, Price: 38.403, Quantity: 11669, Holding Days: 74, P/L: 6.04%, Account Total: 448159.32
+2007-09-19 00:00:00 Buy SPAIN_PRIMARY, Price: 38.481, Quantity: 11646, Cash Balance: 9.59
+2008-02-13 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 1.3691, Deri_MMRatio: -0.003144, Price: 36.592, Quantity: 11646, Holding Days: 100, P/L: -4.91%, Account Total: 426160.03
+2008-07-18 00:00:00 Buy SPAIN_PRIMARY, Price: 35.348, Quantity: 12056, Cash Balance: 4.54
+2009-01-06 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -14.2813, Deri_MMRatio: 0.006028, Price: 24.548, Quantity: 12056, Holding Days: 117, P/L: -30.55%, Account Total: 295955.23
+2009-03-12 00:00:00 Buy SPAIN_PRIMARY, Price: 18.176, Quantity: 16282, Cash Balance: 13.59
+2009-04-16 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -17.7316, Deri_MMRatio: 0.006217, Price: 22.26, Quantity: 16282, Holding Days: 23, P/L: 22.47%, Account Total: 362450.91
+2009-06-29 00:00:00 Buy SPAIN_PRIMARY, Price: 26.294, Quantity: 13784, Cash Balance: 14.42
+2010-02-24 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 13.0886, Deri_MMRatio: -0.003892, Price: 25.302, Quantity: 13784, Holding Days: 168, P/L: -3.77%, Account Total: 348777.19
+2010-05-10 00:00:00 Buy SPAIN_PRIMARY, Price: 23.635, Quantity: 14756, Cash Balance: 19.13
+2010-06-11 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 3.3781, Deri_MMRatio: -0.001113, Price: 22.247, Quantity: 14756, Holding Days: 24, P/L: -5.87%, Account Total: 328295.86
+2010-09-01 00:00:00 Buy SPAIN_PRIMARY, Price: 25.059, Quantity: 13100, Cash Balance: 22.96
+2011-07-07 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 1.3615, Deri_MMRatio: 0.000562, Price: 26.679, Quantity: 13100, Holding Days: 217, P/L: 6.46%, Account Total: 349517.86
+2011-09-29 00:00:00 Buy SPAIN_PRIMARY, Price: 21.564, Quantity: 16208, Cash Balance: 8.55
+2011-10-24 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -6.1203, Deri_MMRatio: 0.006091, Price: 23.332, Quantity: 16208, Holding Days: 17, P/L: 8.20%, Account Total: 378173.60
+2011-11-30 00:00:00 Buy SPAIN_PRIMARY, Price: 21.652, Quantity: 17465, Cash Balance: 21.42
+2012-09-04 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -8.4579, Deri_MMRatio: 0.007071, Price: 19.391, Quantity: 17465, Holding Days: 195, P/L: -10.44%, Account Total: 338685.24
+2012-10-18 00:00:00 Buy SPAIN_PRIMARY, Price: 21.343, Quantity: 15868, Cash Balance: 14.51
+2013-06-28 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 7.5096, Deri_MMRatio: -0.002924, Price: 21.014, Quantity: 15868, Holding Days: 175, P/L: -1.54%, Account Total: 333464.67
+2013-09-10 00:00:00 Buy SPAIN_PRIMARY, Price: 24.386, Quantity: 13674, Cash Balance: 10.50
+2014-07-28 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 8.7541, Deri_MMRatio: -0.001049, Price: 32.341, Quantity: 13674, Holding Days: 223, P/L: 32.62%, Account Total: 442241.34
+2014-10-23 00:00:00 Buy SPAIN_PRIMARY, Price: 28.885, Quantity: 15310, Cash Balance: 11.99
+2015-09-29 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 1.0615, Deri_MMRatio: -0.003000, Price: 23.843, Quantity: 15310, Holding Days: 237, P/L: -17.46%, Account Total: 365048.32
+2016-03-01 00:00:00 Buy SPAIN_PRIMARY, Price: 21.1, Quantity: 17300, Cash Balance: 18.32
+2017-07-28 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 7.9214, Deri_MMRatio: -0.001395, Price: 29.5, Quantity: 17300, Holding Days: 362, P/L: 39.81%, Account Total: 510368.32
+2019-01-04 00:00:00 Buy SPAIN_PRIMARY, Price: 25.225, Quantity: 20232, Cash Balance: 16.12
+2020-03-16 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 0.8674, Deri_MMRatio: -0.008384, Price: 17.524, Quantity: 20232, Holding Days: 305, P/L: -30.53%, Account Total: 354561.68
+2020-05-27 00:00:00 Buy SPAIN_PRIMARY, Price: 20.675, Quantity: 17149, Cash Balance: 6.11
+2020-06-03 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -7.8631, Deri_MMRatio: 0.006319, Price: 22.024, Quantity: 17149, Holding Days: 5, P/L: 6.52%, Account Total: 377695.68
+2020-08-11 00:00:00 Buy SPAIN_PRIMARY, Price: 22.835, Quantity: 16540, Cash Balance: 4.78
+2020-12-08 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: -10.1252, Deri_MMRatio: 0.006239, Price: 26.559, Quantity: 16540, Holding Days: 85, P/L: 16.31%, Account Total: 439290.64
+2021-02-04 00:00:00 Buy SPAIN_PRIMARY, Price: 25.902, Quantity: 16959, Cash Balance: 18.63
+2021-09-22 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 8.5889, Deri_MMRatio: -0.000448, Price: 26.698, Quantity: 16959, Holding Days: 162, P/L: 3.07%, Account Total: 452790.01
+2021-12-27 00:00:00 Buy SPAIN_PRIMARY, Price: 25.866, Quantity: 17505, Cash Balance: 5.68
+2022-03-07 00:00:00 Cond3 sell SPAIN_PRIMARY, Accu_MMRatio: 0.9694, Deri_MMRatio: -0.001521, Price: 23.225, Quantity: 17505, Holding Days: 49, P/L: -10.21%, Account Total: 406559.30
+2022-05-23 00:00:00 Buy SPAIN_PRIMARY, Price: 25.314, Quantity: 16060, Cash Balance: 16.46
+2023-10-02 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 6.4427, Deri_MMRatio: 0.000074, Price: 26.58, Quantity: 16060, Holding Days: 351, P/L: 5.00%, Account Total: 426891.26
+2024-03-13 00:00:00 Buy SPAIN_PRIMARY, Price: 30.92, Quantity: 13806, Cash Balance: 9.74
+2026-01-20 00:00:00 Cond1 sell SPAIN_PRIMARY, Accu_MMRatio: 10.0150, Deri_MMRatio: -0.000151, Price: 54.0, Quantity: 13806, Holding Days: 472, P/L: 74.64%, Account Total: 745533.74
+
+=== Account Position Information ===
+Code: SPAIN_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-20
+Cash Balance: 745533.74
+Account Total: 745533.74
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 52.460
+Target Total Return (Start->Latest): 124.51%
+Target Annualized Return (CAGR): 3.91%
+Target Max Drawdown: -67.28%
+Target Max Drawdown Period: 2007-12-10 (Close=44.568) -> 2012-07-24 (Close=14.584) (1163 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.46%
+Max Drawdown: -56.68%
+Max Drawdown Period: 2007-12-10 (Account total=519048.52) -> 2008-11-20 (Account total=224860.99) (240 trading days)
+
+Annual Returns (from first buy):
+  2005: 1.19%
+  2006: 38.58%
+  2007: 16.70%
+  2008: -39.48%
+  2009: 46.82%
+  2010: -28.65%
+  2011: 21.57%
+  2012: -6.59%
+  2013: 13.68%
+  2014: 4.95%
+  2015: -12.78%
+  2016: 7.46%
+  2017: 30.10%
+  2018: 0.00%
+  2019: 8.19%
+  2020: -20.44%
+  2021: 3.19%
+  2022: -14.33%
+  2023: 9.93%
+  2024: 0.42%
+  2025: 73.62%
+  2026: 0.17%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SPAIN
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.024
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 0.006
+Trend2 = 99.0
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.14
+date_start_backtest = 2005-02-25

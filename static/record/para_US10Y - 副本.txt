@@ -1,0 +1,17 @@
+Code=US10Y
+date_start_download=1990-01-01
+date_start_backtest=1995-01-03
+Account_total=940473.490000
+back_long=100
+back_medium=20
+TTT=30
+PPP=1.020000
+QQQ=10
+MedMax2=0.405464
+Accu2=37.656019
+Deri2=0.019782
+Trend2=0.500000
+MedMax1=-0.505976
+Accu1=-36.869472
+Deri1=-0.026189
+Trend1=-0.500000

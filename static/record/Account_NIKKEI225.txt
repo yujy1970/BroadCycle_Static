@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NIKKEI225
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-02-25
+Cash Balance: 3372499.55
+Account Total: 3372499.55
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 58753.391
+Target Total Return (Start->Latest): 281.98%
+Target Annualized Return (CAGR): 4.43%
+Target Max Drawdown: -68.88%
+Target Max Drawdown Period: 1996-06-26 (Close=22666.801) -> 2009-03-10 (Close=7054.980) (3125 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.10%
+Max Drawdown: -31.40%
+Max Drawdown Period: 2018-10-02 (Account total=1379434.21) -> 2020-03-19 (Account total=946316.88) (352 trading days)

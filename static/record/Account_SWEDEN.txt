@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SWEDEN
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SWEDEN
+  Holding Quantity: 853
+  Current Price: 3018.72
+  Holding Value: 2574967.31
+  Buy Date: 2024-12-04
+  Holding Days: 314
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1525.60
+Account Total: 2576492.91
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 3018.719
+Target Total Return (Start->Latest): 962.14%
+Target Annualized Return (CAGR): 7.94%
+Target Max Drawdown: -72.64%
+Target Max Drawdown Period: 2000-03-07 (Close=1539.000) -> 2002-10-09 (Close=421.010) (650 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.20%
+Max Drawdown: -63.73%
+Max Drawdown Period: 2000-12-11 (Account total=937901.69) -> 2002-10-09 (Account total=340216.01) (457 trading days)

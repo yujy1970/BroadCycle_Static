@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: FRANCE_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2024-08-16
+Cash Balance: 1430097.28
+Account Total: 1430097.28
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 42.250
+Target Total Return (Start->Latest): 132.63%
+Target Annualized Return (CAGR): 4.09%
+Target Max Drawdown: -63.99%
+Target Max Drawdown Period: 2007-07-12 (Close=29.358) -> 2009-03-09 (Close=10.573) (417 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.68%
+Max Drawdown: -57.23%
+Max Drawdown Period: 2006-05-09 (Account total=382280.67) -> 2009-03-09 (Account total=163486.94) (724 trading days)

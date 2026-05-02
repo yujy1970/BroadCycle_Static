@@ -1,0 +1,83 @@
+=== Trade Process ===
+2002-01-02 00:00:00 Initial Buy CHILE, Price: 1185.75, Quantity: 253, Cash Balance: 5.25
+2005-09-20 00:00:00 Cond1 sell CHILE, Accu_MMRatio: 69.6523, Deri_MMRatio: 0.000613, Price: 2146.15, Quantity: 253, Holding Days: 932, P/L: 81.00%, Account Total: 542981.20
+2006-01-06 00:00:00 Buy CHILE, Price: 2071.49, Quantity: 262, Cash Balance: 250.82
+2007-12-10 00:00:00 Cond1 sell CHILE, Accu_MMRatio: 77.1744, Deri_MMRatio: 0.000051, Price: 3252.11, Quantity: 262, Holding Days: 477, P/L: 56.99%, Account Total: 852303.64
+2008-01-29 00:00:00 Buy CHILE, Price: 2742.38, Quantity: 310, Cash Balance: 2165.84
+2008-12-22 00:00:00 Cond3 sell CHILE, Accu_MMRatio: 3.8251, Deri_MMRatio: -0.000728, Price: 2335.06, Quantity: 310, Holding Days: 225, P/L: -14.85%, Account Total: 726034.44
+2009-05-08 00:00:00 Buy CHILE, Price: 2906.17, Quantity: 249, Cash Balance: 2398.11
+2011-03-28 00:00:00 Cond1 sell CHILE, Accu_MMRatio: 77.4589, Deri_MMRatio: 0.000909, Price: 4593.4, Quantity: 249, Holding Days: 472, P/L: 58.06%, Account Total: 1146154.71
+2011-10-12 00:00:00 Buy CHILE, Price: 4005.89, Quantity: 286, Cash Balance: 470.17
+2012-09-21 00:00:00 Cond3 sell CHILE, Accu_MMRatio: 1.4328, Deri_MMRatio: -0.000500, Price: 4230.68, Quantity: 286, Holding Days: 233, P/L: 5.61%, Account Total: 1210444.65
+2013-06-28 00:00:00 Buy CHILE, Price: 4029.67, Quantity: 300, Cash Balance: 1543.65
+2018-06-25 00:00:00 Cond1 sell CHILE, Accu_MMRatio: 51.2747, Deri_MMRatio: -0.003717, Price: 5285.53, Quantity: 300, Holding Days: 1237, P/L: 31.17%, Account Total: 1587202.65
+
+=== Account Position Information ===
+Code: CHILE
+Current Date: 2019-06-14 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2018-06-25
+Cash Balance: 1587202.65
+Account Total: 1587202.65
+Date Of Trading Start: 2002-01-03
+
+Target Latest Close : 5058.880
+Target Total Return (Start->Latest): 326.64%
+Target Annualized Return (CAGR): 8.67%
+Target Max Drawdown: -39.96%
+Target Max Drawdown Period: 2007-07-03 (Close=3499.500) -> 2008-10-10 (Close=2101.100) (316 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.97%
+Max Drawdown: -32.07%
+Max Drawdown Period: 2008-05-29 (Account total=961959.94) -> 2008-10-10 (Account total=653506.84) (92 trading days)
+
+Annual Returns (from first buy):
+  2002: -16.38%
+  2003: 48.48%
+  2004: 21.31%
+  2005: 19.15%
+  2006: 30.00%
+  2007: 20.74%
+  2008: -14.82%
+  2009: 23.16%
+  2010: 37.49%
+  2011: -2.77%
+  2012: 1.27%
+  2013: -8.19%
+  2014: 4.10%
+  2015: -4.43%
+  2016: 12.79%
+  2017: 34.00%
+  2018: -5.01%
+  2019: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHILE
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.035
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.14
+date_start_backtest = 1995-04-01

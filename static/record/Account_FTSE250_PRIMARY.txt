@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: FTSE250_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: FTSE250_PRIMARY
+  Holding Quantity: 525
+  Current Price: 2043.90
+  Holding Value: 1073050.12
+  Buy Date: 2024-12-03
+  Holding Days: 322
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 297.40
+Account Total: 1073347.52
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 1937.600
+Target Total Return (Start->Latest): 194.86%
+Target Annualized Return (CAGR): 6.48%
+Target Max Drawdown: -41.83%
+Target Max Drawdown Period: 2020-01-02 (Close=2101.441) -> 2020-03-19 (Close=1222.379) (55 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.68%
+Max Drawdown: -32.15%
+Max Drawdown Period: 2021-09-06 (Account total=1224028.47) -> 2022-10-12 (Account total=830497.51) (277 trading days)

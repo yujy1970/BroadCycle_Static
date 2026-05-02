@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ITALY
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: ITALY
+  Holding Quantity: 23
+  Current Price: 44316.92
+  Holding Value: 1019289.16
+  Buy Date: 2026-02-04
+  Holding Days: 27
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 45272.63
+Account Total: 1064561.79
+Date Of Trading Start: 1998-01-05
+
+Target Latest Close : 44316.920
+Target Total Return (Start->Latest): 77.88%
+Target Annualized Return (CAGR): 2.06%
+Target Max Drawdown: -75.33%
+Target Max Drawdown Period: 2000-03-06 (Close=50109.000) -> 2012-07-24 (Close=12362.510) (3147 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.60%
+Max Drawdown: -35.09%
+Max Drawdown Period: 2007-05-18 (Account total=634304.00) -> 2012-11-16 (Account total=411696.74) (1401 trading days)

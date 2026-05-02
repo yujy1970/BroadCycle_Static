@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: DOWJONES_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: DOWJONES_PRIMARY
+  Holding Quantity: 7173
+  Current Price: 495.02
+  Holding Value: 3550778.46
+  Buy Date: 2025-05-12
+  Holding Days: 244
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 358.68
+Account Total: 3551137.14
+Date Of Trading Start: 1998-01-21
+
+Target Latest Close : 495.020
+Target Total Return (Start->Latest): 1034.22%
+Target Annualized Return (CAGR): 8.97%
+Target Max Drawdown: -51.87%
+Target Max Drawdown Period: 2007-10-09 (Close=93.681) -> 2009-03-09 (Close=45.090) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.45%
+Max Drawdown: -50.13%
+Max Drawdown Period: 2001-05-03 (Account total=410835.90) -> 2002-10-09 (Account total=204875.02) (358 trading days)

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>BroadCycle — Extreme Sync</title>
+  <link rel="stylesheet" href="../../static/css/site.css"/>
+
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Index Strategies, Powered by Cycles.</div>
+        </div>
+      </div>
+      </div>
+      <nav class="nav">
+                <a class="nav-item" href="../Introduction/">Introduction</a>
+        <a class="nav-item" href="../PulseTrading/">Broad Market Pulse Trading Strategy</a>
+        <a class="nav-item active" href="../Sync/">Market Driven by Stocks Extreme Sync Strategy</a>
+        <a class="nav-item" href="../Combination/">Combination Strategy</a>
+        <a class="nav-item" href="../MessageBoard/">Message Board</a>
+        <a class="nav-item" href="../Contacts/">Contacts</a>
+    </nav>
+      <div class="sidebar-footer">
+        <div class="small muted">Research demo — not investment advice</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar topbar-tall">
+        <div class="topbar-left">
+          <h1 class="topbar-title">Market Driven by Stocks Extreme Sync Strategy</h1>
+          <div class="topbar-subtitle">When synchronized extreme stock patterns emerge, the broad index can be influenced.</div>
+        </div>
+      </header>
+
+      <section class="content">
+        
+<div class="card">
+  <h2>Concept</h2>
+  <p class="lead">
+    When a group of stocks exhibits <b>synchronized, extreme</b> waveform behavior, it can influence the broad market’s future direction.
+    This section will host research notes and empirical evidence.
+  </p>
+  <p class="muted">Content coming soon.</p>
+</div>
+
+      </section>
+    </main>
+  </div>
+  
+<script>
+window.addEventListener("load", () => {
+  fetch("/api/visit", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({ path: location.pathname })
+  }).catch(()=>{});
+});
+</script>
+
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

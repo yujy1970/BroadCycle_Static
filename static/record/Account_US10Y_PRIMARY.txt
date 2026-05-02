@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: US10Y_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2020-02-28
+Cash Balance: 270071.08
+Account Total: 270071.08
+Date Of Trading Start: 2002-07-31
+
+Target Latest Close : 94.740
+Target Total Return (Start->Latest): 132.06%
+Target Annualized Return (CAGR): 3.61%
+Target Max Drawdown: -23.93%
+Target Max Drawdown Period: 2020-08-04 (Close=106.736) -> 2023-10-19 (Close=81.199) (808 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.49%
+Max Drawdown: -47.87%
+Max Drawdown Period: 2003-04-14 (Account total=312978.80) -> 2003-07-07 (Account total=163164.51) (57 trading days)

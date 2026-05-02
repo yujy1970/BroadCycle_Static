@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: UAE_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2021-11-18
+Cash Balance: 525200.05
+Account Total: 525200.05
+Date Of Trading Start: 2014-05-05
+
+Target Latest Close : 19.470
+Target Total Return (Start->Latest): 22.15%
+Target Annualized Return (CAGR): 1.68%
+Target Max Drawdown: -60.48%
+Target Max Drawdown Period: 2014-06-06 (Close=16.535) -> 2020-03-18 (Close=6.534) (1455 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.78%
+Max Drawdown: -43.83%
+Max Drawdown Period: 2014-05-05 (Account total=300115.56) -> 2016-01-20 (Account total=168563.12) (341 trading days)

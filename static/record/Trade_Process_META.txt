@@ -1,0 +1,85 @@
+=== Trade Process ===
+2012-05-18 00:00:00 Initial Buy META, Price: 36.53, Quantity: 8212, Cash Balance: 15.64
+2013-04-17 00:00:00 Cond1 sell META, Accu_MMRatio: 0.3356, Deri_MMRatio: -0.001147, Price: 26.82, Quantity: 8212, Holding Days: 227, P/L: -26.58%, Account Total: 220261.48
+2013-06-10 00:00:00 Buy META, Price: 24.03, Quantity: 9166, Cash Balance: 2.50
+2014-07-17 00:00:00 Cond1 sell META, Accu_MMRatio: 66.9439, Deri_MMRatio: -0.001226, Price: 66.8, Quantity: 9166, Holding Days: 278, P/L: 177.99%, Account Total: 612291.30
+2014-08-13 00:00:00 Buy META, Price: 73.97, Quantity: 8277, Cash Balance: 41.61
+2018-03-14 00:00:00 Cond1 sell META, Accu_MMRatio: 25.3188, Deri_MMRatio: -0.000568, Price: 183.24, Quantity: 8277, Holding Days: 902, P/L: 147.72%, Account Total: 1516719.09
+2018-04-05 00:00:00 Buy META, Price: 157.73, Quantity: 9615, Cash Balance: 145.14
+2019-09-10 00:00:00 Cond1 sell META, Accu_MMRatio: -1.8648, Deri_MMRatio: -0.000338, Price: 186.46, Quantity: 9615, Holding Days: 360, P/L: 18.21%, Account Total: 1792958.04
+2019-10-21 00:00:00 Buy META, Price: 190.0, Quantity: 9436, Cash Balance: 118.04
+2021-05-13 00:00:00 Cond1 sell META, Accu_MMRatio: 27.7260, Deri_MMRatio: 0.000788, Price: 309.54, Quantity: 9436, Holding Days: 393, P/L: 62.92%, Account Total: 2920937.48
+2021-05-28 00:00:00 Buy META, Price: 330.15, Quantity: 8847, Cash Balance: 100.43
+2022-03-25 00:00:00 Cond3 sell META, Accu_MMRatio: 14.2840, Deri_MMRatio: -0.005291, Price: 222.13, Quantity: 8847, Holding Days: 208, P/L: -32.72%, Account Total: 1965284.54
+2023-02-28 00:00:00 Buy META, Price: 174.59, Quantity: 11256, Cash Balance: 99.50
+2023-07-19 00:00:00 Cond1 sell META, Accu_MMRatio: -6.1684, Deri_MMRatio: 0.004021, Price: 313.5, Quantity: 11256, Holding Days: 97, P/L: 79.56%, Account Total: 3528855.50
+2023-08-28 00:00:00 Buy META, Price: 288.58, Quantity: 12228, Cash Balance: 99.26
+2024-04-23 00:00:00 Cond1 sell META, Accu_MMRatio: 66.9175, Deri_MMRatio: 0.000888, Price: 508.06, Quantity: 12228, Holding Days: 164, P/L: 76.06%, Account Total: 6212656.94
+2024-05-03 00:00:00 Buy META, Price: 455.58, Quantity: 13636, Cash Balance: 368.06
+
+=== Account Position Information ===
+Code: META
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: META
+  Holding Quantity: 13636
+  Current Price: 608.75
+  Holding Value: 8300846.82
+  Buy Date: 2024-05-06
+  Holding Days: 498
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 368.06
+Account Total: 8301214.88
+Date Of Trading Start: 2012-05-21
+
+Target Latest Close : 608.745
+Target Total Return (Start->Latest): 1504.83%
+Target Annualized Return (CAGR): 22.01%
+Target Max Drawdown: -76.74%
+Target Max Drawdown Period: 2021-09-07 (Close=379.204) -> 2022-11-03 (Close=88.218) (293 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 27.60%
+Max Drawdown: -51.17%
+Max Drawdown Period: 2021-09-07 (Account total=3354918.22) -> 2022-03-14 (Account total=1638361.35) (130 trading days)
+
+Annual Returns (from first buy):
+  2012: -21.77%
+  2013: 129.13%
+  2014: 28.93%
+  2015: 34.14%
+  2016: 9.93%
+  2017: 53.37%
+  2018: -13.69%
+  2019: 53.65%
+  2020: 33.08%
+  2021: 15.45%
+  2022: -33.44%
+  2023: 118.52%
+  2024: 85.17%
+  2025: 13.09%
+  2026: -7.70%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = META
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.0075
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.245
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -0.01
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

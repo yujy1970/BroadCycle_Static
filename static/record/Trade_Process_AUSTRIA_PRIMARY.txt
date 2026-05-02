@@ -1,0 +1,149 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy AUSTRIA_PRIMARY, Price: 18.166, Quantity: 16514, Cash Balance: 6.68
+2005-03-17 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 12.1717, Deri_MMRatio: -0.002240, Price: 17.777, Quantity: 16514, Holding Days: 14, P/L: -2.14%, Account Total: 293576.05
+2005-06-10 00:00:00 Buy AUSTRIA_PRIMARY, Price: 17.396, Quantity: 16876, Cash Balance: 1.16
+2005-10-06 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 17.4268, Deri_MMRatio: -0.002437, Price: 19.654, Quantity: 16876, Holding Days: 83, P/L: 12.98%, Account Total: 331682.06
+2005-12-07 00:00:00 Buy AUSTRIA_PRIMARY, Price: 20.447, Quantity: 16221, Cash Balance: 11.27
+2006-03-07 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 14.8239, Deri_MMRatio: -0.002255, Price: 21.638, Quantity: 16221, Holding Days: 60, P/L: 5.82%, Account Total: 351001.27
+2006-04-20 00:00:00 Buy AUSTRIA_PRIMARY, Price: 24.464, Quantity: 14347, Cash Balance: 16.27
+2006-05-16 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 15.8922, Deri_MMRatio: -0.002485, Price: 24.105, Quantity: 14347, Holding Days: 17, P/L: -1.47%, Account Total: 345850.70
+2006-07-26 00:00:00 Buy AUSTRIA_PRIMARY, Price: 23.036, Quantity: 15013, Cash Balance: 11.23
+2007-01-18 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 3.6265, Deri_MMRatio: -0.002733, Price: 26.426, Quantity: 15013, Holding Days: 118, P/L: 14.72%, Account Total: 396744.77
+2007-04-26 00:00:00 Buy AUSTRIA_PRIMARY, Price: 30.772, Quantity: 12893, Cash Balance: 1.37
+2007-07-26 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 10.5933, Deri_MMRatio: -0.002631, Price: 27.897, Quantity: 12893, Holding Days: 61, P/L: -9.34%, Account Total: 359677.40
+2007-09-19 00:00:00 Buy AUSTRIA_PRIMARY, Price: 28.331, Quantity: 12695, Cash Balance: 15.35
+2007-11-13 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 5.1367, Deri_MMRatio: -0.002656, Price: 28.401, Quantity: 12695, Holding Days: 37, P/L: 0.25%, Account Total: 360566.05
+2008-03-27 00:00:00 Buy AUSTRIA_PRIMARY, Price: 25.229, Quantity: 14291, Cash Balance: 18.41
+2008-06-11 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -6.8099, Deri_MMRatio: -0.003311, Price: 27.121, Quantity: 14291, Holding Days: 51, P/L: 7.50%, Account Total: 387604.62
+2009-04-08 00:00:00 Buy AUSTRIA_PRIMARY, Price: 9.876, Quantity: 39247, Cash Balance: 1.25
+2009-06-09 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -29.9174, Deri_MMRatio: -0.002178, Price: 13.063, Quantity: 39247, Holding Days: 39, P/L: 32.27%, Account Total: 512684.81
+2009-08-21 00:00:00 Buy AUSTRIA_PRIMARY, Price: 15.396, Quantity: 33299, Cash Balance: 13.40
+2009-09-02 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -13.6820, Deri_MMRatio: -0.002183, Price: 14.646, Quantity: 33299, Holding Days: 8, P/L: -4.87%, Account Total: 487710.56
+2010-07-08 00:00:00 Buy AUSTRIA_PRIMARY, Price: 12.389, Quantity: 39366, Cash Balance: 5.18
+2010-11-03 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -0.9361, Deri_MMRatio: 0.001340, Price: 16.203, Quantity: 39366, Holding Days: 82, P/L: 30.79%, Account Total: 637852.48
+2011-06-30 00:00:00 Buy AUSTRIA_PRIMARY, Price: 17.296, Quantity: 36878, Cash Balance: 10.59
+2011-07-29 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 4.9931, Deri_MMRatio: -0.002861, Price: 16.299, Quantity: 36878, Holding Days: 21, P/L: -5.76%, Account Total: 601085.11
+2011-12-20 00:00:00 Buy AUSTRIA_PRIMARY, Price: 10.815, Quantity: 55578, Cash Balance: 9.04
+2012-03-05 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -13.7568, Deri_MMRatio: -0.002004, Price: 12.291, Quantity: 55578, Holding Days: 52, P/L: 13.65%, Account Total: 683118.24
+2012-07-03 00:00:00 Buy AUSTRIA_PRIMARY, Price: 11.483, Quantity: 59489, Cash Balance: 6.06
+2012-09-13 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -1.6976, Deri_MMRatio: 0.000608, Price: 12.92, Quantity: 59489, Holding Days: 52, P/L: 12.51%, Account Total: 768603.94
+2012-12-19 00:00:00 Buy AUSTRIA_PRIMARY, Price: 14.259, Quantity: 53903, Cash Balance: 1.06
+2013-01-30 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 4.4840, Deri_MMRatio: -0.002664, Price: 14.701, Quantity: 53903, Holding Days: 25, P/L: 3.10%, Account Total: 792429.06
+2013-05-15 00:00:00 Buy AUSTRIA_PRIMARY, Price: 14.268, Quantity: 55538, Cash Balance: 12.88
+2013-06-13 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 8.5381, Deri_MMRatio: -0.002472, Price: 14.158, Quantity: 55538, Holding Days: 19, P/L: -0.77%, Account Total: 786319.88
+2013-08-14 00:00:00 Buy AUSTRIA_PRIMARY, Price: 15.047, Quantity: 52257, Cash Balance: 8.80
+2013-12-03 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 3.9078, Deri_MMRatio: -0.002410, Price: 15.56, Quantity: 52257, Holding Days: 77, P/L: 3.41%, Account Total: 813127.72
+2014-11-21 00:00:00 Buy AUSTRIA_PRIMARY, Price: 13.548, Quantity: 60018, Cash Balance: 3.86
+2014-12-17 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -6.3621, Deri_MMRatio: -0.002128, Price: 12.64, Quantity: 60018, Holding Days: 17, P/L: -6.70%, Account Total: 758631.38
+2015-02-06 00:00:00 Buy AUSTRIA_PRIMARY, Price: 12.549, Quantity: 60453, Cash Balance: 6.68
+2015-03-27 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -3.3534, Deri_MMRatio: -0.002081, Price: 13.182, Quantity: 60453, Holding Days: 35, P/L: 5.04%, Account Total: 796898.13
+2016-03-03 00:00:00 Buy AUSTRIA_PRIMARY, Price: 12.47, Quantity: 63905, Cash Balance: 2.78
+2016-05-19 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -5.2544, Deri_MMRatio: -0.002693, Price: 12.74, Quantity: 63905, Holding Days: 51, P/L: 2.17%, Account Total: 814152.48
+2016-08-09 00:00:00 Buy AUSTRIA_PRIMARY, Price: 13.136, Quantity: 61978, Cash Balance: 9.47
+2016-11-14 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -0.6627, Deri_MMRatio: 0.000217, Price: 14.014, Quantity: 61978, Holding Days: 63, P/L: 6.68%, Account Total: 868569.16
+2017-02-15 00:00:00 Buy AUSTRIA_PRIMARY, Price: 15.494, Quantity: 56058, Cash Balance: 6.51
+2017-06-16 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 12.2383, Deri_MMRatio: -0.002392, Price: 18.456, Quantity: 56058, Holding Days: 81, P/L: 19.12%, Account Total: 1034612.96
+2018-01-04 00:00:00 Buy AUSTRIA_PRIMARY, Price: 22.718, Quantity: 45541, Cash Balance: 12.52
+2018-02-06 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 9.3318, Deri_MMRatio: -0.002667, Price: 22.736, Quantity: 45541, Holding Days: 23, P/L: 0.08%, Account Total: 1035432.70
+2019-03-18 00:00:00 Buy AUSTRIA_PRIMARY, Price: 18.687, Quantity: 55409, Cash Balance: 4.71
+2019-05-09 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -4.2934, Deri_MMRatio: -0.002186, Price: 18.632, Quantity: 55409, Holding Days: 35, P/L: -0.29%, Account Total: 1032385.20
+2019-08-21 00:00:00 Buy AUSTRIA_PRIMARY, Price: 17.912, Quantity: 57636, Cash Balance: 9.17
+2019-11-07 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -1.4141, Deri_MMRatio: 0.004165, Price: 19.621, Quantity: 57636, Holding Days: 56, P/L: 9.54%, Account Total: 1130885.12
+2020-07-06 00:00:00 Buy AUSTRIA_PRIMARY, Price: 14.52, Quantity: 77884, Cash Balance: 9.44
+2020-07-31 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -10.2810, Deri_MMRatio: -0.002191, Price: 14.181, Quantity: 77884, Holding Days: 19, P/L: -2.33%, Account Total: 1104482.45
+2020-11-04 00:00:00 Buy AUSTRIA_PRIMARY, Price: 14.463, Quantity: 76366, Cash Balance: 0.99
+2021-01-20 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -7.7466, Deri_MMRatio: 0.002457, Price: 20.771, Quantity: 76366, Holding Days: 51, P/L: 43.61%, Account Total: 1586199.18
+2021-05-10 00:00:00 Buy AUSTRIA_PRIMARY, Price: 22.936, Quantity: 69157, Cash Balance: 14.22
+2021-06-29 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 15.8827, Deri_MMRatio: -0.002123, Price: 23.037, Quantity: 69157, Holding Days: 35, P/L: 0.44%, Account Total: 1593184.03
+2021-08-11 00:00:00 Buy AUSTRIA_PRIMARY, Price: 24.25, Quantity: 65698, Cash Balance: 7.53
+2021-10-01 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: 19.2607, Deri_MMRatio: -0.000750, Price: 24.347, Quantity: 65698, Holding Days: 37, P/L: 0.40%, Account Total: 1599556.74
+2022-04-20 00:00:00 Buy AUSTRIA_PRIMARY, Price: 21.296, Quantity: 75110, Cash Balance: 14.18
+2022-06-23 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -2.3156, Deri_MMRatio: -0.003456, Price: 18.68, Quantity: 75110, Holding Days: 45, P/L: -12.28%, Account Total: 1403068.98
+2022-11-04 00:00:00 Buy AUSTRIA_PRIMARY, Price: 18.4, Quantity: 76253, Cash Balance: 13.78
+2022-12-16 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: -9.9791, Deri_MMRatio: -0.003125, Price: 18.66, Quantity: 76253, Holding Days: 30, P/L: 1.41%, Account Total: 1422894.76
+2023-02-09 00:00:00 Buy AUSTRIA_PRIMARY, Price: 21.0, Quantity: 67756, Cash Balance: 18.76
+2023-03-02 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -1.8250, Deri_MMRatio: -0.000550, Price: 21.55, Quantity: 67756, Holding Days: 15, P/L: 2.62%, Account Total: 1460160.56
+2023-07-03 00:00:00 Buy AUSTRIA_PRIMARY, Price: 20.35, Quantity: 71752, Cash Balance: 7.36
+2024-01-31 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: -0.6089, Deri_MMRatio: 0.000193, Price: 21.36, Quantity: 71752, Holding Days: 148, P/L: 4.96%, Account Total: 1532630.08
+2025-01-17 00:00:00 Buy AUSTRIA_PRIMARY, Price: 21.37, Quantity: 71718, Cash Balance: 16.42
+2025-03-31 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 4.3236, Deri_MMRatio: -0.002631, Price: 25.232, Quantity: 71718, Holding Days: 51, P/L: 18.07%, Account Total: 1809604.99
+2025-08-07 00:00:00 Buy AUSTRIA_PRIMARY, Price: 31.29, Quantity: 57833, Cash Balance: 10.42
+2025-09-04 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 8.8942, Deri_MMRatio: -0.002262, Price: 30.745, Quantity: 57833, Holding Days: 20, P/L: -1.74%, Account Total: 1778086.01
+2025-10-31 00:00:00 Buy AUSTRIA_PRIMARY, Price: 31.58, Quantity: 56304, Cash Balance: 5.69
+2025-12-12 00:00:00 Cond1 sell AUSTRIA_PRIMARY, Accu_MMRatio: 10.5553, Deri_MMRatio: 0.001464, Price: 34.31, Quantity: 56304, Holding Days: 30, P/L: 8.64%, Account Total: 1931795.93
+2026-02-03 00:00:00 Buy AUSTRIA_PRIMARY, Price: 38.58, Quantity: 50072, Cash Balance: 18.17
+2026-03-02 00:00:00 Cond3 sell AUSTRIA_PRIMARY, Accu_MMRatio: 11.5030, Deri_MMRatio: -0.002158, Price: 35.19, Quantity: 50072, Holding Days: 19, P/L: -8.79%, Account Total: 1762051.85
+
+=== Account Position Information ===
+Code: AUSTRIA_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-02
+Cash Balance: 1762051.85
+Account Total: 1762051.85
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 34.830
+Target Total Return (Start->Latest): 93.08%
+Target Annualized Return (CAGR): 3.17%
+Target Max Drawdown: -77.19%
+Target Max Drawdown Period: 2007-06-04 (Close=31.123) -> 2009-03-09 (Close=7.100) (444 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.76%
+Max Drawdown: -20.84%
+Max Drawdown Period: 2021-06-07 (Account total=1709575.26) -> 2023-10-27 (Account total=1353250.08) (612 trading days)
+
+Annual Returns (from first buy):
+  2005: 11.01%
+  2006: 22.70%
+  2007: -12.05%
+  2008: 7.50%
+  2009: 25.83%
+  2010: 30.79%
+  2011: -4.19%
+  2012: 24.39%
+  2013: 6.96%
+  2014: -6.70%
+  2015: 5.04%
+  2016: 8.99%
+  2017: 19.12%
+  2018: 0.08%
+  2019: 9.22%
+  2020: 29.31%
+  2021: 9.38%
+  2022: -11.04%
+  2023: 8.97%
+  2024: -1.16%
+  2025: 26.04%
+  2026: -8.79%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = AUSTRIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.21
+MedMax1 = -0.14
+Accu1 = -99.0
+Deri1 = -0.002
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

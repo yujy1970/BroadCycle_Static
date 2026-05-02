@@ -1,0 +1,96 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy US_MSFT, Price: 19.383, Quantity: 15477, Cash Balance: 9.31
+2007-07-13 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 8.3016, Deri_MMRatio: -0.001337, Price: 22.88, Quantity: 15477, Holding Days: 598, P/L: 18.04%, Account Total: 354123.07
+2007-09-25 00:00:00 Buy US_MSFT, Price: 22.788, Quantity: 15539, Cash Balance: 20.34
+2010-03-05 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 17.7248, Deri_MMRatio: -0.002656, Price: 21.914, Quantity: 15539, Holding Days: 615, P/L: -3.84%, Account Total: 340541.98
+2010-06-03 00:00:00 Buy US_MSFT, Price: 20.064, Quantity: 16972, Cash Balance: 15.78
+2012-05-30 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 8.6490, Deri_MMRatio: -0.002741, Price: 23.42, Quantity: 16972, Holding Days: 502, P/L: 16.73%, Account Total: 397500.02
+2012-08-09 00:00:00 Buy US_MSFT, Price: 24.38, Quantity: 16304, Cash Balance: 8.50
+2014-02-12 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 10.8601, Deri_MMRatio: -0.000983, Price: 31.201, Quantity: 16304, Holding Days: 378, P/L: 27.98%, Account Total: 508709.60
+2014-04-02 00:00:00 Buy US_MSFT, Price: 34.771, Quantity: 14630, Cash Balance: 9.87
+2017-06-28 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 9.3500, Deri_MMRatio: -0.000886, Price: 63.622, Quantity: 14630, Holding Days: 816, P/L: 82.97%, Account Total: 930799.73
+2017-08-31 00:00:00 Buy US_MSFT, Price: 68.873, Quantity: 13514, Cash Balance: 50.01
+2018-04-18 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 11.5931, Deri_MMRatio: -0.000354, Price: 89.774, Quantity: 13514, Holding Days: 157, P/L: 30.35%, Account Total: 1213255.84
+2018-06-04 00:00:00 Buy US_MSFT, Price: 95.361, Quantity: 12722, Cash Balance: 73.20
+2018-09-26 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 12.1912, Deri_MMRatio: -0.000443, Price: 107.714, Quantity: 12722, Holding Days: 80, P/L: 12.95%, Account Total: 1370410.71
+2018-11-28 00:00:00 Buy US_MSFT, Price: 103.984, Quantity: 13179, Cash Balance: 5.57
+2020-03-19 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 12.9148, Deri_MMRatio: -0.007950, Price: 140.025, Quantity: 13179, Holding Days: 327, P/L: 34.66%, Account Total: 1845395.05
+2020-05-04 00:00:00 Buy US_MSFT, Price: 173.234, Quantity: 10652, Cash Balance: 106.48
+2020-10-14 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 14.2779, Deri_MMRatio: -0.002934, Price: 209.304, Quantity: 10652, Holding Days: 114, P/L: 20.82%, Account Total: 2229612.69
+2020-12-16 00:00:00 Buy US_MSFT, Price: 212.517, Quantity: 10491, Cash Balance: 96.84
+2024-03-07 00:00:00 Cond1 sell US_MSFT, Accu_MMRatio: 13.6135, Deri_MMRatio: -0.001618, Price: 405.68, Quantity: 10491, Holding Days: 809, P/L: 90.89%, Account Total: 4256085.72
+2024-05-06 00:00:00 Buy US_MSFT, Price: 412.343, Quantity: 10321, Cash Balance: 293.62
+
+=== Account Position Information ===
+Code: US_MSFT
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: US_MSFT
+  Holding Quantity: 10321
+  Current Price: 383.00
+  Holding Value: 3952943.00
+  Buy Date: 2024-05-07
+  Holding Days: 469
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 293.62
+Account Total: 3953236.62
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 383.000
+Target Total Return (Start->Latest): 1873.62%
+Target Annualized Return (CAGR): 15.21%
+Target Max Drawdown: -59.12%
+Target Max Drawdown Period: 2007-11-01 (Close=28.480) -> 2009-03-09 (Close=11.643) (338 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.04%
+Max Drawdown: -59.12%
+Max Drawdown Period: 2007-11-01 (Account total=442571.06) -> 2009-03-09 (Account total=180940.91) (338 trading days)
+
+Annual Returns (from first buy):
+  2005: 3.92%
+  2006: 14.20%
+  2007: 19.71%
+  2008: -45.41%
+  2009: 56.82%
+  2010: 0.02%
+  2011: -4.53%
+  2012: 1.63%
+  2013: 44.30%
+  2014: 14.46%
+  2015: 22.68%
+  2016: 15.09%
+  2017: 29.99%
+  2018: 17.81%
+  2019: 57.53%
+  2020: 13.48%
+  2021: 52.47%
+  2022: -28.02%
+  2023: 58.19%
+  2024: 11.10%
+  2025: 14.74%
+  2026: -20.80%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US_MSFT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.008
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

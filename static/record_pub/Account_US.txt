@@ -1,0 +1,18 @@
+=== Account Position Information ===
+Current date: 2026-01-07
+Mode: Index data
+Current position: NDQ
+  Position quantity: 147
+  Current price: 25653.90
+  Position value: 3771123.30
+Cash balance: 1092.22
+Account total: 3772215.52
+
+=== Key Performance Metrics ===
+Initial Capital: $300,000.00
+Start Date: 2011-01-04
+Return: 1157.41%
+CAGR: 18.37%
+Volatility: 18.04%
+Sharpe: 1.02
+MaxDD: -32.75%

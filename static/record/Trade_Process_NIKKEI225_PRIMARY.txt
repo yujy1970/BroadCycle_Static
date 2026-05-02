@@ -1,0 +1,103 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy NIKKEI225_PRIMARY, Price: 36.282, Quantity: 8268, Cash Balance: 20.42
+2006-02-14 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0330, Deri_MMRatio: 0.000351, Price: 44.917, Quantity: 8268, Holding Days: 237, P/L: 23.80%, Account Total: 371394.18
+2007-09-19 00:00:00 Buy NIKKEI225_PRIMARY, Price: 46.325, Quantity: 8017, Cash Balance: 6.66
+2008-01-10 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: 4.5610, Deri_MMRatio: -0.002062, Price: 42.94, Quantity: 8017, Holding Days: 73, P/L: -7.31%, Account Total: 344256.64
+2010-02-17 00:00:00 Buy NIKKEI225_PRIMARY, Price: 33.105, Quantity: 10398, Cash Balance: 30.85
+2010-07-06 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 15.9743, Deri_MMRatio: -0.003472, Price: 31.799, Quantity: 10398, Holding Days: 94, P/L: -3.95%, Account Total: 330676.85
+2010-09-06 00:00:00 Buy NIKKEI225_PRIMARY, Price: 32.637, Quantity: 10131, Cash Balance: 31.40
+2010-12-09 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: 1.2352, Deri_MMRatio: 0.001361, Price: 35.451, Quantity: 10131, Holding Days: 62, P/L: 8.62%, Account Total: 359185.48
+2011-03-25 00:00:00 Buy NIKKEI225_PRIMARY, Price: 34.676, Quantity: 10358, Cash Balance: 11.47
+2011-10-07 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: -1.3162, Deri_MMRatio: -0.002804, Price: 32.212, Quantity: 10358, Holding Days: 133, P/L: -7.11%, Account Total: 333663.37
+2012-08-09 00:00:00 Buy NIKKEI225_PRIMARY, Price: 31.671, Quantity: 10535, Cash Balance: 9.38
+2013-06-04 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.1815, Deri_MMRatio: -0.000109, Price: 36.968, Quantity: 10535, Holding Days: 199, P/L: 16.73%, Account Total: 389467.26
+2014-10-31 00:00:00 Buy NIKKEI225_PRIMARY, Price: 41.302, Quantity: 9429, Cash Balance: 30.71
+2015-05-21 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0533, Deri_MMRatio: 0.000161, Price: 46.817, Quantity: 9429, Holding Days: 132, P/L: 13.35%, Account Total: 441468.20
+2016-11-14 00:00:00 Buy NIKKEI225_PRIMARY, Price: 44.613, Quantity: 9895, Cash Balance: 22.56
+2018-01-25 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0115, Deri_MMRatio: -0.000124, Price: 59.529, Quantity: 9895, Holding Days: 294, P/L: 33.43%, Account Total: 589062.02
+2018-07-13 00:00:00 Buy NIKKEI225_PRIMARY, Price: 53.74, Quantity: 10961, Cash Balance: 17.88
+2019-04-01 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: 0.8266, Deri_MMRatio: 0.001042, Price: 51.683, Quantity: 10961, Holding Days: 174, P/L: -3.83%, Account Total: 566515.24
+2019-09-11 00:00:00 Buy NIKKEI225_PRIMARY, Price: 53.246, Quantity: 10639, Cash Balance: 31.05
+2020-04-24 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: 2.6719, Deri_MMRatio: -0.003883, Price: 49.385, Quantity: 10639, Holding Days: 149, P/L: -7.25%, Account Total: 525438.06
+2020-08-13 00:00:00 Buy NIKKEI225_PRIMARY, Price: 55.759, Quantity: 9423, Cash Balance: 21.01
+2021-04-12 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0234, Deri_MMRatio: -0.000191, Price: 67.265, Quantity: 9423, Holding Days: 162, P/L: 20.64%, Account Total: 633859.10
+2022-03-17 00:00:00 Buy NIKKEI225_PRIMARY, Price: 60.993, Quantity: 10392, Cash Balance: 19.84
+2022-05-31 00:00:00 Cond3 sell NIKKEI225_PRIMARY, Accu_MMRatio: 1.4278, Deri_MMRatio: 0.001654, Price: 57.794, Quantity: 10392, Holding Days: 48, P/L: -5.24%, Account Total: 600615.09
+2022-10-06 00:00:00 Buy NIKKEI225_PRIMARY, Price: 50.27, Quantity: 11947, Cash Balance: 39.40
+2024-02-08 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0845, Deri_MMRatio: 0.000730, Price: 66.35, Quantity: 11947, Holding Days: 329, P/L: 31.99%, Account Total: 792722.85
+2025-04-15 00:00:00 Buy NIKKEI225_PRIMARY, Price: 67.3, Quantity: 11778, Cash Balance: 63.45
+2026-02-25 00:00:00 Cond1 sell NIKKEI225_PRIMARY, Accu_MMRatio: 18.0037, Deri_MMRatio: 0.001746, Price: 92.575, Quantity: 11778, Holding Days: 210, P/L: 37.56%, Account Total: 1090411.80
+
+=== Account Position Information ===
+Code: NIKKEI225_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-02-25
+Cash Balance: 1090411.80
+Account Total: 1090411.80
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 82.710
+Target Total Return (Start->Latest): 130.94%
+Target Annualized Return (CAGR): 4.05%
+Target Max Drawdown: -55.82%
+Target Max Drawdown Period: 2006-05-09 (Close=52.051) -> 2009-03-09 (Close=22.995) (712 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.35%
+Max Drawdown: -28.80%
+Max Drawdown Period: 2018-10-01 (Account total=619281.50) -> 2020-03-16 (Account total=440953.76) (350 trading days)
+
+Annual Returns (from first buy):
+  2005: 25.07%
+  2006: -0.75%
+  2007: -4.19%
+  2008: -3.25%
+  2009: 0.00%
+  2010: 4.34%
+  2011: -7.11%
+  2012: 5.34%
+  2013: 10.81%
+  2014: -3.26%
+  2015: 17.17%
+  2016: -0.06%
+  2017: 24.27%
+  2018: -4.67%
+  2019: 15.26%
+  2020: 2.22%
+  2021: 2.93%
+  2022: 2.61%
+  2023: 17.82%
+  2024: 3.45%
+  2025: 20.33%
+  2026: 14.32%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NIKKEI225
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.025
+QQQ = 30
+MedMax2 = 99.0
+Accu2 = 18.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.08
+Accu1 = -18.0
+Deri1 = -99.0
+Trend1 = -0.21
+date_start_backtest = 2005-02-25

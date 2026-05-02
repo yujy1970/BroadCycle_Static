@@ -1,0 +1,114 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy BELGIUM_PRIMARY, Price: 13.524, Quantity: 22182, Cash Balance: 10.63
+2007-11-27 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 0.3349, Deri_MMRatio: -0.003007, Price: 17.91, Quantity: 22182, Holding Days: 705, P/L: 32.43%, Account Total: 397290.25
+2008-01-29 00:00:00 Buy BELGIUM_PRIMARY, Price: 15.849, Quantity: 25067, Cash Balance: 3.37
+2008-04-25 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: -8.0130, Deri_MMRatio: 0.003213, Price: 17.394, Quantity: 25067, Holding Days: 61, P/L: 9.75%, Account Total: 436018.77
+2008-07-18 00:00:00 Buy BELGIUM_PRIMARY, Price: 13.236, Quantity: 32941, Cash Balance: 11.69
+2008-07-22 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: -8.0339, Deri_MMRatio: -0.001936, Price: 13.088, Quantity: 32941, Holding Days: 2, P/L: -1.12%, Account Total: 431143.50
+2009-10-06 00:00:00 Buy BELGIUM_PRIMARY, Price: 9.162, Quantity: 47057, Cash Balance: 7.26
+2010-01-08 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 12.0118, Deri_MMRatio: 0.001097, Price: 9.517, Quantity: 47057, Holding Days: 66, P/L: 3.87%, Account Total: 447848.73
+2010-05-13 00:00:00 Buy BELGIUM_PRIMARY, Price: 8.197, Quantity: 54635, Cash Balance: 5.64
+2011-08-11 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 0.4984, Deri_MMRatio: -0.004056, Price: 8.898, Quantity: 54635, Holding Days: 323, P/L: 8.55%, Account Total: 486147.87
+2011-09-27 00:00:00 Buy BELGIUM_PRIMARY, Price: 8.158, Quantity: 59591, Cash Balance: 4.49
+2011-11-28 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: -8.0107, Deri_MMRatio: -0.001025, Price: 7.665, Quantity: 59591, Holding Days: 44, P/L: -6.04%, Account Total: 456769.51
+2012-06-29 00:00:00 Buy BELGIUM_PRIMARY, Price: 8.821, Quantity: 51782, Cash Balance: 0.48
+2012-11-21 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 5.5358, Deri_MMRatio: -0.000193, Price: 9.614, Quantity: 51782, Holding Days: 103, P/L: 8.99%, Account Total: 497832.63
+2013-04-23 00:00:00 Buy BELGIUM_PRIMARY, Price: 10.973, Quantity: 45368, Cash Balance: 9.57
+2013-06-17 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 7.5426, Deri_MMRatio: -0.002594, Price: 11.312, Quantity: 45368, Holding Days: 38, P/L: 3.09%, Account Total: 513212.38
+2013-08-02 00:00:00 Buy BELGIUM_PRIMARY, Price: 11.697, Quantity: 43875, Cash Balance: 6.51
+2015-07-01 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 6.9371, Deri_MMRatio: -0.001332, Price: 14.584, Quantity: 43875, Holding Days: 486, P/L: 24.68%, Account Total: 639879.51
+2015-10-05 00:00:00 Buy BELGIUM_PRIMARY, Price: 14.162, Quantity: 45182, Cash Balance: 12.03
+2016-02-02 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 0.4088, Deri_MMRatio: -0.003090, Price: 14.161, Quantity: 45182, Holding Days: 84, P/L: -0.01%, Account Total: 639834.33
+2016-04-13 00:00:00 Buy BELGIUM_PRIMARY, Price: 14.827, Quantity: 43153, Cash Balance: 4.80
+2017-07-03 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 4.9158, Deri_MMRatio: -0.001473, Price: 16.89, Quantity: 43153, Holding Days: 314, P/L: 13.91%, Account Total: 728858.97
+2018-01-09 00:00:00 Buy BELGIUM_PRIMARY, Price: 19.239, Quantity: 37884, Cash Balance: 8.69
+2018-06-07 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 0.1225, Deri_MMRatio: -0.000250, Price: 17.728, Quantity: 37884, Holding Days: 104, P/L: -7.85%, Account Total: 671616.24
+2018-11-01 00:00:00 Buy BELGIUM_PRIMARY, Price: 15.988, Quantity: 42007, Cash Balance: 8.33
+2020-02-04 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 4.2188, Deri_MMRatio: -0.000201, Price: 18.571, Quantity: 42007, Holding Days: 319, P/L: 16.16%, Account Total: 780120.32
+2020-03-20 00:00:00 Buy BELGIUM_PRIMARY, Price: 12.082, Quantity: 64568, Cash Balance: 9.75
+2020-03-24 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 2.3271, Deri_MMRatio: -0.010699, Price: 12.875, Quantity: 64568, Holding Days: 2, P/L: 6.56%, Account Total: 831322.75
+2020-08-11 00:00:00 Buy BELGIUM_PRIMARY, Price: 16.668, Quantity: 49875, Cash Balance: 6.25
+2020-11-24 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: -6.4006, Deri_MMRatio: 0.007732, Price: 18.066, Quantity: 49875, Holding Days: 75, P/L: 8.39%, Account Total: 901048.00
+2021-02-03 00:00:00 Buy BELGIUM_PRIMARY, Price: 18.778, Quantity: 47984, Cash Balance: 4.45
+2021-05-07 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 8.0581, Deri_MMRatio: 0.000327, Price: 20.99, Quantity: 47984, Holding Days: 65, P/L: 11.78%, Account Total: 1007188.61
+2022-03-14 00:00:00 Buy BELGIUM_PRIMARY, Price: 18.778, Quantity: 53636, Cash Balance: 11.80
+2022-04-04 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 1.0339, Deri_MMRatio: 0.006832, Price: 19.938, Quantity: 53636, Holding Days: 15, P/L: 6.18%, Account Total: 1069406.37
+2022-09-12 00:00:00 Buy BELGIUM_PRIMARY, Price: 16.24, Quantity: 65850, Cash Balance: 2.37
+2023-10-26 00:00:00 Cond3 sell BELGIUM_PRIMARY, Accu_MMRatio: 0.2428, Deri_MMRatio: -0.002142, Price: 16.17, Quantity: 65850, Holding Days: 289, P/L: -0.43%, Account Total: 1064796.87
+2023-12-06 00:00:00 Buy BELGIUM_PRIMARY, Price: 18.394, Quantity: 57888, Cash Balance: 4.99
+2024-11-28 00:00:00 Cond1 sell BELGIUM_PRIMARY, Accu_MMRatio: 6.4866, Deri_MMRatio: -0.000420, Price: 19.01, Quantity: 57888, Holding Days: 250, P/L: 3.35%, Account Total: 1100455.87
+2025-04-15 00:00:00 Buy BELGIUM_PRIMARY, Price: 20.179, Quantity: 54534, Cash Balance: 14.29
+
+=== Account Position Information ===
+Code: BELGIUM_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: BELGIUM_PRIMARY
+  Holding Quantity: 54534
+  Current Price: 24.22
+  Holding Value: 1320813.48
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 14.29
+Account Total: 1320827.77
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 23.598
+Target Total Return (Start->Latest): 76.45%
+Target Annualized Return (CAGR): 2.73%
+Target Max Drawdown: -76.53%
+Target Max Drawdown Period: 2007-07-12 (Close=20.177) -> 2009-03-09 (Close=4.736) (417 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.34%
+Max Drawdown: -28.07%
+Max Drawdown Period: 2011-04-29 (Account total=600717.46) -> 2012-07-24 (Account total=432121.27) (318 trading days)
+
+Annual Returns (from first buy):
+  2005: 0.95%
+  2006: 33.31%
+  2007: -0.77%
+  2008: 8.52%
+  2009: -1.83%
+  2010: 19.49%
+  2011: -9.68%
+  2012: 8.99%
+  2013: 16.12%
+  2014: 0.61%
+  2015: 17.20%
+  2016: -5.77%
+  2017: 13.48%
+  2018: -15.52%
+  2019: 25.93%
+  2020: 16.21%
+  2021: 11.78%
+  2022: 17.16%
+  2023: -7.56%
+  2024: 0.88%
+  2025: 20.43%
+  2026: -0.34%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BELGIUM
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 0.006
+Trend2 = 99.0
+MedMax1 = -0.18
+Accu1 = -8.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 2005-02-25

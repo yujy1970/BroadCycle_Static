@@ -1,0 +1,148 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy MALAYSIA, Price: 966.49, Quantity: 310, Cash Balance: 388.10
+1995-04-04 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 47.0243, Deri_MMRatio: 0.001343, Price: 977.15, Quantity: 310, Holding Days: 1, P/L: 1.10%, Account Total: 303304.60
+1995-09-26 00:00:00 Buy MALAYSIA, Price: 1011.81, Quantity: 299, Cash Balance: 773.41
+1995-11-02 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 11.6599, Deri_MMRatio: -0.008940, Price: 923.92, Quantity: 299, Holding Days: 26, P/L: -8.69%, Account Total: 277025.49
+1995-11-28 00:00:00 Buy MALAYSIA, Price: 949.29, Quantity: 291, Cash Balance: 782.10
+1996-03-13 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 6.5439, Deri_MMRatio: -0.010254, Price: 1085.91, Quantity: 291, Holding Days: 68, P/L: 14.39%, Account Total: 316781.91
+1996-04-03 00:00:00 Buy MALAYSIA, Price: 1155.31, Quantity: 274, Cash Balance: 226.97
+1996-07-26 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 8.9192, Deri_MMRatio: -0.008369, Price: 1083.48, Quantity: 274, Holding Days: 78, P/L: -6.22%, Account Total: 297100.49
+1996-08-20 00:00:00 Buy MALAYSIA, Price: 1106.4, Quantity: 268, Cash Balance: 585.29
+1996-12-12 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 20.0726, Deri_MMRatio: -0.004958, Price: 1199.22, Quantity: 268, Holding Days: 81, P/L: 8.39%, Account Total: 321976.25
+1997-10-14 00:00:00 Buy MALAYSIA, Price: 820.47, Quantity: 392, Cash Balance: 352.01
+1997-10-20 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -1.0498, Deri_MMRatio: -0.011475, Price: 768.18, Quantity: 392, Holding Days: 4, P/L: -6.37%, Account Total: 301478.57
+1998-10-06 00:00:00 Buy MALAYSIA, Price: 377.01, Quantity: 799, Cash Balance: 247.58
+1999-02-03 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -96.8578, Deri_MMRatio: -0.009723, Price: 569.48, Quantity: 799, Holding Days: 80, P/L: 51.05%, Account Total: 455262.10
+1999-03-31 00:00:00 Buy MALAYSIA, Price: 502.91, Quantity: 905, Cash Balance: 128.55
+1999-05-14 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: -83.2545, Deri_MMRatio: 0.022147, Price: 762.78, Quantity: 905, Holding Days: 32, P/L: 51.67%, Account Total: 690444.45
+1999-06-01 00:00:00 Buy MALAYSIA, Price: 760.42, Quantity: 907, Cash Balance: 743.51
+1999-07-23 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -46.4065, Deri_MMRatio: -0.009004, Price: 806.79, Quantity: 907, Holding Days: 38, P/L: 6.10%, Account Total: 732502.04
+1999-11-10 00:00:00 Buy MALAYSIA, Price: 729.3, Quantity: 1004, Cash Balance: 284.84
+2000-01-14 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 19.7415, Deri_MMRatio: 0.035831, Price: 945.74, Quantity: 1004, Holding Days: 43, P/L: 29.68%, Account Total: 949807.80
+2001-05-02 00:00:00 Buy MALAYSIA, Price: 615.98, Quantity: 1541, Cash Balance: 582.62
+2001-05-10 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 5.0728, Deri_MMRatio: -0.009990, Price: 573.5, Quantity: 1541, Holding Days: 5, P/L: -6.90%, Account Total: 884346.12
+2001-06-01 00:00:00 Buy MALAYSIA, Price: 571.12, Quantity: 1548, Cash Balance: 252.36
+2001-09-14 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -23.7687, Deri_MMRatio: -0.011201, Price: 636.08, Quantity: 1548, Holding Days: 72, P/L: 11.37%, Account Total: 984904.20
+2001-10-12 00:00:00 Buy MALAYSIA, Price: 611.37, Quantity: 1610, Cash Balance: 598.50
+2002-06-26 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -12.6348, Deri_MMRatio: -0.009906, Price: 706.66, Quantity: 1610, Holding Days: 168, P/L: 15.59%, Account Total: 1138321.10
+2002-07-30 00:00:00 Buy MALAYSIA, Price: 722.11, Quantity: 1576, Cash Balance: 275.74
+2002-09-24 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -2.2147, Deri_MMRatio: -0.010199, Price: 651.4, Quantity: 1576, Holding Days: 40, P/L: -9.79%, Account Total: 1026882.14
+2002-10-17 00:00:00 Buy MALAYSIA, Price: 639.59, Quantity: 1605, Cash Balance: 340.19
+2003-03-11 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -4.9428, Deri_MMRatio: -0.008494, Price: 618.81, Quantity: 1605, Holding Days: 93, P/L: -3.25%, Account Total: 993530.24
+2003-04-07 00:00:00 Buy MALAYSIA, Price: 640.03, Quantity: 1552, Cash Balance: 203.68
+2003-12-18 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 9.5162, Deri_MMRatio: -0.008076, Price: 767.65, Quantity: 1552, Holding Days: 175, P/L: 19.94%, Account Total: 1191596.48
+2004-01-12 00:00:00 Buy MALAYSIA, Price: 824.03, Quantity: 1446, Cash Balance: 49.10
+2004-03-05 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 20.2266, Deri_MMRatio: 0.001120, Price: 885.65, Quantity: 1446, Holding Days: 33, P/L: 7.48%, Account Total: 1280699.00
+2006-01-24 00:00:00 Buy MALAYSIA, Price: 906.62, Quantity: 1412, Cash Balance: 551.56
+2006-05-22 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 15.7106, Deri_MMRatio: -0.009038, Price: 924.69, Quantity: 1412, Holding Days: 77, P/L: 1.99%, Account Total: 1306213.84
+2006-06-22 00:00:00 Buy MALAYSIA, Price: 900.33, Quantity: 1450, Cash Balance: 735.34
+2007-02-07 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 20.0969, Deri_MMRatio: 0.012368, Price: 1245.36, Quantity: 1450, Holding Days: 156, P/L: 38.32%, Account Total: 1806507.34
+2008-11-27 00:00:00 Buy MALAYSIA, Price: 866.03, Quantity: 2085, Cash Balance: 834.79
+2010-05-21 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 19.4045, Deri_MMRatio: -0.009105, Price: 1282.74, Quantity: 2085, Holding Days: 364, P/L: 48.12%, Account Total: 2675347.69
+2012-04-18 00:00:00 Buy MALAYSIA, Price: 1599.72, Quantity: 1672, Cash Balance: 615.85
+2013-08-22 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 18.2511, Deri_MMRatio: -0.009201, Price: 1724.07, Quantity: 1672, Holding Days: 332, P/L: 7.77%, Account Total: 2883260.89
+2013-09-13 00:00:00 Buy MALAYSIA, Price: 1777.41, Quantity: 1622, Cash Balance: 301.87
+2013-12-05 00:00:00 Cond1 sell MALAYSIA, Accu_MMRatio: 20.0563, Deri_MMRatio: 0.001799, Price: 1823.43, Quantity: 1622, Holding Days: 56, P/L: 2.59%, Account Total: 2957905.33
+2014-10-20 00:00:00 Buy MALAYSIA, Price: 1803.82, Quantity: 1639, Cash Balance: 1444.35
+2014-12-03 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 16.1977, Deri_MMRatio: -0.009639, Price: 1760.25, Quantity: 1639, Holding Days: 31, P/L: -2.42%, Account Total: 2886494.10
+2015-01-12 00:00:00 Buy MALAYSIA, Price: 1726.54, Quantity: 1671, Cash Balance: 1445.76
+2015-08-10 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 0.0552, Deri_MMRatio: -0.009922, Price: 1653.37, Quantity: 1671, Holding Days: 143, P/L: -4.24%, Account Total: 2764227.03
+2015-09-09 00:00:00 Buy MALAYSIA, Price: 1595.31, Quantity: 1732, Cash Balance: 1150.11
+2018-05-24 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 11.6981, Deri_MMRatio: -0.009273, Price: 1791.89, Quantity: 1732, Holding Days: 659, P/L: 12.32%, Account Total: 3104703.59
+2018-07-10 00:00:00 Buy MALAYSIA, Price: 1682.53, Quantity: 1845, Cash Balance: 435.74
+2018-10-11 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 9.6952, Deri_MMRatio: -0.009454, Price: 1714.49, Quantity: 1845, Holding Days: 62, P/L: 1.90%, Account Total: 3163669.79
+2018-11-01 00:00:00 Buy MALAYSIA, Price: 1711.14, Quantity: 1848, Cash Balance: 1483.07
+2020-03-12 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -16.0593, Deri_MMRatio: -0.008174, Price: 1352.45, Quantity: 1848, Holding Days: 333, P/L: -20.96%, Account Total: 2500810.67
+2020-04-09 00:00:00 Buy MALAYSIA, Price: 1357.66, Quantity: 1842, Cash Balance: 0.95
+2022-06-13 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 0.4901, Deri_MMRatio: -0.009373, Price: 1457.86, Quantity: 1842, Holding Days: 530, P/L: 7.38%, Account Total: 2685379.07
+2022-07-18 00:00:00 Buy MALAYSIA, Price: 1428.69, Quantity: 1879, Cash Balance: 870.56
+2023-03-14 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: -9.1591, Deri_MMRatio: -0.008373, Price: 1400.43, Quantity: 1879, Holding Days: 159, P/L: -1.98%, Account Total: 2632278.53
+2023-04-04 00:00:00 Buy MALAYSIA, Price: 1429.92, Quantity: 1840, Cash Balance: 1225.73
+2024-08-05 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 6.1064, Deri_MMRatio: -0.011770, Price: 1542.14, Quantity: 1840, Holding Days: 326, P/L: 7.85%, Account Total: 2838763.33
+2024-08-26 00:00:00 Buy MALAYSIA, Price: 1639.16, Quantity: 1731, Cash Balance: 1377.37
+2025-03-12 00:00:00 Cond3 sell MALAYSIA, Accu_MMRatio: 16.3754, Deri_MMRatio: -0.010544, Price: 1488.79, Quantity: 1731, Holding Days: 135, P/L: -9.17%, Account Total: 2578472.86
+2025-04-30 00:00:00 Buy MALAYSIA, Price: 1537.42, Quantity: 1677, Cash Balance: 219.52
+
+=== Account Position Information ===
+Code: MALAYSIA
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: MALAYSIA
+  Holding Quantity: 1677
+  Current Price: 1710.89
+  Holding Value: 2869162.53
+  Buy Date: 2025-05-02
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 219.52
+Account Total: 2869382.05
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 1710.890
+Target Total Return (Start->Latest): 77.05%
+Target Annualized Return (CAGR): 1.86%
+Target Max Drawdown: -79.34%
+Target Max Drawdown Period: 1997-02-25 (Close=1271.570) -> 1998-09-01 (Close=262.700) (376 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.52%
+Max Drawdown: -25.90%
+Max Drawdown Period: 2018-08-28 (Account total=3371066.24) -> 2020-04-13 (Account total=2497808.21) (398 trading days)
+
+Annual Returns (from first buy):
+  1995: -4.26%
+  1996: 10.88%
+  1997: -6.37%
+  1998: 55.42%
+  1999: 74.12%
+  2000: 16.42%
+  2001: 18.06%
+  2002: -7.46%
+  2003: 14.83%
+  2004: 7.48%
+  2005: 0.00%
+  2006: 24.17%
+  2007: 13.60%
+  2008: 1.24%
+  2009: 45.15%
+  2010: 0.78%
+  2011: 0.00%
+  2012: 5.58%
+  2013: 4.72%
+  2014: -2.41%
+  2015: 1.60%
+  2016: -3.00%
+  2017: 9.44%
+  2018: 0.40%
+  2019: -6.02%
+  2020: 2.04%
+  2021: -3.67%
+  2022: -2.65%
+  2023: -4.74%
+  2024: 6.22%
+  2025: -0.93%
+  2026: 1.83%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = MALAYSIA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 1.0
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 20.0
+Deri2 = 0.02
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.008
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

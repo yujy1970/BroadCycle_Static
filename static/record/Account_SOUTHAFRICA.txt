@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SOUTHAFRICA
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: SOUTHAFRICA
+  Holding Quantity: 7
+  Current Price: 126583.80
+  Holding Value: 886086.58
+  Buy Date: 2025-07-22
+  Holding Days: 152
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 41851.17
+Account Total: 927937.74
+Date Of Trading Start: 2012-02-09
+
+Target Latest Close : 126583.797
+Target Total Return (Start->Latest): 269.84%
+Target Annualized Return (CAGR): 9.76%
+Target Max Drawdown: -38.46%
+Target Max Drawdown Period: 2018-01-25 (Close=61684.770) -> 2020-03-19 (Close=37963.012) (537 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.36%
+Max Drawdown: -33.13%
+Max Drawdown Period: 2018-08-29 (Account total=536065.17) -> 2020-03-19 (Account total=358445.17) (389 trading days)

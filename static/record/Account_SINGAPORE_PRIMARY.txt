@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SINGAPORE_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: SINGAPORE_PRIMARY
+  Holding Quantity: 39761
+  Current Price: 27.13
+  Holding Value: 1078715.93
+  Buy Date: 2024-04-25
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 8.05
+Account Total: 1078723.98
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 27.610
+Target Total Return (Start->Latest): 185.26%
+Target Annualized Return (CAGR): 5.10%
+Target Max Drawdown: -66.92%
+Target Max Drawdown Period: 2007-10-09 (Close=20.742) -> 2009-03-09 (Close=6.862) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.30%
+Max Drawdown: -19.93%
+Max Drawdown Period: 2021-11-08 (Account total=832594.41) -> 2022-03-08 (Account total=666626.41) (84 trading days)

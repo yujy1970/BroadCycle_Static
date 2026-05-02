@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ISRAEL
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: ISRAEL
+  Holding Quantity: 1793
+  Current Price: 4425.03
+  Holding Value: 7934078.79
+  Buy Date: 2025-10-08
+  Holding Days: 125
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3016.05
+Account Total: 7937094.84
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 4425.030
+Target Total Return (Start->Latest): 2674.49%
+Target Annualized Return (CAGR): 11.29%
+Target Max Drawdown: -49.59%
+Target Max Drawdown Period: 2007-10-31 (Close=1237.130) -> 2008-11-24 (Close=623.660) (208 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.10%
+Max Drawdown: -50.35%
+Max Drawdown Period: 2000-03-06 (Account total=930233.50) -> 2003-02-13 (Account total=461882.03) (581 trading days)

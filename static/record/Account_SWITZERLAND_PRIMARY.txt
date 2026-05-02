@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SWITZERLAND_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: SWITZERLAND_PRIMARY
+  Holding Quantity: 25732
+  Current Price: 58.72
+  Holding Value: 1510983.04
+  Buy Date: 2025-01-23
+  Holding Days: 284
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 22.99
+Account Total: 1511006.03
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 57.300
+Target Total Return (Start->Latest): 327.48%
+Target Annualized Return (CAGR): 7.14%
+Target Max Drawdown: -53.10%
+Target Max Drawdown Period: 2007-12-10 (Close=21.336) -> 2009-03-09 (Close=10.007) (312 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.99%
+Max Drawdown: -29.24%
+Max Drawdown Period: 2015-05-15 (Account total=833008.47) -> 2016-11-23 (Account total=589452.62) (388 trading days)

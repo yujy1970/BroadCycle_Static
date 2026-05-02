@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SAUDI_PRIMARY
+Current Date: 2026-03-12 16:00
+Mode: Etf Data
+Current Position: SAUDI_PRIMARY
+  Holding Quantity: 14050
+  Current Price: 37.90
+  Holding Value: 532495.00
+  Buy Date: 2025-06-25
+  Holding Days: 184
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 24.76
+Account Total: 532519.76
+Date Of Trading Start: 2015-09-21
+
+Target Latest Close : 38.410
+Target Total Return (Start->Latest): 75.18%
+Target Annualized Return (CAGR): 5.47%
+Target Max Drawdown: -40.56%
+Target Max Drawdown Period: 2019-05-03 (Close=33.634) -> 2020-03-16 (Close=19.991) (218 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.63%
+Max Drawdown: -30.73%
+Max Drawdown Period: 2022-04-18 (Account total=660223.79) -> 2023-03-15 (Account total=457365.68) (225 trading days)

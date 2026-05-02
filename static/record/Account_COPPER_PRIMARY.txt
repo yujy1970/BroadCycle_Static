@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: COPPER_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: COPPER_PRIMARY
+  Holding Quantity: 14887
+  Current Price: 33.33
+  Holding Value: 496183.71
+  Buy Date: 2025-10-06
+  Holding Days: 120
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 7.62
+Account Total: 496191.33
+Date Of Trading Start: 2011-11-16
+
+Target Latest Close : 36.230
+Target Total Return (Start->Latest): 43.88%
+Target Annualized Return (CAGR): 2.55%
+Target Max Drawdown: -57.83%
+Target Max Drawdown Period: 2012-02-09 (Close=28.220) -> 2015-02-02 (Close=11.900) (748 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.44%
+Max Drawdown: -57.83%
+Max Drawdown Period: 2012-02-09 (Account total=342059.87) -> 2015-02-02 (Account total=144245.15) (751 trading days)

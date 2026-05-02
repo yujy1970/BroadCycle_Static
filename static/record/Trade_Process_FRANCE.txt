@@ -1,0 +1,103 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy FRANCE, Price: 1875.5, Quantity: 159, Cash Balance: 1795.50
+1998-01-06 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 56.6928, Deri_MMRatio: 0.002922, Price: 3012.8, Quantity: 159, Holding Days: 686, P/L: 60.64%, Account Total: 480830.70
+1998-01-30 00:00:00 Buy FRANCE, Price: 3206.3, Quantity: 149, Cash Balance: 3092.00
+1998-10-23 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 71.9974, Deri_MMRatio: -0.003704, Price: 3454.55, Quantity: 149, Holding Days: 182, P/L: 7.74%, Account Total: 517819.95
+1998-11-20 00:00:00 Buy FRANCE, Price: 3831.03, Quantity: 135, Cash Balance: 630.90
+2000-10-26 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 74.6190, Deri_MMRatio: -0.004797, Price: 6274.79, Quantity: 135, Holding Days: 488, P/L: 63.79%, Account Total: 847727.55
+2001-09-28 00:00:00 Buy FRANCE, Price: 4097.22, Quantity: 206, Cash Balance: 3700.23
+2006-07-04 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 39.2954, Deri_MMRatio: -0.001273, Price: 4959.93, Quantity: 206, Holding Days: 1218, P/L: 21.06%, Account Total: 1025445.81
+2008-07-23 00:00:00 Buy FRANCE, Price: 4434.87, Quantity: 231, Cash Balance: 990.84
+2011-07-21 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 16.5806, Deri_MMRatio: -0.000965, Price: 3855.43, Quantity: 231, Holding Days: 769, P/L: -13.07%, Account Total: 891595.17
+2011-10-10 00:00:00 Buy FRANCE, Price: 3151.87, Quantity: 282, Cash Balance: 2767.83
+2014-07-23 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 33.9303, Deri_MMRatio: -0.001523, Price: 4376.69, Quantity: 282, Holding Days: 711, P/L: 38.86%, Account Total: 1236994.41
+2015-01-23 00:00:00 Buy FRANCE, Price: 4620.0, Quantity: 267, Cash Balance: 3454.41
+2018-03-15 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 24.3746, Deri_MMRatio: -0.001650, Price: 5259.36, Quantity: 267, Holding Days: 805, P/L: 13.84%, Account Total: 1407703.53
+2020-03-24 00:00:00 Buy FRANCE, Price: 4339.71, Quantity: 324, Cash Balance: 1637.49
+2022-03-31 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 40.6192, Deri_MMRatio: -0.003109, Price: 6672.98, Quantity: 324, Holding Days: 520, P/L: 53.77%, Account Total: 2163683.01
+2022-10-04 00:00:00 Buy FRANCE, Price: 6006.12, Quantity: 360, Cash Balance: 1479.81
+2024-08-16 00:00:00 Cond1 sell FRANCE, Accu_MMRatio: 20.2671, Deri_MMRatio: -0.000391, Price: 7445.31, Quantity: 360, Holding Days: 478, P/L: 23.96%, Account Total: 2681791.41
+
+=== Account Position Information ===
+Code: FRANCE
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2024-08-16
+Cash Balance: 2681791.41
+Account Total: 2681791.41
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 7769.310
+Target Total Return (Start->Latest): 316.81%
+Target Annualized Return (CAGR): 4.72%
+Target Max Drawdown: -65.29%
+Target Max Drawdown Period: 2000-09-04 (Close=6922.330) -> 2003-03-12 (Close=2403.040) (640 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.31%
+Max Drawdown: -48.55%
+Max Drawdown Period: 2002-03-28 (Account total=969432.35) -> 2003-03-12 (Account total=498726.47) (243 trading days)
+
+Annual Returns (from first buy):
+  1995: -0.57%
+  1996: 23.56%
+  1997: 29.36%
+  1998: 11.34%
+  1999: 51.06%
+  2000: 5.31%
+  2001: 12.81%
+  2002: -33.62%
+  2003: 16.03%
+  2004: 7.36%
+  2005: 23.29%
+  2006: 5.17%
+  2007: 0.00%
+  2008: -27.41%
+  2009: 22.29%
+  2010: -3.34%
+  2011: 1.58%
+  2012: 15.18%
+  2013: 17.94%
+  2014: 1.88%
+  2015: 0.37%
+  2016: 4.84%
+  2017: 9.24%
+  2018: -1.00%
+  2019: 0.00%
+  2020: 27.89%
+  2021: 28.82%
+  2022: 0.55%
+  2023: 16.51%
+  2024: -1.30%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FRANCE
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

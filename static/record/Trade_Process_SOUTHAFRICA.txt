@@ -1,0 +1,85 @@
+=== Trade Process ===
+2012-02-08 00:00:00 Initial Buy SOUTHAFRICA, Price: 34226.73, Quantity: 8, Cash Balance: 26186.16
+2013-04-23 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 6.9241, Deri_MMRatio: -0.001896, Price: 38742.43, Quantity: 8, Holding Days: 304, P/L: 13.19%, Account Total: 336125.60
+2013-07-01 00:00:00 Buy SOUTHAFRICA, Price: 39932.828, Quantity: 8, Cash Balance: 16662.98
+2014-08-04 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 7.4017, Deri_MMRatio: -0.001401, Price: 51239.559, Quantity: 8, Holding Days: 277, P/L: 28.31%, Account Total: 426579.45
+2014-10-21 00:00:00 Buy SOUTHAFRICA, Price: 48530.469, Quantity: 8, Cash Balance: 38335.70
+2018-01-03 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 5.0958, Deri_MMRatio: -0.000533, Price: 59629.641, Quantity: 8, Holding Days: 810, P/L: 22.87%, Account Total: 515372.82
+2018-02-15 00:00:00 Buy SOUTHAFRICA, Price: 59533.102, Quantity: 8, Cash Balance: 39108.01
+2018-02-19 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 5.3394, Deri_MMRatio: -0.002595, Price: 58701.371, Quantity: 8, Holding Days: 2, P/L: -1.40%, Account Total: 508718.98
+2018-04-10 00:00:00 Buy SOUTHAFRICA, Price: 56747.238, Quantity: 8, Cash Balance: 54741.07
+2021-05-05 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 11.3836, Deri_MMRatio: -0.001805, Price: 67346.188, Quantity: 8, Holding Days: 767, P/L: 18.68%, Account Total: 593510.58
+2021-07-28 00:00:00 Buy SOUTHAFRICA, Price: 68525.539, Quantity: 8, Cash Balance: 45306.26
+2023-09-14 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 5.2848, Deri_MMRatio: 0.000440, Price: 74354.367, Quantity: 8, Holding Days: 533, P/L: 8.51%, Account Total: 640141.20
+2023-11-03 00:00:00 Buy SOUTHAFRICA, Price: 72856.18, Quantity: 8, Cash Balance: 57291.76
+2025-02-03 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 5.8074, Deri_MMRatio: -0.000033, Price: 85490.141, Quantity: 8, Holding Days: 310, P/L: 17.34%, Account Total: 741212.89
+2025-03-19 00:00:00 Buy SOUTHAFRICA, Price: 90149.688, Quantity: 8, Cash Balance: 20015.38
+2025-03-26 00:00:00 Cond1 sell SOUTHAFRICA, Accu_MMRatio: 5.9597, Deri_MMRatio: 0.000886, Price: 89926.531, Quantity: 8, Holding Days: 4, P/L: -0.25%, Account Total: 739427.63
+2025-07-21 00:00:00 Buy SOUTHAFRICA, Price: 99653.781, Quantity: 7, Cash Balance: 41851.17
+
+=== Account Position Information ===
+Code: SOUTHAFRICA
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: SOUTHAFRICA
+  Holding Quantity: 7
+  Current Price: 126583.80
+  Holding Value: 886086.58
+  Buy Date: 2025-07-22
+  Holding Days: 152
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 41851.17
+Account Total: 927937.74
+Date Of Trading Start: 2012-02-09
+
+Target Latest Close : 126583.797
+Target Total Return (Start->Latest): 269.84%
+Target Annualized Return (CAGR): 9.76%
+Target Max Drawdown: -38.46%
+Target Max Drawdown Period: 2018-01-25 (Close=61684.770) -> 2020-03-19 (Close=37963.012) (537 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.36%
+Max Drawdown: -33.13%
+Max Drawdown Period: 2018-08-29 (Account total=536065.17) -> 2020-03-19 (Account total=358445.17) (389 trading days)
+
+Annual Returns (from first buy):
+  2012: 13.27%
+  2013: 13.68%
+  2014: 12.87%
+  2015: 1.69%
+  2016: -0.07%
+  2017: 15.96%
+  2018: -7.34%
+  2019: 7.30%
+  2020: 3.64%
+  2021: 19.81%
+  2022: -0.83%
+  2023: 6.79%
+  2024: 8.57%
+  2025: 16.80%
+  2026: 8.83%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SOUTHAFRICA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

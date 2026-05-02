@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SKYY
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: SKYY
+  Holding Quantity: 15110
+  Current Price: 124.39
+  Holding Value: 1879532.90
+  Buy Date: 2025-06-09
+  Holding Days: 225
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 79.89
+Account Total: 1879612.79
+Date Of Trading Start: 2011-07-07
+
+Target Latest Close : 124.390
+Target Total Return (Start->Latest): 538.09%
+Target Annualized Return (CAGR): 13.32%
+Target Max Drawdown: -53.20%
+Target Max Drawdown Period: 2021-11-16 (Close=118.602) -> 2022-12-28 (Close=55.500) (280 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.49%
+Max Drawdown: -33.00%
+Max Drawdown Period: 2020-02-19 (Account total=842870.22) -> 2020-03-16 (Account total=564699.48) (18 trading days)

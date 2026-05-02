@@ -1,0 +1,104 @@
+=== Trade Process ===
+2006-04-10 00:00:00 Initial Buy WTI_PRIMARY, Price: 546.56, Quantity: 548, Cash Balance: 485.12
+2007-08-29 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -1.4459, Deri_MMRatio: -0.001774, Price: 442.0, Quantity: 548, Holding Days: 349, P/L: -19.13%, Account Total: 242701.12
+2008-12-29 00:00:00 Buy WTI_PRIMARY, Price: 239.04, Quantity: 1015, Cash Balance: 75.52
+2009-03-24 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -34.6293, Deri_MMRatio: 0.010587, Price: 248.0, Quantity: 1015, Holding Days: 58, P/L: 3.75%, Account Total: 251795.52
+2009-10-14 00:00:00 Buy WTI_PRIMARY, Price: 310.64, Quantity: 810, Cash Balance: 177.12
+2009-11-05 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -3.8464, Deri_MMRatio: 0.000028, Price: 319.2, Quantity: 810, Holding Days: 16, P/L: 2.76%, Account Total: 258729.12
+2010-08-03 00:00:00 Buy WTI_PRIMARY, Price: 295.28, Quantity: 876, Cash Balance: 63.84
+2012-04-19 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: 0.3787, Deri_MMRatio: -0.002386, Price: 316.08, Quantity: 876, Holding Days: 432, P/L: 7.04%, Account Total: 276949.92
+2012-06-29 00:00:00 Buy WTI_PRIMARY, Price: 251.44, Quantity: 1101, Cash Balance: 114.48
+2012-08-06 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: 0.1042, Deri_MMRatio: 0.002826, Price: 277.12, Quantity: 1101, Holding Days: 25, P/L: 10.21%, Account Total: 305223.60
+2013-04-25 00:00:00 Buy WTI_PRIMARY, Price: 265.68, Quantity: 1148, Cash Balance: 222.96
+2013-06-06 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -0.8405, Deri_MMRatio: 0.001883, Price: 267.2, Quantity: 1148, Holding Days: 29, P/L: 0.57%, Account Total: 306968.56
+2015-01-30 00:00:00 Buy WTI_PRIMARY, Price: 147.2, Quantity: 2085, Cash Balance: 56.56
+2015-05-05 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -34.2723, Deri_MMRatio: 0.011056, Price: 169.92, Quantity: 2085, Holding Days: 65, P/L: 15.43%, Account Total: 354339.76
+2015-08-27 00:00:00 Buy WTI_PRIMARY, Price: 110.64, Quantity: 3202, Cash Balance: 70.48
+2016-06-08 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -20.9743, Deri_MMRatio: 0.006419, Price: 97.52, Quantity: 3202, Holding Days: 196, P/L: -11.86%, Account Total: 312329.52
+2016-09-22 00:00:00 Buy WTI_PRIMARY, Price: 83.92, Quantity: 3721, Cash Balance: 63.20
+2016-10-06 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -0.8972, Deri_MMRatio: 0.000087, Price: 91.92, Quantity: 3721, Holding Days: 10, P/L: 9.53%, Account Total: 342097.52
+2017-06-30 00:00:00 Buy WTI_PRIMARY, Price: 76.4, Quantity: 4477, Cash Balance: 54.72
+2018-07-30 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: 20.0135, Deri_MMRatio: 0.000648, Price: 115.04, Quantity: 4477, Holding Days: 271, P/L: 50.58%, Account Total: 515088.80
+2019-01-04 00:00:00 Buy WTI_PRIMARY, Price: 82.16, Quantity: 6269, Cash Balance: 27.76
+2019-12-27 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -0.9950, Deri_MMRatio: 0.002344, Price: 104.08, Quantity: 6269, Holding Days: 247, P/L: 26.68%, Account Total: 652505.28
+2020-05-11 00:00:00 Buy WTI_PRIMARY, Price: 21.4, Quantity: 30490, Cash Balance: 19.28
+2020-05-21 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -21.7219, Deri_MMRatio: 0.010229, Price: 26.09, Quantity: 30490, Holding Days: 8, P/L: 21.92%, Account Total: 795503.38
+2020-09-16 00:00:00 Buy WTI_PRIMARY, Price: 28.57, Quantity: 27844, Cash Balance: 0.30
+2021-02-17 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -4.2935, Deri_MMRatio: 0.004546, Price: 41.09, Quantity: 27844, Holding Days: 105, P/L: 43.82%, Account Total: 1144110.26
+2022-12-14 00:00:00 Buy WTI_PRIMARY, Price: 66.9, Quantity: 17101, Cash Balance: 53.36
+2023-11-28 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -0.8635, Deri_MMRatio: -0.003561, Price: 72.12, Quantity: 17101, Holding Days: 239, P/L: 7.80%, Account Total: 1233377.48
+2024-08-12 00:00:00 Buy WTI_PRIMARY, Price: 78.38, Quantity: 15735, Cash Balance: 68.18
+2026-03-06 00:00:00 Cond1 sell WTI_PRIMARY, Accu_MMRatio: -8.2889, Deri_MMRatio: 0.010885, Price: 119.42, Quantity: 15735, Holding Days: 394, P/L: 52.36%, Account Total: 1879141.88
+
+=== Account Position Information ===
+Code: WTI_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-06
+Cash Balance: 1879141.88
+Account Total: 1879141.88
+Date Of Trading Start: 2006-04-11
+
+Target Latest Close : 142.800
+Target Total Return (Start->Latest): -73.76%
+Target Annualized Return (CAGR): -6.45%
+Target Max Drawdown: -98.19%
+Target Max Drawdown Period: 2008-07-14 (Close=939.840) -> 2020-04-28 (Close=17.040) (2968 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.59%
+Max Drawdown: -50.37%
+Max Drawdown Period: 2015-10-08 (Account total=410951.12) -> 2016-02-10 (Account total=203973.84) (85 trading days)
+
+Annual Returns (from first buy):
+  2006: -24.30%
+  2007: 7.06%
+  2008: 10.77%
+  2009: -3.76%
+  2010: 5.66%
+  2011: -2.28%
+  2012: 14.26%
+  2013: 0.57%
+  2014: 0.00%
+  2015: -8.18%
+  2016: 21.38%
+  2017: 25.76%
+  2018: 19.73%
+  2019: 26.68%
+  2020: 40.86%
+  2021: 24.48%
+  2022: 4.80%
+  2023: 2.87%
+  2024: -3.61%
+  2025: -8.46%
+  2026: 72.67%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = WTI
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 40
+PPP = 1.04
+QQQ = 10
+MedMax2 = 0.2
+Accu2 = 20.0
+Deri2 = 0.01
+Trend2 = 0.315
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.012
+Trend1 = -99.0
+date_start_backtest = 2006-04-10

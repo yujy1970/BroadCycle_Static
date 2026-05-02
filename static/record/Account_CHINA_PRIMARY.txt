@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CHINA_PRIMARY
+Current Date: 2026-03-27 16:00
+Mode: Etf Data
+Current Position: CHINA_PRIMARY
+  Holding Quantity: 16351
+  Current Price: 55.04
+  Holding Value: 899959.04
+  Buy Date: 2024-09-25
+  Holding Days: 361
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 11.79
+Account Total: 899970.83
+Date Of Trading Start: 2011-04-07
+
+Target Latest Close : 55.040
+Target Total Return (Start->Latest): 21.33%
+Target Annualized Return (CAGR): 1.30%
+Target Max Drawdown: -62.95%
+Target Max Drawdown Period: 2021-02-17 (Close=96.045) -> 2022-10-31 (Close=35.580) (430 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.65%
+Max Drawdown: -29.77%
+Max Drawdown Period: 2018-01-26 (Account total=635897.63) -> 2018-10-29 (Account total=446581.89) (180 trading days)

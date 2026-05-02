@@ -1,0 +1,116 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy HUNGARY_PRIMARY, Price: 21.021, Quantity: 14271, Cash Balance: 9.31
+2005-03-04 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 12.4877, Deri_MMRatio: 0.002516, Price: 20.37, Quantity: 14271, Holding Days: 5, P/L: -3.10%, Account Total: 290709.58
+2005-05-24 00:00:00 Buy HUNGARY_PRIMARY, Price: 13.654, Quantity: 21291, Cash Balance: 2.27
+2005-05-27 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 14.7640, Deri_MMRatio: -0.002205, Price: 13.436, Quantity: 21291, Holding Days: 3, P/L: -1.60%, Account Total: 286068.14
+2005-07-27 00:00:00 Buy HUNGARY_PRIMARY, Price: 16.269, Quantity: 17583, Cash Balance: 10.31
+2005-10-28 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 16.6980, Deri_MMRatio: -0.005690, Price: 14.664, Quantity: 17583, Holding Days: 67, P/L: -9.87%, Account Total: 257847.43
+2006-01-04 00:00:00 Buy HUNGARY_PRIMARY, Price: 12.39, Quantity: 20810, Cash Balance: 11.53
+2006-09-22 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.1387, Deri_MMRatio: 0.001787, Price: 13.198, Quantity: 20810, Holding Days: 183, P/L: 6.52%, Account Total: 274661.91
+2006-12-07 00:00:00 Buy HUNGARY_PRIMARY, Price: 13.364, Quantity: 20552, Cash Balance: 4.98
+2009-05-21 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -21.8904, Deri_MMRatio: 0.006410, Price: 4.862, Quantity: 20552, Holding Days: 607, P/L: -63.62%, Account Total: 99928.80
+2009-12-29 00:00:00 Buy HUNGARY_PRIMARY, Price: 8.234, Quantity: 12136, Cash Balance: 0.98
+2010-01-18 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 20.1244, Deri_MMRatio: 0.001463, Price: 8.827, Quantity: 12136, Holding Days: 13, P/L: 7.20%, Account Total: 107125.45
+2010-06-02 00:00:00 Buy HUNGARY_PRIMARY, Price: 7.354, Quantity: 14566, Cash Balance: 7.09
+2011-05-02 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.3798, Deri_MMRatio: 0.001926, Price: 15.167, Quantity: 14566, Holding Days: 232, P/L: 106.24%, Account Total: 220929.61
+2011-10-05 00:00:00 Buy HUNGARY_PRIMARY, Price: 6.805, Quantity: 32465, Cash Balance: 5.28
+2012-09-14 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.4659, Deri_MMRatio: 0.002301, Price: 12.358, Quantity: 32465, Holding Days: 236, P/L: 81.60%, Account Total: 401207.75
+2012-11-30 00:00:00 Buy HUNGARY_PRIMARY, Price: 12.594, Quantity: 31857, Cash Balance: 0.70
+2013-02-28 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 0.0815, Deri_MMRatio: -0.001371, Price: 13.054, Quantity: 31857, Holding Days: 59, P/L: 3.65%, Account Total: 415861.97
+2013-05-28 00:00:00 Buy HUNGARY_PRIMARY, Price: 14.606, Quantity: 28471, Cash Balance: 14.55
+2013-11-07 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.0835, Deri_MMRatio: 0.001254, Price: 17.377, Quantity: 28471, Holding Days: 113, P/L: 18.97%, Account Total: 494755.11
+2014-01-13 00:00:00 Buy HUNGARY_PRIMARY, Price: 17.885, Quantity: 27663, Cash Balance: 2.36
+2014-02-17 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.0543, Deri_MMRatio: -0.000404, Price: 18.344, Quantity: 27663, Holding Days: 25, P/L: 2.57%, Account Total: 507452.43
+2014-05-07 00:00:00 Buy HUNGARY_PRIMARY, Price: 20.084, Quantity: 25266, Cash Balance: 10.09
+2015-04-10 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.2172, Deri_MMRatio: 0.002567, Price: 17.911, Quantity: 25266, Holding Days: 230, P/L: -10.82%, Account Total: 452549.41
+2015-07-16 00:00:00 Buy HUNGARY_PRIMARY, Price: 17.072, Quantity: 26508, Cash Balance: 4.84
+2015-10-08 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 7.3146, Deri_MMRatio: 0.000437, Price: 10.675, Quantity: 26508, Holding Days: 58, P/L: -37.47%, Account Total: 282977.74
+2016-01-27 00:00:00 Buy HUNGARY_PRIMARY, Price: 7.377, Quantity: 38359, Cash Balance: 3.39
+2016-02-04 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 9.9541, Deri_MMRatio: -0.001200, Price: 7.657, Quantity: 38359, Holding Days: 6, P/L: 3.80%, Account Total: 293718.26
+2016-04-15 00:00:00 Buy HUNGARY_PRIMARY, Price: 11.77, Quantity: 24954, Cash Balance: 9.68
+2019-01-30 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.2600, Deri_MMRatio: -0.000147, Price: 19.89, Quantity: 24954, Holding Days: 697, P/L: 68.99%, Account Total: 496344.74
+2019-10-14 00:00:00 Buy HUNGARY_PRIMARY, Price: 20.951, Quantity: 23690, Cash Balance: 15.55
+2021-01-11 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -6.6388, Deri_MMRatio: 0.002729, Price: 27.112, Quantity: 23690, Holding Days: 306, P/L: 29.41%, Account Total: 642298.83
+2021-08-02 00:00:00 Buy HUNGARY_PRIMARY, Price: 25.006, Quantity: 25685, Cash Balance: 19.72
+2021-10-20 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 13.0508, Deri_MMRatio: -0.000367, Price: 31.79, Quantity: 25685, Holding Days: 56, P/L: 27.13%, Account Total: 816545.87
+2022-01-03 00:00:00 Buy HUNGARY_PRIMARY, Price: 34.962, Quantity: 23355, Cash Balance: 8.36
+2023-03-07 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: -0.4241, Deri_MMRatio: -0.003680, Price: 28.41, Quantity: 23355, Holding Days: 298, P/L: -18.74%, Account Total: 663523.91
+2023-05-03 00:00:00 Buy HUNGARY_PRIMARY, Price: 26.19, Quantity: 25335, Cash Balance: 0.26
+2023-10-24 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 9.6296, Deri_MMRatio: -0.002259, Price: 23.01, Quantity: 25335, Holding Days: 122, P/L: -12.14%, Account Total: 582958.61
+2023-12-14 00:00:00 Buy HUNGARY_PRIMARY, Price: 25.79, Quantity: 22604, Cash Balance: 1.45
+2024-04-25 00:00:00 Cond1 sell HUNGARY_PRIMARY, Accu_MMRatio: 12.9016, Deri_MMRatio: -0.001143, Price: 23.76, Quantity: 22604, Holding Days: 89, P/L: -7.87%, Account Total: 537072.49
+2024-11-07 00:00:00 Buy HUNGARY_PRIMARY, Price: 20.85, Quantity: 25758, Cash Balance: 18.19
+
+=== Account Position Information ===
+Code: HUNGARY_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: HUNGARY_PRIMARY
+  Holding Quantity: 25758
+  Current Price: 12.03
+  Holding Value: 309868.74
+  Buy Date: 2024-11-08
+  Holding Days: 330
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 18.19
+Account Total: 309886.93
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 12.550
+Target Total Return (Start->Latest): -39.04%
+Target Annualized Return (CAGR): -2.32%
+Target Max Drawdown: -92.61%
+Target Max Drawdown Period: 2005-02-28 (Close=20.628) -> 2009-02-23 (Close=1.524) (1003 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 0.24%
+Max Drawdown: -92.48%
+Max Drawdown Period: 2007-07-09 (Account total=416799.54) -> 2009-02-23 (Account total=31326.23) (403 trading days)
+
+Annual Returns (from first buy):
+  2005: -12.41%
+  2006: 9.22%
+  2007: 33.62%
+  2008: -86.43%
+  2009: 93.77%
+  2010: 65.95%
+  2011: 47.21%
+  2012: 57.67%
+  2013: 29.79%
+  2014: -4.63%
+  2015: -40.03%
+  2016: 43.63%
+  2017: 77.85%
+  2018: -41.37%
+  2019: 23.63%
+  2020: 8.61%
+  2021: 43.48%
+  2022: -21.40%
+  2023: -11.49%
+  2024: -20.32%
+  2025: -42.12%
+  2026: 18.29%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = HUNGARY
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 0.12
+Accu2 = 20.0
+Deri2 = 99.0
+Trend2 = 0.42
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

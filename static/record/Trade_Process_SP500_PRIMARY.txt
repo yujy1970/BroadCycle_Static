@@ -1,0 +1,110 @@
+=== Trade Process ===
+1993-01-29 00:00:00 Initial Buy SP500_PRIMARY, Price: 43.969, Quantity: 6822, Cash Balance: 43.48
+1993-02-04 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 21.9532, Deri_MMRatio: 0.000158, Price: 44.969, Quantity: 6822, Holding Days: 4, P/L: 2.27%, Account Total: 306822.00
+1993-03-02 00:00:00 Buy SP500_PRIMARY, Price: 45.0, Quantity: 6818, Cash Balance: 12.00
+1996-09-20 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 45.9743, Deri_MMRatio: 0.001589, Price: 68.469, Quantity: 6818, Holding Days: 900, P/L: 52.15%, Account Total: 466833.64
+1996-10-04 00:00:00 Buy SP500_PRIMARY, Price: 70.312, Quantity: 6639, Cash Balance: 32.27
+1998-07-02 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 61.0782, Deri_MMRatio: -0.000137, Price: 114.781, Quantity: 6639, Holding Days: 439, P/L: 63.25%, Account Total: 762063.33
+1998-08-18 00:00:00 Buy SP500_PRIMARY, Price: 111.094, Quantity: 6859, Cash Balance: 69.59
+2001-05-22 00:00:00 Cond3 sell SP500_PRIMARY, Accu_MMRatio: 2.6378, Deri_MMRatio: 0.002874, Price: 131.05, Quantity: 6859, Holding Days: 696, P/L: 17.96%, Account Total: 898941.54
+2001-09-28 00:00:00 Buy SP500_PRIMARY, Price: 103.9, Quantity: 8651, Cash Balance: 102.64
+2007-10-12 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 26.1830, Deri_MMRatio: 0.002281, Price: 156.27, Quantity: 8651, Holding Days: 1520, P/L: 50.40%, Account Total: 1351994.41
+2007-11-28 00:00:00 Buy SP500_PRIMARY, Price: 146.62, Quantity: 9221, Cash Balance: 11.39
+2008-08-14 00:00:00 Cond3 sell SP500_PRIMARY, Accu_MMRatio: 2.1695, Deri_MMRatio: -0.000843, Price: 129.93, Quantity: 9221, Holding Days: 179, P/L: -11.38%, Account Total: 1198095.92
+2008-11-24 00:00:00 Buy SP500_PRIMARY, Price: 87.3, Quantity: 13723, Cash Balance: 78.02
+2011-09-02 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 37.2306, Deri_MMRatio: -0.004068, Price: 114.39, Quantity: 13723, Holding Days: 699, P/L: 31.03%, Account Total: 1569851.99
+2011-10-06 00:00:00 Buy SP500_PRIMARY, Price: 117.17, Quantity: 13398, Cash Balance: 8.33
+2014-10-08 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 39.8728, Deri_MMRatio: -0.000223, Price: 196.33, Quantity: 13398, Holding Days: 755, P/L: 67.56%, Account Total: 2630437.67
+2014-10-21 00:00:00 Buy SP500_PRIMARY, Price: 194.41, Quantity: 13530, Cash Balance: 70.37
+2022-03-02 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 54.6144, Deri_MMRatio: -0.003360, Price: 440.47, Quantity: 13530, Holding Days: 1853, P/L: 126.57%, Account Total: 5959629.47
+2022-03-16 00:00:00 Buy SP500_PRIMARY, Price: 433.59, Quantity: 13744, Cash Balance: 368.51
+2023-01-13 00:00:00 Cond3 sell SP500_PRIMARY, Accu_MMRatio: 2.1628, Deri_MMRatio: -0.000159, Price: 398.48, Quantity: 13744, Holding Days: 209, P/L: -8.10%, Account Total: 5477077.63
+2023-06-02 00:00:00 Buy SP500_PRIMARY, Price: 428.28, Quantity: 12788, Cash Balance: 232.99
+2025-04-14 00:00:00 Cond1 sell SP500_PRIMARY, Accu_MMRatio: 47.7185, Deri_MMRatio: -0.004037, Price: 539.67, Quantity: 12788, Holding Days: 467, P/L: 26.01%, Account Total: 6901532.95
+2025-04-24 00:00:00 Buy SP500_PRIMARY, Price: 546.65, Quantity: 12625, Cash Balance: 76.70
+
+=== Account Position Information ===
+Code: SP500_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: SP500_PRIMARY
+  Holding Quantity: 12625
+  Current Price: 720.65
+  Holding Value: 9098206.25
+  Buy Date: 2025-04-25
+  Holding Days: 255
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 76.70
+Account Total: 9098282.95
+Date Of Trading Start: 1993-02-01
+
+Target Latest Close : 720.650
+Target Total Return (Start->Latest): 2880.97%
+Target Annualized Return (CAGR): 10.75%
+Target Max Drawdown: -55.19%
+Target Max Drawdown Period: 2007-10-09 (Close=111.154) -> 2009-03-09 (Close=49.809) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 12.80%
+Max Drawdown: -51.14%
+Max Drawdown Period: 2001-05-22 (Account total=898941.54) -> 2002-10-09 (Account total=439236.05) (345 trading days)
+
+Annual Returns (from first buy):
+  1993: 7.86%
+  1994: 0.40%
+  1995: 38.05%
+  1996: 19.29%
+  1997: 33.47%
+  1998: 32.96%
+  1999: 20.39%
+  2000: -9.74%
+  2001: 11.30%
+  2002: -21.58%
+  2003: 28.18%
+  2004: 10.70%
+  2005: 4.83%
+  2006: 15.84%
+  2007: 12.06%
+  2008: -5.93%
+  2009: 26.35%
+  2010: 15.05%
+  2011: -0.52%
+  2012: 15.99%
+  2013: 32.31%
+  2014: 14.58%
+  2015: 1.23%
+  2016: 12.00%
+  2017: 21.71%
+  2018: -4.57%
+  2019: 31.22%
+  2020: 18.33%
+  2021: 28.73%
+  2022: -16.88%
+  2023: 17.40%
+  2024: 24.89%
+  2025: 16.22%
+  2026: 5.97%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SP500
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.015
+QQQ = 40
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.21
+date_start_backtest = 1993-01-29

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ARKK
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: ARKK
+  Holding Quantity: 55665
+  Current Price: 76.92
+  Holding Value: 4281751.80
+  Buy Date: 2026-02-27
+  Holding Days: 44
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 69.80
+Account Total: 4281821.60
+Date Of Trading Start: 2014-11-03
+
+Target Latest Close : 76.920
+Target Total Return (Start->Latest): 318.23%
+Target Annualized Return (CAGR): 13.25%
+Target Max Drawdown: -80.91%
+Target Max Drawdown Period: 2021-02-12 (Close=154.014) -> 2022-12-28 (Close=29.395) (472 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 27.22%
+Max Drawdown: -42.54%
+Max Drawdown Period: 2020-02-19 (Account total=974536.43) -> 2020-03-18 (Account total=560004.12) (20 trading days)

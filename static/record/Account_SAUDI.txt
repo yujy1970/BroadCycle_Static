@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SAUDI
+Current Date: 2026-03-12 16:00
+Mode: Index Data
+Current Position: SAUDI
+  Holding Quantity: 149
+  Current Price: 10893.27
+  Holding Value: 1623097.23
+  Buy Date: 2025-06-25
+  Holding Days: 184
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2823.23
+Account Total: 1625920.46
+Date Of Trading Start: 2001-07-15
+
+Target Latest Close : 10893.270
+Target Total Return (Start->Latest): 349.58%
+Target Annualized Return (CAGR): 6.28%
+Target Max Drawdown: -79.98%
+Target Max Drawdown Period: 2006-02-23 (Close=20625.000) -> 2009-03-09 (Close=4130.010) (724 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.09%
+Max Drawdown: -55.50%
+Max Drawdown Period: 2008-01-12 (Account total=1687665.64) -> 2016-10-03 (Account total=750949.67) (2176 trading days)

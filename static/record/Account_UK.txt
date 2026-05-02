@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: UK
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-12-29
+Cash Balance: 1389646.28
+Account Total: 1389646.28
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 9972.170
+Target Total Return (Start->Latest): 217.27%
+Target Annualized Return (CAGR): 3.80%
+Target Max Drawdown: -52.57%
+Target Max Drawdown Period: 1999-12-30 (Close=6930.200) -> 2003-03-12 (Close=3287.000) (807 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.04%
+Max Drawdown: -45.49%
+Max Drawdown Period: 2000-09-04 (Account total=595868.20) -> 2002-07-24 (Account total=324797.20) (476 trading days)

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BRAZIL_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: BRAZIL_PRIMARY
+  Holding Quantity: 9862
+  Current Price: 39.70
+  Holding Value: 391521.40
+  Buy Date: 2025-07-07
+  Holding Days: 204
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 23.99
+Account Total: 391545.39
+Date Of Trading Start: 2000-07-17
+
+Target Latest Close : 39.430
+Target Total Return (Start->Latest): 449.39%
+Target Annualized Return (CAGR): 6.83%
+Target Max Drawdown: -77.25%
+Target Max Drawdown Period: 2008-05-20 (Close=45.620) -> 2016-01-21 (Close=10.379) (1931 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.89%
+Max Drawdown: -88.89%
+Max Drawdown Period: 2008-05-20 (Account total=1027521.51) -> 2020-03-23 (Account total=114127.01) (2928 trading days)

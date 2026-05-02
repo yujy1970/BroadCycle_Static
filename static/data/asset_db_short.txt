@@ -1,0 +1,62 @@
+{
+  "ARKK": {
+    "index": {
+      "name": "ARK Innovation ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "arkk.us",
+        "yahoo": "ARKK"
+      },
+      "rank_id": 211,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=arkk.us",
+      "sector": "Multi Asset"
+    },
+    "etfs": []
+  },
+  "IBIT": {
+    "index": {
+      "name": "iShares Bitcoin Trust",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "ibit.us",
+        "yahoo": "IBIT"
+      },
+      "rank_id": 220,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=ibit.us",
+      "sector": "Multi Asset"
+    },
+    "etfs": []
+  },
+  "FBTC": {
+    "index": {
+      "name": "Fidelity Wise Origin Bitcoin Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "fbtc.us",
+        "yahoo": "FBTC"
+      },
+      "rank_id": 221,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=fbtc.us",
+      "sector": "Multi Asset"
+    },
+    "etfs": []
+  }
+}

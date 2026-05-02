@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>BroadCycle · Message Board</title>
+  <link rel="stylesheet" href="/static/css/site.css"/>
+  
+  <style>
+    .app{display:flex;min-height:100vh;width:100%}
+    .main{flex:1}
+    .wrap{max-width:1100px;margin:0 auto;padding:16px}
+    .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 10px;font-size:14px;cursor:pointer}
+    .overlay{position:fixed;inset:0;background:rgba(0,0,0,.28);display:none;z-index:50}
+    .overlay.open{display:block}
+    .overlay-panel{position:absolute;right:10px;top:10px;width:min(340px, calc(100% - 20px));background:#fff;border-radius:14px;border:1px solid var(--line);box-shadow:0 10px 30px rgba(0,0,0,.12);padding:10px}
+    .overlay-panel a{display:block;padding:10px 10px;border-radius:10px;color:var(--text);text-decoration:none}
+    .overlay-panel a:hover{background:#f5f5f5}
+    @media (max-width: 900px){
+      .sidebar{display:none}
+      .menu-btn{display:inline-block}
+      .mobile-brand-header{display:flex}
+    }
+    .mobile-brand-header{display:none;align-items:flex-start;justify-content:space-between;gap:12px;padding:8px 16px 6px;background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:8}
+    .mobile-brand-header .brand{margin:0;min-height:54px;flex:1;overflow:visible}
+    .mobile-brand-header .brand::before{left:-2px;top:-8px;width:180px;height:110px;opacity:.95}
+    .mobile-brand-header .logo{font-size:22px;padding-top:6px}
+    .mobile-brand-header .logo-slogan{font-size:12px;padding-left:2px}
+    .msg{padding:8px 10px;border-bottom:1px solid var(--line);border-radius:8px}
+    .msg.active{background:rgba(37,99,235,0.08);outline:1px solid rgba(37,99,235,0.25)}
+    .msg-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:4px}
+    .msg-who{font-size:13px;color:var(--text)}
+    .msg-time{font-size:12px;color:var(--muted);margin-left:6px}
+    .msg-body{font-size:14px;line-height:1.45;white-space:pre-wrap;word-break:break-word}
+    .msg-del{display:none}
+    @media (max-width:900px){ #mbForm .row{flex-direction:column} #mbName{flex-basis:auto;width:100%} #mbSend{align-self:flex-end} }
+  </style>
+</head>
+<body>
+<div class="app">
+  
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Research demo — not investment advice</div>
+        </div>
+      </div>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    <a class="nav-item " href="/Home/Introduction/">Introduction</a>
+    <a class="nav-item " href="/Home/Explorer/">Global Explorer</a>
+    <a class="nav-item " href="/Home/Combination/">Combination Strategy</a>
+    <a class="nav-item " href="/Home/Portfolio/">Portfolio</a>
+    <a class="nav-item active" href="/Home/MessageBoard/">Message Board</a>
+    <a class="nav-item " href="/Home/Contacts/">Contact us</a>
+  </nav>
+</aside>
+
+  <main class="main">
+    <header class="header" style="position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);z-index:5">
+      <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+        <div style="font-weight:700">Message Board</div>
+        <button class="menu-btn" id="bcMenuBtn">Menu</button>
+      </div>
+    </header>
+    
+<div class="mobile-brand-header">
+      <div class="brand">
+        <div class="logo-row">
+          <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+          <div>
+            <div class="logo">BroadCycle</div>
+            <div class="logo-slogan">Research demo — not investment advice</div>
+          </div>
+        </div>
+      </div>
+      <button class="menu-btn" id="bcMenuBtnMobile">Menu</button>
+    </div>
+
+<div class="wrap" style="max-width:980px">
+  <h1 style="font-size:22px;margin:10px 0 10px">Message Board</h1>
+  <p style="line-height:1.65;color:var(--text)">Please share your valuable comments and suggestions about this website. We will reply as soon as possible.</p>
+  <div class="card" style="padding:12px">
+    <div id="mbList" style="height:320px;overflow:auto;border:1px solid var(--line);border-radius:12px;padding:10px;background:#fff"></div>
+    <div id="mbStatus" class="muted small" style="margin:8px 2px 0"></div>
+    <form id="mbForm" style="margin-top:12px">
+      <div class="row" style="gap:8px;align-items:flex-start">
+        <input id="mbName" type="text" placeholder="Your name (optional)" style="flex:0 0 120px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit"/>
+        <textarea id="mbText" placeholder="Leave your message here" style="flex:1 1 360px;max-width:420px;min-width:260px;min-height:88px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit;resize:vertical"></textarea>
+        <button id="mbSend" type="submit" class="btn" style="flex:0 0 auto;align-self:flex-start;border:1px solid var(--line);background:#fff;border-radius:12px;padding:10px 14px;cursor:pointer;white-space:nowrap">Submit</button>
+      </div>
+      <div class="muted small" style="margin-top:6px">Press Enter to submit. Use Shift+Enter for a new line. Click a message, then press Delete to remove it with password.</div>
+    </form>
+  </div>
+</div>
+
+  </main>
+</div>
+
+<div class="overlay" id="bcOverlay" aria-hidden="true">
+  <div class="overlay-panel" role="dialog" aria-label="Menu">
+    <a href="/Home/Introduction/">Introduction</a>
+    <a href="/Home/Explorer/">Global Explorer</a>
+    <a href="/Home/Combination/">Combination Strategy</a>
+    <a href="/Home/Portfolio/">Portfolio</a>
+    <a href="/Home/MessageBoard/">Message Board</a>
+    <a href="/Home/Contacts/">Contact us</a>
+  </div>
+</div>
+
+<script>
+  window.addEventListener("load", () => {
+    const btn = document.getElementById("bcMenuBtn");
+    const ov  = document.getElementById("bcOverlay");
+    if (!btn || !ov) return;
+    btn.addEventListener("click", () => {
+      ov.classList.toggle("open");
+      ov.setAttribute("aria-hidden", ov.classList.contains("open") ? "false" : "true");
+    });
+    ov.addEventListener("click", (e) => { if (e.target === ov) ov.classList.remove("open"); });
+    window.addEventListener("keydown", (e) => { if (e.key === "Escape") ov.classList.remove("open"); });
+  });
+</script>
+<script defer src="/static/js/message_board.js"></script>
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

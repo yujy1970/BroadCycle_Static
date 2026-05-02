@@ -1,0 +1,92 @@
+=== Trade Process ===
+2011-03-03 00:00:00 Initial Buy ARGENTINA_PRIMARY, Price: 30.46, Quantity: 9848, Cash Balance: 29.92
+2013-07-03 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 14.6948, Deri_MMRatio: -0.005107, Price: 16.34, Quantity: 9848, Holding Days: 561, P/L: -46.36%, Account Total: 160946.24
+2013-09-03 00:00:00 Buy ARGENTINA_PRIMARY, Price: 18.4, Quantity: 8747, Cash Balance: 1.44
+2013-12-19 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 23.1559, Deri_MMRatio: -0.005416, Price: 19.94, Quantity: 8747, Holding Days: 74, P/L: 8.37%, Account Total: 174416.62
+2014-02-14 00:00:00 Buy ARGENTINA_PRIMARY, Price: 18.69, Quantity: 9332, Cash Balance: 1.54
+2014-08-15 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 26.9442, Deri_MMRatio: -0.001832, Price: 21.43, Quantity: 9332, Holding Days: 120, P/L: 14.66%, Account Total: 199986.30
+2014-10-20 00:00:00 Buy ARGENTINA_PRIMARY, Price: 19.55, Quantity: 10229, Cash Balance: 9.35
+2017-04-05 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 13.6215, Deri_MMRatio: -0.000174, Price: 28.49, Quantity: 10229, Holding Days: 597, P/L: 45.73%, Account Total: 291433.56
+2017-05-29 00:00:00 Buy ARGENTINA_PRIMARY, Price: 30.85, Quantity: 9446, Cash Balance: 24.46
+2017-06-08 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 14.5580, Deri_MMRatio: -0.000459, Price: 30.65, Quantity: 9446, Holding Days: 8, P/L: -0.65%, Account Total: 289544.36
+2017-08-14 00:00:00 Buy ARGENTINA_PRIMARY, Price: 29.36, Quantity: 9861, Cash Balance: 25.40
+2018-04-06 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 16.4101, Deri_MMRatio: -0.002465, Price: 35.88, Quantity: 9861, Holding Days: 154, P/L: 22.21%, Account Total: 353838.08
+2018-06-05 00:00:00 Buy ARGENTINA_PRIMARY, Price: 31.24, Quantity: 11326, Cash Balance: 13.84
+2020-10-15 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 13.3998, Deri_MMRatio: 0.000654, Price: 24.91, Quantity: 11326, Holding Days: 575, P/L: -20.26%, Account Total: 282144.50
+2021-02-08 00:00:00 Buy ARGENTINA_PRIMARY, Price: 31.26, Quantity: 9025, Cash Balance: 23.00
+2021-04-14 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 15.0981, Deri_MMRatio: -0.000302, Price: 30.06, Quantity: 9025, Holding Days: 42, P/L: -3.84%, Account Total: 271314.50
+2021-06-07 00:00:00 Buy ARGENTINA_PRIMARY, Price: 31.5, Quantity: 8613, Cash Balance: 5.00
+2022-04-19 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 20.1773, Deri_MMRatio: -0.000350, Price: 35.3, Quantity: 8613, Holding Days: 212, P/L: 12.06%, Account Total: 304043.90
+2022-07-01 00:00:00 Buy ARGENTINA_PRIMARY, Price: 24.52, Quantity: 12399, Cash Balance: 20.42
+2023-12-11 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 48.0742, Deri_MMRatio: 0.005453, Price: 50.77, Quantity: 12399, Holding Days: 352, P/L: 107.06%, Account Total: 629517.65
+2024-01-25 00:00:00 Buy ARGENTINA_PRIMARY, Price: 53.18, Quantity: 11837, Cash Balance: 25.99
+2024-04-04 00:00:00 Cond1 sell ARGENTINA_PRIMARY, Accu_MMRatio: 51.9241, Deri_MMRatio: -0.002224, Price: 54.61, Quantity: 11837, Holding Days: 44, P/L: 2.69%, Account Total: 646444.56
+2024-05-30 00:00:00 Buy ARGENTINA_PRIMARY, Price: 63.78, Quantity: 10135, Cash Balance: 34.26
+
+=== Account Position Information ===
+Code: ARGENTINA_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: ARGENTINA_PRIMARY
+  Holding Quantity: 10135
+  Current Price: 91.11
+  Holding Value: 923399.85
+  Buy Date: 2024-05-31
+  Holding Days: 467
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 34.26
+Account Total: 923434.11
+Date Of Trading Start: 2011-03-04
+
+Target Latest Close : 89.660
+Target Total Return (Start->Latest): 249.93%
+Target Annualized Return (CAGR): 8.61%
+Target Max Drawdown: -61.68%
+Target Max Drawdown Period: 2018-01-26 (Close=34.586) -> 2020-03-23 (Close=13.253) (541 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.96%
+Max Drawdown: -56.66%
+Max Drawdown Period: 2018-04-06 (Account total=353838.08) -> 2020-03-20 (Account total=153367.88) (477 trading days)
+
+Annual Returns (from first buy):
+  2011: -28.79%
+  2012: -18.51%
+  2013: 19.49%
+  2014: -2.54%
+  2015: -2.39%
+  2016: 27.56%
+  2017: 48.76%
+  2018: -24.11%
+  2019: 17.07%
+  2020: 0.86%
+  2021: -10.82%
+  2022: 60.85%
+  2023: 55.54%
+  2024: 32.54%
+  2025: 11.10%
+  2026: -0.38%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ARGENTINA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2011-03-03

@@ -1,0 +1,19 @@
+=== Account Position ( After hours ) ===
+Current date: 2026-04-27
+Mode: Index Data
+Current position: 399006
+  Position quantity: 2138
+  Current price: 3648.79
+  Position value: 7801113.02
+Cash balance: 1750.05
+Total account: 7802863.07
+
+=== Performance Summary ===
+Initial Capital: 300000.00
+Start Date: 2010-07-02
+End Date: 2026-04-27
+Return: 2500.95%
+CAGR: 22.87%
+Volatility: 20.21%
+Sharpe: 1.1638
+MaxDD: -28.60%

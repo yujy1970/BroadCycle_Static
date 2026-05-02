@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: UAE
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2021-11-18
+Cash Balance: 12285520.97
+Account Total: 12285520.97
+Date Of Trading Start: 2004-01-05
+
+Target Latest Close : 5766.850
+Target Total Return (Start->Latest): 476.69%
+Target Annualized Return (CAGR): 8.16%
+Target Max Drawdown: -84.66%
+Target Max Drawdown Period: 2005-11-09 (Close=8484.630) -> 2012-01-16 (Close=1301.240) (1237 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 18.07%
+Max Drawdown: -26.97%
+Max Drawdown Period: 2010-11-01 (Account total=5044829.44) -> 2012-01-16 (Account total=3684024.36) (239 trading days)

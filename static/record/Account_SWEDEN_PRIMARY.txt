@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SWEDEN_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: SWEDEN_PRIMARY
+  Holding Quantity: 26659
+  Current Price: 49.34
+  Holding Value: 1315355.06
+  Buy Date: 2024-12-04
+  Holding Days: 314
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 7.62
+Account Total: 1315362.68
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 47.310
+Target Total Return (Start->Latest): 235.46%
+Target Annualized Return (CAGR): 5.91%
+Target Max Drawdown: -70.63%
+Target Max Drawdown Period: 2007-07-12 (Close=26.107) -> 2009-03-05 (Close=7.668) (415 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.34%
+Max Drawdown: -70.75%
+Max Drawdown Period: 2007-07-12 (Account total=565150.82) -> 2009-03-05 (Account total=165309.21) (414 trading days)

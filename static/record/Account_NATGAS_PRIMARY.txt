@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NATGAS_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: NATGAS_PRIMARY
+  Holding Quantity: 16966
+  Current Price: 10.71
+  Holding Value: 181705.86
+  Buy Date: 2026-04-20
+  Holding Days: 9
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1.82
+Account Total: 181707.68
+Date Of Trading Start: 2007-04-19
+
+Target Latest Close : 10.710
+Target Total Return (Start->Latest): -99.84%
+Target Annualized Return (CAGR): -28.58%
+Target Max Drawdown: -99.88%
+Target Max Drawdown Period: 2008-07-01 (Close=8125.440) -> 2026-04-29 (Close=10.150) (4484 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: -2.63%
+Max Drawdown: -85.16%
+Max Drawdown Period: 2007-05-17 (Account total=319724.80) -> 2012-04-19 (Account total=47455.84) (1241 trading days)

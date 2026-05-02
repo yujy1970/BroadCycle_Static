@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CHINEXT_PRIMARY
+Current Date: 2026-03-27 16:00
+Mode: Etf Data
+Current Position: CHINEXT_PRIMARY
+  Holding Quantity: 1012449
+  Current Price: 3.29
+  Holding Value: 3333994.56
+  Buy Date: 2025-05-09
+  Holding Days: 215
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 0.12
+Account Total: 3333994.68
+Date Of Trading Start: 2011-12-12
+
+Target Latest Close : 3.293
+Target Total Return (Start->Latest): 313.17%
+Target Annualized Return (CAGR): 10.43%
+Target Max Drawdown: -69.58%
+Target Max Drawdown Period: 2015-06-03 (Close=3.790) -> 2018-10-18 (Close=1.153) (823 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 18.36%
+Max Drawdown: -24.78%
+Max Drawdown Period: 2011-12-19 (Account total=301898.73) -> 2012-12-03 (Account total=227088.77) (232 trading days)

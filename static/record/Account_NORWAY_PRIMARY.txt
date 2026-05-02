@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NORWAY_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: NORWAY_PRIMARY
+  Holding Quantity: 26550
+  Current Price: 34.10
+  Holding Value: 905355.00
+  Buy Date: 2026-01-19
+  Holding Days: 28
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 26.92
+Account Total: 905381.92
+Date Of Trading Start: 2013-03-06
+
+Target Latest Close : 35.000
+Target Total Return (Start->Latest): 79.99%
+Target Annualized Return (CAGR): 4.35%
+Target Max Drawdown: -57.59%
+Target Max Drawdown Period: 2014-06-06 (Close=28.612) -> 2020-03-18 (Close=12.135) (1454 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.92%
+Max Drawdown: -39.28%
+Max Drawdown Period: 2015-05-15 (Account total=377744.26) -> 2016-01-20 (Account total=229351.51) (173 trading days)

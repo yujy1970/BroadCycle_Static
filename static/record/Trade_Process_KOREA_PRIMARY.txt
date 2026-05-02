@@ -1,0 +1,98 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy KOREA_PRIMARY, Price: 29.163, Quantity: 10287, Cash Balance: 0.22
+2006-06-01 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 12.1247, Deri_MMRatio: -0.002353, Price: 39.307, Quantity: 10287, Holding Days: 316, P/L: 34.78%, Account Total: 404351.33
+2007-02-06 00:00:00 Buy KOREA_PRIMARY, Price: 42.079, Quantity: 9609, Cash Balance: 14.22
+2008-07-01 00:00:00 Cond3 sell KOREA_PRIMARY, Accu_MMRatio: 0.4369, Deri_MMRatio: -0.004432, Price: 42.704, Quantity: 9609, Holding Days: 342, P/L: 1.49%, Account Total: 410356.95
+2008-09-23 00:00:00 Buy KOREA_PRIMARY, Price: 35.224, Quantity: 11649, Cash Balance: 32.58
+2010-02-11 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 12.8799, Deri_MMRatio: -0.000891, Price: 38.249, Quantity: 11649, Holding Days: 350, P/L: 8.59%, Account Total: 445595.18
+2010-06-03 00:00:00 Buy KOREA_PRIMARY, Price: 37.911, Quantity: 11753, Cash Balance: 27.20
+2011-10-20 00:00:00 Cond3 sell KOREA_PRIMARY, Accu_MMRatio: 0.6788, Deri_MMRatio: 0.001669, Price: 44.907, Quantity: 11753, Holding Days: 345, P/L: 18.45%, Account Total: 527819.17
+2011-12-02 00:00:00 Buy KOREA_PRIMARY, Price: 48.101, Quantity: 10973, Cash Balance: 6.89
+2013-02-04 00:00:00 Cond3 sell KOREA_PRIMARY, Accu_MMRatio: 0.1494, Deri_MMRatio: -0.000803, Price: 50.642, Quantity: 10973, Holding Days: 291, P/L: 5.28%, Account Total: 555701.56
+2017-05-08 00:00:00 Buy KOREA_PRIMARY, Price: 58.787, Quantity: 9452, Cash Balance: 46.83
+2018-01-15 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 6.8995, Deri_MMRatio: -0.000822, Price: 73.226, Quantity: 9452, Holding Days: 168, P/L: 24.56%, Account Total: 692178.99
+2019-12-13 00:00:00 Buy KOREA_PRIMARY, Price: 58.555, Quantity: 11821, Cash Balance: 0.33
+2020-01-09 00:00:00 Cond3 sell KOREA_PRIMARY, Accu_MMRatio: -0.0082, Deri_MMRatio: -0.000202, Price: 60.858, Quantity: 11821, Holding Days: 16, P/L: 3.93%, Account Total: 719402.75
+2020-06-02 00:00:00 Buy KOREA_PRIMARY, Price: 56.184, Quantity: 12804, Cash Balance: 22.81
+2020-11-06 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 3.9850, Deri_MMRatio: -0.000876, Price: 70.38, Quantity: 12804, Holding Days: 108, P/L: 25.27%, Account Total: 901168.33
+2021-01-04 00:00:00 Buy KOREA_PRIMARY, Price: 87.941, Quantity: 10247, Cash Balance: 36.91
+2021-05-06 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 16.4633, Deri_MMRatio: 0.000379, Price: 90.977, Quantity: 10247, Holding Days: 84, P/L: 3.45%, Account Total: 932278.23
+2022-11-01 00:00:00 Buy KOREA_PRIMARY, Price: 52.76, Quantity: 17670, Cash Balance: 9.03
+2023-10-10 00:00:00 Cond1 sell KOREA_PRIMARY, Accu_MMRatio: 3.4095, Deri_MMRatio: -0.001131, Price: 59.56, Quantity: 17670, Holding Days: 231, P/L: 12.89%, Account Total: 1052434.23
+2024-02-02 00:00:00 Buy KOREA_PRIMARY, Price: 62.03, Quantity: 16966, Cash Balance: 33.25
+2025-01-06 00:00:00 Cond3 sell KOREA_PRIMARY, Accu_MMRatio: 0.2675, Deri_MMRatio: -0.000095, Price: 54.66, Quantity: 16966, Holding Days: 223, P/L: -11.88%, Account Total: 927394.81
+2025-04-15 00:00:00 Buy KOREA_PRIMARY, Price: 54.05, Quantity: 17158, Cash Balance: 4.91
+
+=== Account Position Information ===
+Code: KOREA_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: KOREA_PRIMARY
+  Holding Quantity: 17158
+  Current Price: 124.15
+  Holding Value: 2130165.70
+  Buy Date: 2025-04-16
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4.91
+Account Total: 2130170.61
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 119.990
+Target Total Return (Start->Latest): 316.03%
+Target Annualized Return (CAGR): 7.00%
+Target Max Drawdown: -74.59%
+Target Max Drawdown Period: 2007-10-31 (Close=63.195) -> 2008-11-20 (Close=16.061) (267 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.79%
+Max Drawdown: -69.18%
+Max Drawdown Period: 2007-10-31 (Account total=607254.97) -> 2008-11-20 (Account total=187127.17) (261 trading days)
+
+Annual Returns (from first buy):
+  2005: 30.64%
+  2006: 3.68%
+  2007: 31.14%
+  2008: -48.57%
+  2009: 71.96%
+  2010: 28.87%
+  2011: -18.85%
+  2012: 19.27%
+  2013: -4.99%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 19.34%
+  2018: 4.37%
+  2019: 2.72%
+  2020: 26.74%
+  2021: 3.45%
+  2022: 8.28%
+  2023: 4.25%
+  2024: -17.47%
+  2025: 94.83%
+  2026: 25.89%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = KOREA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.028
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.35
+date_start_backtest = 2005-02-25

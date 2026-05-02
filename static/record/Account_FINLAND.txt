@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: FINLAND
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: FINLAND
+  Holding Quantity: 65
+  Current Price: 12831.56
+  Holding Value: 834051.40
+  Buy Date: 2022-03-15
+  Holding Days: 1004
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2060.31
+Account Total: 836111.71
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 12831.560
+Target Total Return (Start->Latest): 696.05%
+Target Annualized Return (CAGR): 6.93%
+Target Max Drawdown: -77.54%
+Target Max Drawdown Period: 2000-05-02 (Close=18303.600) -> 2009-03-06 (Close=4110.310) (2221 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.28%
+Max Drawdown: -87.24%
+Max Drawdown Period: 2000-07-17 (Account total=2060461.88) -> 2009-03-06 (Account total=262942.61) (2169 trading days)

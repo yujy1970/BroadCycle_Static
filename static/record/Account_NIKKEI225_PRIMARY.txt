@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NIKKEI225_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-02-25
+Cash Balance: 1090411.80
+Account Total: 1090411.80
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 82.710
+Target Total Return (Start->Latest): 130.94%
+Target Annualized Return (CAGR): 4.05%
+Target Max Drawdown: -55.82%
+Target Max Drawdown Period: 2006-05-09 (Close=52.051) -> 2009-03-09 (Close=22.995) (712 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.35%
+Max Drawdown: -28.80%
+Max Drawdown Period: 2018-10-01 (Account total=619281.50) -> 2020-03-16 (Account total=440953.76) (350 trading days)

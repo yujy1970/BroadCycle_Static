@@ -1,0 +1,94 @@
+=== Trade Process ===
+1998-08-10 00:00:00 Initial Buy QATAR, Price: 1326.37, Quantity: 226, Cash Balance: 240.38
+2003-04-15 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 59.6997, Deri_MMRatio: 0.001644, Price: 2879.37, Quantity: 226, Holding Days: 1176, P/L: 117.09%, Account Total: 650978.00
+2003-05-27 00:00:00 Buy QATAR, Price: 2814.13, Quantity: 231, Cash Balance: 913.97
+2004-08-02 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 84.1773, Deri_MMRatio: -0.002184, Price: 5552.92, Quantity: 231, Holding Days: 298, P/L: 97.32%, Account Total: 1283638.49
+2004-09-22 00:00:00 Buy QATAR, Price: 5596.56, Quantity: 229, Cash Balance: 2026.25
+2005-03-07 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 72.0392, Deri_MMRatio: 0.010665, Price: 10749.29, Quantity: 229, Holding Days: 114, P/L: 92.07%, Account Total: 2463613.66
+2005-05-11 00:00:00 Buy QATAR, Price: 8998.59, Quantity: 273, Cash Balance: 6998.59
+2005-10-31 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 99.0800, Deri_MMRatio: -0.002448, Price: 12445.23, Quantity: 273, Holding Days: 120, P/L: 38.30%, Account Total: 3404546.38
+2006-03-06 00:00:00 Buy QATAR, Price: 8709.8, Quantity: 390, Cash Balance: 7724.38
+2008-10-01 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 60.0186, Deri_MMRatio: -0.006409, Price: 9314.53, Quantity: 390, Holding Days: 649, P/L: 6.94%, Account Total: 3640391.08
+2008-11-21 00:00:00 Buy QATAR, Price: 5575.81, Quantity: 652, Cash Balance: 4962.96
+2011-09-06 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 23.6318, Deri_MMRatio: -0.000214, Price: 8352.37, Quantity: 652, Holding Days: 701, P/L: 49.80%, Account Total: 5450708.20
+2011-10-14 00:00:00 Buy QATAR, Price: 8430.2, Quantity: 646, Cash Balance: 4799.00
+2015-03-25 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 47.6721, Deri_MMRatio: -0.004082, Price: 11152.48, Quantity: 646, Holding Days: 761, P/L: 32.29%, Account Total: 7209301.08
+2015-05-13 00:00:00 Buy QATAR, Price: 12495.94, Quantity: 576, Cash Balance: 11639.64
+2019-12-30 00:00:00 Cond1 sell QATAR, Accu_MMRatio: 17.2318, Deri_MMRatio: -0.000345, Price: 10441.72, Quantity: 576, Holding Days: 896, P/L: -16.44%, Account Total: 6026070.36
+2020-03-25 00:00:00 Buy QATAR, Price: 8558.15, Quantity: 704, Cash Balance: 1132.76
+
+=== Account Position Information ===
+Code: QATAR
+Current Date: 2021-09-30 16:00
+Mode: Index Data
+Current Position: QATAR
+  Holding Quantity: 704
+  Current Price: 11485.23
+  Holding Value: 8085601.92
+  Buy Date: 2020-03-26
+  Holding Days: 279
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1132.76
+Account Total: 8086734.68
+Date Of Trading Start: 1998-08-11
+
+Target Latest Close : 11485.230
+Target Total Return (Start->Latest): 767.78%
+Target Annualized Return (CAGR): 9.79%
+Target Max Drawdown: -67.19%
+Target Max Drawdown Period: 2005-09-20 (Close=12892.760) -> 2009-03-03 (Close=4230.190) (867 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.30%
+Max Drawdown: -51.97%
+Max Drawdown Period: 2014-09-18 (Account total=9275222.00) -> 2017-11-30 (Account total=4455053.40) (610 trading days)
+
+Annual Returns (from first buy):
+  1998: 1.88%
+  1999: -0.76%
+  2000: -8.03%
+  2001: 37.18%
+  2002: 37.30%
+  2003: 73.69%
+  2004: 63.17%
+  2005: 128.64%
+  2006: -18.06%
+  2007: 34.22%
+  2008: 20.05%
+  2009: 1.06%
+  2010: 24.72%
+  2011: 0.19%
+  2012: -4.78%
+  2013: 24.15%
+  2014: 7.72%
+  2015: -16.73%
+  2016: 0.07%
+  2017: -18.27%
+  2018: 20.75%
+  2019: 1.38%
+  2020: 21.94%
+  2021: 10.05%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = QATAR
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 0.9925
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.01
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

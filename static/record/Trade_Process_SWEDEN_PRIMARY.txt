@@ -1,0 +1,98 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy SWEDEN_PRIMARY, Price: 14.19, Quantity: 21141, Cash Balance: 9.21
+2006-05-24 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 9.0192, Deri_MMRatio: -0.003718, Price: 17.02, Quantity: 21141, Holding Days: 313, P/L: 19.94%, Account Total: 359829.03
+2006-07-26 00:00:00 Buy SWEDEN_PRIMARY, Price: 16.622, Quantity: 21647, Cash Balance: 12.60
+2007-08-01 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 9.8515, Deri_MMRatio: -0.002068, Price: 23.982, Quantity: 21647, Holding Days: 256, P/L: 44.28%, Account Total: 519150.95
+2007-09-19 00:00:00 Buy SWEDEN_PRIMARY, Price: 24.083, Quantity: 21556, Cash Balance: 17.80
+2009-12-03 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 12.0111, Deri_MMRatio: -0.000509, Price: 16.788, Quantity: 21556, Holding Days: 555, P/L: -30.29%, Account Total: 361899.93
+2010-05-28 00:00:00 Buy SWEDEN_PRIMARY, Price: 15.354, Quantity: 23570, Cash Balance: 6.15
+2012-11-07 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 4.3711, Deri_MMRatio: -0.001536, Price: 19.716, Quantity: 23570, Holding Days: 621, P/L: 28.41%, Account Total: 464712.27
+2013-04-25 00:00:00 Buy SWEDEN_PRIMARY, Price: 23.119, Quantity: 20100, Cash Balance: 20.37
+2013-06-26 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 5.8645, Deri_MMRatio: -0.002063, Price: 22.084, Quantity: 20100, Holding Days: 40, P/L: -4.48%, Account Total: 443908.77
+2013-09-10 00:00:00 Buy SWEDEN_PRIMARY, Price: 25.164, Quantity: 17640, Cash Balance: 15.81
+2015-06-11 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 6.5096, Deri_MMRatio: -0.002339, Price: 26.482, Quantity: 17640, Holding Days: 435, P/L: 5.24%, Account Total: 467158.29
+2015-10-05 00:00:00 Buy SWEDEN_PRIMARY, Price: 24.001, Quantity: 19464, Cash Balance: 2.83
+2017-07-11 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 6.1075, Deri_MMRatio: -0.000607, Price: 29.416, Quantity: 19464, Holding Days: 443, P/L: 22.56%, Account Total: 572555.85
+2018-01-09 00:00:00 Buy SWEDEN_PRIMARY, Price: 30.145, Quantity: 18993, Cash Balance: 11.86
+2020-02-13 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 4.9115, Deri_MMRatio: 0.000767, Price: 31.775, Quantity: 18993, Holding Days: 524, P/L: 5.41%, Account Total: 603514.44
+2020-03-31 00:00:00 Buy SWEDEN_PRIMARY, Price: 23.063, Quantity: 26168, Cash Balance: 1.86
+2021-05-31 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 10.4342, Deri_MMRatio: -0.002341, Price: 46.586, Quantity: 26168, Holding Days: 291, P/L: 101.99%, Account Total: 1219064.30
+2021-07-23 00:00:00 Buy SWEDEN_PRIMARY, Price: 46.952, Quantity: 25964, Cash Balance: 2.58
+2023-09-12 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 5.4128, Deri_MMRatio: -0.000622, Price: 32.56, Quantity: 25964, Holding Days: 541, P/L: -30.65%, Account Total: 845390.42
+2023-11-03 00:00:00 Buy SWEDEN_PRIMARY, Price: 32.96, Quantity: 25648, Cash Balance: 32.34
+2024-10-17 00:00:00 Cond1 sell SWEDEN_PRIMARY, Accu_MMRatio: 5.9140, Deri_MMRatio: 0.001114, Price: 41.16, Quantity: 25648, Holding Days: 240, P/L: 24.88%, Account Total: 1055704.02
+2024-12-03 00:00:00 Buy SWEDEN_PRIMARY, Price: 39.6, Quantity: 26659, Cash Balance: 7.62
+
+=== Account Position Information ===
+Code: SWEDEN_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: SWEDEN_PRIMARY
+  Holding Quantity: 26659
+  Current Price: 49.34
+  Holding Value: 1315355.06
+  Buy Date: 2024-12-04
+  Holding Days: 314
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 7.62
+Account Total: 1315362.68
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 47.310
+Target Total Return (Start->Latest): 235.46%
+Target Annualized Return (CAGR): 5.91%
+Target Max Drawdown: -70.63%
+Target Max Drawdown Period: 2007-07-12 (Close=26.107) -> 2009-03-05 (Close=7.668) (415 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.34%
+Max Drawdown: -70.75%
+Max Drawdown Period: 2007-07-12 (Account total=565150.82) -> 2009-03-05 (Account total=165309.21) (414 trading days)
+
+Annual Returns (from first buy):
+  2005: 7.83%
+  2006: 45.63%
+  2007: -3.74%
+  2008: -50.23%
+  2009: 62.28%
+  2010: 34.49%
+  2011: -16.16%
+  2012: 13.88%
+  2013: 0.71%
+  2014: -6.77%
+  2015: 5.28%
+  2016: 0.92%
+  2017: 23.50%
+  2018: -17.28%
+  2019: 23.48%
+  2020: 70.24%
+  2021: 17.76%
+  2022: -28.41%
+  2023: 20.60%
+  2024: -1.49%
+  2025: 32.45%
+  2026: -0.42%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SWEDEN
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

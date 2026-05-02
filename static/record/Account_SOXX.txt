@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SOXX
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: SOXX
+  Holding Quantity: 28954
+  Current Price: 465.75
+  Holding Value: 13485325.50
+  Buy Date: 2024-07-05
+  Holding Days: 457
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 106.86
+Account Total: 13485432.36
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 465.750
+Target Total Return (Start->Latest): 5525.00%
+Target Annualized Return (CAGR): 26.19%
+Target Max Drawdown: -45.75%
+Target Max Drawdown Period: 2021-12-27 (Close=178.799) -> 2022-10-14 (Close=96.992) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 24.47%
+Max Drawdown: -46.14%
+Max Drawdown Period: 2024-03-07 (Account total=8272817.72) -> 2025-04-08 (Account total=4455461.51) (272 trading days)

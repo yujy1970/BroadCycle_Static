@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NEWZEALAND_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: NEWZEALAND_PRIMARY
+  Holding Quantity: 9901
+  Current Price: 44.43
+  Holding Value: 439931.13
+  Buy Date: 2025-05-05
+  Holding Days: 248
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 17.05
+Account Total: 439948.18
+Date Of Trading Start: 2010-09-03
+
+Target Latest Close : 44.433
+Target Total Return (Start->Latest): 197.67%
+Target Annualized Return (CAGR): 7.21%
+Target Max Drawdown: -42.44%
+Target Max Drawdown Period: 2021-01-07 (Close=63.963) -> 2022-10-14 (Close=36.817) (446 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.24%
+Max Drawdown: -43.43%
+Max Drawdown Period: 2013-07-03 (Account total=377254.30) -> 2015-09-04 (Account total=213424.84) (545 trading days)

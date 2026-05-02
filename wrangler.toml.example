@@ -1,0 +1,10 @@
+name = "broadcycle-site"
+main = "worker/message_board_worker.js"
+compatibility_date = "2026-01-03"
+
+kv_namespaces = [
+  { binding = "BC_MSG_KV", id = "YOUR_KV_NAMESPACE_ID" }
+]
+
+# If you're using a single Worker for both static assets and API routes, keep your existing setup
+# and paste the fetch handler above into your Worker entry, or route /api/messages* to this worker.

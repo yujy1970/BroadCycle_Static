@@ -1,0 +1,72 @@
+=== Trade Process ===
+2014-05-01 00:00:00 Initial Buy UAE_PRIMARY, Price: 25.96, Quantity: 11556, Cash Balance: 6.24
+2014-05-05 00:00:00 Cond1 sell UAE_PRIMARY, Accu_MMRatio: 100.2226, Deri_MMRatio: 0.005973, Price: 25.97, Quantity: 11556, Holding Days: 1, P/L: 0.04%, Account Total: 300115.56
+2015-12-22 00:00:00 Buy UAE_PRIMARY, Price: 15.8, Quantity: 18994, Cash Balance: 10.36
+2018-02-05 00:00:00 Cond1 sell UAE_PRIMARY, Accu_MMRatio: 5.5042, Deri_MMRatio: -0.000435, Price: 17.38, Quantity: 18994, Holding Days: 424, P/L: 10.00%, Account Total: 330126.08
+2020-04-13 00:00:00 Buy UAE_PRIMARY, Price: 10.34, Quantity: 31927, Cash Balance: 0.90
+2021-11-18 00:00:00 Cond1 sell UAE_PRIMARY, Accu_MMRatio: 16.2259, Deri_MMRatio: 0.003514, Price: 16.45, Quantity: 31927, Holding Days: 318, P/L: 59.09%, Account Total: 525200.05
+
+=== Account Position Information ===
+Code: UAE_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2021-11-18
+Cash Balance: 525200.05
+Account Total: 525200.05
+Date Of Trading Start: 2014-05-05
+
+Target Latest Close : 19.470
+Target Total Return (Start->Latest): 22.15%
+Target Annualized Return (CAGR): 1.68%
+Target Max Drawdown: -60.48%
+Target Max Drawdown Period: 2014-06-06 (Close=16.535) -> 2020-03-18 (Close=6.534) (1455 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.78%
+Max Drawdown: -43.83%
+Max Drawdown Period: 2014-05-05 (Account total=300115.56) -> 2016-01-20 (Account total=168563.12) (341 trading days)
+
+Annual Returns (from first buy):
+  2014: 0.00%
+  2015: -33.64%
+  2016: 10.80%
+  2017: 3.80%
+  2018: 44.13%
+  2019: 0.00%
+  2020: -5.82%
+  2021: 68.93%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 0.00%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = UAE
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 16.0
+Deri2 = 0.01
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2014-05-01

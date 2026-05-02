@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>BroadCycle · Backtest Detail</title>
+    <link rel="stylesheet" href="/static/css/site.css" />
+    <link rel="stylesheet" href="/static/css/app_explorer.css" />
+    <style>
+      .canvas-wrap{background:#fff; border:1px solid var(--line); border-radius:18px; overflow:hidden}
+      canvas{width:100%; height:520px; display:block}
+      .realtime-wrap{display:flex;justify-content:flex-end;margin-top:8px;margin-right:0;padding-right:0}
+      #indicatorCanvas{height:320px}
+      .controls{display:flex; gap:12px; flex-wrap:wrap; align-items:center; color:var(--muted); font-size:13px}
+      .controls label{display:flex; gap:6px; align-items:center; cursor:pointer; user-select:none}
+      .subhead{display:flex; gap:10px; align-items:center; flex-wrap:wrap}
+      .header-subtitle{margin:0!important;padding:0!important;line-height:1.02!important;min-height:0!important;display:block}
+      .kpi{font-size:13px; color:var(--muted)}
+      .hr{height:1px; background:var(--line); margin:14px 0}
+      .pre{white-space:pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size:12.5px; line-height:1.5}
+      .curve-stats{display:flex;gap:10px;flex-wrap:nowrap;overflow-x:auto;margin:6px 0 8px 0}
+      .curve-stat{border:1px solid var(--line);border-radius:12px;padding:8px 10px;background:#fff;min-width:140px;flex:1 1 0;position:relative;overflow:hidden}
+      .curve-stat .t{font-size:12px;color:var(--muted);font-weight:700;margin-bottom:4px;position:relative;z-index:1}
+      .curve-stat .v{font-size:12px;color:#111;line-height:1.4;position:relative;z-index:1}
+      .curve-stat.eq-good{position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(180deg, rgba(34,197,94,.06), #fff 42%);border-color:rgba(34,197,94,.28);box-shadow:inset 0 0 0 1px rgba(255,255,255,.03),0 2px 10px rgba(34,197,94,.06)}
+      .curve-stat.eq-good::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at center, rgba(34,197,94,.16) 0%, rgba(34,197,94,.10) 22%, rgba(34,197,94,.04) 38%, rgba(34,197,94,0) 62%);pointer-events:none;z-index:0}
+      .curve-stat.eq-good::after{content:"";position:absolute;left:50%;top:50%;width:104px;height:104px;transform:translate(-50%,-50%);opacity:.22;pointer-events:none;z-index:0;background-repeat:no-repeat;background-position:center;background-size:contain;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='%2316a34a'/><stop offset='100%' stop-color='%2322c55e'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='2.6' result='blur'/><feMerge><feMergeNode in='blur'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><path d='M30 63 L51 84 L91 36' fill='none' stroke='url(%23g)' stroke-width='13' stroke-linecap='round' stroke-linejoin='round' filter='url(%23glow)'/></svg>")}
+      .curve-stat.eq-good .t::before{content:"";display:inline-block;width:8px;height:8px;margin-right:8px;border-radius:50%;background:linear-gradient(135deg,#16a34a,#22c55e);box-shadow:0 0 8px rgba(34,197,94,.35);vertical-align:middle}
+      @media (max-width:900px){.curve-stat.eq-good::after{width:84px;height:84px;opacity:.18}}
+      @media (max-width:900px){
+        body{display:block !important;}
+        .app{display:block !important;min-height:auto;}
+        .sidebar{display:none !important;}
+        .main{width:100% !important;min-width:0;}
+        .header{padding:10px 8px 4px 8px !important;min-height:auto !important;}
+        section.content{max-width:none !important;padding:6px 8px 12px 8px !important;}
+        .card{padding:10px;}
+        .canvas-wrap{overflow:hidden;}
+        .realtime-wrap{justify-content:flex-end;margin-right:0;padding-right:0;}
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar" id="bcSidebar">
+        <div class="brand">
+          <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Broad Market Pulse Trading Strategy</div>
+        </div>
+      </div>
+        </div>
+        <nav class="nav" aria-label="Primary">
+          <a class="nav-item" href="/Home/Explorer/">Global Explorer</a>
+          <a class="nav-item" href="/Home/Portfolio/">Portfolio</a>
+          <a class="nav-item" href="/Home/Combination/">Combination</a>
+          <a class="nav-item" href="/Home/MessageBoard/">Message Board</a>
+          <a class="nav-item" href="/Home/Contacts/">Contacts</a>
+        </nav>
+        <div class="sidebar-footer">
+          <div class="disclaimer">Research demo — not investment advice</div>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="header" style="padding-bottom:6px">
+          <div class="header-row" style="align-items:flex-start">
+            <button class="menu-btn" id="bcMenuBtn" aria-label="Menu" title="Menu">☰</button>
+            <div>
+              <div class="header-title" id="bcTitle">Backtest</div>
+              <div class="header-subtitle" id="bcSubtitle">Loading…</div>
+            </div>
+            <div class="header-actions" id="bcUserArea"></div>
+          </div>
+        </header>
+
+        <section class="content" style="max-width:1100px;padding-top:6px">
+          <div class="card">
+            <div class="subhead">
+              <div class="tile-title" id="bcChartTitle"></div>
+              <div class="kpi" id="bcStatus"> </div>
+            </div>
+            <div id="bcCurveStats" class="curve-stats"></div>
+            <div class="controls" id="bcControls">
+              <label id="lblCmpIndex"><input type="checkbox" id="chkCmpIndex" checked /> Target</label>
+              <label id="lblPrimaryIndex"><input type="checkbox" id="chkIndex" checked /> ETF</label>
+              <label><input type="checkbox" id="chkEquity" checked /> Strategic Equity</label>
+              <span style="flex:1"></span>
+              <span id="bcCursorInfo" class="kpi">Move pointer over chart to inspect values.</span>
+            </div>
+            <div class="canvas-wrap"><canvas id="mainCanvas"></canvas></div>
+            <div class="realtime-wrap">
+              <button class="btn" id="btnRealTime">Real Time</button>
+            </div>
+
+            <div id="bcIndicatorBlock">
+              <div class="hr"></div>
+              <div class="tile-title">Indicator (Index strategy only)</div>
+              <div class="controls" style="margin-top:10px">
+                <label><input type="checkbox" id="chkRSI" /> RSI</label>
+                <label><input type="checkbox" id="chkMed" /> Med</label>
+                <label><input type="checkbox" id="chkDeri" /> Deri</label>
+                <label><input type="checkbox" id="chkAccu" checked /> Accu_MMRatio</label>
+                <label><input type="checkbox" id="chkST" /> ShortTrend</label>
+              </div>
+              <div class="canvas-wrap" style="margin-top:10px"><canvas id="indicatorCanvas"></canvas></div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="subhead" style="justify-content:space-between">
+              <div class="tile-title">BackTest Report</div>
+              <button class="btn" id="btnAccount">Open Account</button>
+            <button class="btn" id="btnTrading">Trading Report</button>
+            </div>
+            <div class="tile-desc">The report is generated by your backtest program (Account_*.txt).</div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <!-- Modal (same ids as legacy pages, used by strategy_detail.js) -->
+    <div class="modal" id="tradeModal" aria-hidden="true">
+      <div class="modal-overlay" data-close="1"></div>
+      <div class="modal-dialog">
+        <div class="modal-header">
+          <div class="modal-title">Backtest Results</div>
+          <button class="icon-btn" id="btnClose" title="Close">✕</button>
+        </div>
+        <div class="modal-body">
+          <pre id="tradeText" class="pre"></pre>
+        </div>
+      </div>
+    </div>
+    <script src="/static/js/auth.js"></script>
+    <script src="/static/js/app/asset_db.js?v=20260308_fix22"></script>
+    <script src="/static/js/app/strategy_page.js?v=20260308_fix26"></script>
+    <script src="/static/js/strategy_detail.js?v=20260308_fix27"></script>
+  <script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

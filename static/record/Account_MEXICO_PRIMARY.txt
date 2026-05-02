@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: MEXICO_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: MEXICO_PRIMARY
+  Holding Quantity: 46464
+  Current Price: 76.44
+  Holding Value: 3551708.16
+  Buy Date: 2025-10-17
+  Holding Days: 131
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 52.62
+Account Total: 3551760.78
+Date Of Trading Start: 1996-03-19
+
+Target Latest Close : 76.660
+Target Total Return (Start->Latest): 1319.37%
+Target Annualized Return (CAGR): 9.21%
+Target Max Drawdown: -64.94%
+Target Max Drawdown Period: 2007-07-06 (Close=43.085) -> 2009-03-09 (Close=15.104) (421 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.93%
+Max Drawdown: -74.30%
+Max Drawdown Period: 1998-02-23 (Account total=404816.88) -> 1998-09-10 (Account total=104035.48) (138 trading days)

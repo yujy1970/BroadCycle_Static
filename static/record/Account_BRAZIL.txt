@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BRAZIL
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: BRAZIL
+  Holding Quantity: 83
+  Current Price: 187318.00
+  Holding Value: 15547394.00
+  Buy Date: 2025-07-07
+  Holding Days: 204
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 90483.30
+Account Total: 15637877.30
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 187318.000
+Target Total Return (Start->Latest): 6373.75%
+Target Annualized Return (CAGR): 14.36%
+Target Max Drawdown: -65.04%
+Target Max Drawdown Period: 1997-07-08 (Close=13617.000) -> 1998-09-10 (Close=4761.000) (293 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.29%
+Max Drawdown: -72.48%
+Max Drawdown Period: 2008-05-20 (Account total=18623455.30) -> 2015-08-24 (Account total=5124981.30) (1797 trading days)

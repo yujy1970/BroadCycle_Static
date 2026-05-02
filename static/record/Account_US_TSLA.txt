@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: US_TSLA
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: US_TSLA
+  Holding Quantity: 142177
+  Current Price: 380.85
+  Holding Value: 54148110.45
+  Buy Date: 2025-05-15
+  Holding Days: 213
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 200.39
+Account Total: 54148310.84
+Date Of Trading Start: 2010-06-29
+
+Target Latest Close : 380.850
+Target Total Return (Start->Latest): 33514.30%
+Target Annualized Return (CAGR): 44.73%
+Target Max Drawdown: -73.63%
+Target Max Drawdown Period: 2021-11-04 (Close=409.970) -> 2023-01-03 (Close=108.100) (291 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 39.13%
+Max Drawdown: -73.19%
+Max Drawdown Period: 2021-11-04 (Account total=31699468.52) -> 2023-01-03 (Account total=8499868.53) (291 trading days)

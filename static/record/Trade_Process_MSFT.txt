@@ -1,0 +1,92 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy MSFT, Price: 20.2, Quantity: 14851, Cash Balance: 9.80
+2010-01-07 00:00:00 Cond1 sell MSFT, Accu_MMRatio: -6.5131, Deri_MMRatio: 0.002959, Price: 30.28, Quantity: 14851, Holding Days: 255, P/L: 49.90%, Account Total: 449698.08
+2010-03-01 00:00:00 Buy MSFT, Price: 29.08, Quantity: 15464, Cash Balance: 4.96
+2010-08-03 00:00:00 Cond1 sell MSFT, Accu_MMRatio: 41.9289, Deri_MMRatio: -0.002385, Price: 26.15, Quantity: 15464, Holding Days: 108, P/L: -10.08%, Account Total: 404388.56
+2010-09-03 00:00:00 Buy MSFT, Price: 24.1, Quantity: 16779, Cash Balance: 14.66
+2011-02-01 00:00:00 Cond3 sell MSFT, Accu_MMRatio: 9.1143, Deri_MMRatio: 0.000226, Price: 27.93, Quantity: 16779, Holding Days: 103, P/L: 15.89%, Account Total: 468652.13
+2011-05-27 00:00:00 Buy MSFT, Price: 24.96, Quantity: 18776, Cash Balance: 3.17
+2012-02-07 00:00:00 Cond1 sell MSFT, Accu_MMRatio: -0.4710, Deri_MMRatio: 0.002119, Price: 30.26, Quantity: 18776, Holding Days: 175, P/L: 21.23%, Account Total: 568164.93
+2012-04-17 00:00:00 Buy MSFT, Price: 31.28, Quantity: 18163, Cash Balance: 26.29
+2012-12-14 00:00:00 Cond1 sell MSFT, Accu_MMRatio: 22.3824, Deri_MMRatio: -0.002428, Price: 26.79, Quantity: 18163, Holding Days: 167, P/L: -14.35%, Account Total: 486613.06
+2013-01-02 00:00:00 Buy MSFT, Price: 27.63, Quantity: 17611, Cash Balance: 21.13
+2015-02-19 00:00:00 Cond1 sell MSFT, Accu_MMRatio: 37.5723, Deri_MMRatio: -0.002907, Price: 43.51, Quantity: 17611, Holding Days: 536, P/L: 57.47%, Account Total: 766275.74
+2015-03-18 00:00:00 Buy MSFT, Price: 42.26, Quantity: 18132, Cash Balance: 17.42
+2018-11-28 00:00:00 Cond1 sell MSFT, Accu_MMRatio: 48.4897, Deri_MMRatio: -0.001615, Price: 110.33, Quantity: 18132, Holding Days: 933, P/L: 161.07%, Account Total: 2000520.98
+2018-12-31 00:00:00 Buy MSFT, Price: 99.55, Quantity: 20095, Cash Balance: 63.73
+2020-12-18 00:00:00 Cond1 sell MSFT, Accu_MMRatio: 52.2941, Deri_MMRatio: -0.000120, Price: 217.55, Quantity: 20095, Holding Days: 497, P/L: 118.53%, Account Total: 4371730.98
+2021-01-20 00:00:00 Buy MSFT, Price: 224.7, Quantity: 19455, Cash Balance: 192.48
+2022-10-12 00:00:00 Cond3 sell MSFT, Accu_MMRatio: 13.0449, Deri_MMRatio: -0.001736, Price: 219.85, Quantity: 19455, Holding Days: 436, P/L: -2.16%, Account Total: 4277374.23
+2023-01-31 00:00:00 Buy MSFT, Price: 248.0, Quantity: 17247, Cash Balance: 118.23
+2023-08-21 00:00:00 Cond1 sell MSFT, Accu_MMRatio: -3.2734, Deri_MMRatio: 0.000391, Price: 325.5, Quantity: 17247, Holding Days: 139, P/L: 31.25%, Account Total: 5614016.73
+2023-10-05 00:00:00 Buy MSFT, Price: 316.55, Quantity: 17735, Cash Balance: 2.48
+
+=== Account Position Information ===
+Code: MSFT
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: MSFT
+  Holding Quantity: 17735
+  Current Price: 414.44
+  Holding Value: 7350093.40
+  Buy Date: 2023-10-06
+  Holding Days: 643
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2.48
+Account Total: 7350095.88
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 414.440
+Target Total Return (Start->Latest): 2698.19%
+Target Annualized Return (CAGR): 21.20%
+Target Max Drawdown: -37.15%
+Target Max Drawdown Period: 2021-11-19 (Close=331.231) -> 2022-11-03 (Close=208.184) (240 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 22.40%
+Max Drawdown: -40.46%
+Max Drawdown Period: 2010-01-07 (Account total=449698.08) -> 2010-06-30 (Account total=267764.12) (120 trading days)
+
+Annual Returns (from first buy):
+  2009: 52.02%
+  2010: 5.61%
+  2011: 6.85%
+  2012: 27.76%
+  2013: 12.08%
+  2014: 27.56%
+  2015: 26.32%
+  2016: 15.08%
+  2017: 40.73%
+  2018: 33.88%
+  2019: 57.56%
+  2020: 45.62%
+  2021: 44.49%
+  2022: -32.29%
+  2023: 53.27%
+  2024: 12.93%
+  2025: 15.58%
+  2026: -14.11%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = MSFT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.01
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.007
+Trend2 = 0.21
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.07
+date_start_backtest = 2009-01-02

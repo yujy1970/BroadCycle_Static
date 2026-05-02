@@ -1,0 +1,98 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy AMZN, Price: 2.786, Quantity: 107681, Cash Balance: 0.73
+2010-01-25 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 32.4600, Deri_MMRatio: -0.011983, Price: 6.028, Quantity: 107681, Holding Days: 266, P/L: 116.37%, Account Total: 649101.80
+2010-03-11 00:00:00 Buy AMZN, Price: 6.71, Quantity: 96736, Cash Balance: 3.24
+2012-03-12 00:00:00 Cond3 sell AMZN, Accu_MMRatio: 1.9268, Deri_MMRatio: 0.002341, Price: 9.196, Quantity: 96736, Holding Days: 505, P/L: 37.05%, Account Total: 889587.50
+2012-06-06 00:00:00 Buy AMZN, Price: 10.983, Quantity: 80996, Cash Balance: 8.43
+2014-02-28 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 14.7777, Deri_MMRatio: -0.006700, Price: 17.937, Quantity: 80996, Holding Days: 434, P/L: 63.32%, Account Total: 1452833.68
+2014-04-24 00:00:00 Buy AMZN, Price: 15.812, Quantity: 91881, Cash Balance: 11.31
+2014-09-24 00:00:00 Cond3 sell AMZN, Accu_MMRatio: 2.0546, Deri_MMRatio: -0.002728, Price: 16.399, Quantity: 91881, Holding Days: 106, P/L: 3.71%, Account Total: 1506767.83
+2014-12-26 00:00:00 Buy AMZN, Price: 15.392, Quantity: 97892, Cash Balance: 14.17
+2016-01-06 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 26.2409, Deri_MMRatio: -0.005086, Price: 31.09, Quantity: 97892, Holding Days: 258, P/L: 101.99%, Account Total: 3043476.45
+2016-03-01 00:00:00 Buy AMZN, Price: 29.087, Quantity: 104633, Cash Balance: 16.37
+2018-04-23 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 18.2054, Deri_MMRatio: -0.001682, Price: 76.79, Quantity: 104633, Holding Days: 540, P/L: 164.00%, Account Total: 8034784.44
+2018-07-09 00:00:00 Buy AMZN, Price: 86.926, Quantity: 92432, Cash Balance: 40.41
+2018-10-08 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 24.5608, Deri_MMRatio: -0.003696, Price: 92.999, Quantity: 92432, Holding Days: 64, P/L: 6.99%, Account Total: 8596123.98
+2018-11-27 00:00:00 Buy AMZN, Price: 80.696, Quantity: 106524, Cash Balance: 63.28
+2019-08-07 00:00:00 Cond3 sell AMZN, Accu_MMRatio: 0.8732, Deri_MMRatio: -0.006424, Price: 90.3, Quantity: 106524, Holding Days: 173, P/L: 11.90%, Account Total: 9619180.48
+2019-10-15 00:00:00 Buy AMZN, Price: 88.666, Quantity: 108487, Cash Balance: 72.13
+2020-11-19 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 23.9354, Deri_MMRatio: -0.002065, Price: 155.851, Quantity: 108487, Holding Days: 278, P/L: 75.77%, Account Total: 16907879.57
+2021-01-20 00:00:00 Buy AMZN, Price: 164.65, Quantity: 102689, Cash Balance: 135.72
+2022-02-15 00:00:00 Cond3 sell AMZN, Accu_MMRatio: 1.7033, Deri_MMRatio: 0.000055, Price: 155.79, Quantity: 102689, Holding Days: 271, P/L: -5.38%, Account Total: 15998055.03
+2022-07-19 00:00:00 Buy AMZN, Price: 118.62, Quantity: 134868, Cash Balance: 12.87
+2022-11-22 00:00:00 Cond3 sell AMZN, Accu_MMRatio: -14.5459, Deri_MMRatio: -0.010392, Price: 93.24, Quantity: 134868, Holding Days: 89, P/L: -21.40%, Account Total: 12575105.19
+2023-02-02 00:00:00 Buy AMZN, Price: 105.26, Quantity: 119467, Cash Balance: 8.77
+2024-04-12 00:00:00 Cond1 sell AMZN, Accu_MMRatio: 19.3016, Deri_MMRatio: -0.000679, Price: 187.43, Quantity: 119467, Holding Days: 299, P/L: 78.06%, Account Total: 22391708.58
+2024-06-06 00:00:00 Buy AMZN, Price: 184.9, Quantity: 121101, Cash Balance: 133.68
+2025-12-17 00:00:00 Cond3 sell AMZN, Accu_MMRatio: 1.9731, Deri_MMRatio: 0.000224, Price: 225.71, Quantity: 121101, Holding Days: 384, P/L: 22.07%, Account Total: 27333840.39
+2026-01-27 00:00:00 Buy AMZN, Price: 246.37, Quantity: 110946, Cash Balance: 74.37
+
+=== Account Position Information ===
+Code: AMZN
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: AMZN
+  Holding Quantity: 110946
+  Current Price: 268.26
+  Holding Value: 29762373.96
+  Buy Date: 2026-01-28
+  Holding Days: 65
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 74.37
+Account Total: 29762448.33
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 268.260
+Target Total Return (Start->Latest): 9769.76%
+Target Annualized Return (CAGR): 30.35%
+Target Max Drawdown: -56.15%
+Target Max Drawdown Period: 2021-07-08 (Close=186.570) -> 2022-12-28 (Close=81.820) (372 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 30.63%
+Max Drawdown: -44.49%
+Max Drawdown Period: 2022-08-16 (Account total=19526201.91) -> 2023-03-10 (Account total=10839249.68) (142 trading days)
+
+Annual Returns (from first buy):
+  2009: 148.83%
+  2010: 20.21%
+  2011: -3.83%
+  2012: 21.34%
+  2013: 58.97%
+  2014: -5.95%
+  2015: 117.79%
+  2016: 18.59%
+  2017: 55.96%
+  2018: 30.76%
+  2019: 25.29%
+  2020: 68.68%
+  2021: 1.26%
+  2022: -26.55%
+  2023: 44.35%
+  2024: 46.37%
+  2025: 2.88%
+  2026: 8.88%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = AMZN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.18
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.14
+date_start_backtest = 2009-01-02

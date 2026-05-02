@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: INDONESIA_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-01
+Cash Balance: 344791.58
+Account Total: 344791.58
+Date Of Trading Start: 2010-05-10
+
+Target Latest Close : 14.960
+Target Total Return (Start->Latest): -6.74%
+Target Annualized Return (CAGR): -0.44%
+Target Max Drawdown: -63.21%
+Target Max Drawdown Period: 2013-05-20 (Close=27.398) -> 2020-03-23 (Close=10.080) (1722 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.84%
+Max Drawdown: -48.09%
+Max Drawdown Period: 2013-07-05 (Account total=360149.25) -> 2015-10-05 (Account total=186952.67) (544 trading days)

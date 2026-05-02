@@ -1,0 +1,17 @@
+Code=SP500_PRIMARY
+date_start_download=1995-01-03
+date_start_backtest=1995-04-01
+Account_total=1735657.750
+back_long=100
+back_medium=20
+TTT=51
+PPP=1.010
+QQQ=25
+MedMax2=99.000
+Accu2=8.638
+Deri2=99.000
+Trend2=99.000
+MedMax1=-99.000
+Accu1=-4.590
+Deri1=-0.005
+Trend1=-99.000

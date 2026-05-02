@@ -1,0 +1,119 @@
+=== Trade Process ===
+1996-12-11 00:00:00 Initial Buy THAILAND, Price: 880.34, Quantity: 340, Cash Balance: 684.40
+1999-02-03 00:00:00 Cond3 sell THAILAND, Accu_MMRatio: -0.9500, Deri_MMRatio: 0.001645, Price: 340.04, Quantity: 340, Holding Days: 527, P/L: -61.37%, Account Total: 116298.00
+1999-03-05 00:00:00 Buy THAILAND, Price: 338.49, Quantity: 343, Cash Balance: 195.93
+1999-05-04 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -13.2696, Deri_MMRatio: 0.010431, Price: 523.92, Quantity: 343, Holding Days: 37, P/L: 54.78%, Account Total: 179900.49
+1999-08-20 00:00:00 Buy THAILAND, Price: 449.1, Quantity: 400, Cash Balance: 260.49
+1999-12-02 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -0.1224, Deri_MMRatio: 0.002118, Price: 419.61, Quantity: 400, Holding Days: 73, P/L: -6.57%, Account Total: 168104.49
+2000-03-09 00:00:00 Buy THAILAND, Price: 400.26, Quantity: 419, Cash Balance: 395.55
+2000-04-18 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: 23.7233, Deri_MMRatio: -0.001784, Price: 388.88, Quantity: 419, Holding Days: 25, P/L: -2.84%, Account Total: 163336.27
+2000-08-02 00:00:00 Buy THAILAND, Price: 301.52, Quantity: 541, Cash Balance: 213.95
+2000-09-21 00:00:00 Cond3 sell THAILAND, Accu_MMRatio: 0.6951, Deri_MMRatio: -0.000675, Price: 283.31, Quantity: 541, Holding Days: 35, P/L: -6.04%, Account Total: 153484.66
+2000-10-18 00:00:00 Buy THAILAND, Price: 268.29, Quantity: 572, Cash Balance: 22.78
+2002-06-17 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -1.1587, Deri_MMRatio: 0.001921, Price: 419.29, Quantity: 572, Holding Days: 406, P/L: 56.28%, Account Total: 239856.66
+2002-10-18 00:00:00 Buy THAILAND, Price: 342.72, Quantity: 699, Cash Balance: 295.38
+2003-01-30 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: 31.5899, Deri_MMRatio: -0.000148, Price: 369.96, Quantity: 699, Holding Days: 68, P/L: 7.95%, Account Total: 258897.42
+2003-04-11 00:00:00 Buy THAILAND, Price: 386.17, Quantity: 670, Cash Balance: 163.52
+2004-04-19 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: 99.0692, Deri_MMRatio: -0.003926, Price: 710.14, Quantity: 670, Holding Days: 248, P/L: 83.89%, Account Total: 475957.32
+2004-12-20 00:00:00 Buy THAILAND, Price: 677.6, Quantity: 702, Cash Balance: 282.12
+2007-04-10 00:00:00 Cond3 sell THAILAND, Accu_MMRatio: 0.3924, Deri_MMRatio: -0.000081, Price: 689.67, Quantity: 702, Holding Days: 564, P/L: 1.78%, Account Total: 484430.46
+2007-06-01 00:00:00 Buy THAILAND, Price: 757.35, Quantity: 639, Cash Balance: 483.81
+2007-07-09 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -0.2476, Deri_MMRatio: 0.004367, Price: 844.07, Quantity: 639, Holding Days: 26, P/L: 11.45%, Account Total: 539844.54
+2007-09-24 00:00:00 Buy THAILAND, Price: 834.77, Quantity: 646, Cash Balance: 583.12
+2008-06-13 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: 25.4049, Deri_MMRatio: -0.001490, Price: 788.04, Quantity: 646, Holding Days: 176, P/L: -5.60%, Account Total: 509656.96
+2008-11-03 00:00:00 Buy THAILAND, Price: 444.53, Quantity: 1146, Cash Balance: 225.58
+2008-11-11 00:00:00 Cond3 sell THAILAND, Accu_MMRatio: 1.3802, Deri_MMRatio: -0.006282, Price: 441.22, Quantity: 1146, Holding Days: 6, P/L: -0.74%, Account Total: 505863.70
+2008-12-08 00:00:00 Buy THAILAND, Price: 410.1, Quantity: 1233, Cash Balance: 210.40
+2010-03-23 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -1.4192, Deri_MMRatio: 0.002757, Price: 790.09, Quantity: 1233, Holding Days: 314, P/L: 92.66%, Account Total: 974391.37
+2010-06-21 00:00:00 Buy THAILAND, Price: 804.27, Quantity: 1211, Cash Balance: 420.40
+2011-07-14 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: 81.1271, Deri_MMRatio: -0.001435, Price: 1085.64, Quantity: 1211, Holding Days: 258, P/L: 34.98%, Account Total: 1315130.44
+2011-10-10 00:00:00 Buy THAILAND, Price: 937.53, Quantity: 1402, Cash Balance: 713.38
+2015-12-29 00:00:00 Cond3 sell THAILAND, Accu_MMRatio: 0.4705, Deri_MMRatio: -0.001734, Price: 1285.52, Quantity: 1402, Holding Days: 1033, P/L: 37.12%, Account Total: 1803012.42
+2016-03-03 00:00:00 Buy THAILAND, Price: 1385.03, Quantity: 1301, Cash Balance: 1088.39
+2017-01-26 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -0.4270, Deri_MMRatio: 0.001734, Price: 1590.37, Quantity: 1301, Holding Days: 217, P/L: 14.83%, Account Total: 2070159.76
+2020-03-20 00:00:00 Buy THAILAND, Price: 1045.65, Quantity: 1979, Cash Balance: 818.41
+2021-09-09 00:00:00 Cond1 sell THAILAND, Accu_MMRatio: -0.7640, Deri_MMRatio: 0.001483, Price: 1633.1, Quantity: 1979, Holding Days: 351, P/L: 56.18%, Account Total: 3232723.31
+2024-08-23 00:00:00 Buy THAILAND, Price: 1356.11, Quantity: 2383, Cash Balance: 1113.18
+
+=== Account Position Information ===
+Code: THAILAND
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: THAILAND
+  Holding Quantity: 2383
+  Current Price: 1493.69
+  Holding Value: 3559463.27
+  Buy Date: 2024-08-26
+  Holding Days: 405
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1113.18
+Account Total: 3560576.45
+Date Of Trading Start: 1996-12-12
+
+Target Latest Close : 1493.690
+Target Total Return (Start->Latest): 68.61%
+Target Annualized Return (CAGR): 1.79%
+Target Max Drawdown: -76.60%
+Target Max Drawdown Period: 1996-12-11 (Close=885.860) -> 1998-09-04 (Close=207.310) (424 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.82%
+Max Drawdown: -76.07%
+Max Drawdown Period: 1996-12-16 (Account total=297422.80) -> 1998-09-04 (Account total=71169.80) (421 trading days)
+
+Annual Returns (from first buy):
+  1996: -4.65%
+  1997: -55.05%
+  1998: -4.50%
+  1999: 38.18%
+  2000: -8.39%
+  2001: 12.87%
+  2002: 43.52%
+  2003: 107.44%
+  2004: -9.32%
+  2005: 6.83%
+  2006: -4.75%
+  2007: 16.21%
+  2008: 0.02%
+  2009: 63.22%
+  2010: 38.11%
+  2011: 14.96%
+  2012: 35.74%
+  2013: -6.69%
+  2014: 15.31%
+  2015: -14.16%
+  2016: 11.39%
+  2017: 3.07%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 38.59%
+  2021: 12.67%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 3.25%
+  2025: -10.03%
+  2026: 18.57%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = THAILAND
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 40
+PPP = 1.025
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.01
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.01
+Trend1 = -0.455
+date_start_backtest = 1995-04-01

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NORWAY
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: NORWAY
+  Holding Quantity: 622
+  Current Price: 1875.30
+  Holding Value: 1166436.60
+  Buy Date: 2026-01-19
+  Holding Days: 28
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1536.63
+Account Total: 1167973.23
+Date Of Trading Start: 2013-03-06
+
+Target Latest Close : 1875.300
+Target Total Return (Start->Latest): 291.47%
+Target Annualized Return (CAGR): 11.09%
+Target Max Drawdown: -32.82%
+Target Max Drawdown Period: 2020-01-17 (Close=946.630) -> 2020-03-23 (Close=635.930) (46 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.08%
+Max Drawdown: -22.09%
+Max Drawdown Period: 2015-04-15 (Account total=437874.19) -> 2016-02-11 (Account total=341162.61) (209 trading days)

@@ -1,0 +1,5 @@
+[
+  {"email":"guest@example.com","name":"Guest Demo","password":"guest"},
+  {"email":"free@example.com","name":"Free Demo","password":"free"},
+  {"email":"paid@example.com","name":"Paid Demo","password":"paid"}
+]

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: AUSTRALIA
+Current Date: 2026-02-27 16:00
+Mode: Index Data
+Current Position: AUSTRALIA
+  Holding Quantity: 137
+  Current Price: 9191.00
+  Holding Value: 1259167.00
+  Buy Date: 2025-04-30
+  Holding Days: 212
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6165.90
+Account Total: 1265332.90
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 9191.000
+Target Total Return (Start->Latest): 394.38%
+Target Annualized Return (CAGR): 5.31%
+Target Max Drawdown: -53.94%
+Target Max Drawdown Period: 2007-11-01 (Close=6828.700) -> 2009-03-06 (Close=3145.500) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.77%
+Max Drawdown: -27.34%
+Max Drawdown Period: 2008-05-19 (Account total=657490.10) -> 2011-09-26 (Account total=477700.70) (848 trading days)

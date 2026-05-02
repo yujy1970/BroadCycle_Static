@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NASDAQ100
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NASDAQ100
+  Holding Quantity: 3822
+  Current Price: 27710.36
+  Holding Value: 105908984.45
+  Buy Date: 2024-11-27
+  Holding Days: 355
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 740.45
+Account Total: 105909724.90
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 27710.357
+Target Total Return (Start->Latest): 6078.59%
+Target Annualized Return (CAGR): 14.19%
+Target Max Drawdown: -82.90%
+Target Max Drawdown Period: 2000-03-27 (Close=4704.730) -> 2002-10-07 (Close=804.640) (634 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 20.84%
+Max Drawdown: -38.39%
+Max Drawdown Period: 2000-10-20 (Account total=3292930.94) -> 2001-01-02 (Account total=2028836.78) (49 trading days)

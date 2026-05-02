@@ -1,0 +1,120 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy MEXICO, Price: 1923.2, Quantity: 155, Cash Balance: 1904.00
+1996-01-29 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.7504, Deri_MMRatio: 0.004157, Price: 3088.0, Quantity: 155, Holding Days: 205, P/L: 60.57%, Account Total: 480544.00
+1996-03-18 00:00:00 Buy MEXICO, Price: 2878.4, Quantity: 166, Cash Balance: 2729.60
+1998-02-23 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 81.1740, Deri_MMRatio: -0.002343, Price: 4561.0, Quantity: 166, Holding Days: 483, P/L: 58.46%, Account Total: 759855.60
+1998-03-20 00:00:00 Buy MEXICO, Price: 4917.5, Quantity: 154, Cash Balance: 2560.60
+1999-05-10 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -8.7424, Deri_MMRatio: 0.007076, Price: 6080.52, Quantity: 154, Holding Days: 282, P/L: 23.65%, Account Total: 938960.68
+1999-06-16 00:00:00 Buy MEXICO, Price: 5628.3, Quantity: 166, Cash Balance: 4662.88
+1999-07-21 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.9913, Deri_MMRatio: 0.000739, Price: 5863.14, Quantity: 166, Holding Days: 25, P/L: 4.17%, Account Total: 977944.12
+1999-09-28 00:00:00 Buy MEXICO, Price: 5092.14, Quantity: 192, Cash Balance: 253.24
+2000-01-11 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 31.1505, Deri_MMRatio: 0.007116, Price: 7153.86, Quantity: 192, Holding Days: 73, P/L: 40.49%, Account Total: 1373794.36
+2000-02-07 00:00:00 Buy MEXICO, Price: 7594.88, Quantity: 180, Cash Balance: 6715.96
+2000-10-27 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 67.3124, Deri_MMRatio: -0.001716, Price: 6208.91, Quantity: 180, Holding Days: 184, P/L: -18.25%, Account Total: 1124319.76
+2000-12-27 00:00:00 Buy MEXICO, Price: 5568.68, Quantity: 201, Cash Balance: 5015.08
+2002-05-14 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.2223, Deri_MMRatio: 0.001567, Price: 7360.57, Quantity: 201, Holding Days: 341, P/L: 32.18%, Account Total: 1484489.65
+2002-08-08 00:00:00 Buy MEXICO, Price: 6025.72, Quantity: 246, Cash Balance: 2162.53
+2003-09-05 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.5565, Deri_MMRatio: 0.001703, Price: 7775.54, Quantity: 246, Holding Days: 271, P/L: 29.04%, Account Total: 1914945.37
+2003-11-03 00:00:00 Buy MEXICO, Price: 8237.24, Quantity: 232, Cash Balance: 3905.69
+2005-07-05 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 76.9291, Deri_MMRatio: 0.000152, Price: 13648.8, Quantity: 232, Holding Days: 425, P/L: 65.70%, Account Total: 3170427.29
+2005-08-01 00:00:00 Buy MEXICO, Price: 14582.5, Quantity: 217, Cash Balance: 6024.79
+2006-08-29 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 82.7319, Deri_MMRatio: 0.001063, Price: 21285.359, Quantity: 217, Holding Days: 274, P/L: 45.97%, Account Total: 4624947.69
+2006-09-20 00:00:00 Buy MEXICO, Price: 21847.721, Quantity: 211, Cash Balance: 15078.56
+2007-10-18 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 96.8815, Deri_MMRatio: 0.000143, Price: 32836.121, Quantity: 211, Holding Days: 269, P/L: 50.30%, Account Total: 6943500.09
+2007-11-28 00:00:00 Buy MEXICO, Price: 29276.391, Quantity: 237, Cash Balance: 4995.43
+2010-02-16 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -1.3306, Deri_MMRatio: 0.000556, Price: 31644.91, Quantity: 237, Holding Days: 555, P/L: 8.09%, Account Total: 7504839.10
+2010-05-27 00:00:00 Buy MEXICO, Price: 32056.109, Quantity: 234, Cash Balance: 3709.59
+2011-06-28 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 47.8932, Deri_MMRatio: -0.001981, Price: 36182.82, Quantity: 234, Holding Days: 273, P/L: 12.87%, Account Total: 8470489.47
+2011-08-15 00:00:00 Buy MEXICO, Price: 33901.078, Quantity: 249, Cash Balance: 29121.05
+2018-01-29 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 15.1966, Deri_MMRatio: 0.000380, Price: 50461.539, Quantity: 249, Holding Days: 1614, P/L: 48.85%, Account Total: 12594044.26
+2018-04-05 00:00:00 Buy MEXICO, Price: 47863.602, Quantity: 263, Cash Balance: 5916.93
+2021-06-07 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.8633, Deri_MMRatio: 0.001143, Price: 51391.52, Quantity: 263, Holding Days: 797, P/L: 7.37%, Account Total: 13521886.69
+2021-07-28 00:00:00 Buy MEXICO, Price: 51393.262, Quantity: 263, Cash Balance: 5458.79
+2022-06-08 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: 36.5889, Deri_MMRatio: -0.001574, Price: 49854.73, Quantity: 263, Holding Days: 218, P/L: -2.99%, Account Total: 13117252.78
+2022-07-28 00:00:00 Buy MEXICO, Price: 48057.789, Quantity: 272, Cash Balance: 45534.17
+2025-08-27 00:00:00 Cond1 sell MEXICO, Accu_MMRatio: -0.1983, Deri_MMRatio: 0.000240, Price: 58663.988, Quantity: 272, Holding Days: 774, P/L: 22.07%, Account Total: 16002138.90
+2025-10-16 00:00:00 Buy MEXICO, Price: 62501.488, Quantity: 256, Cash Balance: 1757.98
+
+=== Account Position Information ===
+Code: MEXICO
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: MEXICO
+  Holding Quantity: 256
+  Current Price: 67858.09
+  Holding Value: 17371672.06
+  Buy Date: 2025-10-17
+  Holding Days: 131
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1757.98
+Account Total: 17373430.04
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 67858.094
+Target Total Return (Start->Latest): 3480.52%
+Target Annualized Return (CAGR): 12.20%
+Target Max Drawdown: -48.56%
+Target Max Drawdown Period: 2007-10-18 (Close=32836.121) -> 2008-10-27 (Close=16891.029) (255 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.92%
+Max Drawdown: -50.52%
+Max Drawdown Period: 1997-10-21 (Account total=894066.60) -> 1998-09-10 (Account total=442400.00) (222 trading days)
+
+Annual Returns (from first buy):
+  1995: 42.91%
+  1996: 29.61%
+  1997: 55.32%
+  1998: -29.68%
+  1999: 123.60%
+  2000: -16.66%
+  2001: 12.68%
+  2002: 17.39%
+  2003: 35.44%
+  2004: 46.78%
+  2005: 28.94%
+  2006: 44.62%
+  2007: 25.19%
+  2008: -24.21%
+  2009: 43.48%
+  2010: 17.53%
+  2011: 3.45%
+  2012: 17.82%
+  2013: -1.70%
+  2014: 0.43%
+  2015: -0.39%
+  2016: 6.19%
+  2017: 8.11%
+  2018: -11.05%
+  2019: 4.56%
+  2020: 1.21%
+  2021: 20.88%
+  2022: -5.63%
+  2023: 18.35%
+  2024: -13.68%
+  2025: 21.84%
+  2026: 5.52%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = MEXICO
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 15
+PPP = 1.0175
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.007
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

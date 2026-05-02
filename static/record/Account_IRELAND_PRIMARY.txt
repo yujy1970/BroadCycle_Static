@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: IRELAND_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: IRELAND_PRIMARY
+  Holding Quantity: 15814
+  Current Price: 75.08
+  Holding Value: 1187315.12
+  Buy Date: 2025-11-26
+  Holding Days: 63
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3.44
+Account Total: 1187318.56
+Date Of Trading Start: 2010-05-10
+
+Target Latest Close : 67.578
+Target Total Return (Start->Latest): 279.14%
+Target Annualized Return (CAGR): 8.75%
+Target Max Drawdown: -46.48%
+Target Max Drawdown Period: 2018-01-24 (Close=47.113) -> 2020-03-18 (Close=25.214) (540 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.10%
+Max Drawdown: -33.07%
+Max Drawdown Period: 2011-04-29 (Account total=324371.97) -> 2011-11-23 (Account total=217095.36) (146 trading days)

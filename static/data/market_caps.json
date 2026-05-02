@@ -1,0 +1,181 @@
+{
+  "note": "Editable ranking file used by /Home/Explorer All-tab ordering. Smaller rank => larger market-cap. Values are approximate. Edit ranks to control display order.",
+  "caps": {
+    "SP500": {
+      "rank": 1,
+      "market_cap_usd_trillions": 45.0
+    },
+    "NASDAQ100": {
+      "rank": 3,
+      "market_cap_usd_trillions": 20.0
+    },
+    "DOWJONES": {
+      "rank": 4,
+      "market_cap_usd_trillions": 15.0
+    },
+    "NASDAQCOMP": {
+      "rank": 2,
+      "market_cap_usd_trillions": 24.0
+    },
+    "TSX": {
+      "rank": 14,
+      "market_cap_usd_trillions": 3.0
+    },
+    "FTSE100": {
+      "rank": 11,
+      "market_cap_usd_trillions": 2.8
+    },
+    "FTSE250": {
+      "rank": 29,
+      "market_cap_usd_trillions": 0.0
+    },
+    "DAX": {
+      "rank": 12,
+      "market_cap_usd_trillions": 2.3
+    },
+    "CAC40": {
+      "rank": 13,
+      "market_cap_usd_trillions": 2.2
+    },
+    "FTSEMIB": {
+      "rank": 21,
+      "market_cap_usd_trillions": 0.9
+    },
+    "IBEX35": {
+      "rank": 20,
+      "market_cap_usd_trillions": 1.0
+    },
+    "AEX": {
+      "rank": 19,
+      "market_cap_usd_trillions": 1.1
+    },
+    "SMI": {
+      "rank": 18,
+      "market_cap_usd_trillions": 1.7
+    },
+    "NIKKEI225": {
+      "rank": 10,
+      "market_cap_usd_trillions": 6.0
+    },
+    "TOPIX": {
+      "rank": 9,
+      "market_cap_usd_trillions": 6.0
+    },
+    "SSE": {
+      "rank": 6,
+      "market_cap_usd_trillions": 7.0
+    },
+    "SZSE": {
+      "rank": 7,
+      "market_cap_usd_trillions": 6.0
+    },
+    "CSI300": {
+      "rank": 8,
+      "market_cap_usd_trillions": 6.0
+    },
+    "CHINEXT": {
+      "rank": 28,
+      "market_cap_usd_trillions": 1.6
+    },
+    "HSI": {
+      "rank": 17,
+      "market_cap_usd_trillions": 2.5
+    },
+    "NIFTY50": {
+      "rank": 5,
+      "market_cap_usd_trillions": 4.2
+    },
+    "ASX200": {
+      "rank": 16,
+      "market_cap_usd_trillions": 2.0
+    },
+    "KOSPI": {
+      "rank": 15,
+      "market_cap_usd_trillions": 2.0
+    },
+    "TAIEX": {
+      "rank": 22,
+      "market_cap_usd_trillions": 1.7
+    },
+    "BOVESPA": {
+      "rank": 26,
+      "market_cap_usd_trillions": 1.0
+    },
+    "MEXBOL": {
+      "rank": 27,
+      "market_cap_usd_trillions": 0.5
+    },
+    "STI": {
+      "rank": 23,
+      "market_cap_usd_trillions": 0.7
+    },
+    "JSE": {
+      "rank": 24,
+      "market_cap_usd_trillions": 0.9
+    },
+    "TASI": {
+      "rank": 25,
+      "market_cap_usd_trillions": 1.2
+    },
+    "GOLD": {
+      "rank": 30,
+      "market_cap_usd_trillions": 0.0
+    },
+    "SILVER": {
+      "rank": 31,
+      "market_cap_usd_trillions": 0.0
+    },
+    "OIL_WTI": {
+      "rank": 32,
+      "market_cap_usd_trillions": 0.0
+    },
+    "OIL_BRENT": {
+      "rank": 33,
+      "market_cap_usd_trillions": 0.0
+    },
+    "NATGAS": {
+      "rank": 34,
+      "market_cap_usd_trillions": 0.0
+    },
+    "USDOLLAR": {
+      "rank": 35,
+      "market_cap_usd_trillions": 0.0
+    },
+    "UST_13W": {
+      "rank": 36,
+      "market_cap_usd_trillions": 0.0
+    },
+    "UST_10Y": {
+      "rank": 37,
+      "market_cap_usd_trillions": 0.0
+    },
+    "UST_30Y": {
+      "rank": 38,
+      "market_cap_usd_trillions": 0.0
+    },
+    "US_AGG_BOND": {
+      "rank": 39,
+      "market_cap_usd_trillions": 0.0
+    },
+    "US_TIPS": {
+      "rank": 40,
+      "market_cap_usd_trillions": 0.0
+    },
+    "US_INV_GRADE": {
+      "rank": 41,
+      "market_cap_usd_trillions": 0.0
+    },
+    "US_HIGH_YIELD": {
+      "rank": 42,
+      "market_cap_usd_trillions": 0.0
+    },
+    "BTC": {
+      "rank": 43,
+      "market_cap_usd_trillions": 0.0
+    },
+    "ETH": {
+      "rank": 44,
+      "market_cap_usd_trillions": 0.0
+    }
+  }
+}

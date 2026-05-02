@@ -1,0 +1,88 @@
+=== Trade Process ===
+2003-12-31 00:00:00 Initial Buy UAE, Price: 1010.03, Quantity: 297, Cash Balance: 21.09
+2005-10-18 00:00:00 Cond1 sell UAE, Accu_MMRatio: 16.6998, Deri_MMRatio: -0.003068, Price: 7840.38, Quantity: 297, Holding Days: 360, P/L: 676.25%, Account Total: 2328613.95
+2007-05-09 00:00:00 Buy UAE, Price: 4076.34, Quantity: 571, Cash Balance: 1023.81
+2008-06-30 00:00:00 Cond1 sell UAE, Accu_MMRatio: 16.1077, Deri_MMRatio: -0.002281, Price: 5444.68, Quantity: 571, Holding Days: 229, P/L: 33.57%, Account Total: 3109936.09
+2009-02-19 00:00:00 Buy UAE, Price: 1537.24, Quantity: 2023, Cash Balance: 99.57
+2009-09-24 00:00:00 Cond3 sell UAE, Accu_MMRatio: -99.0062, Deri_MMRatio: 0.005327, Price: 2195.32, Quantity: 2023, Holding Days: 122, P/L: 42.81%, Account Total: 4441231.93
+2010-09-06 00:00:00 Buy UAE, Price: 1568.71, Quantity: 2831, Cash Balance: 213.92
+2013-05-20 00:00:00 Cond1 sell UAE, Accu_MMRatio: 16.1206, Deri_MMRatio: 0.005657, Price: 2341.2, Quantity: 2831, Holding Days: 542, P/L: 49.24%, Account Total: 6628151.12
+2015-12-22 00:00:00 Buy UAE, Price: 3147.08, Quantity: 2106, Cash Balance: 400.64
+2018-02-05 00:00:00 Cond1 sell UAE, Accu_MMRatio: 5.5042, Deri_MMRatio: -0.000435, Price: 3378.14, Quantity: 2106, Holding Days: 424, P/L: 7.34%, Account Total: 7114763.48
+2020-04-13 00:00:00 Buy UAE, Price: 1886.65, Quantity: 3771, Cash Balance: 206.33
+2021-11-18 00:00:00 Cond1 sell UAE, Accu_MMRatio: 16.2259, Deri_MMRatio: 0.003514, Price: 3257.84, Quantity: 3771, Holding Days: 318, P/L: 72.68%, Account Total: 12285520.97
+
+=== Account Position Information ===
+Code: UAE
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2021-11-18
+Cash Balance: 12285520.97
+Account Total: 12285520.97
+Date Of Trading Start: 2004-01-05
+
+Target Latest Close : 5766.850
+Target Total Return (Start->Latest): 476.69%
+Target Annualized Return (CAGR): 8.16%
+Target Max Drawdown: -84.66%
+Target Max Drawdown Period: 2005-11-09 (Close=8484.630) -> 2012-01-16 (Close=1301.240) (1237 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 18.07%
+Max Drawdown: -26.97%
+Max Drawdown Period: 2010-11-01 (Account total=5044829.44) -> 2012-01-16 (Account total=3684024.36) (239 trading days)
+
+Annual Returns (from first buy):
+  2004: 147.74%
+  2005: 211.72%
+  2006: 0.00%
+  2007: 45.50%
+  2008: -8.21%
+  2009: 42.81%
+  2010: 3.94%
+  2011: -17.00%
+  2012: 19.89%
+  2013: 44.29%
+  2014: 0.00%
+  2015: 0.12%
+  2016: 12.06%
+  2017: -4.55%
+  2018: 0.24%
+  2019: 0.00%
+  2020: 32.08%
+  2021: 30.73%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 0.00%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = UAE
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 16.0
+Deri2 = 0.01
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

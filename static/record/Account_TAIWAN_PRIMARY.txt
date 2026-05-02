@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: TAIWAN_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-29
+Cash Balance: 3310685.74
+Account Total: 3310685.74
+Date Of Trading Start: 2005-03-01
+
+Target Latest Close : 70.100
+Target Total Return (Start->Latest): 329.03%
+Target Annualized Return (CAGR): 7.15%
+Target Max Drawdown: -64.71%
+Target Max Drawdown Period: 2007-10-29 (Close=23.760) -> 2009-01-20 (Close=8.386) (308 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 12.05%
+Max Drawdown: -34.86%
+Max Drawdown Period: 2007-10-29 (Account total=433465.79) -> 2009-01-20 (Account total=282348.73) (306 trading days)

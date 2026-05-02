@@ -1,0 +1,60 @@
+=== Trade Process ===
+2024-07-23 00:00:00 Initial Buy ETHA, Price: 26.31, Quantity: 11402, Cash Balance: 13.38
+2024-12-11 00:00:00 Cond1 sell ETHA, Accu_MMRatio: 0.2424, Deri_MMRatio: 0.000000, Price: 30.16, Quantity: 11402, Holding Days: 99, P/L: 14.63%, Account Total: 343897.70
+2025-04-24 00:00:00 Buy ETHA, Price: 13.4, Quantity: 25664, Cash Balance: 0.10
+2025-07-18 00:00:00 Cond1 sell ETHA, Accu_MMRatio: -5.2345, Deri_MMRatio: 0.018718, Price: 28.7, Quantity: 25664, Holding Days: 58, P/L: 114.18%, Account Total: 736556.90
+
+=== Account Position Information ===
+Code: ETHA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-07-18
+Cash Balance: 736556.90
+Account Total: 736556.90
+Date Of Trading Start: 2024-07-24
+
+Target Latest Close : 17.420
+Target Total Return (Start->Latest): -33.61%
+Target Annualized Return (CAGR): -20.65%
+Target Max Drawdown: -64.02%
+Target Max Drawdown Period: 2024-12-06 (Close=30.770) -> 2025-04-08 (Close=11.070) (82 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 69.13%
+Max Drawdown: -34.00%
+Max Drawdown Period: 2024-07-24 (Account total=290764.38) -> 2024-09-06 (Account total=191909.04) (31 trading days)
+
+Annual Returns (from first buy):
+  2024: 18.27%
+  2025: 114.18%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ETHA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 4.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

@@ -1,0 +1,87 @@
+=== Trade Process ===
+2008-03-31 00:00:00 Initial Buy ISRAEL_PRIMARY, Price: 50.99, Quantity: 5883, Cash Balance: 25.83
+2008-08-12 00:00:00 Cond3 sell ISRAEL_PRIMARY, Accu_MMRatio: 0.3913, Deri_MMRatio: -0.003446, Price: 47.68, Quantity: 5883, Holding Days: 72, P/L: -6.49%, Account Total: 280527.27
+2009-03-16 00:00:00 Buy ISRAEL_PRIMARY, Price: 31.15, Quantity: 9005, Cash Balance: 21.52
+2010-06-01 00:00:00 Cond1 sell ISRAEL_PRIMARY, Accu_MMRatio: 19.4893, Deri_MMRatio: -0.004343, Price: 46.63, Quantity: 9005, Holding Days: 237, P/L: 49.70%, Account Total: 419924.67
+2011-09-21 00:00:00 Buy ISRAEL_PRIMARY, Price: 39.67, Quantity: 10585, Cash Balance: 17.72
+2011-11-08 00:00:00 Cond3 sell ISRAEL_PRIMARY, Accu_MMRatio: 0.3544, Deri_MMRatio: 0.004305, Price: 42.29, Quantity: 10585, Holding Days: 21, P/L: 6.60%, Account Total: 447657.37
+2012-09-27 00:00:00 Buy ISRAEL_PRIMARY, Price: 41.76, Quantity: 10719, Cash Balance: 31.93
+2013-12-05 00:00:00 Cond1 sell ISRAEL_PRIMARY, Accu_MMRatio: 3.9865, Deri_MMRatio: 0.000554, Price: 48.85, Quantity: 10719, Holding Days: 231, P/L: 16.98%, Account Total: 523655.08
+2020-03-26 00:00:00 Buy ISRAEL_PRIMARY, Price: 43.85, Quantity: 11941, Cash Balance: 42.23
+2020-04-23 00:00:00 Cond3 sell ISRAEL_PRIMARY, Accu_MMRatio: 1.3548, Deri_MMRatio: -0.005905, Price: 49.42, Quantity: 11941, Holding Days: 12, P/L: 12.70%, Account Total: 590166.45
+2020-11-09 00:00:00 Buy ISRAEL_PRIMARY, Price: 55.84, Quantity: 10568, Cash Balance: 49.33
+2022-02-23 00:00:00 Cond1 sell ISRAEL_PRIMARY, Accu_MMRatio: 10.5489, Deri_MMRatio: -0.001636, Price: 68.84, Quantity: 10568, Holding Days: 257, P/L: 23.28%, Account Total: 727550.45
+2023-07-19 00:00:00 Buy ISRAEL_PRIMARY, Price: 58.54, Quantity: 12428, Cash Balance: 15.33
+2025-04-22 00:00:00 Cond1 sell ISRAEL_PRIMARY, Accu_MMRatio: 10.3568, Deri_MMRatio: -0.001268, Price: 76.04, Quantity: 12428, Holding Days: 349, P/L: 29.89%, Account Total: 945040.45
+2025-09-30 00:00:00 Buy ISRAEL_PRIMARY, Price: 99.85, Quantity: 9464, Cash Balance: 60.05
+
+=== Account Position Information ===
+Code: ISRAEL_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: ISRAEL_PRIMARY
+  Holding Quantity: 9464
+  Current Price: 131.39
+  Holding Value: 1243474.96
+  Buy Date: 2025-10-08
+  Holding Days: 125
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 60.05
+Account Total: 1243535.01
+Date Of Trading Start: 2008-04-01
+
+Target Latest Close : 131.390
+Target Total Return (Start->Latest): 269.98%
+Target Annualized Return (CAGR): 7.50%
+Target Max Drawdown: -51.94%
+Target Max Drawdown Period: 2008-05-30 (Close=41.812) -> 2008-11-20 (Close=20.096) (122 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.31%
+Max Drawdown: -31.42%
+Max Drawdown Period: 2022-01-03 (Account total=784300.61) -> 2023-10-26 (Account total=537849.46) (358 trading days)
+
+Annual Returns (from first buy):
+  2008: 32.90%
+  2009: 29.69%
+  2010: 15.43%
+  2011: 6.60%
+  2012: -18.37%
+  2013: 43.30%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 0.00%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 20.39%
+  2021: 23.02%
+  2022: -6.19%
+  2023: -3.66%
+  2024: 34.45%
+  2025: 10.51%
+  2026: 19.41%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ISRAEL
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.036
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.14
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 2008-03-28

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: HUNGARY
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: HUNGARY
+  Holding Quantity: 25
+  Current Price: 121754.88
+  Holding Value: 3043872.00
+  Buy Date: 2024-11-08
+  Holding Days: 330
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 72872.44
+Account Total: 3116744.44
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 121754.880
+Target Total Return (Start->Latest): 9797.40%
+Target Annualized Return (CAGR): 16.01%
+Target Max Drawdown: -68.59%
+Target Max Drawdown Period: 2007-07-23 (Close=30118.100) -> 2009-03-12 (Close=9461.000) (406 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.86%
+Max Drawdown: -67.44%
+Max Drawdown Period: 2007-07-23 (Account total=1409013.18) -> 2009-03-12 (Account total=458786.58) (406 trading days)

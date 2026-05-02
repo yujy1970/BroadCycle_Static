@@ -1,0 +1,18 @@
+=== Account Position Information ===
+Current date: 2026-01-07
+Mode: Index Data
+Currently no position
+Cash balance: 1653868.52
+Account total: 1653868.52
+
+=== Advanced Performance Metrics ===
+Initial Capital: 300000.00
+Start Date: 2011-01-04
+End Date: 2026-01-07
+Return: 451.29%
+CAGR: 12.04%
+Volatility: 12.83%
+Sharpe: 0.939
+MaxDD: -21.55%
+Days in Market: 5482
+Win/Loss Ratio: 20/12 (62.5%)

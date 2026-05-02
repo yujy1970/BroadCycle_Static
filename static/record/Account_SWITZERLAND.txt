@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SWITZERLAND
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SWITZERLAND
+  Holding Quantity: 175
+  Current Price: 12839.27
+  Holding Value: 2246872.25
+  Buy Date: 2025-01-23
+  Holding Days: 284
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4756.54
+Account Total: 2251628.79
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 12839.270
+Target Total Return (Start->Latest): 411.30%
+Target Annualized Return (CAGR): 5.42%
+Target Max Drawdown: -56.31%
+Target Max Drawdown Period: 1998-07-21 (Close=8412.000) -> 2003-03-12 (Close=3675.400) (1169 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.70%
+Max Drawdown: -29.01%
+Max Drawdown Period: 2015-08-05 (Account total=1840190.57) -> 2016-11-04 (Account total=1306322.75) (318 trading days)

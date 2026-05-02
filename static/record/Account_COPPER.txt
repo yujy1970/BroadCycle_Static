@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: COPPER
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: COPPER
+  Holding Quantity: 511
+  Current Price: 12147.00
+  Holding Value: 6207117.00
+  Buy Date: 2025-10-06
+  Holding Days: 120
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 8964.00
+Account Total: 6216081.00
+Date Of Trading Start: 2001-10-16
+
+Target Latest Close : 12147.000
+Target Total Return (Start->Latest): 765.79%
+Target Annualized Return (CAGR): 9.23%
+Target Max Drawdown: -68.06%
+Target Max Drawdown Period: 2008-07-02 (Close=8850.000) -> 2008-12-23 (Close=2827.000) (123 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.20%
+Max Drawdown: -50.53%
+Max Drawdown Period: 2012-02-09 (Account total=3909152.50) -> 2016-01-15 (Account total=1933818.50) (991 trading days)

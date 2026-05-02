@@ -1,0 +1,86 @@
+=== Trade Process ===
+2017-11-09 00:00:00 Initial Buy ETHEREUM, Price: 320.671, Quantity: 935, Cash Balance: 172.61
+2019-01-07 00:00:00 Cond3 sell ETHEREUM, Accu_MMRatio: -99.3775, Deri_MMRatio: 0.011707, Price: 151.968, Quantity: 935, Holding Days: 424, P/L: -52.61%, Account Total: 142262.69
+2019-04-30 00:00:00 Buy ETHEREUM, Price: 162.187, Quantity: 877, Cash Balance: 24.70
+2019-07-17 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: -4.2579, Deri_MMRatio: -0.027795, Price: 211.445, Quantity: 877, Holding Days: 78, P/L: 30.37%, Account Total: 185461.96
+2019-08-19 00:00:00 Buy ETHEREUM, Price: 202.813, Quantity: 914, Cash Balance: 90.88
+2019-11-07 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: 43.7970, Deri_MMRatio: 0.002577, Price: 187.924, Quantity: 914, Holding Days: 80, P/L: -7.34%, Account Total: 171853.41
+2019-11-27 00:00:00 Buy ETHEREUM, Price: 153.069, Quantity: 1122, Cash Balance: 110.00
+2020-06-28 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: -1.2777, Deri_MMRatio: -0.006971, Price: 225.361, Quantity: 1122, Holding Days: 214, P/L: 47.23%, Account Total: 252965.04
+2020-07-20 00:00:00 Buy ETHEREUM, Price: 236.303, Quantity: 1070, Cash Balance: 120.83
+2021-01-05 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: 99.4128, Deri_MMRatio: 0.040262, Price: 1101.005, Quantity: 1070, Holding Days: 169, P/L: 365.93%, Account Total: 1178196.18
+2021-12-08 00:00:00 Buy ETHEREUM, Price: 4433.025, Quantity: 265, Cash Balance: 3444.55
+2023-05-08 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: -1.9142, Deri_MMRatio: -0.010440, Price: 1849.061, Quantity: 265, Holding Days: 516, P/L: -58.29%, Account Total: 493445.72
+2023-05-30 00:00:00 Buy ETHEREUM, Price: 1901.098, Quantity: 259, Cash Balance: 1061.34
+2023-08-25 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: 31.4742, Deri_MMRatio: -0.005707, Price: 1652.927, Quantity: 259, Holding Days: 87, P/L: -13.05%, Account Total: 429169.43
+2023-09-15 00:00:00 Buy ETHEREUM, Price: 1641.446, Quantity: 261, Cash Balance: 752.02
+2024-07-12 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: 65.4352, Deri_MMRatio: -0.007678, Price: 3134.551, Quantity: 261, Holding Days: 301, P/L: 90.96%, Account Total: 818869.83
+2024-07-29 00:00:00 Buy ETHEREUM, Price: 3320.635, Quantity: 246, Cash Balance: 1993.62
+2024-12-17 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: -0.2542, Deri_MMRatio: 0.002266, Price: 3886.887, Quantity: 246, Holding Days: 141, P/L: 17.05%, Account Total: 958167.83
+2025-01-02 00:00:00 Buy ETHEREUM, Price: 3451.681, Quantity: 277, Cash Balance: 2052.19
+2025-09-11 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: -1.6569, Deri_MMRatio: -0.010157, Price: 4461.479, Quantity: 277, Holding Days: 252, P/L: 29.26%, Account Total: 1237881.87
+2025-10-03 00:00:00 Buy ETHEREUM, Price: 4514.909, Quantity: 274, Cash Balance: 796.81
+2025-12-28 00:00:00 Cond1 sell ETHEREUM, Accu_MMRatio: 45.7369, Deri_MMRatio: -0.003069, Price: 2948.559, Quantity: 274, Holding Days: 86, P/L: -34.69%, Account Total: 808701.97
+2026-01-16 00:00:00 Buy ETHEREUM, Price: 3295.483, Quantity: 245, Cash Balance: 1308.64
+
+=== Account Position Information ===
+Code: ETHEREUM
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: ETHEREUM
+  Holding Quantity: 245
+  Current Price: 2256.25
+  Holding Value: 552781.49
+  Buy Date: 2026-01-17
+  Holding Days: 103
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1308.64
+Account Total: 554090.13
+Date Of Trading Start: 2017-11-10
+
+Target Latest Close : 2256.251
+Target Total Return (Start->Latest): 603.14%
+Target Annualized Return (CAGR): 25.89%
+Target Max Drawdown: -93.96%
+Target Max Drawdown Period: 2018-01-13 (Close=1396.420) -> 2018-12-14 (Close=84.308) (335 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.39%
+Max Drawdown: -93.95%
+Max Drawdown Period: 2018-01-13 (Account total=1305825.31) -> 2018-12-14 (Account total=79000.60) (335 trading days)
+
+Annual Returns (from first buy):
+  2017: 152.78%
+  2018: -82.36%
+  2019: 16.55%
+  2020: 442.53%
+  2021: 24.03%
+  2022: -67.26%
+  2023: 85.98%
+  2024: 60.71%
+  2025: -15.60%
+  2026: -31.48%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ETHEREUM
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 0.99
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

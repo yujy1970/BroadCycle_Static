@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: IYW
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: IYW
+  Holding Quantity: 20218
+  Current Price: 221.01
+  Holding Value: 4468380.18
+  Buy Date: 2024-05-17
+  Holding Days: 489
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 25.50
+Account Total: 4468405.68
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 221.010
+Target Total Return (Start->Latest): 2626.50%
+Target Annualized Return (CAGR): 21.02%
+Target Max Drawdown: -39.44%
+Target Max Drawdown Period: 2021-12-27 (Close=115.384) -> 2022-11-03 (Close=69.881) (216 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 17.66%
+Max Drawdown: -39.43%
+Max Drawdown Period: 2021-12-27 (Account total=2404458.03) -> 2022-11-03 (Account total=1456266.52) (216 trading days)

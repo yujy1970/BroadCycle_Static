@@ -1,0 +1,126 @@
+=== Trade Process ===
+1995-04-01 00:00:00 Initial Buy KOREA, Price: 922.53, Quantity: 325, Cash Balance: 177.75
+1995-04-22 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.2160, Deri_MMRatio: -0.000634, Price: 876.89, Quantity: 325, Holding Days: 17, P/L: -4.95%, Account Total: 285167.00
+1995-07-01 00:00:00 Buy KOREA, Price: 914.1, Quantity: 311, Cash Balance: 881.90
+1996-01-26 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.2379, Deri_MMRatio: 0.000080, Price: 864.77, Quantity: 311, Holding Days: 168, P/L: -5.40%, Account Total: 269825.37
+1996-04-17 00:00:00 Buy KOREA, Price: 936.89, Quantity: 288, Cash Balance: 1.05
+1997-10-16 00:00:00 Cond3 sell KOREA, Accu_MMRatio: -0.0341, Deri_MMRatio: -0.003054, Price: 577.87, Quantity: 288, Holding Days: 439, P/L: -38.32%, Account Total: 166427.61
+1997-12-05 00:00:00 Buy KOREA, Price: 435.27, Quantity: 382, Cash Balance: 154.47
+1998-01-24 00:00:00 Cond1 sell KOREA, Accu_MMRatio: -13.0676, Deri_MMRatio: 0.013475, Price: 512.61, Quantity: 382, Holding Days: 36, P/L: 17.77%, Account Total: 195971.49
+1998-04-09 00:00:00 Buy KOREA, Price: 467.23, Quantity: 419, Cash Balance: 202.12
+1999-09-22 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 36.8661, Deri_MMRatio: -0.002108, Price: 941.7, Quantity: 419, Holding Days: 365, P/L: 101.55%, Account Total: 394774.42
+1999-11-09 00:00:00 Buy KOREA, Price: 944.5, Quantity: 417, Cash Balance: 917.92
+2000-05-31 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 1.7487, Deri_MMRatio: 0.000592, Price: 730.55, Quantity: 417, Holding Days: 136, P/L: -22.65%, Account Total: 305557.27
+2000-08-10 00:00:00 Buy KOREA, Price: 711.42, Quantity: 429, Cash Balance: 358.09
+2002-07-11 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 13.6952, Deri_MMRatio: -0.003300, Price: 780.49, Quantity: 429, Holding Days: 467, P/L: 9.71%, Account Total: 335188.30
+2002-10-16 00:00:00 Buy KOREA, Price: 633.46, Quantity: 529, Cash Balance: 87.96
+2002-12-30 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.7510, Deri_MMRatio: -0.000480, Price: 633.03, Quantity: 529, Holding Days: 51, P/L: -0.07%, Account Total: 334960.83
+2003-02-17 00:00:00 Buy KOREA, Price: 602.57, Quantity: 555, Cash Balance: 534.48
+2004-05-04 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 13.6425, Deri_MMRatio: -0.001327, Price: 864.52, Quantity: 555, Holding Days: 296, P/L: 43.47%, Account Total: 480343.08
+2004-06-25 00:00:00 Buy KOREA, Price: 777.85, Quantity: 617, Cash Balance: 409.63
+2006-06-01 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 12.1247, Deri_MMRatio: -0.002353, Price: 1312.77, Quantity: 617, Holding Days: 484, P/L: 68.77%, Account Total: 810388.72
+2007-02-06 00:00:00 Buy KOREA, Price: 1430.85, Quantity: 566, Cash Balance: 527.62
+2008-07-01 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.4369, Deri_MMRatio: -0.004432, Price: 1665.52, Quantity: 566, Holding Days: 342, P/L: 16.40%, Account Total: 943211.94
+2008-09-23 00:00:00 Buy KOREA, Price: 1479.04, Quantity: 637, Cash Balance: 1063.46
+2010-02-11 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 12.8799, Deri_MMRatio: -0.000891, Price: 1595.95, Quantity: 637, Holding Days: 350, P/L: 7.90%, Account Total: 1017683.61
+2010-06-03 00:00:00 Buy KOREA, Price: 1660.99, Quantity: 612, Cash Balance: 1157.73
+2011-10-20 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.6788, Deri_MMRatio: 0.001669, Price: 1831.89, Quantity: 612, Holding Days: 345, P/L: 10.29%, Account Total: 1122274.41
+2011-12-02 00:00:00 Buy KOREA, Price: 1928.46, Quantity: 581, Cash Balance: 1839.15
+2013-02-04 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.1494, Deri_MMRatio: -0.000803, Price: 1936.92, Quantity: 581, Holding Days: 291, P/L: 0.44%, Account Total: 1127189.67
+2017-05-08 00:00:00 Buy KOREA, Price: 2294.1, Quantity: 491, Cash Balance: 786.57
+2018-01-15 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 6.8995, Deri_MMRatio: -0.000822, Price: 2504.16, Quantity: 491, Holding Days: 168, P/L: 9.16%, Account Total: 1230329.13
+2019-12-13 00:00:00 Buy KOREA, Price: 2168.05, Quantity: 567, Cash Balance: 1044.78
+2020-01-09 00:00:00 Cond3 sell KOREA, Accu_MMRatio: -0.0082, Deri_MMRatio: -0.000202, Price: 2189.48, Quantity: 567, Holding Days: 16, P/L: 0.99%, Account Total: 1242479.94
+2020-06-02 00:00:00 Buy KOREA, Price: 2108.55, Quantity: 589, Cash Balance: 543.99
+2020-11-06 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 3.9850, Deri_MMRatio: -0.000876, Price: 2438.63, Quantity: 589, Holding Days: 108, P/L: 15.65%, Account Total: 1436897.06
+2021-01-04 00:00:00 Buy KOREA, Price: 2943.67, Quantity: 488, Cash Balance: 386.10
+2021-05-06 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 16.4633, Deri_MMRatio: 0.000379, Price: 3179.63, Quantity: 488, Holding Days: 84, P/L: 8.02%, Account Total: 1552045.54
+2022-11-01 00:00:00 Buy KOREA, Price: 2326.05, Quantity: 667, Cash Balance: 570.19
+2023-10-10 00:00:00 Cond1 sell KOREA, Accu_MMRatio: 3.4095, Deri_MMRatio: -0.001131, Price: 2436.52, Quantity: 667, Holding Days: 231, P/L: 4.75%, Account Total: 1625729.03
+2024-02-02 00:00:00 Buy KOREA, Price: 2612.77, Quantity: 622, Cash Balance: 586.09
+2025-01-06 00:00:00 Cond3 sell KOREA, Accu_MMRatio: 0.2675, Deri_MMRatio: -0.000095, Price: 2515.65, Quantity: 622, Holding Days: 223, P/L: -3.72%, Account Total: 1565320.39
+2025-04-15 00:00:00 Buy KOREA, Price: 2472.78, Quantity: 633, Cash Balance: 50.65
+
+=== Account Position Information ===
+Code: KOREA
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: KOREA
+  Holding Quantity: 633
+  Current Price: 5487.24
+  Holding Value: 3473422.92
+  Buy Date: 2025-04-16
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 50.65
+Account Total: 3473473.57
+Date Of Trading Start: 1995-04-03
+
+Target Latest Close : 5487.240
+Target Total Return (Start->Latest): 487.44%
+Target Annualized Return (CAGR): 5.89%
+Target Max Drawdown: -72.46%
+Target Max Drawdown Period: 1995-10-14 (Close=1016.770) -> 1998-06-16 (Close=280.000) (775 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.24%
+Max Drawdown: -62.94%
+Max Drawdown Period: 1995-10-14 (Account total=317097.37) -> 1998-06-16 (Account total=117522.12) (775 trading days)
+
+Annual Returns (from first buy):
+  1995: -8.17%
+  1996: -31.92%
+  1997: -23.27%
+  1998: 63.91%
+  1999: 82.14%
+  2000: -49.53%
+  2001: 37.41%
+  2002: 12.42%
+  2003: 34.49%
+  2004: 22.80%
+  2005: 53.92%
+  2006: -4.83%
+  2007: 32.57%
+  2008: -33.23%
+  2009: 49.58%
+  2010: 17.09%
+  2011: -15.42%
+  2012: 9.37%
+  2013: -3.01%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 7.55%
+  2018: 1.49%
+  2019: 1.37%
+  2020: 15.22%
+  2021: 8.01%
+  2022: -3.85%
+  2023: 8.94%
+  2024: -8.16%
+  2025: 78.67%
+  2026: 30.21%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = KOREA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.028
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.35
+date_start_backtest = 1995-04-01

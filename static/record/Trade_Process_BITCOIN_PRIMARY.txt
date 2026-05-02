@@ -1,0 +1,60 @@
+=== Trade Process ===
+2024-01-11 00:00:00 Initial Buy BITCOIN_PRIMARY, Price: 26.4, Quantity: 11363, Cash Balance: 16.80
+2024-05-29 00:00:00 Cond1 sell BITCOIN_PRIMARY, Accu_MMRatio: 31.3093, Deri_MMRatio: -0.000510, Price: 38.875, Quantity: 11363, Holding Days: 139, P/L: 47.25%, Account Total: 441753.42
+2024-07-14 00:00:00 Buy BITCOIN_PRIMARY, Price: 35.79, Quantity: 12342, Cash Balance: 33.24
+2025-11-28 00:00:00 Cond3 sell BITCOIN_PRIMARY, Accu_MMRatio: 8.4727, Deri_MMRatio: -0.003933, Price: 52.8, Quantity: 12342, Holding Days: 502, P/L: 47.53%, Account Total: 651690.84
+
+=== Account Position Information ===
+Code: BITCOIN_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-11-28
+Cash Balance: 651690.84
+Account Total: 651690.84
+Date Of Trading Start: 2024-01-12
+
+Target Latest Close : 44.470
+Target Total Return (Start->Latest): 66.99%
+Target Annualized Return (CAGR): 24.94%
+Target Max Drawdown: -49.36%
+Target Max Drawdown Period: 2025-10-06 (Close=71.290) -> 2026-02-05 (Close=36.100) (84 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 43.62%
+Max Drawdown: -32.71%
+Max Drawdown Period: 2025-10-06 (Account total=879894.43) -> 2025-11-21 (Account total=592078.98) (46 trading days)
+
+Annual Returns (from first buy):
+  2024: 130.76%
+  2025: -0.47%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BITCOIN
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.018
+Trend2 = 99.0
+MedMax1 = -0.1
+Accu1 = -4.0
+Deri1 = -99.0
+Trend1 = -0.35
+date_start_backtest = 2024-01-11

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: DXY_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: DXY_PRIMARY
+  Holding Quantity: 16591
+  Current Price: 27.41
+  Holding Value: 454759.31
+  Buy Date: 2025-08-19
+  Holding Days: 176
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 20.58
+Account Total: 454779.89
+Date Of Trading Start: 2007-03-02
+
+Target Latest Close : 27.410
+Target Total Return (Start->Latest): 33.39%
+Target Annualized Return (CAGR): 1.51%
+Target Max Drawdown: -22.19%
+Target Max Drawdown Period: 2008-11-20 (Close=22.472) -> 2011-07-26 (Close=17.485) (673 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.25%
+Max Drawdown: -23.91%
+Max Drawdown Period: 2016-12-09 (Account total=447344.96) -> 2018-03-26 (Account total=340374.80) (323 trading days)

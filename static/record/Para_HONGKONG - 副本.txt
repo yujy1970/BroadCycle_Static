@@ -1,0 +1,15 @@
+Account_total=4757333.330000
+avg_annual_growth=9.37%
+back_long=225
+back_medium=40
+TTT=50
+PPP=0.990000
+QQQ=15
+MedMax2=0.200000
+Accu2=99.000000
+Deri2=99.000000
+Trend2=99.000000
+MedMax1=-0.020000
+Accu1=-20.000000
+Deri1=-99.000000
+Trend1=-0.420000

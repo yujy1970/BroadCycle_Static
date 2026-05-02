@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: US_GOOGL
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-17
+Cash Balance: 10869948.60
+Account Total: 10869948.60
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 302.060
+Target Total Return (Start->Latest): 6423.97%
+Target Annualized Return (CAGR): 21.93%
+Target Max Drawdown: -65.29%
+Target Max Drawdown Period: 2007-11-06 (Close=18.478) -> 2008-11-24 (Close=6.413) (265 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 18.52%
+Max Drawdown: -56.72%
+Max Drawdown Period: 2008-05-05 (Account total=921836.73) -> 2008-11-24 (Account total=398933.09) (142 trading days)

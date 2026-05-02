@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GREECE_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-05-16
+Cash Balance: 824375.31
+Account Total: 824375.31
+Date Of Trading Start: 2011-12-14
+
+Target Latest Close : 62.400
+Target Total Return (Start->Latest): 79.79%
+Target Annualized Return (CAGR): 4.19%
+Target Max Drawdown: -79.48%
+Target Max Drawdown Period: 2014-03-18 (Close=63.376) -> 2020-03-18 (Close=13.003) (1511 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.37%
+Max Drawdown: -14.16%
+Max Drawdown Period: 2020-03-26 (Account total=730325.60) -> 2020-04-01 (Account total=626945.84) (4 trading days)

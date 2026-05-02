@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CHINA_CHINEXT
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-15
+Cash Balance: 2843013.10
+Account Total: 2843013.10
+Date Of Trading Start: 2010-06-02
+
+Target Latest Close : 3344.982
+Target Total Return (Start->Latest): 243.70%
+Target Annualized Return (CAGR): 8.16%
+Target Max Drawdown: -69.74%
+Target Max Drawdown Period: 2015-06-03 (Close=3982.251) -> 2018-10-18 (Close=1205.031) (823 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.14%
+Max Drawdown: -56.26%
+Max Drawdown Period: 2021-08-04 (Account total=2792133.23) -> 2024-09-23 (Account total=1221323.51) (760 trading days)

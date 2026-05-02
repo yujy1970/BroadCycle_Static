@@ -1,0 +1,116 @@
+=== Trade Process ===
+1997-11-05 00:00:00 Buy TAIWAN, Price: 7987.08, Quantity: 37, Cash Balance: 4478.04
+2000-02-21 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 12.4227, Deri_MMRatio: 0.004755, Price: 9853.16, Quantity: 37, Holding Days: 555, P/L: 23.36%, Account Total: 369044.96
+2000-10-24 00:00:00 Buy TAIWAN, Price: 5914.37, Quantity: 62, Cash Balance: 2354.02
+2002-04-22 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: -23.2655, Deri_MMRatio: 0.002168, Price: 6440.93, Quantity: 62, Holding Days: 362, P/L: 8.90%, Account Total: 401691.68
+2002-07-08 00:00:00 Buy TAIWAN, Price: 5352.71, Quantity: 75, Cash Balance: 238.43
+2002-10-31 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 13.9484, Deri_MMRatio: -0.001317, Price: 4596.69, Quantity: 75, Holding Days: 81, P/L: -14.12%, Account Total: 344990.18
+2003-01-08 00:00:00 Buy TAIWAN, Price: 4833.55, Quantity: 71, Cash Balance: 1808.13
+2003-10-17 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: -5.3940, Deri_MMRatio: 0.001621, Price: 6041.53, Quantity: 71, Holding Days: 191, P/L: 24.99%, Account Total: 430756.76
+2004-08-19 00:00:00 Buy TAIWAN, Price: 5601.35, Quantity: 76, Cash Balance: 5054.16
+2007-07-26 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 20.5929, Deri_MMRatio: 0.002991, Price: 9244.62, Quantity: 76, Holding Days: 721, P/L: 65.04%, Account Total: 707645.28
+2008-02-14 00:00:00 Buy TAIWAN, Price: 7766.49, Quantity: 91, Cash Balance: 894.69
+2009-09-10 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: -35.3184, Deri_MMRatio: 0.002786, Price: 7300.01, Quantity: 91, Holding Days: 390, P/L: -6.01%, Account Total: 665195.60
+2011-12-01 00:00:00 Buy TAIWAN, Price: 7164.0, Quantity: 92, Cash Balance: 6107.60
+2014-04-21 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 10.6349, Deri_MMRatio: 0.000779, Price: 8956.22, Quantity: 92, Holding Days: 581, P/L: 25.02%, Account Total: 830079.84
+2015-08-31 00:00:00 Buy TAIWAN, Price: 8117.5, Quantity: 102, Cash Balance: 2094.84
+2018-01-15 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 17.4213, Deri_MMRatio: -0.000064, Price: 10955.81, Quantity: 102, Holding Days: 580, P/L: 34.97%, Account Total: 1119587.46
+2020-03-25 00:00:00 Buy TAIWAN, Price: 9667.14, Quantity: 115, Cash Balance: 7866.36
+2021-01-14 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 12.7123, Deri_MMRatio: 0.003061, Price: 15987.16, Quantity: 115, Holding Days: 202, P/L: 65.38%, Account Total: 1846389.76
+2022-11-09 00:00:00 Buy TAIWAN, Price: 13556.51, Quantity: 136, Cash Balance: 2704.40
+2024-06-14 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 22.1537, Deri_MMRatio: 0.000631, Price: 22468.11, Quantity: 136, Holding Days: 383, P/L: 65.74%, Account Total: 3058367.36
+2025-05-02 00:00:00 Buy TAIWAN, Price: 20839.04, Quantity: 146, Cash Balance: 15867.52
+2026-01-14 00:00:00 Cond1 sell TAIWAN, Accu_MMRatio: 11.6420, Deri_MMRatio: 0.001602, Price: 30746.98, Quantity: 146, Holding Days: 176, P/L: 47.55%, Account Total: 4504926.60
+
+=== Position Information ===
+Current Position: None
+      Holding Quantity: 0
+      Current Price: 0.00
+      Holding Value: 0.00
+      Buy Date: N/A
+      Holding Days: 0
+Cash Balance: 4504926.60
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+=== Backtest Statistics ===
+Initial Capital: 300000.00
+Final Capital: 4504926.60
+Total Return: 1401.64%
+Annualized return (from first buy): 10.02%
+Max Drawdown: -55.94%
+Max Drawdown Period: 2008-05-19 -> 2008-11-20 (130 trading days)
+Buys: 11
+Sells: 0
+Date Of Trading Start: 1997-11-06
+Backtest end date: 2026-02-11
+
+=== Annual Returns (from first buy) ===
+1997Year: 1.35%
+1998Year: -21.29%
+1999Year: 31.05%
+2000Year: -6.50%
+2001Year: 16.88%
+2002Year: -0.44%
+2003Year: 24.86%
+2004Year: 9.50%
+2005Year: 6.58%
+2006Year: 19.28%
+2007Year: 18.01%
+2008Year: -40.83%
+2009Year: 58.87%
+2010Year: 0.00%
+2011Year: -1.27%
+2012Year: 8.79%
+2013Year: 11.74%
+2014Year: 3.97%
+2015Year: 2.71%
+2016Year: 10.95%
+2017Year: 14.98%
+2018Year: 2.93%
+2019Year: 0.00%
+2020Year: 52.03%
+2021Year: 8.48%
+2022Year: 4.28%
+2023Year: 26.79%
+2024Year: 25.28%
+2025Year: 38.78%
+2026Year: 6.13%
+
+=== Big-Arc Sell Statistics ===
+Big-Arc related sell logs: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = TAIWAN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+back_long = 300
+back_medium = 45
+TTT = 25
+PPP = 1.035
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01
+============================================================PARA FILE APPEND: para_TAIWAN.txt============================================================Account_total=4504926.600000
+avg_annual_growth=9.93%
+back_long=300
+back_medium=45
+TTT=25
+PPP=1.035000
+QQQ=15
+MedMax2=0.180000
+Accu2=99.000000
+Deri2=99.000000
+Trend2=99.000000
+MedMax1=-99.000000
+Accu1=-99.000000
+Deri1=-99.000000
+Trend1=-99.000000

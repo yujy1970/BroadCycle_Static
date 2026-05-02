@@ -1,0 +1,96 @@
+=== Trade Process ===
+2014-09-17 00:00:00 Initial Buy BITCOIN, Price: 456.86, Quantity: 656, Cash Balance: 299.84
+2014-12-28 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: -0.1726, Deri_MMRatio: -0.003390, Price: 317.701, Quantity: 656, Holding Days: 102, P/L: -30.46%, Account Total: 208711.70
+2015-10-06 00:00:00 Buy BITCOIN, Price: 246.17, Quantity: 847, Cash Balance: 205.71
+2016-02-08 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 19.7528, Deri_MMRatio: -0.007793, Price: 373.423, Quantity: 847, Holding Days: 125, P/L: 51.69%, Account Total: 316494.99
+2016-04-21 00:00:00 Buy BITCOIN, Price: 449.688, Quantity: 703, Cash Balance: 364.32
+2016-06-03 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 20.9163, Deri_MMRatio: 0.005774, Price: 569.705, Quantity: 703, Holding Days: 43, P/L: 26.69%, Account Total: 400866.94
+2016-09-03 00:00:00 Buy BITCOIN, Price: 598.59, Quantity: 669, Cash Balance: 410.23
+2017-08-05 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 42.6747, Deri_MMRatio: 0.000101, Price: 3257.61, Quantity: 669, Holding Days: 336, P/L: 444.21%, Account Total: 2179751.32
+2017-09-18 00:00:00 Buy BITCOIN, Price: 4073.79, Quantity: 535, Cash Balance: 273.67
+2017-12-07 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 60.0726, Deri_MMRatio: 0.026812, Price: 17802.9, Quantity: 535, Holding Days: 80, P/L: 337.01%, Account Total: 9524825.17
+2018-06-03 00:00:00 Buy BITCOIN, Price: 7722.53, Quantity: 1233, Cash Balance: 2945.68
+2018-06-21 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 17.0040, Deri_MMRatio: -0.002695, Price: 6737.88, Quantity: 1233, Holding Days: 18, P/L: -12.75%, Account Total: 8310751.72
+2019-06-13 00:00:00 Buy BITCOIN, Price: 8230.898, Quantity: 1009, Cash Balance: 5775.64
+2019-10-02 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 37.6581, Deri_MMRatio: -0.003899, Price: 8390.774, Quantity: 1009, Holding Days: 111, P/L: 1.94%, Account Total: 8472066.60
+2019-11-29 00:00:00 Buy BITCOIN, Price: 7764.057, Quantity: 1091, Cash Balance: 1480.42
+2019-12-09 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 22.8507, Deri_MMRatio: -0.003092, Price: 7397.134, Quantity: 1091, Holding Days: 10, P/L: -4.73%, Account Total: 8071753.61
+2020-01-08 00:00:00 Buy BITCOIN, Price: 8082.296, Quantity: 998, Cash Balance: 5622.20
+2020-01-28 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 1.7870, Deri_MMRatio: 0.006587, Price: 9357.471, Quantity: 998, Holding Days: 20, P/L: 15.78%, Account Total: 9344378.26
+2020-07-22 00:00:00 Buy BITCOIN, Price: 9527.142, Quantity: 980, Cash Balance: 7779.10
+2021-05-26 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 58.8543, Deri_MMRatio: -0.007686, Price: 39316.891, Quantity: 980, Holding Days: 308, P/L: 312.68%, Account Total: 38538332.28
+2021-08-20 00:00:00 Buy BITCOIN, Price: 49327.074, Quantity: 781, Cash Balance: 13887.48
+2021-12-31 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 2.6589, Deri_MMRatio: -0.007089, Price: 46311.746, Quantity: 781, Holding Days: 133, P/L: -6.11%, Account Total: 36183361.11
+2022-03-09 00:00:00 Buy BITCOIN, Price: 41974.07, Quantity: 862, Cash Balance: 1712.77
+2022-04-10 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 0.8235, Deri_MMRatio: 0.003756, Price: 42201.039, Quantity: 862, Holding Days: 32, P/L: 0.54%, Account Total: 36379008.39
+2023-03-14 00:00:00 Buy BITCOIN, Price: 24770.926, Quantity: 1468, Cash Balance: 15289.02
+2023-08-25 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 18.4223, Deri_MMRatio: -0.003397, Price: 26047.234, Quantity: 1468, Holding Days: 164, P/L: 5.15%, Account Total: 38252628.53
+2023-10-01 00:00:00 Buy BITCOIN, Price: 27976.799, Quantity: 1367, Cash Balance: 8344.30
+2024-05-29 00:00:00 Cond1 sell BITCOIN, Accu_MMRatio: 31.3093, Deri_MMRatio: -0.000510, Price: 67576.086, Quantity: 1367, Holding Days: 241, P/L: 141.54%, Account Total: 92384853.86
+2024-07-14 00:00:00 Buy BITCOIN, Price: 60815.457, Quantity: 1519, Cash Balance: 6174.68
+2025-11-28 00:00:00 Cond3 sell BITCOIN, Accu_MMRatio: 8.4727, Deri_MMRatio: -0.003933, Price: 90918.742, Quantity: 1519, Holding Days: 502, P/L: 49.50%, Account Total: 138111743.78
+
+=== Account Position Information ===
+Code: BITCOIN
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-11-28
+Cash Balance: 138111743.78
+Account Total: 138111743.78
+Date Of Trading Start: 2014-09-18
+
+Target Latest Close : 76304.320
+Target Total Return (Start->Latest): 16584.59%
+Target Annualized Return (CAGR): 55.35%
+Target Max Drawdown: -83.40%
+Target Max Drawdown Period: 2017-12-16 (Close=19497.400) -> 2018-12-15 (Close=3236.762) (364 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 70.63%
+Max Drawdown: -48.92%
+Max Drawdown Period: 2021-04-13 (Account total=62241166.96) -> 2021-09-21 (Account total=31795648.44) (161 trading days)
+
+Annual Returns (from first buy):
+  2014: -25.12%
+  2015: 74.83%
+  2016: 76.81%
+  2017: 1376.36%
+  2018: -12.75%
+  2019: -2.88%
+  2020: 252.21%
+  2021: 27.27%
+  2022: 0.54%
+  2023: 58.84%
+  2024: 145.61%
+  2025: -2.69%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BITCOIN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.018
+Trend2 = 99.0
+MedMax1 = -0.1
+Accu1 = -4.0
+Deri1 = -99.0
+Trend1 = -0.35
+date_start_backtest = 1995-04-01

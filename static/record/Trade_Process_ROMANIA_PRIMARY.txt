@@ -1,0 +1,88 @@
+=== Trade Process ===
+2007-02-01 00:00:00 Initial Buy ROMANIA_PRIMARY, Price: 2.126, Quantity: 141110, Cash Balance: 0.14
+2010-03-08 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 30.4501, Deri_MMRatio: 0.003895, Price: 1.572, Quantity: 141110, Holding Days: 774, P/L: -26.06%, Account Total: 221825.06
+2010-06-03 00:00:00 Buy ROMANIA_PRIMARY, Price: 1.476, Quantity: 150287, Cash Balance: 1.45
+2013-07-02 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 6.3604, Deri_MMRatio: -0.001254, Price: 2.394, Quantity: 150287, Holding Days: 779, P/L: 62.20%, Account Total: 359788.53
+2013-09-25 00:00:00 Buy ROMANIA_PRIMARY, Price: 2.755, Quantity: 130594, Cash Balance: 2.06
+2013-11-15 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 7.4949, Deri_MMRatio: -0.000225, Price: 3.064, Quantity: 130594, Holding Days: 37, P/L: 11.22%, Account Total: 400142.07
+2014-05-30 00:00:00 Buy ROMANIA_PRIMARY, Price: 3.851, Quantity: 103906, Cash Balance: 0.07
+2017-07-06 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 9.3729, Deri_MMRatio: -0.004194, Price: 8.044, Quantity: 103906, Holding Days: 778, P/L: 108.88%, Account Total: 835819.93
+2019-01-04 00:00:00 Buy ROMANIA_PRIMARY, Price: 9.779, Quantity: 85470, Cash Balance: 8.80
+2020-02-26 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 9.9143, Deri_MMRatio: -0.001894, Price: 18.851, Quantity: 85470, Holding Days: 285, P/L: 92.77%, Account Total: 1611203.77
+2020-04-10 00:00:00 Buy ROMANIA_PRIMARY, Price: 15.185, Quantity: 106104, Cash Balance: 14.53
+2021-11-03 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 12.3592, Deri_MMRatio: -0.000248, Price: 60.8, Quantity: 106104, Holding Days: 393, P/L: 300.40%, Account Total: 6451137.73
+2021-12-28 00:00:00 Buy ROMANIA_PRIMARY, Price: 65.395, Quantity: 98648, Cash Balance: 51.77
+2024-08-02 00:00:00 Cond1 sell ROMANIA_PRIMARY, Accu_MMRatio: 12.6402, Deri_MMRatio: -0.001359, Price: 49.29, Quantity: 98648, Holding Days: 649, P/L: -24.63%, Account Total: 4862411.69
+2024-12-09 00:00:00 Buy ROMANIA_PRIMARY, Price: 73.62, Quantity: 66047, Cash Balance: 31.55
+
+=== Account Position Information ===
+Code: ROMANIA_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: ROMANIA_PRIMARY
+  Holding Quantity: 66047
+  Current Price: 83.39
+  Holding Value: 5507659.33
+  Buy Date: 2024-12-10
+  Holding Days: 305
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 31.55
+Account Total: 5507690.88
+Date Of Trading Start: 2007-02-02
+
+Target Latest Close : 78.200
+Target Total Return (Start->Latest): 3620.27%
+Target Annualized Return (CAGR): 20.79%
+Target Max Drawdown: -83.40%
+Target Max Drawdown Period: 2007-10-31 (Close=2.927) -> 2009-03-09 (Close=0.486) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 16.48%
+Max Drawdown: -83.40%
+Max Drawdown Period: 2007-10-31 (Account total=413029.11) -> 2009-03-09 (Account total=68579.60) (333 trading days)
+
+Annual Returns (from first buy):
+  2007: 22.50%
+  2008: -75.77%
+  2009: 162.74%
+  2010: 26.51%
+  2011: -7.65%
+  2012: 15.41%
+  2013: 27.45%
+  2014: 25.24%
+  2015: 3.50%
+  2016: 20.57%
+  2017: 33.64%
+  2018: 0.00%
+  2019: 101.74%
+  2020: 124.90%
+  2021: 67.98%
+  2022: -64.37%
+  2023: 130.68%
+  2024: -10.72%
+  2025: 36.28%
+  2026: -13.55%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ROMANIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.028
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2007-02-01

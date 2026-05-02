@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ARGENTINA
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: ARGENTINA
+  Holding Quantity: 86
+  Current Price: 2832851.00
+  Holding Value: 243625186.00
+  Buy Date: 2024-05-31
+  Holding Days: 467
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 879883.00
+Account Total: 244505069.00
+Date Of Trading Start: 1996-10-09
+
+Target Latest Close : 2832851.000
+Target Total Return (Start->Latest): 480044.24%
+Target Annualized Return (CAGR): 33.21%
+Target Max Drawdown: -76.82%
+Target Max Drawdown Period: 1997-08-20 (Close=867.000) -> 2001-11-29 (Close=201.000) (1063 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 25.51%
+Max Drawdown: -68.30%
+Max Drawdown Period: 1997-08-20 (Account total=440716.00) -> 2001-11-29 (Account total=139721.00) (1063 trading days)

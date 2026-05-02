@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: US_AAPL
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: US_AAPL
+  Holding Quantity: 376599
+  Current Price: 251.49
+  Holding Value: 94710882.51
+  Buy Date: 2025-05-13
+  Holding Days: 215
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 155.72
+Account Total: 94711038.23
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 251.490
+Target Total Return (Start->Latest): 18752.32%
+Target Annualized Return (CAGR): 28.23%
+Target Max Drawdown: -60.87%
+Target Max Drawdown Period: 2007-12-28 (Close=5.993) -> 2009-01-20 (Close=2.345) (266 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 31.39%
+Max Drawdown: -50.66%
+Max Drawdown Period: 2008-05-13 (Account total=1690183.98) -> 2009-01-20 (Account total=833992.32) (173 trading days)

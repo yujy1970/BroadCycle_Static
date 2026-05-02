@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NETHERLANDS
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: NETHERLANDS
+  Holding Quantity: 3883
+  Current Price: 1001.66
+  Holding Value: 3889445.78
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 200.82
+Account Total: 3889646.60
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 1001.660
+Target Total Return (Start->Latest): 459.84%
+Target Annualized Return (CAGR): 5.72%
+Target Max Drawdown: -71.60%
+Target Max Drawdown Period: 2000-09-04 (Close=701.560) -> 2009-03-09 (Close=199.250) (2174 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.63%
+Max Drawdown: -68.84%
+Max Drawdown Period: 2000-09-04 (Account total=1186009.74) -> 2003-03-12 (Account total=369536.94) (640 trading days)

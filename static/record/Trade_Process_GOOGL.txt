@@ -1,0 +1,155 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy GOOGL, Price: 8.033, Quantity: 37345, Cash Balance: 7.61
+2009-03-23 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -36.4473, Deri_MMRatio: 0.012201, Price: 8.671, Quantity: 37345, Holding Days: 54, P/L: 7.94%, Account Total: 323826.11
+2009-03-30 00:00:00 Buy GOOGL, Price: 8.732, Quantity: 37084, Cash Balance: 8.62
+2009-10-16 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -37.0946, Deri_MMRatio: 0.013572, Price: 13.831, Quantity: 37084, Holding Days: 140, P/L: 58.39%, Account Total: 512917.43
+2009-10-26 00:00:00 Buy GOOGL, Price: 13.788, Quantity: 37200, Cash Balance: 3.83
+2009-12-22 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -12.8208, Deri_MMRatio: 0.002573, Price: 15.103, Quantity: 37200, Holding Days: 40, P/L: 9.54%, Account Total: 561835.43
+2010-03-12 00:00:00 Buy GOOGL, Price: 14.181, Quantity: 39618, Cash Balance: 12.57
+2010-04-27 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 21.2341, Deri_MMRatio: -0.011433, Price: 13.316, Quantity: 39618, Holding Days: 31, P/L: -6.10%, Account Total: 527565.86
+2010-10-06 00:00:00 Buy GOOGL, Price: 13.419, Quantity: 39314, Cash Balance: 11.29
+2010-10-15 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 23.7415, Deri_MMRatio: 0.016370, Price: 15.029, Quantity: 39314, Holding Days: 7, P/L: 12.00%, Account Total: 590861.40
+2010-11-04 00:00:00 Buy GOOGL, Price: 15.595, Quantity: 37887, Cash Balance: 13.63
+2011-03-17 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 35.1312, Deri_MMRatio: -0.010738, Price: 14.13, Quantity: 37887, Holding Days: 91, P/L: -9.39%, Account Total: 535356.94
+2011-06-27 00:00:00 Buy GOOGL, Price: 12.113, Quantity: 44196, Cash Balance: 10.79
+2011-07-15 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 38.2471, Deri_MMRatio: 0.016862, Price: 14.827, Quantity: 44196, Holding Days: 13, P/L: 22.41%, Account Total: 655304.89
+2011-10-06 00:00:00 Buy GOOGL, Price: 12.934, Quantity: 50665, Cash Balance: 3.78
+2011-10-14 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 26.6270, Deri_MMRatio: 0.013845, Price: 14.608, Quantity: 50665, Holding Days: 6, P/L: 12.94%, Account Total: 740118.10
+2011-10-28 00:00:00 Buy GOOGL, Price: 14.892, Quantity: 49699, Cash Balance: 0.59
+2012-01-20 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 15.9522, Deri_MMRatio: -0.013660, Price: 14.665, Quantity: 49699, Holding Days: 56, P/L: -1.52%, Account Total: 728836.42
+2012-03-16 00:00:00 Buy GOOGL, Price: 15.594, Quantity: 46738, Cash Balance: 4.05
+2012-10-18 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 25.2172, Deri_MMRatio: -0.013306, Price: 17.657, Quantity: 46738, Holding Days: 150, P/L: 13.23%, Account Total: 825256.92
+2012-12-17 00:00:00 Buy GOOGL, Price: 17.933, Quantity: 46018, Cash Balance: 16.12
+2013-05-15 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 45.9230, Deri_MMRatio: 0.013927, Price: 22.998, Quantity: 46018, Holding Days: 102, P/L: 28.24%, Account Total: 1058338.09
+2013-06-06 00:00:00 Buy GOOGL, Price: 21.782, Quantity: 48587, Cash Balance: 16.05
+2013-10-18 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 63.6652, Deri_MMRatio: 0.018657, Price: 25.312, Quantity: 48587, Holding Days: 94, P/L: 16.21%, Account Total: 1229850.20
+2013-11-08 00:00:00 Buy GOOGL, Price: 25.263, Quantity: 48681, Cash Balance: 22.09
+2014-03-26 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 87.3237, Deri_MMRatio: -0.011219, Price: 28.3, Quantity: 48681, Holding Days: 93, P/L: 12.02%, Account Total: 1377694.39
+2014-05-27 00:00:00 Buy GOOGL, Price: 28.729, Quantity: 47954, Cash Balance: 23.93
+2014-09-08 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 88.0245, Deri_MMRatio: 0.000570, Price: 30.014, Quantity: 47954, Holding Days: 72, P/L: 4.47%, Account Total: 1439315.28
+2014-09-22 00:00:00 Buy GOOGL, Price: 29.75, Quantity: 48380, Cash Balance: 10.28
+2014-10-13 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 84.2410, Deri_MMRatio: -0.010509, Price: 27.507, Quantity: 48380, Holding Days: 15, P/L: -7.54%, Account Total: 1330798.94
+2014-12-04 00:00:00 Buy GOOGL, Price: 26.835, Quantity: 49591, Cash Balance: 24.46
+2015-07-17 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 26.2848, Deri_MMRatio: 0.028070, Price: 34.449, Quantity: 49591, Holding Days: 154, P/L: 28.37%, Account Total: 1708384.82
+2015-08-05 00:00:00 Buy GOOGL, Price: 33.7, Quantity: 50693, Cash Balance: 30.72
+2015-08-25 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 25.7016, Deri_MMRatio: -0.015422, Price: 32.155, Quantity: 50693, Holding Days: 14, P/L: -4.58%, Account Total: 1630064.13
+2015-10-15 00:00:00 Buy GOOGL, Price: 34.77, Quantity: 46881, Cash Balance: 11.76
+2015-11-04 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 29.3099, Deri_MMRatio: 0.013830, Price: 37.94, Quantity: 46881, Holding Days: 14, P/L: 9.12%, Account Total: 1778676.90
+2015-11-12 00:00:00 Buy GOOGL, Price: 37.702, Quantity: 47177, Cash Balance: 9.65
+2016-01-13 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 40.9758, Deri_MMRatio: -0.013883, Price: 36.222, Quantity: 47177, Holding Days: 41, P/L: -3.93%, Account Total: 1708854.94
+2016-03-29 00:00:00 Buy GOOGL, Price: 38.41, Quantity: 44489, Cash Balance: 32.45
+2016-04-28 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 52.2600, Deri_MMRatio: -0.012035, Price: 35.206, Quantity: 44489, Holding Days: 22, P/L: -8.34%, Account Total: 1566312.19
+2016-06-23 00:00:00 Buy GOOGL, Price: 34.508, Quantity: 45389, Cash Balance: 28.57
+2017-05-04 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 46.2789, Deri_MMRatio: 0.012007, Price: 47.836, Quantity: 45389, Holding Days: 217, P/L: 38.62%, Account Total: 2171256.78
+2017-05-11 00:00:00 Buy GOOGL, Price: 47.893, Quantity: 45335, Cash Balance: 27.62
+2018-02-05 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 58.2630, Deri_MMRatio: -0.013068, Price: 51.699, Quantity: 45335, Holding Days: 185, P/L: 7.95%, Account Total: 2343801.79
+2018-05-09 00:00:00 Buy GOOGL, Price: 54.75, Quantity: 42809, Cash Balance: 9.04
+2018-10-10 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 56.6226, Deri_MMRatio: -0.011346, Price: 53.952, Quantity: 42809, Holding Days: 107, P/L: -1.46%, Account Total: 2309640.21
+2018-11-27 00:00:00 Buy GOOGL, Price: 52.873, Quantity: 43682, Cash Balance: 41.82
+2019-05-09 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 36.1404, Deri_MMRatio: -0.010159, Price: 58.442, Quantity: 43682, Holding Days: 111, P/L: 10.53%, Account Total: 2552905.26
+2019-07-22 00:00:00 Buy GOOGL, Price: 57.173, Quantity: 44652, Cash Balance: 16.47
+2020-02-25 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 28.8199, Deri_MMRatio: -0.011296, Price: 69.749, Quantity: 44652, Holding Days: 150, P/L: 22.00%, Account Total: 3114448.82
+2020-05-06 00:00:00 Buy GOOGL, Price: 68.065, Quantity: 45756, Cash Balance: 66.68
+2020-09-02 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 37.2621, Deri_MMRatio: 0.012886, Price: 84.976, Quantity: 45756, Holding Days: 83, P/L: 24.85%, Account Total: 3888228.53
+2020-11-04 00:00:00 Buy GOOGL, Price: 88.522, Quantity: 43923, Cash Balance: 76.73
+2020-11-09 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 39.6950, Deri_MMRatio: 0.012960, Price: 86.489, Quantity: 43923, Holding Days: 3, P/L: -2.30%, Account Total: 3798933.07
+2020-11-19 00:00:00 Buy GOOGL, Price: 88.1, Quantity: 43120, Cash Balance: 61.07
+2021-02-05 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 51.7951, Deri_MMRatio: 0.013121, Price: 105.0, Quantity: 43120, Holding Days: 52, P/L: 19.18%, Account Total: 4527661.07
+2021-02-24 00:00:00 Buy GOOGL, Price: 102.797, Quantity: 44044, Cash Balance: 70.01
+2021-04-07 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 68.3159, Deri_MMRatio: 0.012077, Price: 113.2, Quantity: 44044, Holding Days: 29, P/L: 10.12%, Account Total: 4985850.81
+2021-04-23 00:00:00 Buy GOOGL, Price: 115.226, Quantity: 43270, Cash Balance: 21.79
+2021-05-12 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 78.2583, Deri_MMRatio: -0.013258, Price: 111.306, Quantity: 43270, Holding Days: 13, P/L: -3.40%, Account Total: 4816232.41
+2021-06-25 00:00:00 Buy GOOGL, Price: 122.678, Quantity: 39259, Cash Balance: 16.80
+2021-08-03 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 99.0290, Deri_MMRatio: 0.009261, Price: 135.35, Quantity: 39259, Holding Days: 26, P/L: 10.33%, Account Total: 5313722.45
+2022-12-29 00:00:00 Buy GOOGL, Price: 86.98, Quantity: 61091, Cash Balance: 27.27
+2023-02-02 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -2.5072, Deri_MMRatio: 0.012505, Price: 102.93, Quantity: 61091, Holding Days: 23, P/L: 18.34%, Account Total: 6288123.90
+2023-04-05 00:00:00 Buy GOOGL, Price: 105.26, Quantity: 59738, Cash Balance: 102.02
+2023-05-17 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -21.3519, Deri_MMRatio: 0.012827, Price: 120.95, Quantity: 59738, Holding Days: 29, P/L: 14.91%, Account Total: 7225413.12
+2023-05-31 00:00:00 Buy GOOGL, Price: 122.82, Quantity: 58829, Cash Balance: 35.34
+2023-10-18 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: -7.2562, Deri_MMRatio: 0.001958, Price: 138.5, Quantity: 58829, Holding Days: 97, P/L: 12.77%, Account Total: 8147851.84
+2024-01-24 00:00:00 Buy GOOGL, Price: 150.07, Quantity: 54293, Cash Balance: 101.33
+2024-03-20 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 22.5736, Deri_MMRatio: 0.014255, Price: 149.47, Quantity: 54293, Holding Days: 39, P/L: -0.40%, Account Total: 8115276.04
+2024-04-01 00:00:00 Buy GOOGL, Price: 153.5, Quantity: 52868, Cash Balance: 38.04
+2024-07-19 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 47.9780, Deri_MMRatio: -0.011194, Price: 180.59, Quantity: 52868, Holding Days: 76, P/L: 17.65%, Account Total: 9547470.16
+2024-10-25 00:00:00 Buy GOOGL, Price: 168.75, Quantity: 56577, Cash Balance: 101.41
+2024-11-07 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 62.1628, Deri_MMRatio: 0.012681, Price: 180.65, Quantity: 56577, Holding Days: 9, P/L: 7.05%, Account Total: 10220736.46
+2024-11-19 00:00:00 Buy GOOGL, Price: 177.34, Quantity: 57633, Cash Balance: 100.24
+2024-11-21 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 63.9584, Deri_MMRatio: -0.010906, Price: 165.85, Quantity: 57633, Holding Days: 2, P/L: -6.48%, Account Total: 9558533.29
+2025-01-15 00:00:00 Buy GOOGL, Price: 194.14, Quantity: 49235, Cash Balance: 50.39
+2025-02-07 00:00:00 Cond3 sell GOOGL, Accu_MMRatio: 74.4874, Deri_MMRatio: -0.012244, Price: 187.35, Quantity: 49235, Holding Days: 16, P/L: -3.50%, Account Total: 9224227.64
+2025-05-21 00:00:00 Buy GOOGL, Price: 171.85, Quantity: 53676, Cash Balance: 7.04
+2025-09-03 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 53.2290, Deri_MMRatio: 0.016835, Price: 229.65, Quantity: 53676, Holding Days: 71, P/L: 33.63%, Account Total: 12326700.44
+2025-09-23 00:00:00 Buy GOOGL, Price: 251.66, Quantity: 48981, Cash Balance: 141.98
+2025-10-24 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 59.8401, Deri_MMRatio: 0.012134, Price: 264.82, Quantity: 48981, Holding Days: 23, P/L: 5.23%, Account Total: 12971290.40
+2025-11-17 00:00:00 Buy GOOGL, Price: 287.92, Quantity: 45051, Cash Balance: 206.48
+2025-11-24 00:00:00 Cond1 sell GOOGL, Accu_MMRatio: 64.3968, Deri_MMRatio: 0.013442, Price: 326.21, Quantity: 45051, Holding Days: 5, P/L: 13.30%, Account Total: 14696293.19
+
+=== Account Position Information ===
+Code: GOOGL
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-11-24
+Cash Balance: 14696293.19
+Account Total: 14696293.19
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 385.690
+Target Total Return (Start->Latest): 4736.24%
+Target Annualized Return (CAGR): 25.09%
+Target Max Drawdown: -44.32%
+Target Max Drawdown Period: 2021-11-18 (Close=148.610) -> 2022-11-03 (Close=82.746) (241 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 25.10%
+Max Drawdown: -23.20%
+Max Drawdown Period: 2009-02-09 (Account total=351087.96) -> 2009-03-09 (Account total=269638.51) (19 trading days)
+
+Annual Returns (from first buy):
+  2009: 84.77%
+  2010: -0.59%
+  2011: 42.64%
+  2012: 1.41%
+  2013: 67.60%
+  2014: -3.62%
+  2015: 39.47%
+  2016: -2.00%
+  2017: 32.77%
+  2018: -4.42%
+  2019: 31.02%
+  2020: 26.37%
+  2021: 41.78%
+  2022: 0.61%
+  2023: 52.41%
+  2024: 17.31%
+  2025: 53.75%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = GOOGL
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 0.9925
+QQQ = 30
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.012
+Trend2 = 0.105
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.01
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

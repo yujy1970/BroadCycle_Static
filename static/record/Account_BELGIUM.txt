@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BELGIUM
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: BELGIUM
+  Holding Quantity: 461
+  Current Price: 5109.48
+  Holding Value: 2355470.28
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1351.65
+Account Total: 2356821.93
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 5109.480
+Target Total Return (Start->Latest): 290.42%
+Target Annualized Return (CAGR): 4.50%
+Target Max Drawdown: -67.89%
+Target Max Drawdown Period: 2007-05-23 (Close=4756.810) -> 2009-03-06 (Close=1527.270) (458 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.89%
+Max Drawdown: -44.38%
+Max Drawdown Period: 1999-01-06 (Account total=860260.91) -> 2002-07-24 (Account total=478452.00) (891 trading days)

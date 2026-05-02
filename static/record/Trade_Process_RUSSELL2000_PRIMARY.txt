@@ -1,0 +1,111 @@
+=== Trade Process ===
+2000-05-26 00:00:00 Initial Buy RUSSELL2000_PRIMARY, Price: 46.375, Quantity: 6469, Cash Balance: 0.12
+2000-11-17 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 31.6478, Deri_MMRatio: -0.002630, Price: 47.688, Quantity: 6469, Holding Days: 122, P/L: 2.83%, Account Total: 308493.80
+2000-12-05 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 47.094, Quantity: 6550, Cash Balance: 28.10
+2003-11-24 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -1.0882, Deri_MMRatio: 0.001051, Price: 53.895, Quantity: 6550, Holding Days: 744, P/L: 14.44%, Account Total: 353040.35
+2004-06-30 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 58.91, Quantity: 5992, Cash Balance: 51.63
+2004-09-02 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 47.9830, Deri_MMRatio: -0.001725, Price: 55.825, Quantity: 5992, Holding Days: 45, P/L: -5.24%, Account Total: 334555.03
+2004-10-01 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 58.8, Quantity: 5689, Cash Balance: 41.83
+2010-04-16 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -1.5579, Deri_MMRatio: 0.003488, Price: 71.06, Quantity: 5689, Holding Days: 1394, P/L: 20.85%, Account Total: 404302.17
+2010-07-09 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 62.76, Quantity: 6442, Cash Balance: 2.25
+2010-12-27 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 33.6163, Deri_MMRatio: 0.001094, Price: 79.11, Quantity: 6442, Holding Days: 118, P/L: 26.05%, Account Total: 509628.87
+2011-06-21 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 80.22, Quantity: 6352, Cash Balance: 71.43
+2011-08-31 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 40.3008, Deri_MMRatio: -0.002637, Price: 72.7, Quantity: 6352, Holding Days: 50, P/L: -9.37%, Account Total: 461861.83
+2011-09-14 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 71.07, Quantity: 6498, Cash Balance: 48.97
+2013-09-19 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 28.5472, Deri_MMRatio: 0.000218, Price: 107.24, Quantity: 6498, Holding Days: 506, P/L: 50.89%, Account Total: 696894.49
+2013-10-11 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 107.06, Quantity: 6509, Cash Balance: 40.95
+2013-11-05 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 33.6112, Deri_MMRatio: 0.000501, Price: 110.35, Quantity: 6509, Holding Days: 17, P/L: 3.07%, Account Total: 718309.10
+2014-04-22 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 114.48, Quantity: 6274, Cash Balance: 61.58
+2014-05-28 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 41.8413, Deri_MMRatio: -0.001876, Price: 113.33, Quantity: 6274, Holding Days: 25, P/L: -1.00%, Account Total: 711094.00
+2014-06-09 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 116.63, Quantity: 6097, Cash Balance: 0.89
+2017-01-04 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -0.7525, Deri_MMRatio: 0.002607, Price: 137.49, Quantity: 6097, Holding Days: 649, P/L: 17.89%, Account Total: 838277.42
+2017-02-15 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 139.46, Quantity: 6010, Cash Balance: 122.82
+2020-02-21 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -0.1641, Deri_MMRatio: 0.000483, Price: 161.86, Quantity: 6010, Holding Days: 758, P/L: 16.06%, Account Total: 972901.42
+2020-03-24 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 109.48, Quantity: 8886, Cash Balance: 62.14
+2020-06-03 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -6.9225, Deri_MMRatio: 0.006217, Price: 143.84, Quantity: 8886, Holding Days: 49, P/L: 31.38%, Account Total: 1278224.38
+2020-06-30 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 143.65, Quantity: 8898, Cash Balance: 26.68
+2021-01-11 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -5.8690, Deri_MMRatio: 0.006142, Price: 208.52, Quantity: 8898, Holding Days: 134, P/L: 45.16%, Account Total: 1855437.64
+2022-01-31 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 201.66, Quantity: 9200, Cash Balance: 165.64
+2024-04-03 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: -0.6059, Deri_MMRatio: 0.000441, Price: 208.05, Quantity: 9200, Holding Days: 545, P/L: 3.17%, Account Total: 1914225.64
+2024-04-29 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 198.11, Quantity: 9662, Cash Balance: 86.82
+2025-04-01 00:00:00 Cond1 sell RUSSELL2000_PRIMARY, Accu_MMRatio: 24.7671, Deri_MMRatio: -0.002730, Price: 196.78, Quantity: 9662, Holding Days: 231, P/L: -0.67%, Account Total: 1901375.18
+2025-04-14 00:00:00 Buy RUSSELL2000_PRIMARY, Price: 186.34, Quantity: 10203, Cash Balance: 148.16
+
+=== Account Position Information ===
+Code: RUSSELL2000_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: RUSSELL2000_PRIMARY
+  Holding Quantity: 10203
+  Current Price: 279.28
+  Holding Value: 2849493.84
+  Buy Date: 2025-04-15
+  Holding Days: 262
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 148.16
+Account Total: 2849642.00
+Date Of Trading Start: 2000-05-30
+
+Target Latest Close : 279.280
+Target Total Return (Start->Latest): 754.90%
+Target Annualized Return (CAGR): 8.63%
+Target Max Drawdown: -58.64%
+Target Max Drawdown Period: 2007-07-13 (Close=65.883) -> 2009-03-09 (Close=27.249) (416 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.40%
+Max Drawdown: -58.63%
+Max Drawdown Period: 2007-07-13 (Account total=374850.21) -> 2009-03-09 (Account total=155061.39) (416 trading days)
+
+Annual Returns (from first buy):
+  2000: 3.14%
+  2001: 1.78%
+  2002: -20.37%
+  2003: 92.73%
+  2004: -21.31%
+  2005: 4.46%
+  2006: 18.27%
+  2007: -1.79%
+  2008: -34.14%
+  2009: 28.48%
+  2010: 78.67%
+  2011: -22.46%
+  2012: 16.70%
+  2013: 55.75%
+  2014: -12.25%
+  2015: -4.48%
+  2016: 21.59%
+  2017: 12.96%
+  2018: -11.12%
+  2019: 25.39%
+  2020: 77.69%
+  2021: 13.30%
+  2022: -16.88%
+  2023: 16.83%
+  2024: 16.97%
+  2025: 18.97%
+  2026: 13.66%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = RUSSELL2000
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.015
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 99.0
+Deri2 = 0.006
+Trend2 = 0.42
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2000-05-26

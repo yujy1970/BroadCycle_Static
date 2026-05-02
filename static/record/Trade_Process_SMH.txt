@@ -1,0 +1,93 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy SMH, Price: 9.13, Quantity: 32858, Cash Balance: 6.46
+2009-01-05 00:00:00 Cond3 sell SMH, Accu_MMRatio: -15.1347, Deri_MMRatio: 0.009134, Price: 9.245, Quantity: 32858, Holding Days: 1, P/L: 1.26%, Account Total: 303778.67
+2009-03-10 00:00:00 Buy SMH, Price: 8.685, Quantity: 34977, Cash Balance: 3.42
+2010-02-16 00:00:00 Cond1 sell SMH, Accu_MMRatio: 14.8362, Deri_MMRatio: -0.002018, Price: 13.4, Quantity: 34977, Holding Days: 236, P/L: 54.29%, Account Total: 468695.22
+2010-04-14 00:00:00 Buy SMH, Price: 15.12, Quantity: 30998, Cash Balance: 5.46
+2013-11-29 00:00:00 Cond1 sell SMH, Accu_MMRatio: 8.1829, Deri_MMRatio: -0.000704, Price: 20.64, Quantity: 30998, Holding Days: 915, P/L: 36.51%, Account Total: 639804.18
+2014-02-13 00:00:00 Buy SMH, Price: 21.485, Quantity: 29779, Cash Balance: 2.37
+2014-10-17 00:00:00 Cond1 sell SMH, Accu_MMRatio: 8.5075, Deri_MMRatio: -0.003674, Price: 23.33, Quantity: 29779, Holding Days: 171, P/L: 8.59%, Account Total: 694746.44
+2015-08-28 00:00:00 Buy SMH, Price: 24.77, Quantity: 28047, Cash Balance: 22.25
+2017-05-19 00:00:00 Cond1 sell SMH, Accu_MMRatio: 12.5719, Deri_MMRatio: 0.000707, Price: 42.03, Quantity: 28047, Holding Days: 434, P/L: 69.68%, Account Total: 1178837.66
+2017-07-12 00:00:00 Buy SMH, Price: 43.0, Quantity: 27414, Cash Balance: 35.66
+2020-02-20 00:00:00 Cond1 sell SMH, Accu_MMRatio: 11.7161, Deri_MMRatio: -0.000839, Price: 74.43, Quantity: 27414, Holding Days: 656, P/L: 73.09%, Account Total: 2040459.68
+2020-03-31 00:00:00 Buy SMH, Price: 56.72, Quantity: 35974, Cash Balance: 14.40
+2021-04-26 00:00:00 Cond1 sell SMH, Accu_MMRatio: 21.4090, Deri_MMRatio: 0.001149, Price: 127.05, Quantity: 35974, Holding Days: 269, P/L: 124.00%, Account Total: 4570511.10
+2021-06-28 00:00:00 Buy SMH, Price: 129.85, Quantity: 35198, Cash Balance: 50.80
+2023-10-18 00:00:00 Cond1 sell SMH, Accu_MMRatio: 14.7843, Deri_MMRatio: -0.002404, Price: 147.25, Quantity: 35198, Holding Days: 581, P/L: 13.40%, Account Total: 5182956.30
+2023-12-11 00:00:00 Buy SMH, Price: 165.58, Quantity: 31301, Cash Balance: 136.72
+2024-05-07 00:00:00 Cond1 sell SMH, Accu_MMRatio: 16.8684, Deri_MMRatio: -0.003918, Price: 218.95, Quantity: 31301, Holding Days: 101, P/L: 32.23%, Account Total: 6853490.67
+2024-07-03 00:00:00 Buy SMH, Price: 271.22, Quantity: 25269, Cash Balance: 32.49
+2024-09-26 00:00:00 Cond1 sell SMH, Accu_MMRatio: 18.0985, Deri_MMRatio: 0.000825, Price: 253.19, Quantity: 25269, Holding Days: 59, P/L: -6.65%, Account Total: 6397890.60
+2024-11-08 00:00:00 Buy SMH, Price: 257.92, Quantity: 24805, Cash Balance: 185.00
+2026-04-27 00:00:00 Cond1 sell SMH, Accu_MMRatio: 20.5683, Deri_MMRatio: 0.005860, Price: 488.19, Quantity: 24805, Holding Days: 364, P/L: 89.28%, Account Total: 12109737.95
+
+=== Account Position Information ===
+Code: SMH
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-27
+Cash Balance: 12109737.95
+Account Total: 12109737.95
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 509.820
+Target Total Return (Start->Latest): 6432.80%
+Target Annualized Return (CAGR): 27.28%
+Target Max Drawdown: -45.30%
+Target Max Drawdown Period: 2021-12-27 (Close=154.396) -> 2022-10-14 (Close=84.451) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 23.72%
+Max Drawdown: -45.30%
+Max Drawdown Period: 2021-12-27 (Account total=5434481.21) -> 2022-10-14 (Account total=2972557.10) (202 trading days)
+
+Annual Returns (from first buy):
+  2009: 36.49%
+  2010: 3.26%
+  2011: -6.46%
+  2012: 8.55%
+  2013: 47.17%
+  2014: 8.59%
+  2015: -2.02%
+  2016: 35.54%
+  2017: 35.35%
+  2018: -9.05%
+  2019: 64.45%
+  2020: 104.10%
+  2021: 39.07%
+  2022: -33.53%
+  2023: 54.18%
+  2024: 10.23%
+  2025: 49.17%
+  2026: 35.56%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SMH
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.12
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

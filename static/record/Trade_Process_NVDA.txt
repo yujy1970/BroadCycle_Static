@@ -1,0 +1,104 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy NVDA, Price: 0.215, Quantity: 1395348, Cash Balance: 0.18
+2009-01-05 00:00:00 Cond3 sell NVDA, Accu_MMRatio: -68.8340, Deri_MMRatio: 0.014577, Price: 0.228, Quantity: 1395348, Holding Days: 1, P/L: 6.05%, Account Total: 318139.52
+2009-02-02 00:00:00 Buy NVDA, Price: 0.21, Quantity: 1514950, Cash Balance: 0.02
+2009-09-02 00:00:00 Cond1 sell NVDA, Accu_MMRatio: -3.0590, Deri_MMRatio: -0.000780, Price: 0.356, Quantity: 1514950, Holding Days: 148, P/L: 69.52%, Account Total: 539322.22
+2009-09-30 00:00:00 Buy NVDA, Price: 0.375, Quantity: 1438192, Cash Balance: 0.22
+2010-02-16 00:00:00 Cond1 sell NVDA, Accu_MMRatio: 39.8140, Deri_MMRatio: -0.001763, Price: 0.447, Quantity: 1438192, Holding Days: 94, P/L: 19.20%, Account Total: 642872.05
+2010-03-16 00:00:00 Buy NVDA, Price: 0.447, Quantity: 1438192, Cash Balance: 0.22
+2010-06-10 00:00:00 Cond3 sell NVDA, Accu_MMRatio: 28.0454, Deri_MMRatio: -0.010296, Price: 0.281, Quantity: 1438192, Holding Days: 60, P/L: -37.14%, Account Total: 404132.18
+2010-10-13 00:00:00 Buy NVDA, Price: 0.284, Quantity: 1423000, Cash Balance: 0.18
+2011-02-14 00:00:00 Cond1 sell NVDA, Accu_MMRatio: -2.5509, Deri_MMRatio: -0.011891, Price: 0.579, Quantity: 1423000, Holding Days: 85, P/L: 103.87%, Account Total: 823917.18
+2011-03-24 00:00:00 Buy NVDA, Price: 0.485, Quantity: 1698798, Cash Balance: 0.15
+2011-07-25 00:00:00 Cond3 sell NVDA, Accu_MMRatio: 33.4074, Deri_MMRatio: -0.002775, Price: 0.359, Quantity: 1698798, Holding Days: 84, P/L: -25.98%, Account Total: 609868.63
+2011-10-05 00:00:00 Buy NVDA, Price: 0.336, Quantity: 1815085, Cash Balance: 0.07
+2011-12-01 00:00:00 Cond3 sell NVDA, Accu_MMRatio: 5.5665, Deri_MMRatio: 0.008338, Price: 0.4, Quantity: 1815085, Holding Days: 40, P/L: 19.05%, Account Total: 726034.07
+2012-01-06 00:00:00 Buy NVDA, Price: 0.364, Quantity: 1994599, Cash Balance: 0.03
+2013-06-11 00:00:00 Cond1 sell NVDA, Accu_MMRatio: -0.8022, Deri_MMRatio: -0.000986, Price: 0.356, Quantity: 1994599, Holding Days: 357, P/L: -2.20%, Account Total: 710077.28
+2013-07-10 00:00:00 Buy NVDA, Price: 0.363, Quantity: 1956135, Cash Balance: 0.27
+2016-02-12 00:00:00 Cond1 sell NVDA, Accu_MMRatio: 22.7528, Deri_MMRatio: -0.007081, Price: 0.652, Quantity: 1956135, Holding Days: 654, P/L: 79.61%, Account Total: 1275400.29
+2016-03-16 00:00:00 Buy NVDA, Price: 0.825, Quantity: 1545939, Cash Balance: 0.62
+2017-04-06 00:00:00 Cond1 sell NVDA, Accu_MMRatio: 75.6073, Deri_MMRatio: -0.002180, Price: 2.526, Quantity: 1545939, Holding Days: 267, P/L: 206.18%, Account Total: 3905042.53
+2017-04-21 00:00:00 Buy NVDA, Price: 2.574, Quantity: 1517110, Cash Balance: 1.39
+2018-11-20 00:00:00 Cond3 sell NVDA, Accu_MMRatio: 17.9391, Deri_MMRatio: -0.012850, Price: 3.865, Quantity: 1517110, Holding Days: 400, P/L: 50.16%, Account Total: 5863631.54
+2019-03-20 00:00:00 Buy NVDA, Price: 4.383, Quantity: 1337812, Cash Balance: 1.54
+2019-12-04 00:00:00 Cond1 sell NVDA, Accu_MMRatio: -2.4502, Deri_MMRatio: -0.001254, Price: 5.258, Quantity: 1337812, Holding Days: 180, P/L: 19.96%, Account Total: 7034217.04
+2020-01-07 00:00:00 Buy NVDA, Price: 5.994, Quantity: 1173543, Cash Balance: 0.30
+2020-11-30 00:00:00 Cond1 sell NVDA, Accu_MMRatio: 60.1418, Deri_MMRatio: -0.000455, Price: 13.492, Quantity: 1173543, Holding Days: 227, P/L: 125.09%, Account Total: 15833442.45
+2020-12-17 00:00:00 Buy NVDA, Price: 13.379, Quantity: 1183454, Cash Balance: 11.39
+2022-05-06 00:00:00 Cond3 sell NVDA, Accu_MMRatio: 36.1734, Deri_MMRatio: -0.010398, Price: 18.034, Quantity: 1183454, Holding Days: 348, P/L: 34.79%, Account Total: 21342420.82
+2022-11-15 00:00:00 Buy NVDA, Price: 16.162, Quantity: 1320530, Cash Balance: 14.96
+2023-04-19 00:00:00 Cond1 sell NVDA, Accu_MMRatio: -3.5470, Deri_MMRatio: -0.003222, Price: 27.671, Quantity: 1320530, Holding Days: 105, P/L: 71.21%, Account Total: 36540400.59
+2023-05-17 00:00:00 Buy NVDA, Price: 30.41, Quantity: 1201591, Cash Balance: 18.28
+2023-12-13 00:00:00 Cond1 sell NVDA, Accu_MMRatio: 75.1362, Deri_MMRatio: -0.005060, Price: 48.39, Quantity: 1201591, Holding Days: 145, P/L: 59.13%, Account Total: 58145006.77
+2024-01-08 00:00:00 Buy NVDA, Price: 52.401, Quantity: 1109616, Cash Balance: 18.76
+
+=== Account Position Information ===
+Code: NVDA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NVDA
+  Holding Quantity: 1109616
+  Current Price: 198.45
+  Holding Value: 220203295.20
+  Buy Date: 2024-01-09
+  Holding Days: 579
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 18.76
+Account Total: 220203313.96
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 198.450
+Target Total Return (Start->Latest): 99125.00%
+Target Annualized Return (CAGR): 48.92%
+Target Max Drawdown: -66.34%
+Target Max Drawdown Period: 2021-11-29 (Close=33.306) -> 2022-10-14 (Close=11.212) (221 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 45.89%
+Max Drawdown: -59.10%
+Max Drawdown Period: 2018-10-01 (Account total=10871611.65) -> 2019-06-03 (Account total=4446888.63) (167 trading days)
+
+Annual Returns (from first buy):
+  2009: 93.48%
+  2010: -18.39%
+  2011: 44.54%
+  2012: -22.25%
+  2013: 30.99%
+  2014: 27.25%
+  2015: 67.15%
+  2016: 158.42%
+  2017: 78.58%
+  2018: -19.21%
+  2019: 19.96%
+  2020: 119.02%
+  2021: 125.48%
+  2022: -44.50%
+  2023: 201.61%
+  2024: 156.19%
+  2025: 38.92%
+  2026: 6.41%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NVDA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.0075
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.385
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.28
+date_start_backtest = 2009-01-02

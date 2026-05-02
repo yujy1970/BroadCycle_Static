@@ -1,0 +1,90 @@
+=== Trade Process ===
+2013-03-05 00:00:00 Initial Buy NORWAY, Price: 479.02, Quantity: 626, Cash Balance: 133.48
+2013-08-09 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 0.0509, Deri_MMRatio: 0.002427, Price: 500.52, Quantity: 626, Holding Days: 102, P/L: 4.49%, Account Total: 313459.00
+2013-10-18 00:00:00 Buy NORWAY, Price: 519.42, Quantity: 603, Cash Balance: 248.74
+2014-06-20 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 6.0170, Deri_MMRatio: 0.001417, Price: 629.51, Quantity: 603, Holding Days: 163, P/L: 21.19%, Account Total: 379843.27
+2014-12-18 00:00:00 Buy NORWAY, Price: 573.66, Quantity: 662, Cash Balance: 80.35
+2016-08-11 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: -0.4004, Deri_MMRatio: 0.000424, Price: 621.37, Quantity: 662, Holding Days: 409, P/L: 8.32%, Account Total: 411427.29
+2016-10-05 00:00:00 Buy NORWAY, Price: 631.8, Quantity: 651, Cash Balance: 125.49
+2017-02-13 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 6.0334, Deri_MMRatio: -0.000383, Price: 702.95, Quantity: 651, Holding Days: 91, P/L: 11.26%, Account Total: 457745.94
+2017-07-13 00:00:00 Buy NORWAY, Price: 722.0, Quantity: 633, Cash Balance: 719.94
+2018-06-19 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 6.0187, Deri_MMRatio: 0.000189, Price: 885.01, Quantity: 633, Holding Days: 232, P/L: 22.58%, Account Total: 560931.27
+2018-12-03 00:00:00 Buy NORWAY, Price: 874.39, Quantity: 641, Cash Balance: 447.28
+2019-11-06 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: -0.3585, Deri_MMRatio: 0.000631, Price: 910.41, Quantity: 641, Holding Days: 230, P/L: 4.12%, Account Total: 584020.09
+2020-03-24 00:00:00 Buy NORWAY, Price: 671.6, Quantity: 869, Cash Balance: 399.69
+2021-01-20 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: -0.5705, Deri_MMRatio: 0.000968, Price: 1002.72, Quantity: 869, Holding Days: 204, P/L: 49.30%, Account Total: 871763.37
+2022-05-18 00:00:00 Buy NORWAY, Price: 1238.48, Quantity: 703, Cash Balance: 1111.93
+2023-08-09 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: -0.1441, Deri_MMRatio: 0.001021, Price: 1256.25, Quantity: 703, Holding Days: 310, P/L: 1.43%, Account Total: 884255.68
+2023-10-12 00:00:00 Buy NORWAY, Price: 1308.55, Quantity: 675, Cash Balance: 984.43
+2024-08-15 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 4.3937, Deri_MMRatio: -0.000689, Price: 1441.56, Quantity: 675, Holding Days: 209, P/L: 10.16%, Account Total: 974037.43
+2024-11-21 00:00:00 Buy NORWAY, Price: 1464.83, Quantity: 664, Cash Balance: 1390.31
+2025-03-06 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 4.4148, Deri_MMRatio: -0.000840, Price: 1476.45, Quantity: 664, Holding Days: 70, P/L: 0.79%, Account Total: 981753.11
+2025-04-15 00:00:00 Buy NORWAY, Price: 1446.62, Quantity: 678, Cash Balance: 944.75
+2025-11-10 00:00:00 Cond1 sell NORWAY, Accu_MMRatio: 4.6636, Deri_MMRatio: -0.000904, Price: 1607.11, Quantity: 678, Holding Days: 142, P/L: 11.09%, Account Total: 1090565.33
+2026-01-16 00:00:00 Buy NORWAY, Price: 1750.85, Quantity: 622, Cash Balance: 1536.63
+
+=== Account Position Information ===
+Code: NORWAY
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: NORWAY
+  Holding Quantity: 622
+  Current Price: 1875.30
+  Holding Value: 1166436.60
+  Buy Date: 2026-01-19
+  Holding Days: 28
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1536.63
+Account Total: 1167973.23
+Date Of Trading Start: 2013-03-06
+
+Target Latest Close : 1875.300
+Target Total Return (Start->Latest): 291.47%
+Target Annualized Return (CAGR): 11.09%
+Target Max Drawdown: -32.82%
+Target Max Drawdown Period: 2020-01-17 (Close=946.630) -> 2020-03-23 (Close=635.930) (46 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.08%
+Max Drawdown: -22.09%
+Max Drawdown Period: 2015-04-15 (Account total=437874.19) -> 2016-02-11 (Account total=341162.61) (209 trading days)
+
+Annual Returns (from first buy):
+  2013: 10.85%
+  2014: 15.16%
+  2015: 5.94%
+  2016: 10.21%
+  2017: 15.93%
+  2018: -0.65%
+  2019: 13.87%
+  2020: 44.99%
+  2021: 2.95%
+  2022: -3.99%
+  2023: 5.49%
+  2024: 7.33%
+  2025: 15.08%
+  2026: 7.10%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NORWAY
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 6.0
+Deri2 = 99.0
+Trend2 = 0.35
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

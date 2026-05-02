@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: INDIA
+Current Date: 2026-02-27 16:00
+Mode: Index Data
+Current Position: INDIA
+  Holding Quantity: 76
+  Current Price: 25314.45
+  Holding Value: 1923898.12
+  Buy Date: 2025-03-25
+  Holding Days: 230
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 12609.65
+Account Total: 1936507.77
+Date Of Trading Start: 2007-09-18
+
+Target Latest Close : 25314.449
+Target Total Return (Start->Latest): 463.21%
+Target Annualized Return (CAGR): 9.82%
+Target Max Drawdown: -59.86%
+Target Max Drawdown Period: 2008-01-08 (Close=6287.850) -> 2008-10-27 (Close=2524.200) (198 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.57%
+Max Drawdown: -59.37%
+Max Drawdown Period: 2008-01-08 (Account total=418387.50) -> 2008-10-27 (Account total=169986.60) (198 trading days)

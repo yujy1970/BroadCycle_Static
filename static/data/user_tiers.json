@@ -1,0 +1,5 @@
+{
+  "guest@example.com": "guest",
+  "free@example.com": "free",
+  "paid@example.com": "paid"
+}

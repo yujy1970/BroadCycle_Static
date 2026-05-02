@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: PHILIPPINES
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: PHILIPPINES
+  Holding Quantity: 754
+  Current Price: 6058.94
+  Holding Value: 4568440.76
+  Buy Date: 2025-11-24
+  Holding Days: 72
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 5225.72
+Account Total: 4573666.48
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 6058.940
+Target Total Return (Start->Latest): 154.94%
+Target Annualized Return (CAGR): 3.07%
+Target Max Drawdown: -71.59%
+Target Max Drawdown Period: 1997-02-03 (Close=3447.600) -> 2001-10-24 (Close=979.340) (1177 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.20%
+Max Drawdown: -25.74%
+Max Drawdown Period: 1995-07-10 (Account total=366927.76) -> 1995-11-20 (Account total=272484.40) (93 trading days)

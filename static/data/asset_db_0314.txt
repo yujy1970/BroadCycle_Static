@@ -1,0 +1,3976 @@
+{
+  "SP500": {
+    "index": {
+      "name": "S&P 500 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^spx",
+        "yahoo": "^GSPC"
+      },
+      "rank_id": 0,
+      "market_cap_usd_billion": 86900,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=%5Espx",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "SPDR S&P 500 ETF Trust",
+        "market": "NONCN",
+        "identity": {
+          "isin": "US78462F1030"
+        },
+        "symbols": {
+          "stooq": "spy.us",
+          "yahoo": "SPY"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=spy.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "iShares Core S&P 500 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ivv.us",
+          "yahoo": "IVV"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=ivv.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Vanguard S&P 500 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "voo.us",
+          "yahoo": "VOO"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=voo.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "NASDAQ100": {
+    "index": {
+      "name": "NASDAQ-100 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^ndx",
+        "yahoo": "^NDX"
+      },
+      "rank_id": 1,
+      "market_cap_usd_billion": 27000,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=%5Endx",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Invesco QQQ Trust (NASDAQ-100)",
+        "market": "NONCN",
+        "identity": {
+          "isin": "US46090E1038"
+        },
+        "symbols": {
+          "stooq": "qqq.us",
+          "yahoo": "QQQ"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=qqq.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Invesco NASDAQ 100 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "qqqm.us",
+          "yahoo": "QQQM"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=qqqm.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Invesco NASDAQ 100 Equal Weight ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "qqew.us",
+          "yahoo": "QQEW"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=qqew.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "DOWJONES": {
+    "index": {
+      "name": "Dow Jones Industrial Average",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^dji",
+        "yahoo": "^DJI"
+      },
+      "rank_id": 2,
+      "market_cap_usd_billion": 22900,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=%5Edji",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "SPDR Dow Jones Industrial Average ETF Trust",
+        "market": "NONCN",
+        "identity": {
+          "isin": "US78467X1090"
+        },
+        "symbols": {
+          "stooq": "dia.us",
+          "yahoo": "DIA"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=dia.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "ProShares Ultra Dow30",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "udow.us",
+          "yahoo": "UDOW"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=udow.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Invesco Dow Jones Industrial Average Dividend ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "djd.us",
+          "yahoo": "DJD"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=djd.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "CHINA": {
+    "index": {
+      "name": "China A-Shares (CSI 300)",
+      "market": "CN",
+      "identity": {},
+      "symbols": {
+        "tushare": "000300.SH",
+        "eastmoney": "000300"
+      },
+      "rank_id": 3,
+      "market_cap_usd_billion": 14030,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "China",
+      "market_close": "15:00 Asia/Shanghai",
+      "real_time_link": "https://quote.eastmoney.com/zs000300.html",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI China ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "mchi.us",
+          "yahoo": "MCHI"
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://stooq.com/q/?s=mchi.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "iShares China Large-Cap ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "fxi.us",
+          "yahoo": "FXI"
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://stooq.com/q/?s=fxi.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ashr.us",
+          "yahoo": "ASHR"
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://stooq.com/q/?s=ashr.us",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "RUSSELL2000": {
+    "index": {
+      "name": "Russell 2000 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^rut",
+        "yahoo": "^RUT"
+      },
+      "rank_id": 4,
+      "market_cap_usd_billion": 7300,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=%5Erut",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares Russell 2000 ETF",
+        "market": "NONCN",
+        "identity": {
+          "isin": "US4642876555"
+        },
+        "symbols": {
+          "stooq": "iwm.us",
+          "yahoo": "IWM"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=iwm.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Vanguard Russell 2000 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "vtwo.us",
+          "yahoo": "VTWO"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=vtwo.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares Russell 2000 Growth ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "iwo.us",
+          "yahoo": "IWO"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=iwo.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "HONGKONG": {
+    "index": {
+      "name": "Hang Seng Index",
+      "market": "HK",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^HSI",
+        "stooq": "^hsi",
+        "tushare": "HSI",
+        "eastmoney": "HSI"
+      },
+      "rank_id": 5,
+      "market_cap_usd_billion": 6170,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "Hong Kong",
+      "market_close": "16:00 Asia/Hong_Kong",
+      "real_time_link": "https://quote.eastmoney.com/HSI",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Hong Kong ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewh.us",
+          "yahoo": "EWH"
+        },
+        "market_close": "16:00 Asia/Hong_Kong",
+        "real_time_link": "https://stooq.com/q/?s=ewh.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Tracker Fund of Hong Kong",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "2800.HK"
+        },
+        "market_close": "16:00 Asia/Hong_Kong",
+        "real_time_link": "https://finance.yahoo.com/quote/2800.HK",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares Core Hang Seng Index ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "3115.HK"
+        },
+        "market_close": "16:00 Asia/Hong_Kong",
+        "real_time_link": "https://finance.yahoo.com/quote/3115.HK",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "FRANCE": {
+    "index": {
+      "name": "CAC 40 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^cac",
+        "yahoo": "^FCHI"
+      },
+      "rank_id": 6,
+      "market_cap_usd_billion": 5576.38564,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "France",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://stooq.com/q/?s=%5Ecac",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI France ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewq.us",
+          "yahoo": "EWQ"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewq.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "France ETF (alt 1)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "France ETF (alt 2)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "NETHERLANDS": {
+    "index": {
+      "name": "AEX Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^AEX",
+        "stooq": null
+      },
+      "rank_id": 7,
+      "market_cap_usd_billion": 5576.38564,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Netherlands",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EAEX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking AEX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWN",
+          "stooq": "ewn.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewn.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for AEX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for AEX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "INDIA": {
+    "index": {
+      "name": "NIFTY 50 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^NSEI",
+        "stooq": null
+      },
+      "rank_id": 8,
+      "market_cap_usd_billion": 5320,
+      "trading_timezone": "UTC+05:30",
+      "continent": "Asia",
+      "country_name": "India",
+      "market_close": "15:30 Asia/Kolkata",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ENSEI",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI India ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "inda.us",
+          "yahoo": "INDA"
+        },
+        "market_close": "15:30 Asia/Kolkata",
+        "real_time_link": "https://stooq.com/q/?s=inda.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "WisdomTree India Earnings Fund",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "epi.us",
+          "yahoo": "EPI"
+        },
+        "market_close": "15:30 Asia/Kolkata",
+        "real_time_link": "https://stooq.com/q/?s=epi.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares India 50 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "indy.us",
+          "yahoo": "INDY"
+        },
+        "market_close": "15:30 Asia/Kolkata",
+        "real_time_link": "https://stooq.com/q/?s=indy.us",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "NIKKEI225": {
+    "index": {
+      "name": "JAPAN (Nikkei 225)",
+      "market": "NONCN",
+      "identity": "NIKKEI225",
+      "symbols": {
+        "yahoo": "^N225",
+        "stooq": "^n225"
+      },
+      "rank_id": 9,
+      "market_cap_usd_billion": 4669.9,
+      "trading_timezone": "UTC+09:00",
+      "continent": "Asia",
+      "country_name": "Japan",
+      "market_close": "15:00 Asia/Tokyo",
+      "real_time_link": "https://stooq.com/q/?s=%5En225",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Japan ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewj.us",
+          "yahoo": "EWJ"
+        },
+        "market_close": "15:00 Asia/Tokyo",
+        "real_time_link": "https://stooq.com/q/?s=ewj.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "WisdomTree Japan Hedged Equity Fund",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "dxj.us",
+          "yahoo": "DXJ"
+        },
+        "market_close": "15:00 Asia/Tokyo",
+        "real_time_link": "https://stooq.com/q/?s=dxj.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares JPX-Nikkei 400 ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "jpxn.us",
+          "yahoo": "JPXN"
+        },
+        "market_close": "15:00 Asia/Tokyo",
+        "real_time_link": "https://stooq.com/q/?s=jpxn.us",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "CANADA": {
+    "index": {
+      "name": "S&P/TSX Composite Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^GSPTSE",
+        "stooq": "^tsx"
+      },
+      "rank_id": 10,
+      "market_cap_usd_billion": 4000,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "Canada",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=%5Etsx",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Canada ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewc.us",
+          "yahoo": "EWC"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=ewc.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "iShares Core S&P/TSX Capped Composite Index ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "XIC.TO"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://finance.yahoo.com/quote/XIC.TO",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Vanguard FTSE Canada All Cap Index ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "VCN.TO"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://finance.yahoo.com/quote/VCN.TO",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "US_AAPL": {
+    "index": {
+      "name": "Apple Inc. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "aapl.us",
+        "yahoo": "AAPL"
+      },
+      "rank_id": 11,
+      "market_cap_usd_billion": 3790,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=aapl.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "US_NVDA": {
+    "index": {
+      "name": "NVIDIA Corp. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "nvda.us",
+        "yahoo": "NVDA"
+      },
+      "rank_id": 12,
+      "market_cap_usd_billion": 3290,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=nvda.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "UK": {
+    "index": {
+      "name": "FTSE 100 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^ukx",
+        "yahoo": "^FTSE"
+      },
+      "rank_id": 13,
+      "market_cap_usd_billion": 3140,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Europe",
+      "country_name": "United Kingdom",
+      "market_close": "16:30 Europe/London",
+      "real_time_link": "https://stooq.com/q/?s=%5Eukx",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI United Kingdom ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewu.us",
+          "yahoo": "EWU"
+        },
+        "market_close": "16:30 Europe/London",
+        "real_time_link": "https://stooq.com/q/?s=ewu.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Vanguard FTSE 100 UCITS ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "VUKE.L"
+        },
+        "market_close": "16:30 Europe/London",
+        "real_time_link": "https://finance.yahoo.com/quote/VUKE.L",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares Core FTSE 100 UCITS ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ISF.L"
+        },
+        "market_close": "16:30 Europe/London",
+        "real_time_link": "https://finance.yahoo.com/quote/ISF.L",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "US_MSFT": {
+    "index": {
+      "name": "Microsoft Corp. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "msft.us",
+        "yahoo": "MSFT"
+      },
+      "rank_id": 14,
+      "market_cap_usd_billion": 3130,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=msft.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "KOREA": {
+    "index": {
+      "name": "KOSPI Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^KS11",
+        "stooq": null
+      },
+      "rank_id": 15,
+      "market_cap_usd_billion": 2950,
+      "trading_timezone": "UTC+09:00",
+      "continent": "Asia",
+      "country_name": "South Korea",
+      "market_close": "15:30 Asia/Seoul",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EKS11",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI South Korea ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewy.us",
+          "yahoo": "EWY"
+        },
+        "market_close": "15:30 Asia/Seoul",
+        "real_time_link": "https://stooq.com/q/?s=ewy.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Korea ETF (alt 1)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:30 Asia/Seoul",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Korea ETF (alt 2)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:30 Asia/Seoul",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "TAIWAN": {
+    "index": {
+      "name": "Taiwan Weighted Index (TAIEX)",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^TWSE",
+        "yahoo": "^TWII"
+      },
+      "rank_id": 16,
+      "market_cap_usd_billion": 2870,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "Taiwan",
+      "market_close": "13:30 Asia/Taipei",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ETWII",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Taiwan ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewt.us",
+          "yahoo": "EWT"
+        },
+        "market_close": "13:30 Asia/Taipei",
+        "real_time_link": "https://stooq.com/q/?s=ewt.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Taiwan ETF (alt 1)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "13:30 Asia/Taipei",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Taiwan ETF (alt 2)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "13:30 Asia/Taipei",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "US_GOOGL": {
+    "index": {
+      "name": "Alphabet Inc. (Class A) (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "googl.us",
+        "yahoo": "GOOGL"
+      },
+      "rank_id": 17,
+      "market_cap_usd_billion": 2320,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=googl.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "US_AMZN": {
+    "index": {
+      "name": "Amazon.com, Inc. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "amzn.us",
+        "yahoo": "AMZN"
+      },
+      "rank_id": 18,
+      "market_cap_usd_billion": 2310,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=amzn.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "CHINEXT": {
+    "index": {
+      "name": "China ChiNext Market (SZSE ChiNext)",
+      "country_name": "China",
+      "market": "CN",
+      "identity": {},
+      "symbols": {
+        "tushare": "399006.SZ",
+        "eastmoney": "1.399006"
+      },
+      "rank_id": 19,
+      "market_cap_usd_billion": 2161.7,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "market_close": "15:00 Asia/Shanghai",
+      "real_time_link": "https://quote.eastmoney.com/unify/r/1.399006",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Invesco Great Wall ChiNext 50 ETF",
+        "market": "CN",
+        "identity": {},
+        "symbols": {
+          "tushare": "159682.SZ",
+          "eastmoney": "1.159682"
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://quote.eastmoney.com/unify/r/1.159682",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "IGW ChiNext 50 ETF (Stock Connect eligible)",
+        "market": "HK",
+        "identity": {},
+        "symbols": {
+          "yahoo": "31355.HK",
+          "stooq": null
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://finance.yahoo.com/quote/31355.HK",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Invesco ChiNext 50 UCITS ETF Acc",
+        "market": "EU",
+        "identity": {},
+        "symbols": {
+          "yahoo": "CNFY.DE",
+          "stooq": null
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://finance.yahoo.com/quote/CNFY.DE",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "GERMANY": {
+    "index": {
+      "name": "DAX Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^dax",
+        "yahoo": "^GDAXI"
+      },
+      "rank_id": 20,
+      "market_cap_usd_billion": 2040,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Germany",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://stooq.com/q/?s=%5Edax",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Germany ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewg.us",
+          "yahoo": "EWG"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewg.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Germany ETF (alt 1)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Germany ETF (alt 2)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "SWITZERLAND": {
+    "index": {
+      "name": "SMI Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^SSMI",
+        "stooq": null
+      },
+      "rank_id": 21,
+      "market_cap_usd_billion": 1970,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Switzerland",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ESSMI",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking SMI Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWL",
+          "stooq": "ewl.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewl.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for SMI Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for SMI Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "AUSTRALIA": {
+    "index": {
+      "name": "S&P/ASX 200 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^AXJO",
+        "stooq": null
+      },
+      "rank_id": 22,
+      "market_cap_usd_billion": 1890,
+      "trading_timezone": "UTC+10:00",
+      "continent": "Oceania",
+      "country_name": "Australia",
+      "market_close": "16:00 Australia/Sydney",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EAXJO",
+      "sector": "Oceania"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares MSCI Australia ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ewa.us",
+          "yahoo": "EWA"
+        },
+        "market_close": "16:00 Australia/Sydney",
+        "real_time_link": "https://stooq.com/q/?s=ewa.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Australia ETF (alt 1)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 Australia/Sydney",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Australia ETF (alt 2)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 Australia/Sydney",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "US_META": {
+    "index": {
+      "name": "Meta Platforms, Inc. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "meta.us",
+        "yahoo": "META"
+      },
+      "rank_id": 23,
+      "market_cap_usd_billion": 1430,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=meta.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "US_TSLA": {
+    "index": {
+      "name": "Tesla, Inc. (stock)",
+      "market": "STOCK",
+      "identity": {},
+      "symbols": {
+        "stooq": "tsla.us",
+        "yahoo": "TSLA"
+      },
+      "rank_id": 24,
+      "market_cap_usd_billion": 1300,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=tsla.us",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "SOUTHAFRICA": {
+    "index": {
+      "name": "JSE All Share",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^J203.JO",
+        "stooq": null
+      },
+      "rank_id": 25,
+      "market_cap_usd_billion": 1150,
+      "trading_timezone": "UTC+02:00",
+      "continent": "Africa",
+      "country_name": "South Africa",
+      "market_close": "17:00 Africa/Johannesburg",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EJ203.JO",
+      "sector": "Africa"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking JSE All Share",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EZA",
+          "stooq": "eza.us"
+        },
+        "market_close": "17:00 Africa/Johannesburg",
+        "real_time_link": "https://stooq.com/q/?s=eza.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for JSE All Share",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 Africa/Johannesburg",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for JSE All Share",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 Africa/Johannesburg",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "SWEDEN": {
+    "index": {
+      "name": "OMX Stockholm 30",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^OMX",
+        "stooq": null
+      },
+      "rank_id": 26,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Sweden",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EOMX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking OMX Stockholm 30",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWD",
+          "stooq": "ewd.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewd.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for OMX Stockholm 30",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for OMX Stockholm 30",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "SPAIN": {
+    "index": {
+      "name": "IBEX 35",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^IBEX",
+        "stooq": null
+      },
+      "rank_id": 27,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Spain",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EIBEX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking IBEX 35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWP",
+          "stooq": "ewp.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewp.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for IBEX 35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for IBEX 35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "ITALY": {
+    "index": {
+      "name": "FTSE MIB",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "FTSEMIB.MI",
+        "stooq": null
+      },
+      "rank_id": 28,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Italy",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/FTSEMIB.MI",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking FTSE MIB",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWI",
+          "stooq": "ewi.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewi.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for FTSE MIB",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for FTSE MIB",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "BRAZIL": {
+    "index": {
+      "name": "Bovespa",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^BVSP",
+        "stooq": null
+      },
+      "rank_id": 29,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-03:00",
+      "continent": "South America",
+      "country_name": "Brazil",
+      "market_close": "17:00 America/Sao_Paulo",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EBVSP",
+      "sector": "South America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking Bovespa",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWZ",
+          "stooq": "ewz.us"
+        },
+        "market_close": "17:00 America/Sao_Paulo",
+        "real_time_link": "https://stooq.com/q/?s=ewz.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for Bovespa",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 America/Sao_Paulo",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for Bovespa",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 America/Sao_Paulo",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "MEXICO": {
+    "index": {
+      "name": "IPC",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^MXX",
+        "stooq": null
+      },
+      "rank_id": 30,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-06:00",
+      "continent": "North America",
+      "country_name": "Mexico",
+      "market_close": "15:00 America/Mexico_City",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EMXX",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking IPC",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWW",
+          "stooq": "eww.us"
+        },
+        "market_close": "15:00 America/Mexico_City",
+        "real_time_link": "https://stooq.com/q/?s=eww.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for IPC",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 America/Mexico_City",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for IPC",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 America/Mexico_City",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "SINGAPORE": {
+    "index": {
+      "name": "STI",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^STI",
+        "stooq": null
+      },
+      "rank_id": 31,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "Singapore",
+      "market_close": "15:00 Asia/Shanghai",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ESTI",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking STI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWS",
+          "stooq": "ews.us"
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "real_time_link": "https://stooq.com/q/?s=ews.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for STI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for STI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 Asia/Shanghai",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "INDONESIA": {
+    "index": {
+      "name": "Jakarta Composite",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^JKSE",
+        "stooq": null
+      },
+      "rank_id": 32,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+07:00",
+      "continent": "Asia",
+      "country_name": "Indonesia",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EJKSE",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking Jakarta Composite",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EIDO",
+          "stooq": "eido.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=eido.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for Jakarta Composite",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for Jakarta Composite",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "THAILAND": {
+    "index": {
+      "name": "SET",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^SET.BK",
+        "stooq": null
+      },
+      "rank_id": 33,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+07:00",
+      "continent": "Asia",
+      "country_name": "Thailand",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ESET.BK",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking SET",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "THD",
+          "stooq": "thd.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=thd.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for SET",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for SET",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "MALAYSIA": {
+    "index": {
+      "name": "KLCI",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+         "stooq": "^KLCI",
+         "yahoo": "^KLSE"
+      },
+      "rank_id": 34,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "Malaysia",
+      "market_close": "17:00 Asia/Kuala_Lumpur",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EKLSE",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking KLCI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWM",
+          "stooq": "ewm.us"
+        },
+        "market_close": "17:00 Asia/Kuala_Lumpur",
+        "real_time_link": "https://stooq.com/q/?s=ewm.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for KLCI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 Asia/Kuala_Lumpur",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for KLCI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:00 Asia/Kuala_Lumpur",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "PHILIPPINES": {
+    "index": {
+      "name": "PSEi",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "PSEI.PS",
+        "stooq": null
+      },
+      "rank_id": 35,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+08:00",
+      "continent": "Asia",
+      "country_name": "Philippines",
+      "market_close": "15:30 Asia/Manila",
+      "real_time_link": "https://finance.yahoo.com/quote/PSEI.PS",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking PSEi",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EPHE",
+          "stooq": "ephe.us"
+        },
+        "market_close": "15:30 Asia/Manila",
+        "real_time_link": "https://stooq.com/q/?s=ephe.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for PSEi",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:30 Asia/Manila",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for PSEi",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:30 Asia/Manila",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "SAUDI": {
+    "index": {
+      "name": "TASI",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^TASI.SR",
+        "stooq": null
+      },
+      "rank_id": 36,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+03:00",
+      "continent": "Asia",
+      "country_name": "Saudi",
+      "market_close": "15:00 Asia/Riyadh",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ETASI.SR",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking TASI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "KSA",
+          "stooq": "ksa.us"
+        },
+        "market_close": "15:00 Asia/Riyadh",
+        "real_time_link": "https://stooq.com/q/?s=ksa.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for TASI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 Asia/Riyadh",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for TASI",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "15:00 Asia/Riyadh",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "UAE": {
+    "index": {
+      "name": "UAE Market (ADX/DFM proxy)",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "DFMGI.AE",
+        "stooq": null
+      },
+      "rank_id": 37,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+04:00",
+      "continent": "Asia",
+      "country_name": "Uae",
+      "real_time_link": "https://finance.yahoo.com/quote/DFMGI.AE",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking UAE Market (ADX/DFM proxy)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "UAE",
+          "stooq": "uae.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=uae.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for UAE Market (ADX/DFM proxy)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for UAE Market (ADX/DFM proxy)",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "QATAR": {
+    "index": {
+      "name": "Qatar",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^QSI",
+        "stooq": null
+      },
+      "rank_id": 38,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+03:00",
+      "continent": "Asia",
+      "country_name": "Qatar",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EQSI",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking Qatar",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "QAT",
+          "stooq": "qat.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=qat.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for Qatar",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for Qatar",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "KUWAIT": {
+    "index": {
+      "name": "Kuwait",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^KWSE",
+        "stooq": null
+      },
+      "rank_id": 39,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+03:00",
+      "continent": "Asia",
+      "country_name": "Kuwait",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EKWSE",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking Kuwait",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "KWT",
+          "stooq": "kwt.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=kwt.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for Kuwait",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for Kuwait",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "ISRAEL": {
+    "index": {
+      "name": "TA-35",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "TA35.TA",
+        "stooq": null
+      },
+      "rank_id": 40,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+02:00",
+      "continent": "Asia",
+      "country_name": "Israel",
+      "real_time_link": "https://finance.yahoo.com/quote/TA35.TA",
+      "sector": "Asia"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking TA-35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EIS",
+          "stooq": "eis.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=eis.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for TA-35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for TA-35",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "NORWAY": {
+    "index": {
+      "name": "OSEBX",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "OSEBX.OL",
+        "stooq": null
+      },
+      "rank_id": 41,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Norway",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/OSEBX.OL",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking OSEBX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ENOR",
+          "stooq": "enor.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=enor.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for OSEBX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for OSEBX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "DENMARK": {
+    "index": {
+      "name": "OMXC25",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^OMXC25",
+        "stooq": null
+      },
+      "rank_id": 42,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Denmark",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EOMXC25",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking OMXC25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EDEN",
+          "stooq": "eden.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=eden.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for OMXC25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for OMXC25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "FINLAND": {
+    "index": {
+      "name": "OMXH25",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^OMXH25",
+        "stooq": null
+      },
+      "rank_id": 43,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+02:00",
+      "continent": "Europe",
+      "country_name": "Finland",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EOMXH25",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking OMXH25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EFNL",
+          "stooq": "efnl.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=efnl.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for OMXH25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for OMXH25",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "BELGIUM": {
+    "index": {
+      "name": "BEL 20",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^BFX",
+        "stooq": null
+      },
+      "rank_id": 44,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Belgium",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EBFX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking BEL 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWK",
+          "stooq": "ewk.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewk.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for BEL 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for BEL 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "AUSTRIA": {
+    "index": {
+      "name": "ATX",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^ATX",
+        "stooq": null
+      },
+      "rank_id": 45,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Austria",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EATX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking ATX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EWO",
+          "stooq": "ewo.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=ewo.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for ATX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for ATX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "IRELAND": {
+    "index": {
+      "name": "ISEQ",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^ISEQ",
+        "stooq": null
+      },
+      "rank_id": 46,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Europe",
+      "country_name": "Ireland",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EISEQ",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking ISEQ",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "EIRL",
+          "stooq": "eirl.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=eirl.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for ISEQ",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for ISEQ",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "PORTUGAL": {
+    "index": {
+      "name": "PSI 20",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "PSI20.LS",
+        "stooq": null
+      },
+      "rank_id": 47,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Europe",
+      "country_name": "Portugal",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/PSI20.LS",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking PSI 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "PGAL",
+          "stooq": "pgal.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=pgal.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for PSI 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for PSI 20",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "GREECE": {
+    "index": {
+      "name": "ATHEX",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "GD.AT",
+        "stooq": null
+      },
+      "rank_id": 48,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+02:00",
+      "continent": "Europe",
+      "country_name": "Greece",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/GD.AT",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking ATHEX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "GREK",
+          "stooq": "grek.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=grek.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for ATHEX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for ATHEX",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "NEWZEALAND": {
+    "index": {
+      "name": "NZX 50",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^NZ50",
+        "stooq": null
+      },
+      "rank_id": 49,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+12:00",
+      "continent": "Oceania",
+      "country_name": "Newzealand",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ENZ50",
+      "sector": "Oceania"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking NZX 50",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ENZL",
+          "stooq": "enzl.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=enzl.us",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for NZX 50",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for NZX 50",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 0
+      }
+    ]
+  },
+  "CHILE": {
+    "index": {
+      "name": "IPSA",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^IPSA",
+        "stooq": null
+      },
+      "rank_id": 50,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-04:00",
+      "continent": "South America",
+      "country_name": "Chile",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EIPSA",
+      "sector": "South America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking IPSA",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ECH",
+          "stooq": "ech.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=ech.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for IPSA",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for IPSA",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "ARGENTINA": {
+    "index": {
+      "name": "MERVAL",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^MERV",
+        "stooq": null
+      },
+      "rank_id": 51,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-03:00",
+      "continent": "South America",
+      "country_name": "Argentina",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EMERV",
+      "sector": "South America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking MERVAL",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ARGT",
+          "stooq": "argt.us"
+        },
+        "market_close": "16:00 America/New_York",
+        "real_time_link": "https://stooq.com/q/?s=argt.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for MERVAL",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for MERVAL",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "16:00 America/New_York",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "HUNGARY": {
+    "index": {
+      "name": "BUX Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^BUX",
+        "stooq": null
+      },
+      "rank_id": 52,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+01:00",
+      "continent": "Europe",
+      "country_name": "Hungary",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EBUX",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking BUX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "HUN",
+          "stooq": "hun.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=hun.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for BUX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for BUX Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "ROMANIA": {
+    "index": {
+      "name": "BET Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^BETI",
+        "stooq": null
+      },
+      "rank_id": 53,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+02:00",
+      "continent": "Europe",
+      "country_name": "Romania",
+      "market_close": "17:30 Europe/Paris",
+      "real_time_link": "https://finance.yahoo.com/quote/%5EBETI",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "ETF tracking BET Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ROM",
+          "stooq": "rom.us"
+        },
+        "market_close": "17:30 Europe/Paris",
+        "real_time_link": "https://stooq.com/q/?s=rom.us",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Alt ETF for BET Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Alt ETF for BET Index",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": null,
+          "yahoo": null
+        },
+        "market_close": "17:30 Europe/Paris",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "GOLD": {
+    "index": {
+      "name": "Gold (spot proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "stooq": "xauusd",
+        "yahoo": "GC=F"
+      },
+      "rank_id": 54,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Gold",
+      "market_close": "24H UTC",
+      "real_time_link": "https://stooq.com/q/?s=xauusd",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "SPDR Gold Shares",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "gld.us",
+          "yahoo": "GLD"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=gld.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "iShares Gold Trust",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "iau.us",
+          "yahoo": "IAU"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=iau.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "abrdn Physical Gold Shares ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "sgol.us",
+          "yahoo": "SGOL"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=sgol.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "SILVER": {
+    "index": {
+      "name": "Silver (spot proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "stooq": "xagusd",
+        "yahoo": "SI=F"
+      },
+      "rank_id": 55,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Silver",
+      "market_close": "24H UTC",
+      "real_time_link": "https://stooq.com/q/?s=xagusd",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares Silver Trust",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "slv.us",
+          "yahoo": "SLV"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=slv.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "abrdn Physical Silver Shares ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "sivr.us",
+          "yahoo": "SIVR"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=sivr.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "ProShares Ultra Silver",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "agq.us",
+          "yahoo": "AGQ"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=agq.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "WTI": {
+    "index": {
+      "name": "WTI Crude Oil (front-month proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "stooq": "cl.f",
+        "yahoo": "CL=F"
+      },
+      "rank_id": 56,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Wti",
+      "market_close": "24H UTC",
+      "real_time_link": "https://stooq.com/q/?s=cl.f",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "WTI Crude Oil (front-month proxy) PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "USO",
+          "stooq": "uso.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=uso.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "WTI Crude Oil (front-month proxy) SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "DBO",
+          "stooq": "dbo.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=dbo.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "WTI Crude Oil (front-month proxy) SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "OIL",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/OIL",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "BRENT": {
+    "index": {
+      "name": "Brent Crude Oil (front-month proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "BZ=F",
+        "stooq": null
+      },
+      "rank_id": 57,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Brent",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/BZ%3DF",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Brent Crude Oil (front-month proxy) PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "BNO",
+          "stooq": "bno.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=bno.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Brent Crude Oil (front-month proxy) SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "IBRN.L",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/IBRN.L",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Brent Crude Oil (front-month proxy) SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "COIL.L",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/COIL.L",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "NATGAS": {
+    "index": {
+      "name": "Natural Gas (front-month proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "NG=F",
+        "stooq": null
+      },
+      "rank_id": 58,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Natgas",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/NG%3DF",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Natural Gas (front-month proxy) PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "UNG",
+          "stooq": "ung.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=ung.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Natural Gas (front-month proxy) SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "BOIL",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/BOIL",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Natural Gas (front-month proxy) SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "KOLD",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/KOLD",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "COPPER": {
+    "index": {
+      "name": "Copper (front-month proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "HG=F",
+        "stooq": null
+      },
+      "rank_id": 59,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Copper",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/HG%3DF",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Copper (front-month proxy) PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "CPER",
+          "stooq": "cper.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=cper.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Copper (front-month proxy) SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "JJC",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/JJC",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Copper (front-month proxy) SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "COPX",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/COPX",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "BITCOIN": {
+    "index": {
+      "name": "Bitcoin (USD)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "BTC-USD",
+        "stooq": null
+      },
+      "rank_id": 60,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Bitcoin",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/BTC-USD",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares Bitcoin Trust",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "IBIT"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/IBIT",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Fidelity Wise Origin Bitcoin Fund",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "FBTC"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/FBTC",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Grayscale Bitcoin Trust",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "GBTC"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/GBTC",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "ETHEREUM": {
+    "index": {
+      "name": "Ethereum (USD)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "ETH-USD",
+        "stooq": null
+      },
+      "rank_id": 61,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Global",
+      "country_name": "Ethereum",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/ETH-USD",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "Ethereum (USD) PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ETHA",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/ETHA",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "Ethereum (USD) SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "ETHE",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/ETHE",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "Ethereum (USD) SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "FETH",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/FETH",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "US10Y": {
+    "index": {
+      "name": "US Treasury 10Y (yield proxy)",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "^TNX",
+        "stooq": null
+      },
+      "rank_id": 62,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "North America",
+      "country_name": "Us10Y",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/%5ETNX",
+      "sector": "North America"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares 7-10 Year Treasury Bond ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "ief.us",
+          "yahoo": "IEF"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=ief.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "iShares 20+ Year Treasury Bond ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "tlt.us",
+          "yahoo": "TLT"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=tlt.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "iShares 1-3 Year Treasury Bond ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "stooq": "shy.us",
+          "yahoo": "SHY"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=shy.us",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "DXY": {
+    "index": {
+      "name": "US Dollar Index (DXY) proxy",
+      "market": "NONSEC",
+      "identity": {},
+      "symbols": {
+        "yahoo": "DX-Y.NYB",
+        "stooq": null
+      },
+      "rank_id": 63,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "Global",
+      "country_name": "Dxy",
+      "market_close": "24H UTC",
+      "real_time_link": "https://finance.yahoo.com/quote/DX-Y.NYB",
+      "sector": "Multi Asset"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "US Dollar Index (DXY) proxy PRIMARY",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "UUP",
+          "stooq": "uup.us"
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://stooq.com/q/?s=uup.us",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY1",
+        "name": "US Dollar Index (DXY) proxy SECONDARY1",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "USDU",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/USDU",
+        "buy_mode": 2
+      },
+      {
+        "alias": "SECONDARY2",
+        "name": "US Dollar Index (DXY) proxy SECONDARY2",
+        "market": "NONSEC",
+        "identity": {},
+        "symbols": {
+          "yahoo": "FXY",
+          "stooq": null
+        },
+        "market_close": "24H UTC",
+        "real_time_link": "https://finance.yahoo.com/quote/FXY",
+        "buy_mode": 2
+      }
+    ]
+  },
+  "FTSE250": {
+    "index": {
+      "name": "FTSE 250 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^ftmc",
+        "yahoo": "^FTMC"
+      },
+      "rank_id": 150,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Europe",
+      "country_name": "United Kingdom",
+      "market_close": "16:30 Europe/London",
+      "real_time_link": "https://stooq.com/q/?s=%5Eftmc",
+      "sector": "Europe"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares FTSE 250 UCITS ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "MIDD.L",
+          "stooq": null
+        },
+        "market_close": "16:30 Europe/London",
+        "real_time_link": "https://finance.yahoo.com/quote/MIDD.L",
+        "buy_mode": 1
+      }
+    ]
+  },
+  "VGT": {
+    "index": {
+      "name": "Vanguard Information Technology ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "vgt.us",
+        "yahoo": "VGT"
+      },
+      "rank_id": 200,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=vgt.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "XLK": {
+    "index": {
+      "name": "Technology Select Sector SPDR Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "xlk.us",
+        "yahoo": "XLK"
+      },
+      "rank_id": 201,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=xlk.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "FTEC": {
+    "index": {
+      "name": "Fidelity MSCI Information Technology Index ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "ftec.us",
+        "yahoo": "FTEC"
+      },
+      "rank_id": 202,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=ftec.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "IYW": {
+    "index": {
+      "name": "iShares U.S. Technology ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "iyw.us",
+        "yahoo": "IYW"
+      },
+      "rank_id": 203,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=iyw.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "SMH": {
+    "index": {
+      "name": "VanEck Semiconductor ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "smh.us",
+        "yahoo": "SMH"
+      },
+      "rank_id": 204,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=smh.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "SOXX": {
+    "index": {
+      "name": "iShares Semiconductor ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "soxx.us",
+        "yahoo": "SOXX"
+      },
+      "rank_id": 205,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=soxx.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "IGV": {
+    "index": {
+      "name": "iShares Expanded Tech-Software ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "igv.us",
+        "yahoo": "IGV"
+      },
+      "rank_id": 206,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=igv.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "SKYY": {
+    "index": {
+      "name": "First Trust Cloud Computing ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "skyy.us",
+        "yahoo": "SKYY"
+      },
+      "rank_id": 207,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=skyy.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "CIBR": {
+    "index": {
+      "name": "First Trust NASDAQ Cybersecurity ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "cibr.us",
+        "yahoo": "CIBR"
+      },
+      "rank_id": 208,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=cibr.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "HACK": {
+    "index": {
+      "name": "ETFMG Prime Cyber Security ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "hack.us",
+        "yahoo": "HACK"
+      },
+      "rank_id": 209,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=hack.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "FDN": {
+    "index": {
+      "name": "First Trust Dow Jones Internet Index Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "fdn.us",
+        "yahoo": "FDN"
+      },
+      "rank_id": 210,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=fdn.us",
+      "sector": "Preferred ETF"
+    },
+    "etfs": []
+  },
+  "ARKK": {
+    "index": {
+      "name": "ARK Innovation ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "arkk.us",
+        "yahoo": "ARKK"
+      },
+      "rank_id": 211,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=arkk.us",
+      "sector": "North America"
+    },
+    "etfs": []
+  },
+  "IBIT": {
+    "index": {
+      "name": "iShares Bitcoin Trust",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "ibit.us",
+        "yahoo": "IBIT"
+      },
+      "rank_id": 220,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=ibit.us",
+      "sector": "North America"
+    },
+    "etfs": []
+  },
+  "FBTC": {
+    "index": {
+      "name": "Fidelity Wise Origin Bitcoin Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "fbtc.us",
+        "yahoo": "FBTC"
+      },
+      "rank_id": 221,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=fbtc.us",
+      "sector": "North America"
+    },
+    "etfs": []
+  },
+  "ETHA": {
+    "index": {
+      "name": "iShares Ethereum Trust",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "etha.us",
+        "yahoo": "ETHA"
+      },
+      "rank_id": 222,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=etha.us",
+      "sector": "North America"
+    },
+    "etfs": []
+  },
+  "AAPL": {
+    "index": {
+      "name": "Apple Inc.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "aapl.us",
+        "yahoo": "AAPL"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=aapl.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "MSFT": {
+    "index": {
+      "name": "Microsoft Corp.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "msft.us",
+        "yahoo": "MSFT"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=msft.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "AMZN": {
+    "index": {
+      "name": "Amazon.com Inc.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "amzn.us",
+        "yahoo": "AMZN"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=amzn.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "GOOGL": {
+    "index": {
+      "name": "Alphabet Inc. Class A",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "googl.us",
+        "yahoo": "GOOGL"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=googl.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "GOOG": {
+    "index": {
+      "name": "Alphabet Inc. Class C",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "goog.us",
+        "yahoo": "GOOG"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=goog.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "META": {
+    "index": {
+      "name": "Meta Platforms Inc.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "meta.us",
+        "yahoo": "META"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=meta.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "NVDA": {
+    "index": {
+      "name": "NVIDIA Corp.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "nvda.us",
+        "yahoo": "NVDA"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=nvda.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  },
+  "TSLA": {
+    "index": {
+      "name": "Tesla Inc.",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "tsla.us",
+        "yahoo": "TSLA"
+      },
+      "rank_id": 9000,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=tsla.us",
+      "continent": "North America",
+      "country_name": "United States",
+      "sector": "Preferred Stock"
+    },
+    "etfs": []
+  }
+}

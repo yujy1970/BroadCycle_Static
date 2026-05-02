@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GOLD
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: GOLD
+  Holding Quantity: 1883
+  Current Price: 4625.60
+  Holding Value: 8710004.80
+  Buy Date: 2026-04-08
+  Holding Days: 17
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3580.80
+Account Total: 8713585.60
+Date Of Trading Start: 2000-08-31
+
+Target Latest Close : 4625.600
+Target Total Return (Start->Latest): 1588.79%
+Target Annualized Return (CAGR): 11.64%
+Target Max Drawdown: -44.36%
+Target Max Drawdown Period: 2011-08-22 (Close=1888.700) -> 2015-12-17 (Close=1050.800) (1088 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.97%
+Max Drawdown: -24.16%
+Max Drawdown Period: 2008-07-15 (Account total=1063586.00) -> 2008-09-11 (Account total=806619.20) (41 trading days)

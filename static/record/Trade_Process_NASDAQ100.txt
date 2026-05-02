@@ -1,0 +1,120 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy NASDAQ100, Price: 448.49, Quantity: 668, Cash Balance: 408.68
+1996-05-14 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 54.7476, Deri_MMRatio: 0.001257, Price: 695.43, Quantity: 668, Holding Days: 282, P/L: 55.06%, Account Total: 464955.92
+1996-05-24 00:00:00 Buy NASDAQ100, Price: 688.91, Quantity: 674, Cash Balance: 630.58
+1997-12-01 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 59.3578, Deri_MMRatio: -0.002795, Price: 1079.23, Quantity: 674, Holding Days: 384, P/L: 56.66%, Account Total: 728031.60
+1997-12-22 00:00:00 Buy NASDAQ100, Price: 975.59, Quantity: 746, Cash Balance: 241.46
+1999-12-13 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 91.1260, Deri_MMRatio: 0.007098, Price: 3243.6, Quantity: 746, Holding Days: 497, P/L: 232.48%, Account Total: 2419967.06
+1999-12-22 00:00:00 Buy NASDAQ100, Price: 3566.4, Quantity: 678, Cash Balance: 1947.86
+2000-03-09 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 99.1116, Deri_MMRatio: 0.005302, Price: 4586.26, Quantity: 678, Holding Days: 53, P/L: 28.60%, Account Total: 3111432.14
+2000-10-13 00:00:00 Buy NASDAQ100, Price: 3265.96, Quantity: 952, Cash Balance: 2238.22
+2001-01-16 00:00:00 Cond3 sell NASDAQ100, Accu_MMRatio: 56.0630, Deri_MMRatio: -0.004880, Price: 2586.8, Quantity: 952, Holding Days: 63, P/L: -20.80%, Account Total: 2464871.82
+2003-01-29 00:00:00 Buy NASDAQ100, Price: 1018.48, Quantity: 2420, Cash Balance: 150.22
+2003-11-12 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: -1.7476, Deri_MMRatio: 0.001241, Price: 1434.75, Quantity: 2420, Holding Days: 200, P/L: 40.87%, Account Total: 3472245.22
+2003-12-11 00:00:00 Buy NASDAQ100, Price: 1419.7, Quantity: 2445, Cash Balance: 1078.72
+2004-07-29 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 43.4167, Deri_MMRatio: -0.002142, Price: 1397.05, Quantity: 2445, Holding Days: 157, P/L: -1.60%, Account Total: 3416865.97
+2004-08-16 00:00:00 Buy NASDAQ100, Price: 1332.94, Quantity: 2563, Cash Balance: 540.75
+2008-02-20 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 25.9138, Deri_MMRatio: -0.004238, Price: 1802.02, Quantity: 2563, Holding Days: 884, P/L: 35.19%, Account Total: 4619118.01
+2008-03-05 00:00:00 Buy NASDAQ100, Price: 1749.42, Quantity: 2640, Cash Balance: 649.21
+2008-09-02 00:00:00 Cond3 sell NASDAQ100, Accu_MMRatio: 7.9051, Deri_MMRatio: 0.000229, Price: 1847.54, Quantity: 2640, Holding Days: 125, P/L: 5.61%, Account Total: 4878154.81
+2009-05-28 00:00:00 Buy NASDAQ100, Price: 1421.11, Quantity: 3432, Cash Balance: 905.29
+2010-02-01 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: -1.6309, Deri_MMRatio: -0.000343, Price: 1760.65, Quantity: 3432, Holding Days: 171, P/L: 23.89%, Account Total: 6043456.09
+2010-02-26 00:00:00 Buy NASDAQ100, Price: 1826.62, Quantity: 3308, Cash Balance: 997.13
+2010-10-04 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 38.5499, Deri_MMRatio: -0.000340, Price: 1996.38, Quantity: 3308, Holding Days: 152, P/L: 9.29%, Account Total: 6605022.17
+2010-10-11 00:00:00 Buy NASDAQ100, Price: 2023.75, Quantity: 3263, Cash Balance: 1525.92
+2014-10-31 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 36.8090, Deri_MMRatio: -0.000639, Price: 4160.6, Quantity: 3263, Holding Days: 1022, P/L: 105.59%, Account Total: 13577563.72
+2014-11-12 00:00:00 Buy NASDAQ100, Price: 4202.77, Quantity: 3230, Cash Balance: 2616.62
+2018-05-09 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 37.6364, Deri_MMRatio: -0.001645, Price: 6909.18, Quantity: 3230, Holding Days: 877, P/L: 64.40%, Account Total: 22319268.02
+2018-05-18 00:00:00 Buy NASDAQ100, Price: 6920.32, Quantity: 3225, Cash Balance: 1236.02
+2021-06-28 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 61.5386, Deri_MMRatio: -0.000242, Price: 14523.63, Quantity: 3225, Holding Days: 782, P/L: 109.87%, Account Total: 46839942.77
+2021-07-07 00:00:00 Buy NASDAQ100, Price: 14577.67, Quantity: 3213, Cash Balance: 1889.06
+2022-07-28 00:00:00 Cond3 sell NASDAQ100, Accu_MMRatio: 16.1453, Deri_MMRatio: 0.000125, Price: 12784.2, Quantity: 3213, Holding Days: 267, P/L: -12.30%, Account Total: 41077523.66
+2022-12-29 00:00:00 Buy NASDAQ100, Price: 10835.59, Quantity: 3790, Cash Balance: 10637.56
+2023-10-02 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: -1.2640, Deri_MMRatio: -0.000974, Price: 14744.05, Quantity: 3790, Holding Days: 189, P/L: 36.07%, Account Total: 55890587.06
+2023-10-30 00:00:00 Buy NASDAQ100, Price: 14340.86, Quantity: 3897, Cash Balance: 4255.64
+2024-11-15 00:00:00 Cond1 sell NASDAQ100, Accu_MMRatio: 47.5452, Deri_MMRatio: -0.000387, Price: 20450.211, Quantity: 3897, Holding Days: 264, P/L: 42.60%, Account Total: 79698727.91
+2024-11-26 00:00:00 Buy NASDAQ100, Price: 20852.43, Quantity: 3822, Cash Balance: 740.45
+
+=== Account Position Information ===
+Code: NASDAQ100
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NASDAQ100
+  Holding Quantity: 3822
+  Current Price: 27710.36
+  Holding Value: 105908984.45
+  Buy Date: 2024-11-27
+  Holding Days: 355
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 740.45
+Account Total: 105909724.90
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 27710.357
+Target Total Return (Start->Latest): 6078.59%
+Target Annualized Return (CAGR): 14.19%
+Target Max Drawdown: -82.90%
+Target Max Drawdown Period: 2000-03-27 (Close=4704.730) -> 2002-10-07 (Close=804.640) (634 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 20.84%
+Max Drawdown: -38.39%
+Max Drawdown Period: 2000-10-20 (Account total=3292930.94) -> 2001-01-02 (Account total=2028836.78) (49 trading days)
+
+Annual Returns (from first buy):
+  1995: 30.37%
+  1996: 43.83%
+  1997: 33.41%
+  1998: 85.27%
+  1999: 83.65%
+  2000: -11.30%
+  2001: 10.46%
+  2002: 0.00%
+  2003: 45.65%
+  2004: 15.75%
+  2005: 1.49%
+  2006: 6.79%
+  2007: 18.67%
+  2008: -8.72%
+  2009: 30.90%
+  2010: 13.36%
+  2011: 2.70%
+  2012: 16.82%
+  2013: 34.98%
+  2014: 16.75%
+  2015: 8.43%
+  2016: 5.88%
+  2017: 31.51%
+  2018: -1.20%
+  2019: 37.96%
+  2020: 47.58%
+  2021: 26.16%
+  2022: -20.91%
+  2023: 58.12%
+  2024: 22.47%
+  2025: 20.17%
+  2026: 9.74%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NASDAQ100
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 0.99
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.42
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.07
+date_start_backtest = 1995-04-01

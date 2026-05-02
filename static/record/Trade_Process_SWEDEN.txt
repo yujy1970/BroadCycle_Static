@@ -1,0 +1,118 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy SWEDEN, Price: 290.24, Quantity: 1033, Cash Balance: 182.08
+1997-06-18 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 12.0286, Deri_MMRatio: 0.000654, Price: 584.61, Quantity: 1033, Holding Days: 551, P/L: 101.42%, Account Total: 604084.21
+1998-01-19 00:00:00 Buy SWEDEN, Price: 605.15, Quantity: 998, Cash Balance: 144.51
+1999-10-25 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 10.0423, Deri_MMRatio: 0.000108, Price: 888.38, Quantity: 998, Holding Days: 444, P/L: 46.80%, Account Total: 886747.75
+1999-12-27 00:00:00 Buy SWEDEN, Price: 1169.01, Quantity: 758, Cash Balance: 638.17
+2000-01-17 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 12.0805, Deri_MMRatio: 0.001823, Price: 1215.4, Quantity: 758, Holding Days: 13, P/L: 3.97%, Account Total: 921911.37
+2000-12-06 00:00:00 Buy SWEDEN, Price: 1140.93, Quantity: 808, Cash Balance: 39.93
+2003-10-20 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 4.9688, Deri_MMRatio: -0.001971, Price: 613.02, Quantity: 808, Holding Days: 716, P/L: -46.27%, Account Total: 495360.09
+2003-12-29 00:00:00 Buy SWEDEN, Price: 638.62, Quantity: 775, Cash Balance: 429.59
+2004-04-28 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 11.3070, Deri_MMRatio: -0.000391, Price: 697.42, Quantity: 775, Holding Days: 82, P/L: 9.21%, Account Total: 540930.09
+2004-08-23 00:00:00 Buy SWEDEN, Price: 679.23, Quantity: 796, Cash Balance: 263.01
+2006-05-24 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 9.0192, Deri_MMRatio: -0.003718, Price: 936.82, Quantity: 796, Holding Days: 444, P/L: 37.92%, Account Total: 745971.73
+2006-07-26 00:00:00 Buy SWEDEN, Price: 944.62, Quantity: 789, Cash Balance: 666.55
+2007-08-01 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 9.8515, Deri_MMRatio: -0.002068, Price: 1222.29, Quantity: 789, Holding Days: 256, P/L: 29.39%, Account Total: 965053.36
+2007-09-19 00:00:00 Buy SWEDEN, Price: 1220.31, Quantity: 790, Cash Balance: 1008.46
+2009-12-03 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 12.0111, Deri_MMRatio: -0.000509, Price: 954.58, Quantity: 790, Holding Days: 555, P/L: -21.78%, Account Total: 755126.66
+2010-05-28 00:00:00 Buy SWEDEN, Price: 979.46, Quantity: 770, Cash Balance: 942.46
+2012-11-07 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 4.3711, Deri_MMRatio: -0.001536, Price: 1062.7, Quantity: 770, Holding Days: 621, P/L: 8.50%, Account Total: 819221.46
+2013-04-25 00:00:00 Buy SWEDEN, Price: 1187.72, Quantity: 689, Cash Balance: 882.38
+2013-06-26 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 5.8645, Deri_MMRatio: -0.002063, Price: 1147.59, Quantity: 689, Holding Days: 40, P/L: -3.38%, Account Total: 791571.89
+2013-09-10 00:00:00 Buy SWEDEN, Price: 1268.1, Quantity: 624, Cash Balance: 277.49
+2015-06-11 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 6.5096, Deri_MMRatio: -0.002339, Price: 1605.54, Quantity: 624, Holding Days: 435, P/L: 26.61%, Account Total: 1002134.45
+2015-10-05 00:00:00 Buy SWEDEN, Price: 1457.38, Quantity: 687, Cash Balance: 914.39
+2017-07-11 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 6.1075, Deri_MMRatio: -0.000607, Price: 1621.57, Quantity: 687, Holding Days: 443, P/L: 11.27%, Account Total: 1114932.98
+2018-01-09 00:00:00 Buy SWEDEN, Price: 1631.78, Quantity: 683, Cash Balance: 427.24
+2020-02-13 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 4.9115, Deri_MMRatio: 0.000767, Price: 1882.218, Quantity: 683, Holding Days: 524, P/L: 15.35%, Account Total: 1285982.13
+2020-03-31 00:00:00 Buy SWEDEN, Price: 1439.239, Quantity: 893, Cash Balance: 741.71
+2021-05-31 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 10.4342, Deri_MMRatio: -0.002341, Price: 2253.037, Quantity: 893, Holding Days: 291, P/L: 56.54%, Account Total: 2012703.75
+2021-07-23 00:00:00 Buy SWEDEN, Price: 2377.811, Quantity: 846, Cash Balance: 1075.64
+2023-09-12 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 5.4128, Deri_MMRatio: -0.000622, Price: 2168.982, Quantity: 846, Holding Days: 541, P/L: -8.78%, Account Total: 1836034.41
+2023-11-03 00:00:00 Buy SWEDEN, Price: 2140.328, Quantity: 857, Cash Balance: 1773.32
+2024-10-17 00:00:00 Cond1 sell SWEDEN, Accu_MMRatio: 5.9140, Deri_MMRatio: 0.001114, Price: 2573.414, Quantity: 857, Holding Days: 240, P/L: 20.23%, Account Total: 2207189.12
+2024-12-03 00:00:00 Buy SWEDEN, Price: 2585.772, Quantity: 853, Cash Balance: 1525.60
+
+=== Account Position Information ===
+Code: SWEDEN
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SWEDEN
+  Holding Quantity: 853
+  Current Price: 3018.72
+  Holding Value: 2574967.31
+  Buy Date: 2024-12-04
+  Holding Days: 314
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1525.60
+Account Total: 2576492.91
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 3018.719
+Target Total Return (Start->Latest): 962.14%
+Target Annualized Return (CAGR): 7.94%
+Target Max Drawdown: -72.64%
+Target Max Drawdown Period: 2000-03-07 (Close=1539.000) -> 2002-10-09 (Close=421.010) (650 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.20%
+Max Drawdown: -63.73%
+Max Drawdown Period: 2000-12-11 (Account total=937901.69) -> 2002-10-09 (Account total=340216.01) (457 trading days)
+
+Annual Returns (from first buy):
+  1995: 16.43%
+  1996: 38.84%
+  1997: 24.56%
+  1998: 15.89%
+  1999: 29.91%
+  2000: -6.17%
+  2001: -19.85%
+  2002: -41.73%
+  2003: 23.84%
+  2004: 19.70%
+  2005: 29.39%
+  2006: 18.50%
+  2007: -5.58%
+  2008: -38.71%
+  2009: 44.04%
+  2010: 17.96%
+  2011: -14.50%
+  2012: 7.57%
+  2013: 1.56%
+  2014: 9.87%
+  2015: 8.83%
+  2016: 4.86%
+  2017: 6.87%
+  2018: -13.66%
+  2019: 25.76%
+  2020: 38.35%
+  2021: 22.29%
+  2022: -15.54%
+  2023: 18.81%
+  2024: 3.13%
+  2025: 16.09%
+  2026: 4.71%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SWEDEN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

@@ -1,0 +1,75 @@
+=== Trade Process ===
+2012-05-30 00:00:00 Initial Buy INDIA_PRIMARY, Price: 18.63, Quantity: 16103, Cash Balance: 1.11
+2015-05-14 00:00:00 Cond1 sell INDIA_PRIMARY, Accu_MMRatio: 58.1276, Deri_MMRatio: -0.005077, Price: 27.27, Quantity: 16103, Holding Days: 716, P/L: 46.38%, Account Total: 439129.92
+2016-03-02 00:00:00 Buy INDIA_PRIMARY, Price: 23.342, Quantity: 18812, Cash Balance: 20.22
+2022-04-01 00:00:00 Cond1 sell INDIA_PRIMARY, Accu_MMRatio: 64.3562, Deri_MMRatio: 0.003351, Price: 46.28, Quantity: 18812, Holding Days: 1496, P/L: 98.27%, Account Total: 870639.58
+2022-08-01 00:00:00 Buy INDIA_PRIMARY, Price: 43.2, Quantity: 20153, Cash Balance: 29.98
+2024-12-12 00:00:00 Cond1 sell INDIA_PRIMARY, Accu_MMRatio: 45.8543, Deri_MMRatio: 0.000897, Price: 55.75, Quantity: 20153, Holding Days: 582, P/L: 29.05%, Account Total: 1123559.73
+2025-03-24 00:00:00 Buy INDIA_PRIMARY, Price: 51.92, Quantity: 21640, Cash Balance: 10.93
+
+=== Account Position Information ===
+Code: INDIA_PRIMARY
+Current Date: 2026-02-27 16:00
+Mode: Etf Data
+Current Position: INDIA_PRIMARY
+  Holding Quantity: 21640
+  Current Price: 52.27
+  Holding Value: 1131122.80
+  Buy Date: 2025-03-25
+  Holding Days: 230
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 10.93
+Account Total: 1131133.73
+Date Of Trading Start: 2012-05-31
+
+Target Latest Close : 46.610
+Target Total Return (Start->Latest): 151.42%
+Target Annualized Return (CAGR): 6.90%
+Target Max Drawdown: -45.48%
+Target Max Drawdown Period: 2018-01-23 (Close=35.187) -> 2020-03-23 (Close=19.184) (544 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.10%
+Max Drawdown: -45.48%
+Max Drawdown Period: 2018-01-23 (Account total=661958.06) -> 2020-03-23 (Account total=360909.62) (527 trading days)
+
+Annual Returns (from first buy):
+  2012: 26.12%
+  2013: -5.60%
+  2014: 20.95%
+  2015: 1.23%
+  2016: 5.01%
+  2017: 36.07%
+  2018: -7.38%
+  2019: 6.49%
+  2020: 14.84%
+  2021: 21.35%
+  2022: -2.45%
+  2023: 16.94%
+  2024: 14.22%
+  2025: 4.10%
+  2026: -3.29%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = INDIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2012-05-30

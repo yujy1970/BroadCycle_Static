@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: DOWJONES
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: DOWJONES
+  Holding Quantity: 135
+  Current Price: 49499.27
+  Holding Value: 6682401.45
+  Buy Date: 2025-05-12
+  Holding Days: 244
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6425.99
+Account Total: 6688827.44
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 49499.270
+Target Total Return (Start->Latest): 1087.49%
+Target Annualized Return (CAGR): 8.29%
+Target Max Drawdown: -53.78%
+Target Max Drawdown Period: 2007-10-09 (Close=14164.530) -> 2009-03-09 (Close=6547.050) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.48%
+Max Drawdown: -36.92%
+Max Drawdown Period: 2020-02-12 (Account total=3918153.26) -> 2020-03-23 (Account total=2471500.58) (27 trading days)

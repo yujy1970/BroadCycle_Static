@@ -1,0 +1,131 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy UK, Price: 3154.0, Quantity: 95, Cash Balance: 370.00
+1996-03-05 00:00:00 Cond1 sell UK, Accu_MMRatio: 6.1980, Deri_MMRatio: -0.000325, Price: 3778.6, Quantity: 95, Holding Days: 233, P/L: 19.80%, Account Total: 359337.00
+1996-08-05 00:00:00 Buy UK, Price: 3783.1, Quantity: 94, Cash Balance: 3725.60
+1997-11-21 00:00:00 Cond1 sell UK, Accu_MMRatio: 8.0188, Deri_MMRatio: -0.001929, Price: 4977.7, Quantity: 94, Holding Days: 330, P/L: 31.58%, Account Total: 471629.40
+1998-01-19 00:00:00 Buy UK, Price: 5270.0, Quantity: 89, Cash Balance: 2599.40
+1998-06-02 00:00:00 Cond1 sell UK, Accu_MMRatio: 8.4745, Deri_MMRatio: -0.001587, Price: 5840.0, Quantity: 89, Holding Days: 92, P/L: 10.82%, Account Total: 522359.40
+1998-08-18 00:00:00 Buy UK, Price: 5652.2, Quantity: 92, Cash Balance: 2357.00
+1998-11-13 00:00:00 Cond1 sell UK, Accu_MMRatio: 1.8809, Deri_MMRatio: 0.005036, Price: 5472.1, Quantity: 92, Holding Days: 62, P/L: -3.19%, Account Total: 505790.20
+1999-02-15 00:00:00 Buy UK, Price: 6042.6, Quantity: 83, Cash Balance: 4254.40
+1999-11-29 00:00:00 Cond1 sell UK, Accu_MMRatio: 3.4360, Deri_MMRatio: 0.004186, Price: 6673.8, Quantity: 83, Holding Days: 200, P/L: 10.45%, Account Total: 558179.80
+2000-03-01 00:00:00 Buy UK, Price: 6364.9, Quantity: 87, Cash Balance: 4433.50
+2001-10-26 00:00:00 Cond1 sell UK, Accu_MMRatio: -7.0030, Deri_MMRatio: 0.004051, Price: 5188.6, Quantity: 87, Holding Days: 419, P/L: -18.48%, Account Total: 455841.70
+2002-01-03 00:00:00 Buy UK, Price: 5318.8, Quantity: 85, Cash Balance: 3743.70
+2002-08-27 00:00:00 Cond1 sell UK, Accu_MMRatio: -4.5381, Deri_MMRatio: 0.004706, Price: 4449.7, Quantity: 85, Holding Days: 162, P/L: -16.34%, Account Total: 381968.20
+2002-10-11 00:00:00 Buy UK, Price: 3953.4, Quantity: 96, Cash Balance: 2441.80
+2002-11-04 00:00:00 Cond1 sell UK, Accu_MMRatio: -8.0358, Deri_MMRatio: 0.004337, Price: 4141.5, Quantity: 96, Holding Days: 16, P/L: 4.76%, Account Total: 400025.80
+2003-02-03 00:00:00 Buy UK, Price: 3689.4, Quantity: 108, Cash Balance: 1570.60
+2003-04-22 00:00:00 Cond1 sell UK, Accu_MMRatio: -11.6479, Deri_MMRatio: 0.004160, Price: 3917.7, Quantity: 108, Holding Days: 54, P/L: 6.19%, Account Total: 424682.20
+2003-08-14 00:00:00 Buy UK, Price: 4237.8, Quantity: 100, Cash Balance: 902.20
+2004-03-08 00:00:00 Cond1 sell UK, Accu_MMRatio: 6.1851, Deri_MMRatio: 0.000394, Price: 4553.8, Quantity: 100, Holding Days: 143, P/L: 7.46%, Account Total: 456282.20
+2004-10-05 00:00:00 Buy UK, Price: 4707.1, Quantity: 96, Cash Balance: 4400.60
+2006-05-25 00:00:00 Cond1 sell UK, Accu_MMRatio: 6.0988, Deri_MMRatio: -0.002312, Price: 5677.7, Quantity: 96, Holding Days: 413, P/L: 20.62%, Account Total: 549459.80
+2006-07-27 00:00:00 Buy UK, Price: 5929.5, Quantity: 92, Cash Balance: 3945.80
+2008-04-30 00:00:00 Cond1 sell UK, Accu_MMRatio: -3.4604, Deri_MMRatio: 0.004406, Price: 6087.29, Quantity: 92, Holding Days: 445, P/L: 2.66%, Account Total: 563976.48
+2008-07-21 00:00:00 Buy UK, Price: 5404.29, Quantity: 104, Cash Balance: 1930.32
+2008-11-27 00:00:00 Cond1 sell UK, Accu_MMRatio: -10.1524, Deri_MMRatio: 0.004761, Price: 4226.1, Quantity: 104, Holding Days: 92, P/L: -21.80%, Account Total: 441444.72
+2009-03-10 00:00:00 Buy UK, Price: 3715.23, Quantity: 118, Cash Balance: 3047.58
+2009-04-16 00:00:00 Cond1 sell UK, Accu_MMRatio: -13.7490, Deri_MMRatio: 0.004004, Price: 4052.98, Quantity: 118, Holding Days: 25, P/L: 9.09%, Account Total: 481299.22
+2009-07-15 00:00:00 Buy UK, Price: 4346.46, Quantity: 110, Cash Balance: 3188.62
+2010-03-19 00:00:00 Cond1 sell UK, Accu_MMRatio: 10.1989, Deri_MMRatio: 0.002829, Price: 5650.12, Quantity: 110, Holding Days: 173, P/L: 29.99%, Account Total: 624701.82
+2010-07-08 00:00:00 Buy UK, Price: 5105.45, Quantity: 122, Cash Balance: 1836.92
+2013-06-28 00:00:00 Cond1 sell UK, Accu_MMRatio: 5.2027, Deri_MMRatio: -0.002405, Price: 6215.47, Quantity: 122, Holding Days: 750, P/L: 21.74%, Account Total: 760124.26
+2013-12-23 00:00:00 Buy UK, Price: 6678.61, Quantity: 113, Cash Balance: 5441.33
+2017-05-16 00:00:00 Cond1 sell UK, Accu_MMRatio: 5.6605, Deri_MMRatio: 0.000002, Price: 7522.03, Quantity: 113, Holding Days: 856, P/L: 12.63%, Account Total: 855430.72
+2018-04-05 00:00:00 Buy UK, Price: 7199.5, Quantity: 118, Cash Balance: 5889.72
+2020-01-13 00:00:00 Cond1 sell UK, Accu_MMRatio: 1.8489, Deri_MMRatio: 0.000171, Price: 7617.6, Quantity: 118, Holding Days: 448, P/L: 5.81%, Account Total: 904766.52
+2020-03-24 00:00:00 Buy UK, Price: 5446.01, Quantity: 166, Cash Balance: 728.86
+2020-04-27 00:00:00 Cond1 sell UK, Accu_MMRatio: -3.6045, Deri_MMRatio: 0.004740, Price: 5846.79, Quantity: 166, Holding Days: 22, P/L: 7.36%, Account Total: 971296.00
+2020-08-12 00:00:00 Buy UK, Price: 6280.12, Quantity: 154, Cash Balance: 4157.52
+2020-12-08 00:00:00 Cond1 sell UK, Accu_MMRatio: -7.4554, Deri_MMRatio: 0.004067, Price: 6558.82, Quantity: 154, Holding Days: 83, P/L: 4.44%, Account Total: 1014215.80
+2021-02-15 00:00:00 Buy UK, Price: 6756.11, Quantity: 150, Cash Balance: 799.30
+2021-05-25 00:00:00 Cond1 sell UK, Accu_MMRatio: 4.1591, Deri_MMRatio: -0.000030, Price: 7029.79, Quantity: 150, Holding Days: 68, P/L: 4.05%, Account Total: 1055267.80
+2021-12-07 00:00:00 Buy UK, Price: 7339.9, Quantity: 143, Cash Balance: 5662.10
+2024-08-27 00:00:00 Cond1 sell UK, Accu_MMRatio: 3.1305, Deri_MMRatio: 0.000208, Price: 8345.46, Quantity: 143, Holding Days: 683, P/L: 13.70%, Account Total: 1199062.88
+2025-01-17 00:00:00 Buy UK, Price: 8505.22, Quantity: 140, Cash Balance: 8332.08
+2025-12-29 00:00:00 Cond1 sell UK, Accu_MMRatio: 4.7536, Deri_MMRatio: -0.000551, Price: 9866.53, Quantity: 140, Holding Days: 239, P/L: 16.01%, Account Total: 1389646.28
+
+=== Account Position Information ===
+Code: UK
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-12-29
+Cash Balance: 1389646.28
+Account Total: 1389646.28
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 9972.170
+Target Total Return (Start->Latest): 217.27%
+Target Annualized Return (CAGR): 3.80%
+Target Max Drawdown: -52.57%
+Target Max Drawdown Period: 1999-12-30 (Close=6930.200) -> 2003-03-12 (Close=3287.000) (807 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.04%
+Max Drawdown: -45.49%
+Max Drawdown Period: 2000-09-04 (Account total=595868.20) -> 2002-07-24 (Account total=324797.20) (476 trading days)
+
+Annual Returns (from first buy):
+  1995: 15.70%
+  1996: 11.40%
+  1997: 20.66%
+  1998: 7.24%
+  1999: 10.36%
+  2000: -2.22%
+  2001: -16.48%
+  2002: -12.24%
+  2003: 12.14%
+  2004: 4.01%
+  2005: 16.55%
+  2006: 5.97%
+  2007: 3.77%
+  2008: -26.18%
+  2009: 35.60%
+  2010: 20.55%
+  2011: -5.54%
+  2012: 5.83%
+  2013: 6.48%
+  2014: -2.69%
+  2015: -4.90%
+  2016: 14.32%
+  2017: 5.27%
+  2018: -6.50%
+  2019: 12.01%
+  2020: 13.21%
+  2021: 4.68%
+  2022: 0.91%
+  2023: 3.76%
+  2024: 7.88%
+  2025: 15.89%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = UK
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.004
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

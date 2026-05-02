@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: HUNGARY_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: HUNGARY_PRIMARY
+  Holding Quantity: 25758
+  Current Price: 12.03
+  Holding Value: 309868.74
+  Buy Date: 2024-11-08
+  Holding Days: 330
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 18.19
+Account Total: 309886.93
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 12.550
+Target Total Return (Start->Latest): -39.04%
+Target Annualized Return (CAGR): -2.32%
+Target Max Drawdown: -92.61%
+Target Max Drawdown Period: 2005-02-28 (Close=20.628) -> 2009-02-23 (Close=1.524) (1003 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 0.24%
+Max Drawdown: -92.48%
+Max Drawdown Period: 2007-07-09 (Account total=416799.54) -> 2009-02-23 (Account total=31326.23) (403 trading days)

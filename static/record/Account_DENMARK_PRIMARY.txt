@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: DENMARK_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-26
+Cash Balance: 743179.27
+Account Total: 743179.27
+Date Of Trading Start: 2016-12-20
+
+Target Latest Close : 100.720
+Target Total Return (Start->Latest): 273.98%
+Target Annualized Return (CAGR): 9.96%
+Target Max Drawdown: -36.60%
+Target Max Drawdown Period: 2021-09-02 (Close=116.111) -> 2022-09-27 (Close=73.610) (268 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.27%
+Max Drawdown: -15.16%
+Max Drawdown Period: 2025-06-12 (Account total=728905.32) -> 2025-07-31 (Account total=618393.72) (35 trading days)

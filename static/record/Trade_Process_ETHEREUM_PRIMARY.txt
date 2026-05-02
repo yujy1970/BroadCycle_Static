@@ -1,0 +1,63 @@
+=== Trade Process ===
+2024-07-23 00:00:00 Initial Buy ETHEREUM_PRIMARY, Price: 26.31, Quantity: 11402, Cash Balance: 13.38
+2024-12-17 00:00:00 Cond1 sell ETHEREUM_PRIMARY, Accu_MMRatio: -0.2542, Deri_MMRatio: 0.002266, Price: 29.26, Quantity: 11402, Holding Days: 147, P/L: 11.21%, Account Total: 333635.90
+2025-01-02 00:00:00 Buy ETHEREUM_PRIMARY, Price: 26.64, Quantity: 12523, Cash Balance: 23.18
+2025-09-11 00:00:00 Cond1 sell ETHEREUM_PRIMARY, Accu_MMRatio: -1.6569, Deri_MMRatio: -0.010157, Price: 34.22, Quantity: 12523, Holding Days: 252, P/L: 28.45%, Account Total: 428560.24
+2025-10-03 00:00:00 Buy ETHEREUM_PRIMARY, Price: 34.05, Quantity: 12586, Cash Balance: 6.94
+2025-12-28 00:00:00 Cond1 sell ETHEREUM_PRIMARY, Accu_MMRatio: 45.7369, Deri_MMRatio: -0.003069, Price: 22.14, Quantity: 12586, Holding Days: 86, P/L: -34.98%, Account Total: 278660.98
+2026-01-16 00:00:00 Buy ETHEREUM_PRIMARY, Price: 25.05, Quantity: 11124, Cash Balance: 4.78
+
+=== Account Position Information ===
+Code: ETHEREUM_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: ETHEREUM_PRIMARY
+  Holding Quantity: 11124
+  Current Price: 17.08
+  Holding Value: 189997.92
+  Buy Date: 2026-01-17
+  Holding Days: 103
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4.78
+Account Total: 190002.70
+Date Of Trading Start: 2024-07-24
+
+Target Latest Close : 17.420
+Target Total Return (Start->Latest): -33.61%
+Target Annualized Return (CAGR): -20.65%
+Target Max Drawdown: -64.02%
+Target Max Drawdown Period: 2024-12-06 (Close=30.770) -> 2025-04-08 (Close=11.070) (82 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: -21.41%
+Max Drawdown: -65.94%
+Max Drawdown Period: 2025-08-22 (Account total=458239.75) -> 2026-02-24 (Account total=156074.50) (186 trading days)
+
+Annual Returns (from first buy):
+  2024: 14.74%
+  2025: -16.48%
+  2026: -31.82%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ETHEREUM
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 0.99
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2024-07-23

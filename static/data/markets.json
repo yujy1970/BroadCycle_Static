@@ -1,0 +1,86 @@
+{
+  "default_continent": "North America",
+  "markets": [
+    {
+      "id": "US",
+      "name": "United States",
+      "continent": "North America",
+      "region": "USA",
+      "index_code": "NDQ",
+      "funds": ["QQQ", "SPY", "VTI", "DIA"],
+      "priority": 100
+    },
+    {
+      "id": "CA",
+      "name": "Canada",
+      "continent": "North America",
+      "region": "Canada",
+      "index_code": "SPTSX",
+      "funds": ["EWC", "XIC", "VCN", "HXT"],
+      "priority": 90
+    },
+    {
+      "id": "UK",
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "region": "UK",
+      "index_code": "FTSE250",
+      "funds": ["MIDD", "ISF", "EWU", "VGK"],
+      "priority": 80
+    },
+    {
+      "id": "DE",
+      "name": "Germany",
+      "continent": "Europe",
+      "region": "Germany",
+      "index_code": "GDAXI",
+      "funds": ["EWG", "EXI", "VGK", "EZU"],
+      "priority": 70
+    },
+    {
+      "id": "HK",
+      "name": "Hong Kong",
+      "continent": "Asia",
+      "region": "Hong Kong",
+      "index_code": "HSI",
+      "funds": ["EWH", "2800.HK", "2822.HK", "FXI"],
+      "priority": 75
+    },
+    {
+      "id": "CN_CYB",
+      "name": "China · ChiNext",
+      "continent": "Asia",
+      "region": "China",
+      "index_code": "399006",
+      "funds": ["159915", "159920", "159920.SZ", "HKAH"],
+      "priority": 60
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "continent": "Asia",
+      "region": "India",
+      "index_code": "SENSEX",
+      "funds": ["INDA", "SMIN", "EPI", "INDY"],
+      "priority": 50
+    },
+    {
+      "id": "GOLD",
+      "name": "Gold (Commodity)",
+      "continent": "Global",
+      "region": "Commodity",
+      "index_code": "GLD",
+      "funds": ["GLD", "IAU", "SGOL", "BAR"],
+      "priority": 40
+    },
+    {
+      "id": "US10Y",
+      "name": "US Treasury 10Y",
+      "continent": "Global",
+      "region": "Rates",
+      "index_code": "US10Y",
+      "funds": ["IEF", "TLT", "SHY", "BND"],
+      "priority": 35
+    }
+  ]
+}

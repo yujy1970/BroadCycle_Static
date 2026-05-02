@@ -1,0 +1,63 @@
+=== Trade Process ===
+2023-01-03 00:00:00 Initial Buy CHINA_CHINEXT_PRIMARY, Price: 0.992, Quantity: 302419, Cash Balance: 0.35
+2024-10-08 00:00:00 Cond1 sell CHINA_CHINEXT_PRIMARY, Accu_MMRatio: -7.6126, Deri_MMRatio: 0.015223, Price: 1.12, Quantity: 302419, Holding Days: 423, P/L: 12.90%, Account Total: 338709.63
+2025-05-12 00:00:00 Buy CHINA_CHINEXT_PRIMARY, Price: 0.904, Quantity: 374678, Cash Balance: 0.72
+2025-09-15 00:00:00 Cond1 sell CHINA_CHINEXT_PRIMARY, Accu_MMRatio: 10.3570, Deri_MMRatio: 0.004817, Price: 1.393, Quantity: 374678, Holding Days: 89, P/L: 54.09%, Account Total: 521927.17
+
+=== Account Position Information ===
+Code: CHINA_CHINEXT_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-15
+Cash Balance: 521927.17
+Account Total: 521927.17
+Date Of Trading Start: 2023-01-04
+
+Target Latest Close : 1.521
+Target Total Return (Start->Latest): 53.33%
+Target Annualized Return (CAGR): 14.54%
+Target Max Drawdown: -43.68%
+Target Max Drawdown Period: 2023-01-30 (Close=1.115) -> 2024-02-02 (Close=0.628) (251 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 19.48%
+Max Drawdown: -43.68%
+Max Drawdown Period: 2023-01-30 (Account total=337197.54) -> 2024-02-02 (Account total=189919.48) (251 trading days)
+
+Annual Returns (from first buy):
+  2023: -22.72%
+  2024: 46.98%
+  2025: 54.09%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHINA_CHINEXT
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+back_long = 100
+back_medium = 30
+TTT = 25
+PPP = 1.038
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 0.01
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -12.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 2023-01-03

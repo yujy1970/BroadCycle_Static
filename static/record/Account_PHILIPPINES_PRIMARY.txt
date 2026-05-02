@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: PHILIPPINES_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: PHILIPPINES_PRIMARY
+  Holding Quantity: 31983
+  Current Price: 24.97
+  Holding Value: 798615.51
+  Buy Date: 2025-11-24
+  Holding Days: 72
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 17.37
+Account Total: 798632.88
+Date Of Trading Start: 2010-10-05
+
+Target Latest Close : 24.560
+Target Total Return (Start->Latest): 5.45%
+Target Annualized Return (CAGR): 0.34%
+Target Max Drawdown: -53.81%
+Target Max Drawdown Period: 2015-04-10 (Close=40.349) -> 2020-03-18 (Close=18.636) (1243 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.61%
+Max Drawdown: -31.76%
+Max Drawdown Period: 2013-05-15 (Account total=542768.21) -> 2013-08-28 (Account total=370358.83) (69 trading days)

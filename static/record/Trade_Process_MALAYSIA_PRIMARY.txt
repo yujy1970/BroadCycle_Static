@@ -1,0 +1,106 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy MALAYSIA_PRIMARY, Price: 13.931, Quantity: 21534, Cash Balance: 9.85
+2005-02-28 00:00:00 Cond1 sell MALAYSIA_PRIMARY, Accu_MMRatio: 31.9196, Deri_MMRatio: 0.000021, Price: 13.74, Quantity: 21534, Holding Days: 1, P/L: -1.37%, Account Total: 295887.01
+2006-01-24 00:00:00 Buy MALAYSIA_PRIMARY, Price: 13.777, Quantity: 21476, Cash Balance: 12.15
+2006-05-22 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 15.7106, Deri_MMRatio: -0.009038, Price: 14.53, Quantity: 21476, Holding Days: 77, P/L: 5.47%, Account Total: 312058.43
+2006-06-22 00:00:00 Buy MALAYSIA_PRIMARY, Price: 13.911, Quantity: 22432, Cash Balance: 6.88
+2007-02-07 00:00:00 Cond1 sell MALAYSIA_PRIMARY, Accu_MMRatio: 20.0969, Deri_MMRatio: 0.012368, Price: 20.771, Quantity: 22432, Holding Days: 156, P/L: 49.31%, Account Total: 465941.95
+2008-11-27 00:00:00 Buy MALAYSIA_PRIMARY, Price: 13.256, Quantity: 35149, Cash Balance: 6.81
+2010-05-21 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 19.4045, Deri_MMRatio: -0.009105, Price: 21.39, Quantity: 35149, Holding Days: 364, P/L: 61.36%, Account Total: 751843.92
+2012-04-18 00:00:00 Buy MALAYSIA_PRIMARY, Price: 29.364, Quantity: 25604, Cash Balance: 8.06
+2013-08-22 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 18.2511, Deri_MMRatio: -0.009201, Price: 29.681, Quantity: 25604, Holding Days: 332, P/L: 1.08%, Account Total: 759960.39
+2013-09-13 00:00:00 Buy MALAYSIA_PRIMARY, Price: 31.518, Quantity: 24111, Cash Balance: 29.89
+2013-12-05 00:00:00 Cond1 sell MALAYSIA_PRIMARY, Accu_MMRatio: 20.0563, Deri_MMRatio: 0.001799, Price: 32.63, Quantity: 24111, Holding Days: 56, P/L: 3.53%, Account Total: 786771.82
+2014-10-20 00:00:00 Buy MALAYSIA_PRIMARY, Price: 32.117, Quantity: 24497, Cash Balance: 1.67
+2014-12-03 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 16.1977, Deri_MMRatio: -0.009639, Price: 29.501, Quantity: 24497, Holding Days: 31, P/L: -8.15%, Account Total: 722687.67
+2015-01-12 00:00:00 Buy MALAYSIA_PRIMARY, Price: 28.508, Quantity: 25350, Cash Balance: 9.87
+2015-08-10 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 0.0552, Deri_MMRatio: -0.009922, Price: 24.047, Quantity: 25350, Holding Days: 143, P/L: -15.65%, Account Total: 609601.32
+2015-09-09 00:00:00 Buy MALAYSIA_PRIMARY, Price: 21.778, Quantity: 27991, Cash Balance: 13.32
+2018-05-24 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 11.6981, Deri_MMRatio: -0.009273, Price: 28.362, Quantity: 27991, Holding Days: 659, P/L: 30.23%, Account Total: 793894.06
+2018-07-10 00:00:00 Buy MALAYSIA_PRIMARY, Price: 26.641, Quantity: 29799, Cash Balance: 18.90
+2018-10-11 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 9.6952, Deri_MMRatio: -0.009454, Price: 26.6, Quantity: 29799, Holding Days: 62, P/L: -0.15%, Account Total: 792672.30
+2018-11-01 00:00:00 Buy MALAYSIA_PRIMARY, Price: 26.375, Quantity: 30053, Cash Balance: 24.43
+2020-03-12 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: -16.0593, Deri_MMRatio: -0.008174, Price: 20.762, Quantity: 30053, Holding Days: 333, P/L: -21.28%, Account Total: 623984.81
+2020-04-09 00:00:00 Buy MALAYSIA_PRIMARY, Price: 21.014, Quantity: 29693, Cash Balance: 16.11
+2022-06-13 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 0.4901, Deri_MMRatio: -0.009373, Price: 22.33, Quantity: 29693, Holding Days: 530, P/L: 6.26%, Account Total: 663060.80
+2022-07-18 00:00:00 Buy MALAYSIA_PRIMARY, Price: 21.5, Quantity: 30840, Cash Balance: 0.80
+2023-03-14 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: -9.1591, Deri_MMRatio: -0.008373, Price: 21.11, Quantity: 30840, Holding Days: 159, P/L: -1.81%, Account Total: 651033.20
+2023-04-04 00:00:00 Buy MALAYSIA_PRIMARY, Price: 22.35, Quantity: 29129, Cash Balance: 0.05
+2024-08-05 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 6.1064, Deri_MMRatio: -0.011770, Price: 23.21, Quantity: 29129, Holding Days: 326, P/L: 3.85%, Account Total: 676084.14
+2024-08-26 00:00:00 Buy MALAYSIA_PRIMARY, Price: 25.34, Quantity: 26680, Cash Balance: 12.94
+2025-03-12 00:00:00 Cond3 sell MALAYSIA_PRIMARY, Accu_MMRatio: 16.3754, Deri_MMRatio: -0.010544, Price: 22.76, Quantity: 26680, Holding Days: 135, P/L: -10.18%, Account Total: 607249.74
+2025-04-30 00:00:00 Buy MALAYSIA_PRIMARY, Price: 24.82, Quantity: 24466, Cash Balance: 3.62
+
+=== Account Position Information ===
+Code: MALAYSIA_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: MALAYSIA_PRIMARY
+  Holding Quantity: 24466
+  Current Price: 28.28
+  Holding Value: 691898.48
+  Buy Date: 2025-05-02
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3.62
+Account Total: 691902.10
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 28.280
+Target Total Return (Start->Latest): 104.71%
+Target Annualized Return (CAGR): 3.46%
+Target Max Drawdown: -53.04%
+Target Max Drawdown Period: 2008-01-14 (Close=27.072) -> 2008-10-27 (Close=12.714) (199 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.11%
+Max Drawdown: -34.50%
+Max Drawdown Period: 2013-05-14 (Account total=874384.66) -> 2025-06-20 (Account total=572752.68) (2965 trading days)
+
+Annual Returns (from first buy):
+  2005: 0.00%
+  2006: 33.31%
+  2007: 18.12%
+  2008: 6.26%
+  2009: 45.67%
+  2010: 4.24%
+  2011: 0.00%
+  2012: 4.74%
+  2013: -0.09%
+  2014: -8.15%
+  2015: -9.71%
+  2016: -4.02%
+  2017: 24.25%
+  2018: 0.65%
+  2019: -1.40%
+  2020: 1.88%
+  2021: -7.41%
+  2022: -3.29%
+  2023: -12.12%
+  2024: 5.73%
+  2025: 2.28%
+  2026: 3.36%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = MALAYSIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 1.0
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 20.0
+Deri2 = 0.02
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.008
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

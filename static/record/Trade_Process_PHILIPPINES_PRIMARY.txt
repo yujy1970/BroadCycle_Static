@@ -1,0 +1,85 @@
+=== Trade Process ===
+2010-10-04 00:00:00 Initial Buy PHILIPPINES_PRIMARY, Price: 23.9, Quantity: 12552, Cash Balance: 7.20
+2011-07-05 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: 77.2015, Deri_MMRatio: 0.001011, Price: 22.962, Quantity: 12552, Holding Days: 186, P/L: -3.92%, Account Total: 288226.22
+2011-10-11 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 21.269, Quantity: 13551, Cash Balance: 10.01
+2013-09-18 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: 59.6925, Deri_MMRatio: -0.003004, Price: 33.314, Quantity: 13551, Holding Days: 486, P/L: 56.63%, Account Total: 451448.02
+2016-01-28 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 30.083, Quantity: 15006, Cash Balance: 22.52
+2016-07-13 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: 0.5097, Deri_MMRatio: 0.002984, Price: 37.877, Quantity: 15006, Holding Days: 113, P/L: 25.91%, Account Total: 568404.78
+2017-01-04 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 32.741, Quantity: 17360, Cash Balance: 21.02
+2017-09-22 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: 4.0931, Deri_MMRatio: 0.001608, Price: 35.68, Quantity: 17360, Holding Days: 177, P/L: 8.98%, Account Total: 619425.82
+2018-11-19 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 29.584, Quantity: 20937, Cash Balance: 25.62
+2019-08-08 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: -2.4212, Deri_MMRatio: -0.001559, Price: 32.932, Quantity: 20937, Holding Days: 174, P/L: 11.32%, Account Total: 689522.90
+2021-05-27 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 29.979, Quantity: 23000, Cash Balance: 5.90
+2021-12-27 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: -3.6181, Deri_MMRatio: -0.000665, Price: 32.018, Quantity: 23000, Holding Days: 147, P/L: 6.80%, Account Total: 736419.90
+2022-10-18 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 23.37, Quantity: 31511, Cash Balance: 7.83
+2024-07-31 00:00:00 Cond1 sell PHILIPPINES_PRIMARY, Accu_MMRatio: -3.5597, Deri_MMRatio: 0.002030, Price: 25.39, Quantity: 31511, Holding Days: 432, P/L: 8.64%, Account Total: 800072.12
+2025-11-21 00:00:00 Buy PHILIPPINES_PRIMARY, Price: 25.015, Quantity: 31983, Cash Balance: 17.37
+
+=== Account Position Information ===
+Code: PHILIPPINES_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: PHILIPPINES_PRIMARY
+  Holding Quantity: 31983
+  Current Price: 24.97
+  Holding Value: 798615.51
+  Buy Date: 2025-11-24
+  Holding Days: 72
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 17.37
+Account Total: 798632.88
+Date Of Trading Start: 2010-10-05
+
+Target Latest Close : 24.560
+Target Total Return (Start->Latest): 5.45%
+Target Annualized Return (CAGR): 0.34%
+Target Max Drawdown: -53.81%
+Target Max Drawdown Period: 2015-04-10 (Close=40.349) -> 2020-03-18 (Close=18.636) (1243 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.61%
+Max Drawdown: -31.76%
+Max Drawdown Period: 2013-05-15 (Account total=542768.21) -> 2013-08-28 (Account total=370358.83) (69 trading days)
+
+Annual Returns (from first buy):
+  2010: -4.24%
+  2011: 2.37%
+  2012: 48.04%
+  2013: 4.64%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 25.91%
+  2017: 8.98%
+  2018: 4.97%
+  2019: 6.05%
+  2020: 0.00%
+  2021: 6.80%
+  2022: 13.44%
+  2023: -1.96%
+  2024: -2.31%
+  2025: 0.30%
+  2026: -0.48%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = PHILIPPINES
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 50
+PPP = 1.035
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.07
+MedMax1 = -0.14
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2010-10-04

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NATGAS
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: NATGAS
+  Holding Quantity: 2739131
+  Current Price: 2.79
+  Holding Value: 7639436.36
+  Buy Date: 2026-04-20
+  Holding Days: 9
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 0.12
+Account Total: 7639436.48
+Date Of Trading Start: 2000-08-31
+
+Target Latest Close : 2.789
+Target Total Return (Start->Latest): -41.96%
+Target Annualized Return (CAGR): -2.10%
+Target Max Drawdown: -90.36%
+Target Max Drawdown Period: 2005-12-13 (Close=15.378) -> 2020-06-25 (Close=1.482) (3655 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.48%
+Max Drawdown: -81.77%
+Max Drawdown Period: 2000-12-27 (Account total=624892.80) -> 2001-09-26 (Account total=113902.40) (185 trading days)

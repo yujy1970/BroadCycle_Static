@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: MALAYSIA
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: MALAYSIA
+  Holding Quantity: 1677
+  Current Price: 1710.89
+  Holding Value: 2869162.53
+  Buy Date: 2025-05-02
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 219.52
+Account Total: 2869382.05
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 1710.890
+Target Total Return (Start->Latest): 77.05%
+Target Annualized Return (CAGR): 1.86%
+Target Max Drawdown: -79.34%
+Target Max Drawdown Period: 1997-02-25 (Close=1271.570) -> 1998-09-01 (Close=262.700) (376 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.52%
+Max Drawdown: -25.90%
+Max Drawdown Period: 2018-08-28 (Account total=3371066.24) -> 2020-04-13 (Account total=2497808.21) (398 trading days)

@@ -1,0 +1,138 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy ITALY_PRIMARY, Price: 36.592, Quantity: 8198, Cash Balance: 18.78
+2007-08-21 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 4.5690, Deri_MMRatio: -0.002825, Price: 46.539, Quantity: 8198, Holding Days: 632, P/L: 27.18%, Account Total: 381545.51
+2007-09-19 00:00:00 Buy ITALY_PRIMARY, Price: 48.973, Quantity: 7790, Cash Balance: 45.84
+2007-10-31 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 0.1979, Deri_MMRatio: 0.000397, Price: 50.222, Quantity: 7790, Holding Days: 30, P/L: 2.55%, Account Total: 391275.22
+2009-09-16 00:00:00 Buy ITALY_PRIMARY, Price: 29.013, Quantity: 13486, Cash Balance: 5.90
+2010-01-27 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 12.0312, Deri_MMRatio: -0.002855, Price: 25.883, Quantity: 13486, Holding Days: 91, P/L: -10.79%, Account Total: 349064.04
+2010-05-12 00:00:00 Buy ITALY_PRIMARY, Price: 21.916, Quantity: 15927, Cash Balance: 7.90
+2010-05-20 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 6.3654, Deri_MMRatio: -0.005890, Price: 19.945, Quantity: 15927, Holding Days: 6, P/L: -8.99%, Account Total: 317671.92
+2010-10-13 00:00:00 Buy ITALY_PRIMARY, Price: 25.188, Quantity: 12612, Cash Balance: 0.86
+2011-02-02 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: -2.9191, Deri_MMRatio: 0.004224, Price: 26.066, Quantity: 12612, Holding Days: 78, P/L: 3.49%, Account Total: 328745.26
+2011-03-24 00:00:00 Buy ITALY_PRIMARY, Price: 26.336, Quantity: 12482, Cash Balance: 19.30
+2011-06-23 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 2.3310, Deri_MMRatio: -0.001443, Price: 24.017, Quantity: 12482, Holding Days: 63, P/L: -8.81%, Account Total: 299799.50
+2012-04-27 00:00:00 Buy ITALY_PRIMARY, Price: 17.626, Quantity: 17008, Cash Balance: 16.49
+2012-05-02 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: -10.7480, Deri_MMRatio: -0.005178, Price: 17.103, Quantity: 17008, Holding Days: 2, P/L: -2.97%, Account Total: 290904.31
+2012-10-17 00:00:00 Buy ITALY_PRIMARY, Price: 19.548, Quantity: 14881, Cash Balance: 10.53
+2013-01-11 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 0.2673, Deri_MMRatio: 0.004151, Price: 21.326, Quantity: 14881, Holding Days: 57, P/L: 9.10%, Account Total: 317362.73
+2013-03-08 00:00:00 Buy ITALY_PRIMARY, Price: 18.948, Quantity: 16749, Cash Balance: 2.68
+2013-04-29 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 5.1663, Deri_MMRatio: 0.004256, Price: 19.751, Quantity: 16749, Holding Days: 34, P/L: 4.24%, Account Total: 330812.18
+2013-09-19 00:00:00 Buy ITALY_PRIMARY, Price: 22.085, Quantity: 14979, Cash Balance: 0.96
+2014-01-16 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 4.7845, Deri_MMRatio: 0.004185, Price: 24.827, Quantity: 14979, Holding Days: 80, P/L: 12.42%, Account Total: 371884.60
+2014-03-28 00:00:00 Buy ITALY_PRIMARY, Price: 27.418, Quantity: 13563, Cash Balance: 14.26
+2014-07-15 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 10.7592, Deri_MMRatio: -0.003681, Price: 26.474, Quantity: 13563, Holding Days: 74, P/L: -3.44%, Account Total: 359081.12
+2014-08-27 00:00:00 Buy ITALY_PRIMARY, Price: 25.093, Quantity: 14310, Cash Balance: 0.29
+2014-09-04 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 7.0608, Deri_MMRatio: 0.004437, Price: 25.815, Quantity: 14310, Holding Days: 6, P/L: 2.88%, Account Total: 369412.94
+2014-10-22 00:00:00 Buy ITALY_PRIMARY, Price: 22.823, Quantity: 16185, Cash Balance: 22.69
+2014-10-29 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 3.7950, Deri_MMRatio: -0.002241, Price: 22.51, Quantity: 16185, Holding Days: 5, P/L: -1.37%, Account Total: 364347.04
+2014-12-23 00:00:00 Buy ITALY_PRIMARY, Price: 21.676, Quantity: 16808, Cash Balance: 16.83
+2015-01-09 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 0.3595, Deri_MMRatio: -0.004213, Price: 20.334, Quantity: 16808, Holding Days: 8, P/L: -6.19%, Account Total: 341790.70
+2015-04-07 00:00:00 Buy ITALY_PRIMARY, Price: 24.12, Quantity: 14170, Cash Balance: 10.30
+2015-08-03 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 4.4844, Deri_MMRatio: 0.004181, Price: 24.677, Quantity: 14170, Holding Days: 83, P/L: 2.31%, Account Total: 349683.39
+2015-10-05 00:00:00 Buy ITALY_PRIMARY, Price: 23.89, Quantity: 14637, Cash Balance: 5.46
+2015-10-22 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 5.0691, Deri_MMRatio: 0.004836, Price: 24.308, Quantity: 14637, Holding Days: 13, P/L: 1.75%, Account Total: 355801.66
+2016-06-20 00:00:00 Buy ITALY_PRIMARY, Price: 19.342, Quantity: 18395, Cash Balance: 5.57
+2016-07-05 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: -10.2605, Deri_MMRatio: -0.005809, Price: 16.957, Quantity: 18395, Holding Days: 11, P/L: -12.33%, Account Total: 311929.58
+2016-10-18 00:00:00 Buy ITALY_PRIMARY, Price: 18.398, Quantity: 16954, Cash Balance: 9.89
+2016-12-12 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: -8.0884, Deri_MMRatio: 0.004063, Price: 19.812, Quantity: 16954, Holding Days: 39, P/L: 7.69%, Account Total: 335902.54
+2017-03-01 00:00:00 Buy ITALY_PRIMARY, Price: 20.09, Quantity: 16719, Cash Balance: 17.83
+2017-10-23 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 10.5058, Deri_MMRatio: -0.000717, Price: 26.32, Quantity: 16719, Holding Days: 164, P/L: 31.01%, Account Total: 440061.91
+2018-01-05 00:00:00 Buy ITALY_PRIMARY, Price: 27.176, Quantity: 16193, Cash Balance: 0.94
+2018-08-23 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 0.2592, Deri_MMRatio: -0.001319, Price: 24.374, Quantity: 16193, Holding Days: 160, P/L: -10.31%, Account Total: 394689.12
+2019-01-08 00:00:00 Buy ITALY_PRIMARY, Price: 22.733, Quantity: 17361, Cash Balance: 21.51
+2019-01-28 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: -6.8514, Deri_MMRatio: 0.004346, Price: 23.197, Quantity: 17361, Holding Days: 14, P/L: 2.04%, Account Total: 402744.63
+2019-03-18 00:00:00 Buy ITALY_PRIMARY, Price: 25.087, Quantity: 16053, Cash Balance: 23.02
+2019-09-12 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 1.2981, Deri_MMRatio: 0.004788, Price: 25.897, Quantity: 16053, Holding Days: 124, P/L: 3.23%, Account Total: 415747.56
+2019-11-04 00:00:00 Buy ITALY_PRIMARY, Price: 27.179, Quantity: 15296, Cash Balance: 17.57
+2020-01-20 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 6.6045, Deri_MMRatio: -0.000480, Price: 27.49, Quantity: 15296, Holding Days: 50, P/L: 1.14%, Account Total: 420504.61
+2020-11-03 00:00:00 Buy ITALY_PRIMARY, Price: 22.904, Quantity: 18359, Cash Balance: 10.08
+2020-11-16 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: -6.4945, Deri_MMRatio: 0.004002, Price: 25.971, Quantity: 18359, Holding Days: 9, P/L: 13.39%, Account Total: 476811.67
+2021-02-03 00:00:00 Buy ITALY_PRIMARY, Price: 28.024, Quantity: 17014, Cash Balance: 11.33
+2021-05-14 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 10.7973, Deri_MMRatio: -0.001176, Price: 31.08, Quantity: 17014, Holding Days: 70, P/L: 10.90%, Account Total: 528806.45
+2021-07-26 00:00:00 Buy ITALY_PRIMARY, Price: 30.786, Quantity: 17176, Cash Balance: 26.11
+2021-08-16 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 9.9257, Deri_MMRatio: 0.004051, Price: 31.734, Quantity: 17176, Holding Days: 15, P/L: 3.08%, Account Total: 545089.30
+2021-11-05 00:00:00 Buy ITALY_PRIMARY, Price: 32.884, Quantity: 16576, Cash Balance: 4.11
+2022-03-11 00:00:00 Cond3 sell ITALY_PRIMARY, Accu_MMRatio: 4.4797, Deri_MMRatio: -0.006122, Price: 26.78, Quantity: 16576, Holding Days: 88, P/L: -18.56%, Account Total: 443909.40
+2022-10-04 00:00:00 Buy ITALY_PRIMARY, Price: 22.56, Quantity: 19676, Cash Balance: 18.84
+2022-10-25 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: -8.0246, Deri_MMRatio: 0.004053, Price: 23.8, Quantity: 19676, Holding Days: 15, P/L: 5.50%, Account Total: 468307.64
+2023-01-04 00:00:00 Buy ITALY_PRIMARY, Price: 27.78, Quantity: 16857, Cash Balance: 20.17
+2023-09-13 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 10.3487, Deri_MMRatio: 0.000214, Price: 31.44, Quantity: 16857, Holding Days: 176, P/L: 13.17%, Account Total: 530004.26
+2023-11-02 00:00:00 Buy ITALY_PRIMARY, Price: 31.25, Quantity: 16960, Cash Balance: 4.26
+2025-05-07 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 3.4824, Deri_MMRatio: 0.004043, Price: 45.36, Quantity: 16960, Holding Days: 379, P/L: 45.15%, Account Total: 769309.86
+2025-07-09 00:00:00 Buy ITALY_PRIMARY, Price: 48.69, Quantity: 15800, Cash Balance: 7.86
+2025-12-03 00:00:00 Cond1 sell ITALY_PRIMARY, Accu_MMRatio: 8.5762, Deri_MMRatio: -0.000904, Price: 53.18, Quantity: 15800, Holding Days: 104, P/L: 9.22%, Account Total: 840251.86
+2026-02-03 00:00:00 Buy ITALY_PRIMARY, Price: 57.51, Quantity: 14610, Cash Balance: 30.76
+
+=== Account Position Information ===
+Code: ITALY_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: ITALY_PRIMARY
+  Holding Quantity: 14610
+  Current Price: 52.08
+  Holding Value: 760888.80
+  Buy Date: 2026-02-04
+  Holding Days: 27
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 30.76
+Account Total: 760919.56
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 51.470
+Target Total Return (Start->Latest): 40.44%
+Target Annualized Return (CAGR): 1.62%
+Target Max Drawdown: -73.51%
+Target Max Drawdown Period: 2007-05-07 (Close=51.507) -> 2009-03-09 (Close=13.642) (463 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.52%
+Max Drawdown: -37.35%
+Max Drawdown Period: 2007-05-07 (Account total=422273.17) -> 2012-11-16 (Account total=264550.06) (1410 trading days)
+
+Annual Returns (from first buy):
+  2005: -1.01%
+  2006: 29.83%
+  2007: 1.44%
+  2008: 0.00%
+  2009: -3.87%
+  2010: -23.11%
+  2011: 3.66%
+  2012: -1.75%
+  2013: 22.00%
+  2014: 1.15%
+  2015: -2.12%
+  2016: -5.59%
+  2017: 31.01%
+  2018: -10.31%
+  2019: 5.72%
+  2020: 14.27%
+  2021: 10.55%
+  2022: -11.16%
+  2023: 22.88%
+  2024: 6.04%
+  2025: 37.70%
+  2026: -9.44%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ITALY
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 0.004
+Trend2 = 99.0
+MedMax1 = -0.06
+Accu1 = -12.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 2005-02-25

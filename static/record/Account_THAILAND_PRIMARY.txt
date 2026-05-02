@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: THAILAND_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: THAILAND_PRIMARY
+  Holding Quantity: 20890
+  Current Price: 70.71
+  Holding Value: 1477131.90
+  Buy Date: 2024-08-26
+  Holding Days: 405
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 59.82
+Account Total: 1477191.72
+Date Of Trading Start: 2008-04-02
+
+Target Latest Close : 70.910
+Target Total Return (Start->Latest): 122.53%
+Target Annualized Return (CAGR): 4.52%
+Target Max Drawdown: -64.22%
+Target Max Drawdown Period: 2008-05-22 (Close=32.909) -> 2008-12-01 (Close=11.775) (133 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 12.24%
+Max Drawdown: -46.64%
+Max Drawdown Period: 2008-06-13 (Account total=263251.53) -> 2009-03-03 (Account total=140472.03) (177 trading days)

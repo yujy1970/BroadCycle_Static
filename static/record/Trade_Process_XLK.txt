@@ -1,0 +1,93 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy XLK, Price: 7.945, Quantity: 37759, Cash Balance: 4.74
+2010-02-11 00:00:00 Cond1 sell XLK, Accu_MMRatio: 16.5459, Deri_MMRatio: -0.003924, Price: 10.585, Quantity: 37759, Holding Days: 279, P/L: 33.23%, Account Total: 399683.76
+2010-06-03 00:00:00 Buy XLK, Price: 10.83, Quantity: 36905, Cash Balance: 2.61
+2012-11-02 00:00:00 Cond1 sell XLK, Accu_MMRatio: 7.9237, Deri_MMRatio: -0.003803, Price: 14.49, Quantity: 36905, Holding Days: 610, P/L: 33.80%, Account Total: 534756.06
+2013-01-02 00:00:00 Buy XLK, Price: 14.895, Quantity: 35901, Cash Balance: 10.66
+2014-09-30 00:00:00 Cond1 sell XLK, Accu_MMRatio: 8.0663, Deri_MMRatio: -0.001333, Price: 19.885, Quantity: 35901, Holding Days: 439, P/L: 33.50%, Account Total: 713902.05
+2014-12-22 00:00:00 Buy XLK, Price: 21.125, Quantity: 33794, Cash Balance: 3.80
+2017-06-27 00:00:00 Cond1 sell XLK, Accu_MMRatio: 8.8397, Deri_MMRatio: -0.002215, Price: 27.645, Quantity: 33794, Holding Days: 632, P/L: 30.86%, Account Total: 934238.93
+2017-10-27 00:00:00 Buy XLK, Price: 30.94, Quantity: 30195, Cash Balance: 5.63
+2018-01-10 00:00:00 Cond1 sell XLK, Accu_MMRatio: 9.6913, Deri_MMRatio: 0.000200, Price: 33.15, Quantity: 30195, Holding Days: 50, P/L: 7.14%, Account Total: 1000969.88
+2018-03-09 00:00:00 Buy XLK, Price: 35.36, Quantity: 28307, Cash Balance: 34.36
+2020-03-03 00:00:00 Cond1 sell XLK, Accu_MMRatio: 11.3222, Deri_MMRatio: -0.005056, Price: 45.935, Quantity: 28307, Holding Days: 498, P/L: 29.91%, Account Total: 1300316.41
+2020-04-15 00:00:00 Buy XLK, Price: 44.085, Quantity: 29495, Cash Balance: 29.33
+2020-10-22 00:00:00 Cond1 sell XLK, Accu_MMRatio: 13.1530, Deri_MMRatio: 0.001345, Price: 59.37, Quantity: 29495, Holding Days: 133, P/L: 34.67%, Account Total: 1751147.48
+2021-01-21 00:00:00 Buy XLK, Price: 66.39, Quantity: 26376, Cash Balance: 44.84
+2021-04-05 00:00:00 Cond1 sell XLK, Accu_MMRatio: 16.5145, Deri_MMRatio: 0.002362, Price: 69.03, Quantity: 26376, Holding Days: 50, P/L: 3.98%, Account Total: 1820780.12
+2021-05-24 00:00:00 Buy XLK, Price: 69.585, Quantity: 26166, Cash Balance: 19.01
+2023-10-17 00:00:00 Cond1 sell XLK, Accu_MMRatio: 11.8239, Deri_MMRatio: -0.000852, Price: 84.135, Quantity: 26166, Holding Days: 604, P/L: 20.91%, Account Total: 2201495.42
+2023-12-13 00:00:00 Buy XLK, Price: 95.68, Quantity: 23008, Cash Balance: 89.98
+2024-04-08 00:00:00 Cond1 sell XLK, Accu_MMRatio: 13.0583, Deri_MMRatio: -0.001668, Price: 103.635, Quantity: 23008, Holding Days: 78, P/L: 8.31%, Account Total: 2384524.06
+2024-05-20 00:00:00 Buy XLK, Price: 106.745, Quantity: 22338, Cash Balance: 54.25
+2026-03-26 00:00:00 Cond1 sell XLK, Accu_MMRatio: 11.9808, Deri_MMRatio: -0.001749, Price: 131.53, Quantity: 22338, Holding Days: 463, P/L: 23.22%, Account Total: 2938171.39
+
+=== Account Position Information ===
+Code: XLK
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-26
+Cash Balance: 2938171.39
+Account Total: 2938171.39
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 161.870
+Target Total Return (Start->Latest): 2454.36%
+Target Annualized Return (CAGR): 20.57%
+Target Max Drawdown: -33.56%
+Target Max Drawdown Period: 2021-12-27 (Close=85.484) -> 2022-10-12 (Close=56.796) (200 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.60%
+Max Drawdown: -33.56%
+Max Drawdown Period: 2021-12-27 (Account total=2236793.35) -> 2022-10-12 (Account total=1486143.15) (200 trading days)
+
+Annual Returns (from first buy):
+  2009: 46.30%
+  2010: 8.87%
+  2011: 2.61%
+  2012: 37.16%
+  2013: 3.23%
+  2014: 10.92%
+  2015: 5.47%
+  2016: 15.01%
+  2017: 19.96%
+  2018: -7.82%
+  2019: 49.85%
+  2020: 42.28%
+  2021: 25.72%
+  2022: -27.73%
+  2023: 37.19%
+  2024: 18.09%
+  2025: 24.60%
+  2026: -8.53%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = XLK
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.18
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

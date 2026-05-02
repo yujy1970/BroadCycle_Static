@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BITCOIN_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-11-28
+Cash Balance: 651690.84
+Account Total: 651690.84
+Date Of Trading Start: 2024-01-12
+
+Target Latest Close : 44.470
+Target Total Return (Start->Latest): 66.99%
+Target Annualized Return (CAGR): 24.94%
+Target Max Drawdown: -49.36%
+Target Max Drawdown Period: 2025-10-06 (Close=71.290) -> 2026-02-05 (Close=36.100) (84 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 43.62%
+Max Drawdown: -32.71%
+Max Drawdown Period: 2025-10-06 (Account total=879894.43) -> 2025-11-21 (Account total=592078.98) (46 trading days)

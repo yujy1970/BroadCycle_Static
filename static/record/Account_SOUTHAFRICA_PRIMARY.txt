@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SOUTHAFRICA_PRIMARY
+Current Date: 2026-02-26 16:00
+Mode: Etf Data
+Current Position: SOUTHAFRICA_PRIMARY
+  Holding Quantity: 6488
+  Current Price: 80.76
+  Holding Value: 523970.88
+  Buy Date: 2025-07-22
+  Holding Days: 152
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 33.72
+Account Total: 524004.60
+Date Of Trading Start: 2012-02-09
+
+Target Latest Close : 63.980
+Target Total Return (Start->Latest): 169.31%
+Target Annualized Return (CAGR): 4.81%
+Target Max Drawdown: -66.25%
+Target Max Drawdown Period: 2007-10-31 (Close=44.226) -> 2008-10-27 (Close=14.926) (249 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.04%
+Max Drawdown: -59.25%
+Max Drawdown Period: 2018-02-15 (Account total=401501.29) -> 2020-03-23 (Account total=163631.58) (524 trading days)

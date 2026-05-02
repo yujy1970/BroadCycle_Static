@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ETHEREUM_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: ETHEREUM_PRIMARY
+  Holding Quantity: 11124
+  Current Price: 17.08
+  Holding Value: 189997.92
+  Buy Date: 2026-01-17
+  Holding Days: 103
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4.78
+Account Total: 190002.70
+Date Of Trading Start: 2024-07-24
+
+Target Latest Close : 17.420
+Target Total Return (Start->Latest): -33.61%
+Target Annualized Return (CAGR): -20.65%
+Target Max Drawdown: -64.02%
+Target Max Drawdown Period: 2024-12-06 (Close=30.770) -> 2025-04-08 (Close=11.070) (82 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: -21.41%
+Max Drawdown: -65.94%
+Max Drawdown Period: 2025-08-22 (Account total=458239.75) -> 2026-02-24 (Account total=156074.50) (186 trading days)

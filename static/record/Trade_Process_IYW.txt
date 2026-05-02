@@ -1,0 +1,88 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy IYW, Price: 9.153, Quantity: 32776, Cash Balance: 1.27
+2010-01-11 00:00:00 Cond1 sell IYW, Accu_MMRatio: 18.0433, Deri_MMRatio: 0.000473, Price: 14.385, Quantity: 32776, Holding Days: 257, P/L: 57.16%, Account Total: 471484.03
+2010-04-14 00:00:00 Buy IYW, Price: 15.252, Quantity: 30912, Cash Balance: 14.21
+2014-04-14 00:00:00 Cond1 sell IYW, Accu_MMRatio: 8.1234, Deri_MMRatio: -0.001641, Price: 22.155, Quantity: 30912, Holding Days: 1007, P/L: 45.26%, Account Total: 684869.57
+2014-08-19 00:00:00 Buy IYW, Price: 25.2, Quantity: 27177, Cash Balance: 9.17
+2014-10-07 00:00:00 Cond1 sell IYW, Accu_MMRatio: 8.9261, Deri_MMRatio: -0.002487, Price: 24.558, Quantity: 27177, Holding Days: 34, P/L: -2.55%, Account Total: 667421.93
+2014-12-18 00:00:00 Buy IYW, Price: 26.335, Quantity: 25343, Cash Balance: 14.03
+2017-06-27 00:00:00 Cond1 sell IYW, Accu_MMRatio: 10.3183, Deri_MMRatio: -0.002428, Price: 35.295, Quantity: 25343, Holding Days: 634, P/L: 34.02%, Account Total: 894495.21
+2017-10-27 00:00:00 Buy IYW, Price: 39.62, Quantity: 22576, Cash Balance: 34.09
+2020-03-02 00:00:00 Cond1 sell IYW, Accu_MMRatio: 10.4141, Deri_MMRatio: -0.002724, Price: 59.63, Quantity: 22576, Holding Days: 587, P/L: 50.50%, Account Total: 1346240.97
+2020-04-14 00:00:00 Buy IYW, Price: 55.507, Quantity: 24253, Cash Balance: 29.70
+2020-10-21 00:00:00 Cond1 sell IYW, Accu_MMRatio: 13.6738, Deri_MMRatio: 0.002269, Price: 77.872, Quantity: 24253, Holding Days: 133, P/L: 40.29%, Account Total: 1888659.32
+2020-12-17 00:00:00 Buy IYW, Price: 84.85, Quantity: 22258, Cash Balance: 68.02
+2021-03-09 00:00:00 Cond1 sell IYW, Accu_MMRatio: 18.0665, Deri_MMRatio: -0.004333, Price: 86.74, Quantity: 22258, Holding Days: 54, P/L: 2.23%, Account Total: 1930726.94
+2021-05-24 00:00:00 Buy IYW, Price: 92.65, Quantity: 20838, Cash Balance: 86.24
+2024-04-05 00:00:00 Cond1 sell IYW, Accu_MMRatio: 14.7048, Deri_MMRatio: -0.002436, Price: 134.58, Quantity: 20838, Holding Days: 721, P/L: 45.26%, Account Total: 2804464.28
+2024-05-16 00:00:00 Buy IYW, Price: 138.71, Quantity: 20218, Cash Balance: 25.50
+
+=== Account Position Information ===
+Code: IYW
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: IYW
+  Holding Quantity: 20218
+  Current Price: 221.01
+  Holding Value: 4468380.18
+  Buy Date: 2024-05-17
+  Holding Days: 489
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 25.50
+Account Total: 4468405.68
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 221.010
+Target Total Return (Start->Latest): 2626.50%
+Target Annualized Return (CAGR): 21.02%
+Target Max Drawdown: -39.44%
+Target Max Drawdown Period: 2021-12-27 (Close=115.384) -> 2022-11-03 (Close=69.881) (216 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 17.66%
+Max Drawdown: -39.43%
+Max Drawdown Period: 2021-12-27 (Account total=2404458.03) -> 2022-11-03 (Account total=1456266.52) (216 trading days)
+
+Annual Returns (from first buy):
+  2009: 56.63%
+  2010: 6.02%
+  2011: -0.13%
+  2012: 11.67%
+  2013: 26.57%
+  2014: -2.06%
+  2015: 3.68%
+  2016: 13.72%
+  2017: 21.69%
+  2018: -0.93%
+  2019: 46.64%
+  2020: 45.38%
+  2021: 26.80%
+  2022: -34.83%
+  2023: 65.75%
+  2024: 26.37%
+  2025: 25.38%
+  2026: 10.72%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = IYW
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 18.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.16
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

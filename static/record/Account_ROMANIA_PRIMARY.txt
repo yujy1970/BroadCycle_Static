@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ROMANIA_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: ROMANIA_PRIMARY
+  Holding Quantity: 66047
+  Current Price: 83.39
+  Holding Value: 5507659.33
+  Buy Date: 2024-12-10
+  Holding Days: 305
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 31.55
+Account Total: 5507690.88
+Date Of Trading Start: 2007-02-02
+
+Target Latest Close : 78.200
+Target Total Return (Start->Latest): 3620.27%
+Target Annualized Return (CAGR): 20.79%
+Target Max Drawdown: -83.40%
+Target Max Drawdown Period: 2007-10-31 (Close=2.927) -> 2009-03-09 (Close=0.486) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 16.48%
+Max Drawdown: -83.40%
+Max Drawdown Period: 2007-10-31 (Account total=413029.11) -> 2009-03-09 (Account total=68579.60) (333 trading days)

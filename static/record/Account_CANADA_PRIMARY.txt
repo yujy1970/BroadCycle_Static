@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CANADA_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: CANADA_PRIMARY
+  Holding Quantity: 95626
+  Current Price: 58.40
+  Holding Value: 5584558.40
+  Buy Date: 2022-10-05
+  Holding Days: 896
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6.42
+Account Total: 5584564.82
+Date Of Trading Start: 1996-03-19
+
+Target Latest Close : 58.400
+Target Total Return (Start->Latest): 1236.08%
+Target Annualized Return (CAGR): 8.99%
+Target Max Drawdown: -60.75%
+Target Max Drawdown Period: 2007-11-06 (Close=24.728) -> 2009-03-09 (Close=9.706) (335 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.38%
+Max Drawdown: -62.33%
+Max Drawdown Period: 2006-07-05 (Account total=1125634.05) -> 2008-10-27 (Account total=424064.28) (581 trading days)

@@ -1,0 +1,18 @@
+{
+  "funds": [
+    {"ticker":"QQQ","name":"Invesco QQQ Trust"},
+    {"ticker":"SPY","name":"SPDR S&P 500 ETF Trust"},
+    {"ticker":"VTI","name":"Vanguard Total Stock Market ETF"},
+    {"ticker":"DIA","name":"SPDR Dow Jones Industrial Average ETF"},
+    {"ticker":"EWC","name":"iShares MSCI Canada ETF"},
+    {"ticker":"XIC","name":"iShares Core S&P/TSX Capped Composite Index ETF"},
+    {"ticker":"VCN","name":"Vanguard FTSE Canada All Cap Index ETF"},
+    {"ticker":"MIDD","name":"iShares FTSE 250 UCITS ETF (example)"},
+    {"ticker":"EWU","name":"iShares MSCI United Kingdom ETF"},
+    {"ticker":"EWG","name":"iShares MSCI Germany ETF"},
+    {"ticker":"INDA","name":"iShares MSCI India ETF"},
+    {"ticker":"GLD","name":"SPDR Gold Shares"},
+    {"ticker":"IEF","name":"iShares 7-10 Year Treasury Bond ETF"},
+    {"ticker":"TLT","name":"iShares 20+ Year Treasury Bond ETF"}
+  ]
+}

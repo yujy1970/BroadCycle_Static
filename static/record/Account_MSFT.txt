@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: MSFT
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: MSFT
+  Holding Quantity: 17735
+  Current Price: 414.44
+  Holding Value: 7350093.40
+  Buy Date: 2023-10-06
+  Holding Days: 643
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2.48
+Account Total: 7350095.88
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 414.440
+Target Total Return (Start->Latest): 2698.19%
+Target Annualized Return (CAGR): 21.20%
+Target Max Drawdown: -37.15%
+Target Max Drawdown Period: 2021-11-19 (Close=331.231) -> 2022-11-03 (Close=208.184) (240 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 22.40%
+Max Drawdown: -40.46%
+Max Drawdown Period: 2010-01-07 (Account total=449698.08) -> 2010-06-30 (Account total=267764.12) (120 trading days)

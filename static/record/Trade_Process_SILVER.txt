@@ -1,0 +1,120 @@
+=== Trade Process ===
+2000-08-30 00:00:00 Initial Buy SILVER, Price: 4.92, Quantity: 60975, Cash Balance: 3.00
+2003-01-31 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 0.1178, Deri_MMRatio: 0.001415, Price: 4.828, Quantity: 60975, Holding Days: 602, P/L: -1.87%, Account Total: 294390.30
+2003-04-03 00:00:00 Buy SILVER, Price: 4.411, Quantity: 66740, Cash Balance: 0.16
+2004-06-28 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 45.5514, Deri_MMRatio: -0.007331, Price: 5.908, Quantity: 66740, Holding Days: 307, P/L: 33.94%, Account Total: 394300.08
+2004-07-28 00:00:00 Buy SILVER, Price: 6.38, Quantity: 61802, Cash Balance: 3.32
+2005-01-25 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 57.0283, Deri_MMRatio: -0.002743, Price: 6.793, Quantity: 61802, Holding Days: 123, P/L: 6.47%, Account Total: 419824.31
+2005-02-10 00:00:00 Buy SILVER, Price: 7.201, Quantity: 58300, Cash Balance: 6.01
+2006-07-14 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 65.7397, Deri_MMRatio: -0.007928, Price: 11.61, Quantity: 58300, Holding Days: 354, P/L: 61.23%, Account Total: 676869.01
+2006-08-21 00:00:00 Buy SILVER, Price: 12.245, Quantity: 55277, Cash Balance: 2.14
+2007-03-09 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 91.4304, Deri_MMRatio: -0.003120, Price: 12.885, Quantity: 55277, Holding Days: 138, P/L: 5.23%, Account Total: 712246.29
+2007-03-20 00:00:00 Buy SILVER, Price: 13.35, Quantity: 53351, Cash Balance: 10.44
+2008-09-10 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 57.9442, Deri_MMRatio: -0.007357, Price: 10.645, Quantity: 53351, Holding Days: 373, P/L: -20.26%, Account Total: 567931.83
+2008-11-21 00:00:00 Buy SILVER, Price: 10.225, Quantity: 55543, Cash Balance: 4.66
+2009-02-26 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 7.4302, Deri_MMRatio: 0.003127, Price: 13.1, Quantity: 55543, Holding Days: 64, P/L: 28.12%, Account Total: 727617.96
+2009-05-05 00:00:00 Buy SILVER, Price: 13.31, Quantity: 54667, Cash Balance: 0.19
+2009-10-23 00:00:00 Cond1 sell SILVER, Accu_MMRatio: -14.6851, Deri_MMRatio: 0.004331, Price: 17.39, Quantity: 54667, Holding Days: 120, P/L: 30.65%, Account Total: 950659.32
+2010-02-16 00:00:00 Buy SILVER, Price: 16.098, Quantity: 59054, Cash Balance: 8.02
+2011-05-03 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 99.3125, Deri_MMRatio: 0.006262, Price: 41.5, Quantity: 59054, Holding Days: 306, P/L: 157.80%, Account Total: 2450749.02
+2012-04-02 00:00:00 Buy SILVER, Price: 33.25, Quantity: 73706, Cash Balance: 24.52
+2013-03-07 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 2.8531, Deri_MMRatio: -0.002419, Price: 28.85, Quantity: 73706, Holding Days: 232, P/L: -13.23%, Account Total: 2126442.62
+2013-05-23 00:00:00 Buy SILVER, Price: 22.482, Quantity: 94584, Cash Balance: 5.14
+2016-09-27 00:00:00 Cond1 sell SILVER, Accu_MMRatio: -13.3557, Deri_MMRatio: -0.000405, Price: 19.05, Quantity: 94584, Holding Days: 843, P/L: -15.27%, Account Total: 1801830.34
+2017-01-31 00:00:00 Buy SILVER, Price: 17.45, Quantity: 103256, Cash Balance: 13.14
+2017-06-08 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 16.3833, Deri_MMRatio: 0.000536, Price: 17.455, Quantity: 103256, Holding Days: 89, P/L: 0.03%, Account Total: 1802346.62
+2017-06-27 00:00:00 Buy SILVER, Price: 16.745, Quantity: 107634, Cash Balance: 15.29
+2018-05-04 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 0.8513, Deri_MMRatio: -0.000001, Price: 16.49, Quantity: 107634, Holding Days: 214, P/L: -1.52%, Account Total: 1774899.95
+2018-07-25 00:00:00 Buy SILVER, Price: 15.57, Quantity: 113994, Cash Balance: 13.37
+2019-10-25 00:00:00 Cond1 sell SILVER, Accu_MMRatio: -9.0331, Deri_MMRatio: 0.001780, Price: 17.89, Quantity: 113994, Holding Days: 316, P/L: 14.90%, Account Total: 2039366.03
+2020-03-25 00:00:00 Buy SILVER, Price: 14.83, Quantity: 137516, Cash Balance: 3.75
+2021-07-20 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 82.3095, Deri_MMRatio: -0.001968, Price: 25.155, Quantity: 137516, Holding Days: 332, P/L: 69.62%, Account Total: 3459218.73
+2021-08-03 00:00:00 Buy SILVER, Price: 25.61, Quantity: 135072, Cash Balance: 24.81
+2022-09-07 00:00:00 Cond3 sell SILVER, Accu_MMRatio: 3.3289, Deri_MMRatio: -0.002874, Price: 18.29, Quantity: 135072, Holding Days: 276, P/L: -28.58%, Account Total: 2470491.69
+2022-11-10 00:00:00 Buy SILVER, Price: 21.585, Quantity: 114454, Cash Balance: 2.10
+2023-08-31 00:00:00 Cond1 sell SILVER, Accu_MMRatio: -8.1270, Deri_MMRatio: 0.000723, Price: 24.49, Quantity: 114454, Holding Days: 201, P/L: 13.46%, Account Total: 2802980.56
+2024-02-12 00:00:00 Buy SILVER, Price: 22.096, Quantity: 126854, Cash Balance: 14.57
+2025-05-21 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 50.4571, Deri_MMRatio: 0.000323, Price: 33.575, Quantity: 126854, Holding Days: 320, P/L: 51.95%, Account Total: 4259137.62
+2025-06-02 00:00:00 Buy SILVER, Price: 34.315, Quantity: 124118, Cash Balance: 28.45
+2026-01-26 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 78.5462, Deri_MMRatio: 0.024693, Price: 104.4, Quantity: 124118, Holding Days: 164, P/L: 204.24%, Account Total: 12957947.65
+2026-02-10 00:00:00 Buy SILVER, Price: 80.995, Quantity: 159984, Cash Balance: 43.57
+2026-03-03 00:00:00 Cond1 sell SILVER, Accu_MMRatio: 99.4532, Deri_MMRatio: 0.005364, Price: 83.085, Quantity: 159984, Holding Days: 14, P/L: 2.58%, Account Total: 13292314.21
+
+=== Account Position Information ===
+Code: SILVER
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-03
+Cash Balance: 13292314.21
+Account Total: 13292314.21
+Date Of Trading Start: 2000-08-31
+
+Target Latest Close : 75.840
+Target Total Return (Start->Latest): 1438.34%
+Target Annualized Return (CAGR): 11.24%
+Target Max Drawdown: -75.85%
+Target Max Drawdown Period: 2011-04-29 (Close=48.584) -> 2020-03-18 (Close=11.735) (2232 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.84%
+Max Drawdown: -54.95%
+Max Drawdown Period: 2011-04-29 (Account total=2869087.56) -> 2015-12-14 (Account total=1292590.08) (1164 trading days)
+
+Annual Returns (from first buy):
+  2000: -8.35%
+  2001: -0.13%
+  2002: 4.85%
+  2003: 35.72%
+  2004: 5.89%
+  2005: 22.23%
+  2006: 37.79%
+  2007: 11.42%
+  2008: -20.71%
+  2009: 51.87%
+  2010: 92.01%
+  2011: 34.26%
+  2012: -9.25%
+  2013: -17.75%
+  2014: -19.51%
+  2015: -11.50%
+  2016: 38.29%
+  2017: 1.91%
+  2018: -4.19%
+  2019: 15.92%
+  2020: 77.56%
+  2021: -12.98%
+  2022: -13.33%
+  2023: 2.63%
+  2024: 30.97%
+  2025: 137.12%
+  2026: 52.70%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SILVER
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 0.9925
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.02
+Trend2 = 0.07
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.007
+Trend1 = -0.175
+date_start_backtest = 1995-04-01

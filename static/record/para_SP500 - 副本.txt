@@ -1,0 +1,17 @@
+Code=SP500
+date_start_download=1990-01-01
+date_start_backtest=1995-01-03
+Account_total=7216082.750000
+back_long=100
+back_medium=40
+TTT=5
+PPP=0.990000
+QQQ=15
+MedMax2=0.074000
+Accu2=10.000000
+Deri2=0.006000
+Trend2=0.500000
+MedMax1=-0.110000
+Accu1=-2.000000
+Deri1=-0.006000
+Trend1=-0.500000

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: KOREA_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: KOREA_PRIMARY
+  Holding Quantity: 17158
+  Current Price: 124.15
+  Holding Value: 2130165.70
+  Buy Date: 2025-04-16
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4.91
+Account Total: 2130170.61
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 119.990
+Target Total Return (Start->Latest): 316.03%
+Target Annualized Return (CAGR): 7.00%
+Target Max Drawdown: -74.59%
+Target Max Drawdown Period: 2007-10-31 (Close=63.195) -> 2008-11-20 (Close=16.061) (267 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.79%
+Max Drawdown: -69.18%
+Max Drawdown Period: 2007-10-31 (Account total=607254.97) -> 2008-11-20 (Account total=187127.17) (261 trading days)

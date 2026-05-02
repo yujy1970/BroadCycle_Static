@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>BroadCycle – Global Market Explorer</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- 全站样式 -->
+  <link rel="stylesheet" href="/static/css/site.css" />
+
+  <!-- Explorer 专用样式（如果你有） -->
+  <link rel="stylesheet" href="/static/css/explorer.css" />
+
+</head>
+<body>
+
+  <!-- 顶部导航（沿用你原站样式） -->
+  <header>
+    <h1>Global Market Explorer</h1>
+  </header>
+
+  <!-- ✅ 关键：Explorer 渲染容器 -->
+  <main id="explorer-root">
+    <!-- JS 会在这里自动生成：
+         - 按洲 Tabs
+         - Multi-Asset
+         - Preferred-Stock
+         - 市场卡片 -->
+  </main>
+
+  <!-- Explorer 依赖脚本 -->
+  <script src="/static/js/app/asset_db.js"></script>
+  <script src="/static/js/app/explorer_assetdb.js"></script>
+
+</body>
+</html>

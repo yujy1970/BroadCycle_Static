@@ -1,0 +1,144 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy BRAZIL, Price: 2893.5, Quantity: 103, Cash Balance: 1969.50
+1995-05-09 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 60.6877, Deri_MMRatio: 0.012404, Price: 4065.4, Quantity: 103, Holding Days: 22, P/L: 40.50%, Account Total: 420705.70
+1995-06-27 00:00:00 Buy BRAZIL, Price: 3661.3, Quantity: 114, Cash Balance: 3317.50
+1995-09-06 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.1139, Deri_MMRatio: 0.001987, Price: 4550.0, Quantity: 114, Holding Days: 51, P/L: 24.27%, Account Total: 522017.50
+1995-12-21 00:00:00 Buy BRAZIL, Price: 4254.4, Quantity: 122, Cash Balance: 2980.70
+1996-01-15 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.6206, Deri_MMRatio: 0.004763, Price: 4895.4, Quantity: 122, Holding Days: 14, P/L: 15.07%, Account Total: 600219.50
+1996-03-15 00:00:00 Buy BRAZIL, Price: 4923.2, Quantity: 121, Cash Balance: 4512.30
+1997-10-08 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 34.1329, Deri_MMRatio: -0.000744, Price: 12325.0, Quantity: 121, Holding Days: 390, P/L: 150.35%, Account Total: 1495837.30
+1997-11-18 00:00:00 Buy BRAZIL, Price: 8904.0, Quantity: 167, Cash Balance: 8869.30
+1998-07-30 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0589, Deri_MMRatio: 0.001210, Price: 10939.0, Quantity: 167, Holding Days: 171, P/L: 22.85%, Account Total: 1835682.30
+1999-06-16 00:00:00 Buy BRAZIL, Price: 11642.0, Quantity: 157, Cash Balance: 7888.30
+1999-06-28 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.8749, Deri_MMRatio: -0.003279, Price: 11264.0, Quantity: 157, Holding Days: 8, P/L: -3.25%, Account Total: 1776336.30
+1999-08-20 00:00:00 Buy BRAZIL, Price: 10142.0, Quantity: 175, Cash Balance: 1486.30
+2000-03-23 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 29.1204, Deri_MMRatio: -0.002345, Price: 18332.0, Quantity: 175, Holding Days: 145, P/L: 80.75%, Account Total: 3209586.30
+2000-05-15 00:00:00 Buy BRAZIL, Price: 15074.0, Quantity: 212, Cash Balance: 13898.30
+2001-07-02 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0374, Deri_MMRatio: -0.000782, Price: 14561.0, Quantity: 212, Holding Days: 281, P/L: -3.40%, Account Total: 3100830.30
+2003-08-19 00:00:00 Buy BRAZIL, Price: 14158.0, Quantity: 219, Cash Balance: 228.30
+2004-04-08 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 35.5786, Deri_MMRatio: -0.001851, Price: 22725.0, Quantity: 219, Holding Days: 161, P/L: 60.51%, Account Total: 4977003.30
+2004-05-26 00:00:00 Buy BRAZIL, Price: 19069.0, Quantity: 260, Cash Balance: 19063.30
+2006-07-13 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 21.8304, Deri_MMRatio: -0.002459, Price: 35353.0, Quantity: 260, Holding Days: 530, P/L: 85.40%, Account Total: 9210843.30
+2006-08-30 00:00:00 Buy BRAZIL, Price: 36313.0, Quantity: 253, Cash Balance: 23654.30
+2008-11-10 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.1485, Deri_MMRatio: -0.002750, Price: 36775.0, Quantity: 253, Holding Days: 541, P/L: 1.27%, Account Total: 9327729.30
+2009-09-17 00:00:00 Buy BRAZIL, Price: 60236.0, Quantity: 154, Cash Balance: 51385.30
+2009-09-21 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -1.3685, Deri_MMRatio: 0.000159, Price: 60938.0, Quantity: 154, Holding Days: 2, P/L: 1.17%, Account Total: 9435837.30
+2009-11-13 00:00:00 Buy BRAZIL, Price: 65326.0, Quantity: 144, Cash Balance: 28893.30
+2010-03-18 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 29.0572, Deri_MMRatio: -0.001317, Price: 69701.0, Quantity: 144, Holding Days: 81, P/L: 6.70%, Account Total: 10065837.30
+2010-05-12 00:00:00 Buy BRAZIL, Price: 65223.0, Quantity: 154, Cash Balance: 21495.30
+2011-09-14 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.1288, Deri_MMRatio: -0.000218, Price: 56287.0, Quantity: 154, Holding Days: 335, P/L: -13.70%, Account Total: 8689693.30
+2012-05-02 00:00:00 Buy BRAZIL, Price: 62427.0, Quantity: 139, Cash Balance: 12340.30
+2012-09-05 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.0856, Deri_MMRatio: 0.002003, Price: 56868.0, Quantity: 139, Holding Days: 88, P/L: -8.90%, Account Total: 7916992.30
+2012-11-01 00:00:00 Buy BRAZIL, Price: 58374.0, Quantity: 135, Cash Balance: 36502.30
+2013-08-09 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0353, Deri_MMRatio: 0.001113, Price: 49878.0, Quantity: 135, Holding Days: 187, P/L: -14.55%, Account Total: 6770032.30
+2014-06-18 00:00:00 Buy BRAZIL, Price: 55192.0, Quantity: 122, Cash Balance: 36608.30
+2014-07-17 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.3800, Deri_MMRatio: 0.000391, Price: 55639.0, Quantity: 122, Holding Days: 19, P/L: 0.81%, Account Total: 6824566.30
+2014-09-16 00:00:00 Buy BRAZIL, Price: 59115.0, Quantity: 115, Cash Balance: 26341.30
+2015-09-15 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0619, Deri_MMRatio: -0.001826, Price: 47364.0, Quantity: 115, Holding Days: 247, P/L: -19.88%, Account Total: 5473201.30
+2016-07-20 00:00:00 Buy BRAZIL, Price: 56578.0, Quantity: 96, Cash Balance: 41713.30
+2016-08-11 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.5709, Deri_MMRatio: 0.002044, Price: 58300.0, Quantity: 96, Holding Days: 16, P/L: 3.04%, Account Total: 5638513.30
+2016-10-04 00:00:00 Buy BRAZIL, Price: 59340.0, Quantity: 95, Cash Balance: 1213.30
+2017-02-22 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 17.8856, Deri_MMRatio: 0.002720, Price: 68590.0, Quantity: 95, Holding Days: 96, P/L: 15.59%, Account Total: 6517263.30
+2017-04-17 00:00:00 Buy BRAZIL, Price: 64336.0, Quantity: 101, Cash Balance: 19327.30
+2020-06-24 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0086, Deri_MMRatio: 0.004980, Price: 94382.0, Quantity: 101, Holding Days: 787, P/L: 46.70%, Account Total: 9551909.30
+2020-10-13 00:00:00 Buy BRAZIL, Price: 98502.0, Quantity: 96, Cash Balance: 95717.30
+2020-11-26 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0049, Deri_MMRatio: 0.001907, Price: 110229.0, Quantity: 96, Holding Days: 30, P/L: 11.91%, Account Total: 10677701.30
+2021-01-28 00:00:00 Buy BRAZIL, Price: 118880.0, Quantity: 89, Cash Balance: 97381.30
+2021-02-11 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.7763, Deri_MMRatio: -0.000578, Price: 119300.0, Quantity: 89, Holding Days: 10, P/L: 0.35%, Account Total: 10715081.30
+2021-04-09 00:00:00 Buy BRAZIL, Price: 117661.0, Quantity: 91, Cash Balance: 7930.30
+2021-07-08 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 15.3063, Deri_MMRatio: 0.000298, Price: 125428.0, Quantity: 91, Holding Days: 62, P/L: 6.60%, Account Total: 11421878.30
+2021-08-24 00:00:00 Buy BRAZIL, Price: 120210.0, Quantity: 95, Cash Balance: 1928.30
+2022-05-10 00:00:00 Cond3 sell BRAZIL, Accu_MMRatio: -4.0184, Deri_MMRatio: -0.001455, Price: 103110.0, Quantity: 95, Holding Days: 175, P/L: -14.23%, Account Total: 9797378.30
+2022-10-21 00:00:00 Buy BRAZIL, Price: 119922.0, Quantity: 81, Cash Balance: 83696.30
+2022-11-25 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.4254, Deri_MMRatio: 0.000274, Price: 108977.0, Quantity: 81, Holding Days: 23, P/L: -9.13%, Account Total: 8910833.30
+2023-01-18 00:00:00 Buy BRAZIL, Price: 112219.0, Quantity: 79, Cash Balance: 45532.30
+2023-06-27 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.2556, Deri_MMRatio: 0.002474, Price: 117524.0, Quantity: 79, Holding Days: 108, P/L: 4.73%, Account Total: 9329928.30
+2023-08-22 00:00:00 Buy BRAZIL, Price: 116160.0, Quantity: 80, Cash Balance: 37128.30
+2024-05-03 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: 9.9562, Deri_MMRatio: -0.000750, Price: 128506.0, Quantity: 80, Holding Days: 172, P/L: 10.63%, Account Total: 10317608.30
+2024-06-21 00:00:00 Buy BRAZIL, Price: 121343.0, Quantity: 85, Cash Balance: 3453.30
+2025-05-13 00:00:00 Cond1 sell BRAZIL, Accu_MMRatio: -0.1565, Deri_MMRatio: 0.002225, Price: 138965.0, Quantity: 85, Holding Days: 221, P/L: 14.52%, Account Total: 11815478.30
+2025-07-04 00:00:00 Buy BRAZIL, Price: 141265.0, Quantity: 83, Cash Balance: 90483.30
+
+=== Account Position Information ===
+Code: BRAZIL
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: BRAZIL
+  Holding Quantity: 83
+  Current Price: 187318.00
+  Holding Value: 15547394.00
+  Buy Date: 2025-07-07
+  Holding Days: 204
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 90483.30
+Account Total: 15637877.30
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 187318.000
+Target Total Return (Start->Latest): 6373.75%
+Target Annualized Return (CAGR): 14.36%
+Target Max Drawdown: -65.04%
+Target Max Drawdown Period: 1997-07-08 (Close=13617.000) -> 1998-09-10 (Close=4761.000) (293 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.29%
+Max Drawdown: -72.48%
+Max Drawdown Period: 2008-05-20 (Account total=18623455.30) -> 2015-08-24 (Account total=5124981.30) (1797 trading days)
+
+Annual Returns (from first buy):
+  1995: 62.87%
+  1996: 62.35%
+  1997: 99.89%
+  1998: 7.24%
+  1999: 63.02%
+  2000: 8.56%
+  2001: -4.55%
+  2002: 0.00%
+  2003: 57.05%
+  2004: 40.25%
+  2005: 27.64%
+  2006: 29.34%
+  2007: 43.56%
+  2008: -42.37%
+  2009: 6.19%
+  2010: 7.96%
+  2011: -18.75%
+  2012: -4.89%
+  2013: -18.09%
+  2014: -14.67%
+  2015: -5.26%
+  2016: 4.56%
+  2017: 35.18%
+  2018: 14.99%
+  2019: 31.88%
+  2020: -8.98%
+  2021: -6.72%
+  2022: -10.53%
+  2023: 20.89%
+  2024: -5.05%
+  2025: 31.64%
+  2026: 16.15%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BRAZIL
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.0
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.012
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -4.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

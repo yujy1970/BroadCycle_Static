@@ -1,0 +1,103 @@
+=== Trade Process ===
+1996-03-18 00:00:00 Initial Buy CANADA_PRIMARY, Price: 10.375, Quantity: 28915, Cash Balance: 6.88
+1997-12-12 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 41.1097, Deri_MMRatio: -0.002405, Price: 13.5, Quantity: 28915, Holding Days: 439, P/L: 30.12%, Account Total: 390359.38
+1998-09-08 00:00:00 Buy CANADA_PRIMARY, Price: 11.25, Quantity: 34698, Cash Balance: 6.88
+2000-12-11 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 61.4403, Deri_MMRatio: -0.003544, Price: 14.438, Quantity: 34698, Holding Days: 570, P/L: 28.34%, Account Total: 500976.60
+2001-04-18 00:00:00 Buy CANADA_PRIMARY, Price: 11.65, Quantity: 43002, Cash Balance: 3.30
+2001-10-09 00:00:00 Cond3 sell CANADA_PRIMARY, Accu_MMRatio: -11.7755, Deri_MMRatio: -0.002190, Price: 9.75, Quantity: 43002, Holding Days: 118, P/L: -16.31%, Account Total: 419272.80
+2002-10-15 00:00:00 Buy CANADA_PRIMARY, Price: 8.85, Quantity: 47375, Cash Balance: 4.05
+2006-07-05 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 38.5452, Deri_MMRatio: -0.002397, Price: 23.76, Quantity: 47375, Holding Days: 938, P/L: 168.47%, Account Total: 1125634.05
+2008-09-19 00:00:00 Buy CANADA_PRIMARY, Price: 28.91, Quantity: 38935, Cash Balance: 23.20
+2008-11-03 00:00:00 Cond3 sell CANADA_PRIMARY, Accu_MMRatio: 4.3579, Deri_MMRatio: -0.005368, Price: 20.15, Quantity: 38935, Holding Days: 30, P/L: -30.30%, Account Total: 784563.45
+2009-07-16 00:00:00 Buy CANADA_PRIMARY, Price: 22.35, Quantity: 35103, Cash Balance: 11.40
+2011-07-13 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 30.1623, Deri_MMRatio: -0.000615, Price: 32.03, Quantity: 35103, Holding Days: 499, P/L: 43.31%, Account Total: 1124360.49
+2011-11-30 00:00:00 Buy CANADA_PRIMARY, Price: 27.34, Quantity: 41125, Cash Balance: 2.99
+2014-12-09 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 25.4627, Deri_MMRatio: 0.000049, Price: 28.53, Quantity: 41125, Holding Days: 759, P/L: 4.35%, Account Total: 1173299.24
+2016-01-29 00:00:00 Buy CANADA_PRIMARY, Price: 20.8, Quantity: 56408, Cash Balance: 12.84
+2017-12-20 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 15.5548, Deri_MMRatio: -0.000019, Price: 29.08, Quantity: 56408, Holding Days: 476, P/L: 39.81%, Account Total: 1640357.48
+2020-03-25 00:00:00 Buy CANADA_PRIMARY, Price: 21.28, Quantity: 77084, Cash Balance: 9.96
+2022-04-19 00:00:00 Cond1 sell CANADA_PRIMARY, Accu_MMRatio: 35.3644, Deri_MMRatio: 0.000479, Price: 40.33, Quantity: 77084, Holding Days: 518, P/L: 89.52%, Account Total: 3108807.68
+2022-10-04 00:00:00 Buy CANADA_PRIMARY, Price: 32.51, Quantity: 95626, Cash Balance: 6.42
+
+=== Account Position Information ===
+Code: CANADA_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: CANADA_PRIMARY
+  Holding Quantity: 95626
+  Current Price: 58.40
+  Holding Value: 5584558.40
+  Buy Date: 2022-10-05
+  Holding Days: 896
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6.42
+Account Total: 5584564.82
+Date Of Trading Start: 1996-03-19
+
+Target Latest Close : 58.400
+Target Total Return (Start->Latest): 1236.08%
+Target Annualized Return (CAGR): 8.99%
+Target Max Drawdown: -60.75%
+Target Max Drawdown Period: 2007-11-06 (Close=24.728) -> 2009-03-09 (Close=9.706) (335 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.38%
+Max Drawdown: -62.33%
+Max Drawdown Period: 2006-07-05 (Account total=1125634.05) -> 2008-10-27 (Account total=424064.28) (581 trading days)
+
+Annual Returns (from first buy):
+  1996: 18.74%
+  1997: 158.56%
+  1998: -52.64%
+  1999: 48.74%
+  2000: 82.18%
+  2001: -16.31%
+  2002: -30.88%
+  2003: 53.52%
+  2004: 22.78%
+  2005: 27.53%
+  2006: 61.59%
+  2007: 0.00%
+  2008: -30.30%
+  2009: -15.94%
+  2010: 19.79%
+  2011: 2.62%
+  2012: 9.09%
+  2013: 5.31%
+  2014: 25.98%
+  2015: 0.00%
+  2016: 3.73%
+  2017: 34.78%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 30.85%
+  2021: 26.98%
+  2022: 7.98%
+  2023: 14.73%
+  2024: 12.38%
+  2025: 35.92%
+  2026: 8.29%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CANADA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.0375
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.19
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1996-03-18

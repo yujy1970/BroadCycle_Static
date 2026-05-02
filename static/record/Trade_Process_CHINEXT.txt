@@ -1,0 +1,81 @@
+=== Trade Process ===
+2010-06-01 00:00:00 Initial Buy CHINEXT, Price: 967.609, Quantity: 310, Cash Balance: 41.21
+2014-08-05 00:00:00 Cond1 sell CHINEXT, Accu_MMRatio: 94.5671, Deri_MMRatio: 0.000989, Price: 1357.528, Quantity: 310, Holding Days: 1012, P/L: 40.30%, Account Total: 420874.89
+2014-11-25 00:00:00 Buy CHINEXT, Price: 1544.687, Quantity: 272, Cash Balance: 720.03
+2015-06-18 00:00:00 Cond1 sell CHINEXT, Accu_MMRatio: 99.0226, Deri_MMRatio: 0.007668, Price: 3408.526, Quantity: 272, Holding Days: 138, P/L: 120.66%, Account Total: 927839.10
+2017-07-27 00:00:00 Buy CHINEXT, Price: 1740.543, Quantity: 533, Cash Balance: 129.68
+2017-08-09 00:00:00 Cond3 sell CHINEXT, Accu_MMRatio: -20.0888, Deri_MMRatio: -0.000106, Price: 1761.426, Quantity: 533, Holding Days: 9, P/L: 1.20%, Account Total: 938969.74
+2019-12-17 00:00:00 Buy CHINEXT, Price: 1798.4, Quantity: 522, Cash Balance: 204.94
+2021-07-14 00:00:00 Cond1 sell CHINEXT, Accu_MMRatio: 97.3317, Deri_MMRatio: 0.002073, Price: 3476.114, Quantity: 522, Holding Days: 381, P/L: 93.29%, Account Total: 1814736.44
+2022-03-17 00:00:00 Buy CHINEXT, Price: 2693.154, Quantity: 673, Cash Balance: 2243.80
+2023-02-09 00:00:00 Cond3 sell CHINEXT, Accu_MMRatio: -20.1730, Deri_MMRatio: 0.001129, Price: 2567.086, Quantity: 673, Holding Days: 217, P/L: -4.68%, Account Total: 1729892.68
+2025-05-08 00:00:00 Buy CHINEXT, Price: 2028.427, Quantity: 852, Cash Balance: 1672.88
+
+=== Account Position Information ===
+Code: CHINEXT
+Current Date: 2026-03-27 16:00
+Mode: Index Data
+Current Position: CHINEXT
+  Holding Quantity: 852
+  Current Price: 3295.88
+  Holding Value: 2808089.76
+  Buy Date: 2025-05-09
+  Holding Days: 215
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1672.88
+Account Total: 2809762.64
+Date Of Trading Start: 2010-06-02
+
+Target Latest Close : 3295.880
+Target Total Return (Start->Latest): 238.65%
+Target Annualized Return (CAGR): 8.02%
+Target Max Drawdown: -69.74%
+Target Max Drawdown Period: 2015-06-03 (Close=3982.251) -> 2018-10-18 (Close=1205.031) (823 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.97%
+Max Drawdown: -51.85%
+Max Drawdown Period: 2010-12-17 (Account total=382265.63) -> 2012-12-03 (Account total=184075.81) (477 trading days)
+
+Annual Returns (from first buy):
+  2010: 14.09%
+  2011: -35.87%
+  2012: -2.14%
+  2013: 82.71%
+  2014: -0.84%
+  2015: 131.36%
+  2016: 0.00%
+  2017: 1.20%
+  2018: 0.00%
+  2019: -0.02%
+  2020: 64.95%
+  2021: 17.19%
+  2022: -12.85%
+  2023: 9.37%
+  2024: 0.00%
+  2025: 57.86%
+  2026: 2.89%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHINEXT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.03
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -20.0
+Deri1 = -0.007
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

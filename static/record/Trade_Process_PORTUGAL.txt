@@ -1,0 +1,121 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy PORTUGAL, Price: 4076.69, Quantity: 73, Cash Balance: 2401.63
+1995-06-02 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -1.5080, Deri_MMRatio: -0.000461, Price: 4118.43, Quantity: 73, Holding Days: 40, P/L: 1.02%, Account Total: 303047.02
+1996-01-16 00:00:00 Buy PORTUGAL, Price: 4166.59, Quantity: 72, Cash Balance: 3052.54
+1996-02-16 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.7379, Deri_MMRatio: 0.001627, Price: 4246.62, Quantity: 72, Holding Days: 23, P/L: 1.92%, Account Total: 308809.18
+1999-03-26 00:00:00 Buy PORTUGAL, Price: 10740.02, Quantity: 28, Cash Balance: 8088.62
+2000-01-26 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -1.3203, Deri_MMRatio: 0.000406, Price: 12630.66, Quantity: 28, Holding Days: 208, P/L: 17.60%, Account Total: 361747.10
+2001-01-12 00:00:00 Buy PORTUGAL, Price: 10906.61, Quantity: 33, Cash Balance: 1828.97
+2003-08-18 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -1.4934, Deri_MMRatio: -0.000779, Price: 5933.0, Quantity: 33, Holding Days: 645, P/L: -45.60%, Account Total: 197617.97
+2006-02-07 00:00:00 Buy PORTUGAL, Price: 9209.88, Quantity: 21, Cash Balance: 4210.49
+2006-04-07 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 6.0826, Deri_MMRatio: 0.000007, Price: 10303.9, Quantity: 21, Holding Days: 43, P/L: 11.88%, Account Total: 220592.39
+2008-03-28 00:00:00 Buy PORTUGAL, Price: 10508.3, Quantity: 20, Cash Balance: 10426.39
+2009-09-10 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -2.3770, Deri_MMRatio: 0.001144, Price: 8101.87, Quantity: 20, Holding Days: 372, P/L: -22.90%, Account Total: 172463.79
+2010-05-27 00:00:00 Buy PORTUGAL, Price: 7118.52, Quantity: 24, Cash Balance: 1619.31
+2011-03-07 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.5269, Deri_MMRatio: 0.000248, Price: 7911.08, Quantity: 24, Holding Days: 202, P/L: 11.13%, Account Total: 191485.23
+2011-06-30 00:00:00 Buy PORTUGAL, Price: 7324.83, Quantity: 26, Cash Balance: 1039.65
+2013-01-21 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.4444, Deri_MMRatio: 0.003195, Price: 6324.06, Quantity: 26, Holding Days: 400, P/L: -13.66%, Account Total: 165465.21
+2013-04-10 00:00:00 Buy PORTUGAL, Price: 5955.33, Quantity: 27, Cash Balance: 4671.30
+2013-04-24 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 6.0313, Deri_MMRatio: -0.001016, Price: 6154.99, Quantity: 27, Holding Days: 10, P/L: 3.35%, Account Total: 170856.03
+2013-10-14 00:00:00 Buy PORTUGAL, Price: 6277.83, Quantity: 27, Cash Balance: 1354.62
+2014-04-16 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 6.0628, Deri_MMRatio: -0.001866, Price: 7353.16, Quantity: 27, Holding Days: 129, P/L: 17.13%, Account Total: 199889.94
+2015-01-14 00:00:00 Buy PORTUGAL, Price: 4941.27, Quantity: 40, Cash Balance: 2239.14
+2015-08-20 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.6484, Deri_MMRatio: 0.000418, Price: 5362.08, Quantity: 40, Holding Days: 153, P/L: 8.52%, Account Total: 216722.34
+2016-01-26 00:00:00 Buy PORTUGAL, Price: 4920.42, Quantity: 44, Cash Balance: 223.86
+2017-05-08 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -1.1089, Deri_MMRatio: 0.003025, Price: 5248.7, Quantity: 44, Holding Days: 328, P/L: 6.67%, Account Total: 231166.66
+2018-01-04 00:00:00 Buy PORTUGAL, Price: 5628.1, Quantity: 41, Cash Balance: 414.56
+2018-02-22 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 5.5580, Deri_MMRatio: -0.001282, Price: 5451.89, Quantity: 41, Holding Days: 35, P/L: -3.13%, Account Total: 223942.05
+2019-01-04 00:00:00 Buy PORTUGAL, Price: 4897.54, Quantity: 45, Cash Balance: 3552.75
+2019-10-23 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.5347, Deri_MMRatio: 0.000395, Price: 5076.56, Quantity: 45, Holding Days: 205, P/L: 3.66%, Account Total: 231997.95
+2020-03-24 00:00:00 Buy PORTUGAL, Price: 4016.76, Quantity: 57, Cash Balance: 3042.63
+2021-02-02 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -2.6312, Deri_MMRatio: -0.000907, Price: 4834.48, Quantity: 57, Holding Days: 220, P/L: 20.36%, Account Total: 278607.99
+2022-03-22 00:00:00 Buy PORTUGAL, Price: 5830.3, Quantity: 47, Cash Balance: 4583.89
+2023-05-15 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: -0.0726, Deri_MMRatio: 0.000467, Price: 6108.44, Quantity: 47, Holding Days: 293, P/L: 4.77%, Account Total: 291680.57
+2023-10-11 00:00:00 Buy PORTUGAL, Price: 6181.06, Quantity: 47, Cash Balance: 1170.75
+2024-09-04 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 3.3560, Deri_MMRatio: -0.001559, Price: 6719.21, Quantity: 47, Holding Days: 229, P/L: 8.71%, Account Total: 316973.62
+2025-02-25 00:00:00 Buy PORTUGAL, Price: 6944.76, Quantity: 45, Cash Balance: 4459.42
+2025-10-20 00:00:00 Cond1 sell PORTUGAL, Accu_MMRatio: 6.0533, Deri_MMRatio: 0.001262, Price: 8327.18, Quantity: 45, Holding Days: 166, P/L: 19.91%, Account Total: 379182.52
+
+=== Account Position Information ===
+Code: PORTUGAL
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-10-20
+Cash Balance: 379182.52
+Account Total: 379182.52
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 9143.720
+Target Total Return (Start->Latest): 125.06%
+Target Annualized Return (CAGR): 2.66%
+Target Max Drawdown: -76.80%
+Target Max Drawdown Period: 1998-04-27 (Close=15502.100) -> 2020-03-19 (Close=3596.080) (5567 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 0.76%
+Max Drawdown: -68.84%
+Max Drawdown Period: 2001-01-31 (Account total=371243.18) -> 2012-06-13 (Account total=115666.63) (2895 trading days)
+
+Annual Returns (from first buy):
+  1995: 1.02%
+  1996: 1.90%
+  1997: 0.00%
+  1998: 0.00%
+  1999: 11.07%
+  2000: 5.47%
+  2001: -28.05%
+  2002: -25.44%
+  2003: 1.84%
+  2004: 0.00%
+  2005: 0.00%
+  2006: 11.63%
+  2007: 0.00%
+  2008: -37.78%
+  2009: 25.65%
+  2010: 6.54%
+  2011: -21.69%
+  2012: 2.91%
+  2013: 20.51%
+  2014: 12.02%
+  2015: 8.42%
+  2016: -4.90%
+  2017: 12.16%
+  2018: -3.13%
+  2019: 3.60%
+  2020: 21.66%
+  2021: -1.29%
+  2022: -1.76%
+  2023: 10.26%
+  2024: 5.03%
+  2025: 19.63%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = PORTUGAL
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.028
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 6.0
+Deri2 = 99.0
+Trend2 = 0.21
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

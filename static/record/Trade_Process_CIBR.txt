@@ -1,0 +1,84 @@
+=== Trade Process ===
+2015-07-07 00:00:00 Initial Buy CIBR, Price: 20.0, Quantity: 15000, Cash Balance: 0.00
+2016-08-25 00:00:00 Cond1 sell CIBR, Accu_MMRatio: -0.6224, Deri_MMRatio: -0.000052, Price: 18.94, Quantity: 15000, Holding Days: 288, P/L: -5.30%, Account Total: 284100.00
+2016-11-09 00:00:00 Buy CIBR, Price: 19.98, Quantity: 14219, Cash Balance: 4.38
+2017-04-18 00:00:00 Cond1 sell CIBR, Accu_MMRatio: 9.6316, Deri_MMRatio: -0.001619, Price: 21.13, Quantity: 14219, Holding Days: 108, P/L: 5.76%, Account Total: 300451.85
+2017-09-01 00:00:00 Buy CIBR, Price: 21.67, Quantity: 13864, Cash Balance: 18.97
+2019-03-01 00:00:00 Cond1 sell CIBR, Accu_MMRatio: 0.4947, Deri_MMRatio: 0.004258, Price: 28.41, Quantity: 13864, Holding Days: 374, P/L: 31.10%, Account Total: 393895.21
+2019-06-07 00:00:00 Buy CIBR, Price: 28.17, Quantity: 13982, Cash Balance: 22.27
+2020-06-04 00:00:00 Cond1 sell CIBR, Accu_MMRatio: -0.2614, Deri_MMRatio: 0.006129, Price: 32.95, Quantity: 13982, Holding Days: 250, P/L: 16.97%, Account Total: 460729.17
+2020-10-05 00:00:00 Buy CIBR, Price: 35.58, Quantity: 12949, Cash Balance: 3.75
+2020-10-06 00:00:00 Cond1 sell CIBR, Accu_MMRatio: 8.7010, Deri_MMRatio: 0.000604, Price: 35.76, Quantity: 12949, Holding Days: 1, P/L: 0.51%, Account Total: 463059.99
+2020-11-25 00:00:00 Buy CIBR, Price: 38.2, Quantity: 12121, Cash Balance: 37.79
+2020-12-28 00:00:00 Cond1 sell CIBR, Accu_MMRatio: 7.9517, Deri_MMRatio: 0.006012, Price: 45.01, Quantity: 12121, Holding Days: 21, P/L: 17.83%, Account Total: 545604.00
+2021-05-21 00:00:00 Buy CIBR, Price: 43.93, Quantity: 12419, Cash Balance: 37.33
+2022-08-31 00:00:00 Cond3 sell CIBR, Accu_MMRatio: -6.0082, Deri_MMRatio: 0.000212, Price: 42.08, Quantity: 12419, Holding Days: 322, P/L: -4.21%, Account Total: 522628.85
+2023-05-08 00:00:00 Buy CIBR, Price: 40.18, Quantity: 13007, Cash Balance: 7.59
+2023-06-23 00:00:00 Cond1 sell CIBR, Accu_MMRatio: -0.6907, Deri_MMRatio: 0.001236, Price: 43.94, Quantity: 13007, Holding Days: 32, P/L: 9.36%, Account Total: 571535.17
+2023-10-09 00:00:00 Buy CIBR, Price: 46.36, Quantity: 12328, Cash Balance: 9.09
+2024-02-05 00:00:00 Cond1 sell CIBR, Accu_MMRatio: 9.1747, Deri_MMRatio: 0.002507, Price: 56.4, Quantity: 12328, Holding Days: 81, P/L: 21.66%, Account Total: 695308.29
+2024-06-10 00:00:00 Buy CIBR, Price: 54.36, Quantity: 12790, Cash Balance: 43.89
+
+=== Account Position Information ===
+Code: CIBR
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: CIBR
+  Holding Quantity: 12790
+  Current Price: 68.76
+  Holding Value: 879440.40
+  Buy Date: 2024-06-11
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 43.89
+Account Total: 879484.29
+Date Of Trading Start: 2015-07-08
+
+Target Latest Close : 68.760
+Target Total Return (Start->Latest): 262.54%
+Target Annualized Return (CAGR): 12.64%
+Target Max Drawdown: -33.89%
+Target Max Drawdown Period: 2021-11-12 (Close=54.910) -> 2022-10-14 (Close=36.303) (231 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.11%
+Max Drawdown: -33.04%
+Max Drawdown Period: 2020-02-19 (Account total=437938.51) -> 2020-03-18 (Account total=293224.81) (20 trading days)
+
+Annual Returns (from first buy):
+  2015: -9.78%
+  2016: 4.42%
+  2017: 15.65%
+  2018: 1.47%
+  2019: 29.61%
+  2020: 35.33%
+  2021: 18.23%
+  2022: -18.98%
+  2023: 25.89%
+  2024: 22.65%
+  2025: 13.06%
+  2026: -3.60%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CIBR
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 0.12
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.21
+MedMax1 = -99.0
+Accu1 = -6.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

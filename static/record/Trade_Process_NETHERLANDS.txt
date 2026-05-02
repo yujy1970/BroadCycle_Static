@@ -1,0 +1,104 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy NETHERLANDS, Price: 179.7, Quantity: 1669, Cash Balance: 80.70
+1997-10-22 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 99.1709, Deri_MMRatio: -0.001095, Price: 407.76, Quantity: 1669, Holding Days: 645, P/L: 126.91%, Account Total: 680632.14
+1998-10-12 00:00:00 Buy NETHERLANDS, Price: 402.52, Quantity: 1690, Cash Balance: 373.34
+2006-07-03 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 40.8585, Deri_MMRatio: 0.000545, Price: 443.47, Quantity: 1690, Holding Days: 1969, P/L: 10.17%, Account Total: 749837.64
+2007-03-22 00:00:00 Buy NETHERLANDS, Price: 508.85, Quantity: 1473, Cash Balance: 301.59
+2007-08-20 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 42.2407, Deri_MMRatio: -0.006569, Price: 506.18, Quantity: 1473, Holding Days: 104, P/L: -0.52%, Account Total: 745904.73
+2008-10-31 00:00:00 Buy NETHERLANDS, Price: 267.89, Quantity: 2784, Cash Balance: 98.97
+2011-07-28 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 28.7714, Deri_MMRatio: -0.001693, Price: 328.59, Quantity: 2784, Holding Days: 702, P/L: 22.66%, Account Total: 914893.53
+2011-10-10 00:00:00 Buy NETHERLANDS, Price: 292.3, Quantity: 3129, Cash Balance: 286.83
+2014-08-15 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 32.3528, Deri_MMRatio: -0.001712, Price: 399.04, Quantity: 3129, Holding Days: 728, P/L: 36.52%, Account Total: 1248882.99
+2014-12-23 00:00:00 Buy NETHERLANDS, Price: 425.97, Quantity: 2931, Cash Balance: 364.92
+2015-09-23 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 37.3788, Deri_MMRatio: -0.001352, Price: 418.75, Quantity: 2931, Holding Days: 190, P/L: -1.69%, Account Total: 1227721.17
+2016-02-17 00:00:00 Buy NETHERLANDS, Price: 416.41, Quantity: 2948, Cash Balance: 144.49
+2018-03-08 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 27.8701, Deri_MMRatio: 0.000689, Price: 534.87, Quantity: 2948, Holding Days: 527, P/L: 28.45%, Account Total: 1576941.25
+2020-03-24 00:00:00 Buy NETHERLANDS, Price: 471.44, Quantity: 3344, Cash Balance: 445.89
+2022-02-14 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 52.0786, Deri_MMRatio: -0.003090, Price: 745.49, Quantity: 3344, Holding Days: 487, P/L: 58.13%, Account Total: 2493364.45
+2022-06-27 00:00:00 Buy NETHERLANDS, Price: 674.34, Quantity: 3697, Cash Balance: 329.47
+2025-01-02 00:00:00 Cond1 sell NETHERLANDS, Accu_MMRatio: 35.7833, Deri_MMRatio: -0.000468, Price: 887.31, Quantity: 3697, Holding Days: 645, P/L: 31.58%, Account Total: 3280714.54
+2025-04-15 00:00:00 Buy NETHERLANDS, Price: 844.84, Quantity: 3883, Cash Balance: 200.82
+
+=== Account Position Information ===
+Code: NETHERLANDS
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: NETHERLANDS
+  Holding Quantity: 3883
+  Current Price: 1001.66
+  Holding Value: 3889445.78
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 200.82
+Account Total: 3889646.60
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 1001.660
+Target Total Return (Start->Latest): 459.84%
+Target Annualized Return (CAGR): 5.72%
+Target Max Drawdown: -71.60%
+Target Max Drawdown Period: 2000-09-04 (Close=701.560) -> 2009-03-09 (Close=199.250) (2174 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.63%
+Max Drawdown: -68.84%
+Max Drawdown Period: 2000-09-04 (Account total=1186009.74) -> 2003-03-12 (Account total=369536.94) (640 trading days)
+
+Annual Returns (from first buy):
+  1995: 22.31%
+  1996: 33.56%
+  1997: 38.61%
+  1998: 33.73%
+  1999: 24.70%
+  2000: -5.03%
+  2001: -20.51%
+  2002: -36.30%
+  2003: 4.62%
+  2004: 3.09%
+  2005: 25.47%
+  2006: 1.53%
+  2007: -0.52%
+  2008: -8.19%
+  2009: 36.34%
+  2010: 5.74%
+  2011: -0.93%
+  2012: 9.67%
+  2013: 17.23%
+  2014: -1.03%
+  2015: -1.35%
+  2016: 16.03%
+  2017: 12.71%
+  2018: -1.78%
+  2019: 0.00%
+  2020: 32.48%
+  2021: 27.74%
+  2022: -4.54%
+  2023: 14.19%
+  2024: 11.67%
+  2025: 13.71%
+  2026: 5.29%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NETHERLANDS
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.035
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: WTI_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-06
+Cash Balance: 1879141.88
+Account Total: 1879141.88
+Date Of Trading Start: 2006-04-11
+
+Target Latest Close : 142.800
+Target Total Return (Start->Latest): -73.76%
+Target Annualized Return (CAGR): -6.45%
+Target Max Drawdown: -98.19%
+Target Max Drawdown Period: 2008-07-14 (Close=939.840) -> 2020-04-28 (Close=17.040) (2968 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.59%
+Max Drawdown: -50.37%
+Max Drawdown Period: 2015-10-08 (Account total=410951.12) -> 2016-02-10 (Account total=203973.84) (85 trading days)

@@ -1,0 +1,18 @@
+=== META ===
+rank_id=None
+Account_total=7466610.295000
+avg_annual_growth=26.13%
+back_long=225
+back_medium=60
+TTT=5
+PPP=1.0075
+QQQ=5
+MedMax2=99.0
+Accu2=99.0
+Deri2=99.0
+Trend2=0.245
+MedMax1=-0.2
+Accu1=-99.0
+Deri1=-0.01
+Trend1=-99.0
+

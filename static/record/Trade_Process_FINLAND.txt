@@ -1,0 +1,106 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy FINLAND, Price: 1614.7, Quantity: 185, Cash Balance: 1280.50
+1995-10-30 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 9.1736, Deri_MMRatio: -0.005778, Price: 1925.14, Quantity: 185, Holding Days: 144, P/L: 19.23%, Account Total: 357431.40
+1996-01-02 00:00:00 Buy FINLAND, Price: 1753.67, Quantity: 203, Cash Balance: 1436.39
+1997-04-18 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 15.5628, Deri_MMRatio: -0.003017, Price: 2834.77, Quantity: 203, Holding Days: 322, P/L: 61.65%, Account Total: 576894.70
+1997-11-21 00:00:00 Buy FINLAND, Price: 3537.44, Quantity: 163, Cash Balance: 291.98
+1999-10-20 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 22.8883, Deri_MMRatio: -0.000055, Price: 7950.7, Quantity: 163, Holding Days: 476, P/L: 124.76%, Account Total: 1296256.08
+1999-12-03 00:00:00 Buy FINLAND, Price: 12151.7, Quantity: 106, Cash Balance: 8175.88
+2000-05-02 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 36.0016, Deri_MMRatio: 0.002556, Price: 18331.0, Quantity: 106, Holding Days: 100, P/L: 50.85%, Account Total: 1951261.88
+2000-07-10 00:00:00 Buy FINLAND, Price: 16146.4, Quantity: 120, Cash Balance: 13693.88
+2004-04-13 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 9.5645, Deri_MMRatio: -0.004968, Price: 6274.39, Quantity: 120, Holding Days: 939, P/L: -61.14%, Account Total: 766620.68
+2007-09-19 00:00:00 Buy FINLAND, Price: 12105.2, Quantity: 63, Cash Balance: 3993.08
+2010-03-09 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 11.3190, Deri_MMRatio: 0.003096, Price: 7016.64, Quantity: 63, Holding Days: 619, P/L: -42.04%, Account Total: 446041.40
+2011-06-30 00:00:00 Buy FINLAND, Price: 6735.75, Quantity: 66, Cash Balance: 1481.90
+2013-06-28 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 7.3872, Deri_MMRatio: -0.002707, Price: 5962.6, Quantity: 66, Holding Days: 502, P/L: -11.48%, Account Total: 395013.50
+2013-09-10 00:00:00 Buy FINLAND, Price: 6861.49, Quantity: 57, Cash Balance: 3908.57
+2014-07-17 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 7.8080, Deri_MMRatio: -0.000917, Price: 7602.68, Quantity: 57, Holding Days: 210, P/L: 10.80%, Account Total: 437261.33
+2015-01-22 00:00:00 Buy FINLAND, Price: 8364.07, Quantity: 52, Cash Balance: 2329.69
+2017-07-13 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 6.3533, Deri_MMRatio: -0.000778, Price: 9911.87, Quantity: 52, Holding Days: 623, P/L: 18.51%, Account Total: 517746.93
+2020-03-25 00:00:00 Buy FINLAND, Price: 7464.86, Quantity: 69, Cash Balance: 2671.59
+2020-11-11 00:00:00 Cond1 sell FINLAND, Accu_MMRatio: 2.0888, Deri_MMRatio: -0.000913, Price: 10440.88, Quantity: 69, Holding Days: 160, P/L: 39.87%, Account Total: 723092.31
+2022-03-14 00:00:00 Buy FINLAND, Price: 11092.8, Quantity: 65, Cash Balance: 2060.31
+
+=== Account Position Information ===
+Code: FINLAND
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: FINLAND
+  Holding Quantity: 65
+  Current Price: 12831.56
+  Holding Value: 834051.40
+  Buy Date: 2022-03-15
+  Holding Days: 1004
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2060.31
+Account Total: 836111.71
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 12831.560
+Target Total Return (Start->Latest): 696.05%
+Target Annualized Return (CAGR): 6.93%
+Target Max Drawdown: -77.54%
+Target Max Drawdown Period: 2000-05-02 (Close=18303.600) -> 2009-03-06 (Close=4110.310) (2221 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.28%
+Max Drawdown: -87.24%
+Max Drawdown Period: 2000-07-17 (Account total=2060461.88) -> 2009-03-06 (Account total=262942.61) (2169 trading days)
+
+Annual Returns (from first buy):
+  1995: 16.04%
+  1996: 42.16%
+  1997: 5.99%
+  1998: 68.48%
+  1999: 71.21%
+  2000: 1.56%
+  2001: -32.16%
+  2002: -33.97%
+  2003: 4.36%
+  2004: 3.95%
+  2005: 0.00%
+  2006: 0.00%
+  2007: -4.16%
+  2008: -53.12%
+  2009: 19.25%
+  2010: 8.60%
+  2011: -20.43%
+  2012: 8.30%
+  2013: 9.82%
+  2014: 3.59%
+  2015: 2.76%
+  2016: 3.54%
+  2017: 11.29%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 39.66%
+  2021: 0.00%
+  2022: -2.56%
+  2023: -6.55%
+  2024: -6.15%
+  2025: 30.14%
+  2026: 3.97%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FINLAND
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.038
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

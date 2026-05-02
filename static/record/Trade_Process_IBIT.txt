@@ -1,0 +1,64 @@
+=== Trade Process ===
+2024-01-11 00:00:00 Initial Buy IBIT, Price: 26.4, Quantity: 11363, Cash Balance: 16.80
+2024-11-21 00:00:00 Cond1 sell IBIT, Accu_MMRatio: 0.3764, Deri_MMRatio: 0.013271, Price: 55.64, Quantity: 11363, Holding Days: 218, P/L: 110.76%, Account Total: 632254.12
+2025-03-19 00:00:00 Buy IBIT, Price: 48.39, Quantity: 13065, Cash Balance: 38.77
+2025-03-24 00:00:00 Cond1 sell IBIT, Accu_MMRatio: 15.0688, Deri_MMRatio: -0.004951, Price: 49.86, Quantity: 13065, Holding Days: 3, P/L: 3.04%, Account Total: 651459.67
+2025-05-14 00:00:00 Buy IBIT, Price: 58.28, Quantity: 11178, Cash Balance: 5.83
+2025-07-30 00:00:00 Cond1 sell IBIT, Accu_MMRatio: 18.0870, Deri_MMRatio: -0.000442, Price: 67.12, Quantity: 11178, Holding Days: 52, P/L: 15.17%, Account Total: 750273.19
+2025-11-28 00:00:00 Buy IBIT, Price: 48.94, Quantity: 15330, Cash Balance: 22.99
+2025-12-10 00:00:00 Cond3 sell IBIT, Accu_MMRatio: 6.5748, Deri_MMRatio: -0.004485, Price: 51.16, Quantity: 15330, Holding Days: 8, P/L: 4.54%, Account Total: 784305.79
+
+=== Account Position Information ===
+Code: IBIT
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-12-10
+Cash Balance: 784305.79
+Account Total: 784305.79
+Date Of Trading Start: 2024-01-12
+
+Target Latest Close : 44.470
+Target Total Return (Start->Latest): 66.99%
+Target Annualized Return (CAGR): 24.94%
+Target Max Drawdown: -49.36%
+Target Max Drawdown Period: 2025-10-06 (Close=71.290) -> 2026-02-05 (Close=36.100) (84 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 55.59%
+Max Drawdown: -27.51%
+Max Drawdown Period: 2024-03-13 (Account total=476694.65) -> 2024-09-06 (Account total=345565.63) (122 trading days)
+
+Annual Returns (from first buy):
+  2024: 122.82%
+  2025: 24.05%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = IBIT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 18.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -0.12
+Accu1 = -99.0
+Deri1 = -0.02
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

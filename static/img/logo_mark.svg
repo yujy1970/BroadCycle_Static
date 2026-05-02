@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180">
+<defs>
+  <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fde68a"/>
+    <stop offset="46%" stop-color="#d4af37"/>
+    <stop offset="100%" stop-color="#a87f18"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<g stroke="#a3acba" stroke-width="2" fill="none" opacity="0.88" stroke-linecap="round">
+  <ellipse cx="180" cy="86" rx="138" ry="44"/>
+  <ellipse cx="180" cy="62" rx="114" ry="24"/>
+  <path d="M180 26 C128 58 128 118 180 146"/>
+  <path d="M180 26 C232 58 232 118 180 146"/>
+  <path d="M146 35 C118 63 120 114 147 141" opacity="0.62"/>
+  <path d="M214 35 C242 63 240 114 213 141" opacity="0.62"/>
+  <path d="M123 110 A95 21 0 0 0 237 110" opacity="0.95"/>
+</g>
+<path d="M58 101 C72 95, 84 109, 98 102 S123 87, 138 96 S165 109, 180 93 S206 81, 221 89 S245 79, 260 86 S286 73, 302 65" fill="none" stroke="#d4af37" stroke-opacity="0.30" stroke-width="2.4"/>
+<g stroke="url(#goldGrad)" fill="url(#goldGrad)" filter="url(#glow)" stroke-linecap="round">
+  <line x1="72"  y1="110" x2="72"  y2="94"/>
+  <line x1="96"  y1="104" x2="96"  y2="88"/>
+  <line x1="120" y1="109" x2="120" y2="93"/>
+  <line x1="144" y1="98"  x2="144" y2="82"/>
+  <line x1="168" y1="103" x2="168" y2="85"/>
+  <line x1="192" y1="92"  x2="192" y2="74"/>
+  <line x1="216" y1="84"  x2="216" y2="66"/>
+  <line x1="240" y1="76"  x2="240" y2="58"/>
+  <rect x="69"  y="100" width="6" height="8" rx="1"/>
+  <rect x="93"  y="94"  width="6" height="8" rx="1"/>
+  <rect x="117" y="99"  width="6" height="8" rx="1"/>
+  <rect x="141" y="88"  width="6" height="8" rx="1"/>
+  <rect x="165" y="93"  width="6" height="8" rx="1"/>
+  <rect x="189" y="82"  width="6" height="8" rx="1"/>
+  <rect x="213" y="74"  width="6" height="8" rx="1"/>
+  <rect x="237" y="66"  width="6" height="8" rx="1"/>
+</g>
+</svg>

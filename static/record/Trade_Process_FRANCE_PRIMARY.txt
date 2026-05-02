@@ -1,0 +1,87 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy FRANCE_PRIMARY, Price: 18.051, Quantity: 16619, Cash Balance: 10.43
+2006-07-04 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 39.2954, Deri_MMRatio: -0.001273, Price: 21.836, Quantity: 16619, Holding Days: 346, P/L: 20.97%, Account Total: 362902.92
+2008-07-23 00:00:00 Buy FRANCE_PRIMARY, Price: 23.471, Quantity: 15461, Cash Balance: 17.78
+2011-07-21 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 16.5806, Deri_MMRatio: -0.000965, Price: 19.688, Quantity: 15461, Holding Days: 769, P/L: -16.12%, Account Total: 304413.95
+2011-10-10 00:00:00 Buy FRANCE_PRIMARY, Price: 15.236, Quantity: 19979, Cash Balance: 13.91
+2014-07-23 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 33.9303, Deri_MMRatio: -0.001523, Price: 23.164, Quantity: 19979, Holding Days: 711, P/L: 52.03%, Account Total: 462807.46
+2015-01-23 00:00:00 Buy FRANCE_PRIMARY, Price: 20.646, Quantity: 22416, Cash Balance: 6.73
+2018-03-15 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 24.3746, Deri_MMRatio: -0.001650, Price: 27.972, Quantity: 22416, Holding Days: 805, P/L: 35.48%, Account Total: 627027.08
+2020-03-24 00:00:00 Buy FRANCE_PRIMARY, Price: 20.862, Quantity: 30055, Cash Balance: 19.67
+2022-03-31 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 40.6192, Deri_MMRatio: -0.003109, Price: 34.614, Quantity: 30055, Holding Days: 520, P/L: 65.92%, Account Total: 1040343.44
+2022-10-04 00:00:00 Buy FRANCE_PRIMARY, Price: 28.4, Quantity: 36631, Cash Balance: 23.04
+2024-08-16 00:00:00 Cond1 sell FRANCE_PRIMARY, Accu_MMRatio: 20.2671, Deri_MMRatio: -0.000391, Price: 39.04, Quantity: 36631, Holding Days: 478, P/L: 37.46%, Account Total: 1430097.28
+
+=== Account Position Information ===
+Code: FRANCE_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2024-08-16
+Cash Balance: 1430097.28
+Account Total: 1430097.28
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 42.250
+Target Total Return (Start->Latest): 132.63%
+Target Annualized Return (CAGR): 4.09%
+Target Max Drawdown: -63.99%
+Target Max Drawdown Period: 2007-07-12 (Close=29.358) -> 2009-03-09 (Close=10.573) (417 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.68%
+Max Drawdown: -57.23%
+Max Drawdown Period: 2006-05-09 (Account total=382280.67) -> 2009-03-09 (Account total=163486.94) (724 trading days)
+
+Annual Returns (from first buy):
+  2005: 5.22%
+  2006: 14.77%
+  2007: 0.00%
+  2008: -34.69%
+  2009: 23.50%
+  2010: -5.43%
+  2011: 6.41%
+  2012: 23.70%
+  2013: 24.11%
+  2014: 2.34%
+  2015: -1.90%
+  2016: 4.89%
+  2017: 29.10%
+  2018: 1.99%
+  2019: 0.00%
+  2020: 49.19%
+  2021: 21.42%
+  2022: 6.81%
+  2023: 18.30%
+  2024: -0.36%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FRANCE
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

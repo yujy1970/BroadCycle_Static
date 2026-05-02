@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GOLD_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: GOLD_PRIMARY
+  Holding Quantity: 12444
+  Current Price: 423.18
+  Holding Value: 5266051.92
+  Buy Date: 2026-04-08
+  Holding Days: 17
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 381.01
+Account Total: 5266432.93
+Date Of Trading Start: 2004-11-19
+
+Target Latest Close : 423.180
+Target Total Return (Start->Latest): 853.54%
+Target Annualized Return (CAGR): 11.09%
+Target Max Drawdown: -45.56%
+Target Max Drawdown Period: 2011-08-22 (Close=184.590) -> 2015-12-17 (Close=100.500) (1088 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.26%
+Max Drawdown: -24.01%
+Max Drawdown Period: 2008-07-15 (Account total=687197.63) -> 2008-09-11 (Account total=522219.58) (41 trading days)

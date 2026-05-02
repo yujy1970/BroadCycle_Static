@@ -1,0 +1,104 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy SINGAPORE, Price: 2075.1, Quantity: 144, Cash Balance: 1185.60
+1995-04-04 00:00:00 Cond3 sell SINGAPORE, Accu_MMRatio: 13.3993, Deri_MMRatio: -0.000700, Price: 2074.1, Quantity: 144, Holding Days: 1, P/L: -0.05%, Account Total: 299856.00
+1996-01-05 00:00:00 Buy SINGAPORE, Price: 2365.5, Quantity: 126, Cash Balance: 1803.00
+1996-08-16 00:00:00 Cond3 sell SINGAPORE, Accu_MMRatio: 8.1937, Deri_MMRatio: -0.002446, Price: 2099.0, Quantity: 126, Holding Days: 150, P/L: -11.27%, Account Total: 266277.00
+1999-02-19 00:00:00 Buy SINGAPORE, Price: 1371.93, Quantity: 194, Cash Balance: 122.58
+2000-03-20 00:00:00 Cond1 sell SINGAPORE, Accu_MMRatio: 81.7745, Deri_MMRatio: -0.005189, Price: 2080.85, Quantity: 194, Holding Days: 274, P/L: 51.67%, Account Total: 403807.48
+2000-06-02 00:00:00 Buy SINGAPORE, Price: 1939.68, Quantity: 208, Cash Balance: 354.04
+2000-10-11 00:00:00 Cond3 sell SINGAPORE, Accu_MMRatio: 33.9775, Deri_MMRatio: -0.005547, Price: 1834.13, Quantity: 208, Holding Days: 92, P/L: -5.44%, Account Total: 381853.08
+2003-08-13 00:00:00 Buy SINGAPORE, Price: 1595.23, Quantity: 239, Cash Balance: 593.11
+2007-12-07 00:00:00 Cond1 sell SINGAPORE, Accu_MMRatio: 49.6638, Deri_MMRatio: -0.002489, Price: 3558.55, Quantity: 239, Holding Days: 1086, P/L: 123.07%, Account Total: 851086.56
+2008-02-15 00:00:00 Buy SINGAPORE, Price: 3099.62, Quantity: 274, Cash Balance: 1790.68
+2008-02-18 00:00:00 Cond3 sell SINGAPORE, Accu_MMRatio: 42.2153, Deri_MMRatio: -0.003831, Price: 3100.26, Quantity: 274, Holding Days: 1, P/L: 0.02%, Account Total: 851261.92
+2009-11-11 00:00:00 Buy SINGAPORE, Price: 2743.45, Quantity: 310, Cash Balance: 792.42
+2010-11-09 00:00:00 Cond1 sell SINGAPORE, Accu_MMRatio: 41.4192, Deri_MMRatio: 0.000852, Price: 3309.23, Quantity: 310, Holding Days: 246, P/L: 20.62%, Account Total: 1026653.72
+2011-08-31 00:00:00 Buy SINGAPORE, Price: 2886.75, Quantity: 355, Cash Balance: 1857.47
+2011-09-01 00:00:00 Cond3 sell SINGAPORE, Accu_MMRatio: 15.8096, Deri_MMRatio: -0.002570, Price: 2858.87, Quantity: 355, Holding Days: 1, P/L: -0.97%, Account Total: 1016756.32
+2021-03-08 00:00:00 Buy SINGAPORE, Price: 3091.79, Quantity: 328, Cash Balance: 2649.20
+2022-03-30 00:00:00 Cond1 sell SINGAPORE, Accu_MMRatio: 19.9582, Deri_MMRatio: -0.000782, Price: 3443.17, Quantity: 328, Holding Days: 269, P/L: 11.36%, Account Total: 1132008.96
+2024-04-24 00:00:00 Buy SINGAPORE, Price: 3269.74, Quantity: 346, Cash Balance: 678.92
+
+=== Account Position Information ===
+Code: SINGAPORE
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SINGAPORE
+  Holding Quantity: 346
+  Current Price: 4842.27
+  Holding Value: 1675425.42
+  Buy Date: 2024-04-25
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 678.92
+Account Total: 1676104.34
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 4842.270
+Target Total Return (Start->Latest): 133.40%
+Target Annualized Return (CAGR): 2.78%
+Target Max Drawdown: -67.72%
+Target Max Drawdown Period: 1996-02-06 (Close=2493.700) -> 1998-09-04 (Close=805.040) (641 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.72%
+Max Drawdown: -25.17%
+Max Drawdown Period: 2000-01-03 (Account total=501212.94) -> 2003-09-10 (Account total=375036.80) (926 trading days)
+
+Annual Returns (from first buy):
+  1995: 0.00%
+  1996: -11.20%
+  1997: 0.00%
+  1998: 0.00%
+  1999: 80.70%
+  2000: -20.64%
+  2001: 0.00%
+  2002: 0.00%
+  2003: 10.60%
+  2004: 17.07%
+  2005: 13.59%
+  2006: 27.17%
+  2007: 19.17%
+  2008: 0.02%
+  2009: 5.61%
+  2010: 14.19%
+  2011: -0.96%
+  2012: 0.00%
+  2013: 0.00%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 0.00%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 0.00%
+  2021: 1.03%
+  2022: 10.20%
+  2023: 0.00%
+  2024: 15.83%
+  2025: 22.66%
+  2026: 4.22%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SINGAPORE
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.025
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.02
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

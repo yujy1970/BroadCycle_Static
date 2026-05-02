@@ -1,0 +1,135 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy US10Y, Price: 7.097, Quantity: 42271, Cash Balance: 2.71
+1995-04-04 00:00:00 Cond1 sell US10Y, Accu_MMRatio: 34.5411, Deri_MMRatio: -0.000822, Price: 7.123, Quantity: 42271, Holding Days: 1, P/L: 0.37%, Account Total: 301099.05
+1996-02-20 00:00:00 Buy US10Y, Price: 5.952, Quantity: 50587, Cash Balance: 5.22
+1996-03-08 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -17.4044, Deri_MMRatio: 0.004657, Price: 6.519, Quantity: 50587, Holding Days: 13, P/L: 9.53%, Account Total: 329781.87
+1998-10-08 00:00:00 Buy US10Y, Price: 4.654, Quantity: 70859, Cash Balance: 4.09
+1998-11-06 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -28.2353, Deri_MMRatio: 0.004574, Price: 4.938, Quantity: 70859, Holding Days: 20, P/L: 6.10%, Account Total: 349905.83
+1999-02-05 00:00:00 Buy US10Y, Price: 4.953, Quantity: 70645, Cash Balance: 1.15
+1999-02-25 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -33.9502, Deri_MMRatio: 0.004100, Price: 5.302, Quantity: 70645, Holding Days: 13, P/L: 7.05%, Account Total: 374560.94
+2001-11-14 00:00:00 Buy US10Y, Price: 4.59, Quantity: 81603, Cash Balance: 3.17
+2001-12-06 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -27.2346, Deri_MMRatio: 0.005486, Price: 4.987, Quantity: 81603, Holding Days: 15, P/L: 8.65%, Account Total: 406957.33
+2002-10-11 00:00:00 Buy US10Y, Price: 3.811, Quantity: 106784, Cash Balance: 3.50
+2003-04-14 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -35.2333, Deri_MMRatio: 0.004210, Price: 4.005, Quantity: 106784, Holding Days: 126, P/L: 5.09%, Account Total: 427673.42
+2003-07-03 00:00:00 Buy US10Y, Price: 3.67, Quantity: 116532, Cash Balance: 0.98
+2003-07-15 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -40.9615, Deri_MMRatio: 0.006075, Price: 4.017, Quantity: 116532, Holding Days: 7, P/L: 9.46%, Account Total: 468110.03
+2004-04-02 00:00:00 Buy US10Y, Price: 4.157, Quantity: 112607, Cash Balance: 2.73
+2004-04-12 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -14.6349, Deri_MMRatio: 0.004067, Price: 4.265, Quantity: 112607, Holding Days: 5, P/L: 2.60%, Account Total: 480271.58
+2005-02-18 00:00:00 Buy US10Y, Price: 4.276, Quantity: 112317, Cash Balance: 4.09
+2005-03-11 00:00:00 Cond1 sell US10Y, Accu_MMRatio: 9.2480, Deri_MMRatio: 0.003371, Price: 4.544, Quantity: 112317, Holding Days: 14, P/L: 6.27%, Account Total: 510372.54
+2007-12-07 00:00:00 Buy US10Y, Price: 4.116, Quantity: 123997, Cash Balance: 0.89
+2007-12-21 00:00:00 Cond3 sell US10Y, Accu_MMRatio: 0.9423, Deri_MMRatio: 0.000168, Price: 4.176, Quantity: 123997, Holding Days: 10, P/L: 1.46%, Account Total: 517812.36
+2008-02-14 00:00:00 Buy US10Y, Price: 3.772, Quantity: 137277, Cash Balance: 3.52
+2008-04-24 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -17.6648, Deri_MMRatio: 0.004314, Price: 3.878, Quantity: 137277, Holding Days: 48, P/L: 2.81%, Account Total: 532363.72
+2008-09-19 00:00:00 Buy US10Y, Price: 3.85, Quantity: 138276, Cash Balance: 1.12
+2008-10-14 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -33.0546, Deri_MMRatio: 0.004261, Price: 4.023, Quantity: 138276, Holding Days: 17, P/L: 4.49%, Account Total: 556285.47
+2009-01-21 00:00:00 Buy US10Y, Price: 2.508, Quantity: 221804, Cash Balance: 1.04
+2009-01-26 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -37.7480, Deri_MMRatio: 0.004898, Price: 2.608, Quantity: 221804, Holding Days: 3, P/L: 3.99%, Account Total: 578465.87
+2010-10-15 00:00:00 Buy US10Y, Price: 2.531, Quantity: 228552, Cash Balance: 0.76
+2010-11-12 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -11.0586, Deri_MMRatio: 0.004844, Price: 2.891, Quantity: 228552, Holding Days: 20, P/L: 14.22%, Account Total: 660744.59
+2011-09-27 00:00:00 Buy US10Y, Price: 1.976, Quantity: 334384, Cash Balance: 1.81
+2011-10-14 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -13.9219, Deri_MMRatio: 0.004574, Price: 2.233, Quantity: 334384, Holding Days: 13, P/L: 13.01%, Account Total: 746681.28
+2012-02-03 00:00:00 Buy US10Y, Price: 1.924, Quantity: 388087, Cash Balance: 1.89
+2012-03-14 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -53.5935, Deri_MMRatio: 0.004944, Price: 2.332, Quantity: 388087, Holding Days: 27, P/L: 21.21%, Account Total: 905020.77
+2012-06-22 00:00:00 Buy US10Y, Price: 1.625, Quantity: 556935, Cash Balance: 1.40
+2012-08-14 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -69.7769, Deri_MMRatio: 0.004250, Price: 1.777, Quantity: 556935, Holding Days: 36, P/L: 9.35%, Account Total: 989674.89
+2012-11-21 00:00:00 Buy US10Y, Price: 1.676, Quantity: 590498, Cash Balance: 0.25
+2012-12-18 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -66.9497, Deri_MMRatio: 0.004002, Price: 1.819, Quantity: 590498, Holding Days: 18, P/L: 8.53%, Account Total: 1074116.11
+2013-05-03 00:00:00 Buy US10Y, Price: 1.747, Quantity: 614834, Cash Balance: 1.11
+2013-05-10 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -54.1396, Deri_MMRatio: 0.005054, Price: 1.912, Quantity: 614834, Holding Days: 5, P/L: 9.44%, Account Total: 1175563.72
+2015-10-29 00:00:00 Buy US10Y, Price: 2.173, Quantity: 540986, Cash Balance: 1.14
+2015-11-06 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -25.9089, Deri_MMRatio: 0.006075, Price: 2.344, Quantity: 540986, Holding Days: 6, P/L: 7.87%, Account Total: 1268072.32
+2016-03-01 00:00:00 Buy US10Y, Price: 1.851, Quantity: 685074, Cash Balance: 0.35
+2016-03-15 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -20.5342, Deri_MMRatio: 0.004525, Price: 1.961, Quantity: 685074, Holding Days: 10, P/L: 5.94%, Account Total: 1343430.46
+2016-06-21 00:00:00 Buy US10Y, Price: 1.703, Quantity: 788861, Cash Balance: 0.18
+2016-07-05 00:00:00 Cond3 sell US10Y, Accu_MMRatio: -29.7180, Deri_MMRatio: -0.008135, Price: 1.336, Quantity: 788861, Holding Days: 9, P/L: -21.55%, Account Total: 1053918.48
+2016-07-19 00:00:00 Buy US10Y, Price: 1.568, Quantity: 672141, Cash Balance: 1.39
+2016-08-09 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -33.9374, Deri_MMRatio: 0.004038, Price: 1.532, Quantity: 672141, Holding Days: 15, P/L: -2.30%, Account Total: 1029721.40
+2019-10-10 00:00:00 Buy US10Y, Price: 1.708, Quantity: 602881, Cash Balance: 0.65
+2019-11-07 00:00:00 Cond1 sell US10Y, Accu_MMRatio: -30.9112, Deri_MMRatio: 0.006238, Price: 1.95, Quantity: 602881, Holding Days: 20, P/L: 14.17%, Account Total: 1175618.60
+2020-02-05 00:00:00 Buy US10Y, Price: 1.637, Quantity: 718154, Cash Balance: 0.50
+2020-02-28 00:00:00 Cond3 sell US10Y, Accu_MMRatio: -53.5647, Deri_MMRatio: -0.009351, Price: 1.067, Quantity: 718154, Holding Days: 16, P/L: -34.82%, Account Total: 766270.82
+
+=== Account Position Information ===
+Code: US10Y
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2020-02-28
+Cash Balance: 766270.82
+Account Total: 766270.82
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 4.378
+Target Total Return (Start->Latest): -38.61%
+Target Annualized Return (CAGR): -1.56%
+Target Max Drawdown: -93.00%
+Target Max Drawdown Period: 1995-04-03 (Close=7.132) -> 2020-03-09 (Close=0.499) (6259 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.05%
+Max Drawdown: -44.14%
+Max Drawdown Period: 2016-06-23 (Account total=1371829.46) -> 2020-02-28 (Account total=766270.82) (925 trading days)
+
+Annual Returns (from first buy):
+  1995: 0.00%
+  1996: 9.53%
+  1997: 0.00%
+  1998: 6.10%
+  1999: 7.05%
+  2000: 0.00%
+  2001: 8.65%
+  2002: 0.18%
+  2003: 14.82%
+  2004: 2.60%
+  2005: 6.27%
+  2006: 0.00%
+  2007: 1.46%
+  2008: 7.43%
+  2009: 3.99%
+  2010: 14.22%
+  2011: 13.01%
+  2012: 43.85%
+  2013: 9.44%
+  2014: 0.00%
+  2015: 7.87%
+  2016: -18.80%
+  2017: 0.00%
+  2018: 0.00%
+  2019: 14.17%
+  2020: -34.82%
+  2021: 0.00%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 0.00%
+  2025: 0.00%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US10Y
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 55
+PPP = 1.0325
+QQQ = 10
+MedMax2 = 0.04
+Accu2 = 20.0
+Deri2 = 0.004
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.008
+Trend1 = -0.35
+date_start_backtest = 1995-04-01

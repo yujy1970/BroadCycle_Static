@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: KOREA
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: KOREA
+  Holding Quantity: 633
+  Current Price: 5487.24
+  Holding Value: 3473422.92
+  Buy Date: 2025-04-16
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 50.65
+Account Total: 3473473.57
+Date Of Trading Start: 1995-04-03
+
+Target Latest Close : 5487.240
+Target Total Return (Start->Latest): 487.44%
+Target Annualized Return (CAGR): 5.89%
+Target Max Drawdown: -72.46%
+Target Max Drawdown Period: 1995-10-14 (Close=1016.770) -> 1998-06-16 (Close=280.000) (775 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.24%
+Max Drawdown: -62.94%
+Max Drawdown Period: 1995-10-14 (Account total=317097.37) -> 1998-06-16 (Account total=117522.12) (775 trading days)

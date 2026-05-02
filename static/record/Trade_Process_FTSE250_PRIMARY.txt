@@ -1,0 +1,88 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy FTSE250_PRIMARY, Price: 672.0, Quantity: 446, Cash Balance: 288.00
+2009-01-05 00:00:00 Cond3 sell FTSE250_PRIMARY, Accu_MMRatio: -10.0981, Deri_MMRatio: 0.004410, Price: 674.5, Quantity: 446, Holding Days: 1, P/L: 0.37%, Account Total: 301115.00
+2009-03-04 00:00:00 Buy FTSE250_PRIMARY, Price: 603.0, Quantity: 499, Cash Balance: 218.00
+2009-11-17 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 7.4611, Deri_MMRatio: -0.001529, Price: 936.5, Quantity: 499, Holding Days: 179, P/L: 55.31%, Account Total: 467531.50
+2010-05-27 00:00:00 Buy FTSE250_PRIMARY, Price: 956.5, Quantity: 488, Cash Balance: 759.50
+2011-09-22 00:00:00 Cond3 sell FTSE250_PRIMARY, Accu_MMRatio: 2.3707, Deri_MMRatio: -0.001690, Price: 975.0, Quantity: 488, Holding Days: 334, P/L: 1.93%, Account Total: 476559.50
+2011-11-28 00:00:00 Buy FTSE250_PRIMARY, Price: 970.0, Quantity: 491, Cash Balance: 289.50
+2013-07-16 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 6.1292, Deri_MMRatio: 0.000141, Price: 1448.0, Quantity: 491, Holding Days: 410, P/L: 49.28%, Account Total: 711257.50
+2013-08-23 00:00:00 Buy FTSE250_PRIMARY, Price: 1471.0, Quantity: 483, Cash Balance: 764.50
+2017-07-19 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 3.6601, Deri_MMRatio: -0.000674, Price: 1893.5, Quantity: 483, Holding Days: 986, P/L: 28.72%, Account Total: 915325.00
+2017-08-31 00:00:00 Buy FTSE250_PRIMARY, Price: 1903.0, Quantity: 480, Cash Balance: 1885.00
+2020-03-05 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 2.7750, Deri_MMRatio: -0.002106, Price: 1819.6, Quantity: 480, Holding Days: 636, P/L: -4.38%, Account Total: 875293.00
+2020-07-13 00:00:00 Buy FTSE250_PRIMARY, Price: 1633.8, Quantity: 535, Cash Balance: 1210.00
+2021-05-26 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 6.7289, Deri_MMRatio: 0.000026, Price: 2138.0, Quantity: 535, Holding Days: 220, P/L: 30.86%, Account Total: 1145040.00
+2021-07-02 00:00:00 Buy FTSE250_PRIMARY, Price: 2148.0, Quantity: 533, Cash Balance: 156.00
+2024-11-05 00:00:00 Cond1 sell FTSE250_PRIMARY, Accu_MMRatio: 3.7163, Deri_MMRatio: -0.000861, Price: 1920.8, Quantity: 533, Holding Days: 844, P/L: -10.58%, Account Total: 1023942.40
+2024-12-02 00:00:00 Buy FTSE250_PRIMARY, Price: 1949.8, Quantity: 525, Cash Balance: 297.40
+
+=== Account Position Information ===
+Code: FTSE250_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: FTSE250_PRIMARY
+  Holding Quantity: 525
+  Current Price: 2043.90
+  Holding Value: 1073050.12
+  Buy Date: 2024-12-03
+  Holding Days: 322
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 297.40
+Account Total: 1073347.52
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 1937.600
+Target Total Return (Start->Latest): 194.86%
+Target Annualized Return (CAGR): 6.48%
+Target Max Drawdown: -41.83%
+Target Max Drawdown Period: 2020-01-02 (Close=2101.441) -> 2020-03-19 (Close=1222.379) (55 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.68%
+Max Drawdown: -32.15%
+Max Drawdown Period: 2021-09-06 (Account total=1224028.47) -> 2022-10-12 (Account total=830497.51) (277 trading days)
+
+Annual Returns (from first buy):
+  2009: 55.27%
+  2010: 19.14%
+  2011: -12.86%
+  2012: 21.97%
+  2013: 26.57%
+  2014: 0.38%
+  2015: 8.00%
+  2016: 3.20%
+  2017: 13.41%
+  2018: -15.68%
+  2019: 24.65%
+  2020: 3.66%
+  2021: 13.37%
+  2022: -20.00%
+  2023: 4.30%
+  2024: 2.59%
+  2025: 8.37%
+  2026: -1.47%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FTSE250
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 1.005
+QQQ = 20
+MedMax2 = 0.1
+Accu2 = 7.4
+Deri2 = 0.0048
+Trend2 = 0.5
+MedMax1 = -0.056
+Accu1 = -20.0
+Deri1 = -0.0048
+Trend1 = -0.5
+date_start_backtest = 2009-01-02

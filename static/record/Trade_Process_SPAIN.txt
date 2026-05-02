@@ -1,0 +1,153 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy SPAIN, Price: 2985.48, Quantity: 100, Cash Balance: 1452.00
+1996-04-10 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 7.0191, Deri_MMRatio: -0.001064, Price: 3888.72, Quantity: 100, Holding Days: 255, P/L: 30.25%, Account Total: 390324.00
+1996-08-02 00:00:00 Buy SPAIN, Price: 4130.15, Quantity: 94, Cash Balance: 2089.90
+1997-04-25 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 10.6024, Deri_MMRatio: -0.001063, Price: 5757.31, Quantity: 94, Holding Days: 181, P/L: 39.40%, Account Total: 543277.04
+1997-06-25 00:00:00 Buy SPAIN, Price: 6934.51, Quantity: 78, Cash Balance: 2385.26
+1997-09-16 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 17.4541, Deri_MMRatio: -0.000469, Price: 6884.31, Quantity: 78, Holding Days: 58, P/L: -0.72%, Account Total: 539361.44
+1997-11-17 00:00:00 Buy SPAIN, Price: 6537.08, Quantity: 82, Cash Balance: 3320.88
+1998-04-02 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 12.9524, Deri_MMRatio: 0.002971, Price: 10572.37, Quantity: 82, Holding Days: 92, P/L: 61.73%, Account Total: 870255.22
+1998-06-25 00:00:00 Buy SPAIN, Price: 10109.51, Quantity: 86, Cash Balance: 837.36
+1998-11-03 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 9.5571, Deri_MMRatio: 0.006891, Price: 9131.2, Quantity: 86, Holding Days: 92, P/L: -9.68%, Account Total: 786120.56
+1999-01-20 00:00:00 Buy SPAIN, Price: 9920.8, Quantity: 79, Cash Balance: 2377.36
+1999-03-11 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 2.3069, Deri_MMRatio: -0.001184, Price: 10094.7, Quantity: 79, Holding Days: 36, P/L: 1.75%, Account Total: 799858.66
+1999-08-13 00:00:00 Buy SPAIN, Price: 9474.5, Quantity: 84, Cash Balance: 4000.66
+1999-12-07 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 1.9062, Deri_MMRatio: 0.006052, Price: 11481.3, Quantity: 84, Holding Days: 78, P/L: 21.18%, Account Total: 968429.86
+2000-02-03 00:00:00 Buy SPAIN, Price: 11592.9, Quantity: 83, Cash Balance: 6219.16
+2000-11-08 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 1.9932, Deri_MMRatio: -0.001968, Price: 10429.7, Quantity: 83, Holding Days: 194, P/L: -10.03%, Account Total: 871884.26
+2001-03-06 00:00:00 Buy SPAIN, Price: 9837.3, Quantity: 88, Cash Balance: 6201.86
+2001-11-02 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -9.3054, Deri_MMRatio: 0.006033, Price: 7726.9, Quantity: 88, Holding Days: 168, P/L: -21.45%, Account Total: 686169.06
+2002-01-24 00:00:00 Buy SPAIN, Price: 8217.4, Quantity: 83, Cash Balance: 4124.86
+2002-11-06 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -9.4632, Deri_MMRatio: 0.006457, Price: 6339.3, Quantity: 83, Holding Days: 199, P/L: -22.86%, Account Total: 530286.76
+2003-01-08 00:00:00 Buy SPAIN, Price: 6330.6, Quantity: 83, Cash Balance: 4846.96
+2003-10-14 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 5.3993, Deri_MMRatio: -0.001806, Price: 7053.7, Quantity: 83, Holding Days: 195, P/L: 11.42%, Account Total: 590304.06
+2004-01-02 00:00:00 Buy SPAIN, Price: 7874.2, Quantity: 74, Cash Balance: 7613.26
+2004-04-15 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 8.8051, Deri_MMRatio: -0.001508, Price: 8317.1, Quantity: 74, Holding Days: 71, P/L: 5.62%, Account Total: 623078.66
+2004-10-04 00:00:00 Buy SPAIN, Price: 8289.8, Quantity: 75, Cash Balance: 1343.66
+2006-05-24 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 7.4613, Deri_MMRatio: -0.002468, Price: 11107.7, Quantity: 75, Holding Days: 413, P/L: 33.99%, Account Total: 834421.16
+2006-07-28 00:00:00 Buy SPAIN, Price: 11871.79, Quantity: 70, Cash Balance: 3395.86
+2007-01-23 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 7.8438, Deri_MMRatio: -0.000968, Price: 14419.29, Quantity: 70, Holding Days: 124, P/L: 21.46%, Account Total: 1012746.16
+2007-03-22 00:00:00 Buy SPAIN, Price: 14486.09, Quantity: 69, Cash Balance: 13205.95
+2007-07-09 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 8.8117, Deri_MMRatio: -0.000387, Price: 14953.2, Quantity: 69, Holding Days: 74, P/L: 3.22%, Account Total: 1044976.75
+2007-09-19 00:00:00 Buy SPAIN, Price: 14400.09, Quantity: 72, Cash Balance: 8170.27
+2008-02-13 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 1.3691, Deri_MMRatio: -0.003144, Price: 13420.7, Quantity: 72, Holding Days: 100, P/L: -6.80%, Account Total: 974460.67
+2008-07-18 00:00:00 Buy SPAIN, Price: 11867.4, Quantity: 82, Cash Balance: 1333.87
+2009-01-06 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -14.2813, Deri_MMRatio: 0.006028, Price: 9726.2, Quantity: 82, Holding Days: 117, P/L: -18.04%, Account Total: 798882.27
+2009-03-12 00:00:00 Buy SPAIN, Price: 7492.5, Quantity: 106, Cash Balance: 4677.27
+2009-04-16 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -17.7316, Deri_MMRatio: 0.006217, Price: 8898.3, Quantity: 106, Holding Days: 23, P/L: 18.76%, Account Total: 947897.07
+2009-06-29 00:00:00 Buy SPAIN, Price: 9889.8, Quantity: 95, Cash Balance: 8366.07
+2010-02-24 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 13.0886, Deri_MMRatio: -0.003892, Price: 10195.6, Quantity: 95, Holding Days: 168, P/L: 3.09%, Account Total: 976948.07
+2010-05-10 00:00:00 Buy SPAIN, Price: 10056.7, Quantity: 97, Cash Balance: 1448.17
+2010-06-11 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 3.3781, Deri_MMRatio: -0.001113, Price: 9662.0, Quantity: 97, Holding Days: 24, P/L: -3.92%, Account Total: 938662.17
+2010-09-01 00:00:00 Buy SPAIN, Price: 10467.7, Quantity: 89, Cash Balance: 7036.87
+2011-07-07 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 1.3615, Deri_MMRatio: 0.000562, Price: 10232.3, Quantity: 89, Holding Days: 217, P/L: -2.25%, Account Total: 917711.57
+2011-09-29 00:00:00 Buy SPAIN, Price: 8555.2, Quantity: 107, Cash Balance: 2305.17
+2011-10-24 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -6.1203, Deri_MMRatio: 0.006091, Price: 8929.9, Quantity: 107, Holding Days: 17, P/L: 4.38%, Account Total: 957804.47
+2011-11-30 00:00:00 Buy SPAIN, Price: 8441.0, Quantity: 113, Cash Balance: 3971.47
+2012-09-04 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -8.4579, Deri_MMRatio: 0.007071, Price: 7468.7, Quantity: 113, Holding Days: 195, P/L: -11.52%, Account Total: 847934.57
+2012-10-18 00:00:00 Buy SPAIN, Price: 8053.8, Quantity: 105, Cash Balance: 2285.57
+2013-06-28 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 7.5096, Deri_MMRatio: -0.002924, Price: 7817.0, Quantity: 105, Holding Days: 175, P/L: -2.94%, Account Total: 823070.57
+2013-09-10 00:00:00 Buy SPAIN, Price: 8789.5, Quantity: 93, Cash Balance: 5647.07
+2014-07-28 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 8.7541, Deri_MMRatio: -0.001049, Price: 10901.6, Quantity: 93, Holding Days: 223, P/L: 24.03%, Account Total: 1019495.87
+2014-10-23 00:00:00 Buy SPAIN, Price: 10299.4, Quantity: 98, Cash Balance: 10154.67
+2015-09-29 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 1.0615, Deri_MMRatio: -0.003000, Price: 9580.6, Quantity: 98, Holding Days: 237, P/L: -6.98%, Account Total: 949053.47
+2016-03-01 00:00:00 Buy SPAIN, Price: 8662.3, Quantity: 109, Cash Balance: 4862.77
+2017-07-28 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 7.9214, Deri_MMRatio: -0.001395, Price: 10536.6, Quantity: 109, Holding Days: 362, P/L: 21.64%, Account Total: 1153352.17
+2019-01-04 00:00:00 Buy SPAIN, Price: 8781.2, Quantity: 131, Cash Balance: 3014.97
+2020-03-16 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 0.8674, Deri_MMRatio: -0.008384, Price: 6444.5, Quantity: 131, Holding Days: 305, P/L: -26.61%, Account Total: 847244.47
+2020-05-27 00:00:00 Buy SPAIN, Price: 7237.3, Quantity: 117, Cash Balance: 480.37
+2020-06-03 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -7.8631, Deri_MMRatio: 0.006319, Price: 7567.7, Quantity: 117, Holding Days: 5, P/L: 4.57%, Account Total: 885901.27
+2020-08-11 00:00:00 Buy SPAIN, Price: 7250.3, Quantity: 122, Cash Balance: 1364.67
+2020-12-08 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: -10.1252, Deri_MMRatio: 0.006239, Price: 8262.2, Quantity: 122, Holding Days: 85, P/L: 13.96%, Account Total: 1009353.07
+2021-02-04 00:00:00 Buy SPAIN, Price: 8129.8, Quantity: 124, Cash Balance: 1257.87
+2021-09-22 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 8.5889, Deri_MMRatio: -0.000448, Price: 8882.0, Quantity: 124, Holding Days: 162, P/L: 9.25%, Account Total: 1102625.87
+2021-12-27 00:00:00 Buy SPAIN, Price: 8623.5, Quantity: 127, Cash Balance: 7441.37
+2022-03-07 00:00:00 Cond3 sell SPAIN, Accu_MMRatio: 0.9694, Deri_MMRatio: -0.001521, Price: 7569.8, Quantity: 127, Holding Days: 49, P/L: -12.22%, Account Total: 968805.97
+2022-05-23 00:00:00 Buy SPAIN, Price: 8537.8, Quantity: 113, Cash Balance: 4034.57
+2023-10-02 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 6.4427, Deri_MMRatio: 0.000074, Price: 9284.6, Quantity: 113, Holding Days: 351, P/L: 8.75%, Account Total: 1053194.37
+2024-03-13 00:00:00 Buy SPAIN, Price: 10567.4, Quantity: 99, Cash Balance: 7021.77
+2026-01-20 00:00:00 Cond1 sell SPAIN, Accu_MMRatio: 10.0150, Deri_MMRatio: -0.000151, Price: 17421.2, Quantity: 99, Holding Days: 472, P/L: 64.86%, Account Total: 1731720.57
+
+=== Account Position Information ===
+Code: SPAIN
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-20
+Cash Balance: 1731720.57
+Account Total: 1731720.57
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 17059.300
+Target Total Return (Start->Latest): 481.58%
+Target Annualized Return (CAGR): 5.85%
+Target Max Drawdown: -62.65%
+Target Max Drawdown Period: 2007-11-08 (Close=15945.700) -> 2012-07-24 (Close=5956.300) (1198 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.83%
+Max Drawdown: -58.00%
+Max Drawdown Period: 2000-03-06 (Account total=1070013.56) -> 2002-10-09 (Account total=449378.36) (652 trading days)
+
+Annual Returns (from first buy):
+  1995: 21.51%
+  1996: 33.50%
+  1997: 22.94%
+  1998: 31.40%
+  1999: 23.19%
+  2000: -9.97%
+  2001: -21.30%
+  2002: -22.72%
+  2003: 11.32%
+  2004: 15.60%
+  2005: 18.17%
+  2006: 23.22%
+  2007: 10.83%
+  2008: -31.41%
+  2009: 51.27%
+  2010: -22.59%
+  2011: 9.89%
+  2012: -11.53%
+  2013: 7.91%
+  2014: 9.66%
+  2015: -6.73%
+  2016: 7.92%
+  2017: 12.61%
+  2018: 0.00%
+  2019: 8.72%
+  2020: -19.51%
+  2021: 10.38%
+  2022: -16.17%
+  2023: 12.77%
+  2024: 9.66%
+  2025: 48.97%
+  2026: 0.65%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SPAIN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.024
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 0.006
+Trend2 = 99.0
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.14
+date_start_backtest = 1995-04-01

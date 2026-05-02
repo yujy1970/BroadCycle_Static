@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ARGENTINA_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: ARGENTINA_PRIMARY
+  Holding Quantity: 10135
+  Current Price: 91.11
+  Holding Value: 923399.85
+  Buy Date: 2024-05-31
+  Holding Days: 467
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 34.26
+Account Total: 923434.11
+Date Of Trading Start: 2011-03-04
+
+Target Latest Close : 89.660
+Target Total Return (Start->Latest): 249.93%
+Target Annualized Return (CAGR): 8.61%
+Target Max Drawdown: -61.68%
+Target Max Drawdown Period: 2018-01-26 (Close=34.586) -> 2020-03-23 (Close=13.253) (541 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.96%
+Max Drawdown: -56.66%
+Max Drawdown Period: 2018-04-06 (Account total=353838.08) -> 2020-03-20 (Account total=153367.88) (477 trading days)

@@ -1,0 +1,109 @@
+=== Trade Process ===
+2007-07-30 00:00:00 Initial Buy BRENT, Price: 75.7, Quantity: 3963, Cash Balance: 0.90
+2008-01-30 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 0.3728, Deri_MMRatio: -0.001237, Price: 91.45, Quantity: 3963, Holding Days: 127, P/L: 20.81%, Account Total: 362417.25
+2008-04-15 00:00:00 Buy BRENT, Price: 111.61, Quantity: 3247, Cash Balance: 19.58
+2008-07-11 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 10.6951, Deri_MMRatio: 0.001479, Price: 143.76, Quantity: 3247, Holding Days: 61, P/L: 28.81%, Account Total: 466808.30
+2008-09-19 00:00:00 Buy BRENT, Price: 102.21, Quantity: 4567, Cash Balance: 15.23
+2008-09-22 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 14.8025, Deri_MMRatio: -0.006524, Price: 103.83, Quantity: 4567, Holding Days: 1, P/L: 1.58%, Account Total: 474206.84
+2008-12-11 00:00:00 Buy BRENT, Price: 44.57, Quantity: 10639, Cash Balance: 26.61
+2009-06-17 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -30.6007, Deri_MMRatio: 0.005197, Price: 70.06, Quantity: 10639, Holding Days: 112, P/L: 57.19%, Account Total: 745394.95
+2010-03-05 00:00:00 Buy BRENT, Price: 80.46, Quantity: 9264, Cash Balance: 13.51
+2010-03-31 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 18.5908, Deri_MMRatio: -0.000488, Price: 83.62, Quantity: 9264, Holding Days: 18, P/L: 3.93%, Account Total: 774669.19
+2010-06-21 00:00:00 Buy BRENT, Price: 77.84, Quantity: 9952, Cash Balance: 5.51
+2012-11-19 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.3613, Deri_MMRatio: -0.000261, Price: 111.25, Quantity: 9952, Holding Days: 591, P/L: 42.92%, Account Total: 1107165.51
+2013-04-25 00:00:00 Buy BRENT, Price: 102.7, Quantity: 10780, Cash Balance: 59.51
+2013-07-09 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.2878, Deri_MMRatio: 0.001068, Price: 108.14, Quantity: 10780, Holding Days: 50, P/L: 5.30%, Account Total: 1165808.71
+2013-11-14 00:00:00 Buy BRENT, Price: 108.55, Quantity: 10739, Cash Balance: 90.26
+2014-04-16 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.2837, Deri_MMRatio: 0.000528, Price: 109.63, Quantity: 10739, Holding Days: 100, P/L: 0.99%, Account Total: 1177406.83
+2015-01-27 00:00:00 Buy BRENT, Price: 48.94, Quantity: 24058, Cash Balance: 8.31
+2016-06-10 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -16.4690, Deri_MMRatio: 0.002969, Price: 50.36, Quantity: 24058, Holding Days: 346, P/L: 2.90%, Account Total: 1211569.19
+2016-09-22 00:00:00 Buy BRENT, Price: 47.42, Quantity: 25549, Cash Balance: 35.61
+2016-10-19 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.6796, Deri_MMRatio: 0.001658, Price: 52.63, Quantity: 25549, Holding Days: 18, P/L: 10.99%, Account Total: 1344679.48
+2017-06-28 00:00:00 Buy BRENT, Price: 47.44, Quantity: 28344, Cash Balance: 40.12
+2018-08-17 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 14.4956, Deri_MMRatio: -0.002245, Price: 71.78, Quantity: 28344, Holding Days: 287, P/L: 51.31%, Account Total: 2034572.44
+2018-12-03 00:00:00 Buy BRENT, Price: 61.86, Quantity: 32889, Cash Balance: 58.90
+2020-01-16 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.6800, Deri_MMRatio: 0.000514, Price: 64.75, Quantity: 32889, Holding Days: 281, P/L: 4.67%, Account Total: 2129621.65
+2020-04-29 00:00:00 Buy BRENT, Price: 23.11, Quantity: 92151, Cash Balance: 12.04
+2020-08-20 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -19.6972, Deri_MMRatio: 0.004556, Price: 44.91, Quantity: 92151, Holding Days: 79, P/L: 94.33%, Account Total: 4138513.45
+2020-11-20 00:00:00 Buy BRENT, Price: 45.13, Quantity: 91702, Cash Balance: 2.19
+2021-02-24 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -3.3809, Deri_MMRatio: 0.002876, Price: 67.34, Quantity: 91702, Holding Days: 63, P/L: 49.21%, Account Total: 6175214.87
+2021-09-15 00:00:00 Buy BRENT, Price: 75.46, Quantity: 81834, Cash Balance: 21.23
+2022-04-19 00:00:00 Cond1 sell BRENT, Accu_MMRatio: 12.5034, Deri_MMRatio: 0.000813, Price: 107.72, Quantity: 81834, Holding Days: 149, P/L: 42.75%, Account Total: 8815179.71
+2022-07-18 00:00:00 Buy BRENT, Price: 105.59, Quantity: 83484, Cash Balance: 104.15
+2023-11-30 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.7726, Deri_MMRatio: -0.003087, Price: 80.47, Quantity: 83484, Holding Days: 347, P/L: -23.79%, Account Total: 6718061.63
+2024-03-14 00:00:00 Buy BRENT, Price: 85.13, Quantity: 78915, Cash Balance: 27.68
+2024-04-08 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -0.2642, Deri_MMRatio: 0.001709, Price: 90.55, Quantity: 78915, Holding Days: 16, P/L: 6.37%, Account Total: 7145780.93
+2024-08-12 00:00:00 Buy BRENT, Price: 81.99, Quantity: 87154, Cash Balance: 24.47
+2026-03-31 00:00:00 Cond1 sell BRENT, Accu_MMRatio: -2.5602, Deri_MMRatio: 0.008629, Price: 103.9, Quantity: 87154, Holding Days: 411, P/L: 26.72%, Account Total: 9055325.07
+
+=== Account Position Information ===
+Code: BRENT
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-31
+Cash Balance: 9055325.07
+Account Total: 9055325.07
+Date Of Trading Start: 2007-07-31
+
+Target Latest Close : 108.830
+Target Total Return (Start->Latest): 43.69%
+Target Annualized Return (CAGR): 1.95%
+Target Max Drawdown: -86.77%
+Target Max Drawdown Period: 2008-07-03 (Close=146.080) -> 2020-04-21 (Close=19.330) (2914 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 19.81%
+Max Drawdown: -58.86%
+Max Drawdown Period: 2015-05-06 (Account total=1630418.97) -> 2016-01-20 (Account total=670745.35) (178 trading days)
+
+Annual Returns (from first buy):
+  2007: 21.80%
+  2008: 30.42%
+  2009: 53.67%
+  2010: 26.50%
+  2011: 13.33%
+  2012: 3.60%
+  2013: 7.48%
+  2014: -1.06%
+  2015: -23.82%
+  2016: 49.93%
+  2017: 40.39%
+  2018: -6.26%
+  2019: 22.68%
+  2020: 118.83%
+  2021: 34.00%
+  2022: 12.68%
+  2023: -6.33%
+  2024: -3.17%
+  2025: -18.48%
+  2026: 70.75%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BRENT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.0225
+QQQ = 15
+MedMax2 = 0.16
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.28
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: IRELAND
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: IRELAND
+  Holding Quantity: 328
+  Current Price: 13163.04
+  Holding Value: 4317477.12
+  Buy Date: 2025-11-26
+  Holding Days: 63
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1656.01
+Account Total: 4319133.13
+Date Of Trading Start: 1997-07-11
+
+Target Latest Close : 13163.040
+Target Total Return (Start->Latest): 277.10%
+Target Annualized Return (CAGR): 4.74%
+Target Max Drawdown: -80.80%
+Target Max Drawdown Period: 2007-02-20 (Close=9981.080) -> 2009-03-09 (Close=1916.380) (519 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.74%
+Max Drawdown: -37.57%
+Max Drawdown Period: 2001-06-22 (Account total=713726.07) -> 2002-10-09 (Account total=445590.15) (326 trading days)

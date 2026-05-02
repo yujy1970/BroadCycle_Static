@@ -1,0 +1,130 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy RUSSELL2000, Price: 260.82, Quantity: 1150, Cash Balance: 57.00
+1996-06-03 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 31.9546, Deri_MMRatio: 0.001230, Price: 361.44, Quantity: 1150, Holding Days: 295, P/L: 38.58%, Account Total: 415713.00
+1996-08-01 00:00:00 Buy RUSSELL2000, Price: 319.42, Quantity: 1301, Cash Balance: 147.58
+1996-08-19 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 34.0453, Deri_MMRatio: -0.002636, Price: 329.34, Quantity: 1301, Holding Days: 12, P/L: 3.11%, Account Total: 428618.92
+1996-09-16 00:00:00 Buy RUSSELL2000, Price: 342.29, Quantity: 1252, Cash Balance: 71.84
+1997-10-03 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 23.4861, Deri_MMRatio: 0.001776, Price: 459.52, Quantity: 1252, Holding Days: 266, P/L: 34.25%, Account Total: 575390.88
+1997-12-30 00:00:00 Buy RUSSELL2000, Price: 434.01, Quantity: 1325, Cash Balance: 327.63
+1998-04-22 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 35.2044, Deri_MMRatio: 0.001161, Price: 491.14, Quantity: 1325, Holding Days: 77, P/L: 13.16%, Account Total: 651088.13
+1998-06-23 00:00:00 Buy RUSSELL2000, Price: 447.42, Quantity: 1455, Cash Balance: 92.03
+1998-07-10 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 37.3406, Deri_MMRatio: -0.001606, Price: 458.43, Quantity: 1455, Holding Days: 12, P/L: 2.46%, Account Total: 667107.68
+1998-09-08 00:00:00 Buy RUSSELL2000, Price: 361.93, Quantity: 1843, Cash Balance: 70.69
+1999-10-29 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -0.2372, Deri_MMRatio: -0.000207, Price: 428.64, Quantity: 1843, Holding Days: 289, P/L: 18.43%, Account Total: 790054.21
+1999-12-03 00:00:00 Buy RUSSELL2000, Price: 464.58, Quantity: 1700, Cash Balance: 268.21
+2000-03-01 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 9.4008, Deri_MMRatio: 0.004950, Price: 588.35, Quantity: 1700, Holding Days: 60, P/L: 26.64%, Account Total: 1000463.21
+2000-05-30 00:00:00 Buy RUSSELL2000, Price: 476.72, Quantity: 2098, Cash Balance: 304.65
+2000-11-17 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 31.6478, Deri_MMRatio: -0.002630, Price: 482.69, Quantity: 2098, Holding Days: 121, P/L: 1.25%, Account Total: 1012988.27
+2000-12-05 00:00:00 Buy RUSSELL2000, Price: 471.17, Quantity: 2149, Cash Balance: 443.94
+2003-11-24 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -1.0882, Deri_MMRatio: 0.001051, Price: 539.51, Quantity: 2149, Holding Days: 744, P/L: 14.50%, Account Total: 1159850.93
+2004-06-30 00:00:00 Buy RUSSELL2000, Price: 591.52, Quantity: 1960, Cash Balance: 471.73
+2004-09-02 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 47.9830, Deri_MMRatio: -0.001725, Price: 559.78, Quantity: 1960, Holding Days: 45, P/L: -5.37%, Account Total: 1097640.53
+2004-10-01 00:00:00 Buy RUSSELL2000, Price: 585.03, Quantity: 1876, Cash Balance: 124.25
+2010-04-16 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -1.5579, Deri_MMRatio: 0.003488, Price: 714.35, Quantity: 1876, Holding Days: 1394, P/L: 22.10%, Account Total: 1340244.85
+2010-07-09 00:00:00 Buy RUSSELL2000, Price: 627.64, Quantity: 2135, Cash Balance: 233.45
+2010-12-27 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 33.6163, Deri_MMRatio: 0.001094, Price: 793.18, Quantity: 2135, Holding Days: 118, P/L: 26.37%, Account Total: 1693672.75
+2011-06-21 00:00:00 Buy RUSSELL2000, Price: 802.98, Quantity: 2109, Cash Balance: 187.93
+2011-08-31 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 40.3008, Deri_MMRatio: -0.002637, Price: 727.04, Quantity: 2109, Holding Days: 50, P/L: -9.46%, Account Total: 1533515.29
+2011-09-14 00:00:00 Buy RUSSELL2000, Price: 709.71, Quantity: 2160, Cash Balance: 541.69
+2013-09-19 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 28.5472, Deri_MMRatio: 0.000218, Price: 1076.48, Quantity: 2160, Holding Days: 506, P/L: 51.68%, Account Total: 2325738.49
+2013-10-11 00:00:00 Buy RUSSELL2000, Price: 1078.73, Quantity: 2155, Cash Balance: 1075.34
+2013-11-05 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 33.6112, Deri_MMRatio: 0.000501, Price: 1108.75, Quantity: 2155, Holding Days: 17, P/L: 2.78%, Account Total: 2390431.59
+2014-04-22 00:00:00 Buy RUSSELL2000, Price: 1155.05, Quantity: 2069, Cash Balance: 633.14
+2014-05-28 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 41.8413, Deri_MMRatio: -0.001876, Price: 1140.09, Quantity: 2069, Holding Days: 25, P/L: -1.30%, Account Total: 2359479.35
+2014-06-09 00:00:00 Buy RUSSELL2000, Price: 1173.12, Quantity: 2011, Cash Balance: 335.03
+2017-01-04 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -0.7525, Deri_MMRatio: 0.002607, Price: 1387.71, Quantity: 2011, Holding Days: 649, P/L: 18.29%, Account Total: 2791019.84
+2017-02-15 00:00:00 Buy RUSSELL2000, Price: 1403.6, Quantity: 1988, Cash Balance: 663.04
+2020-02-21 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -0.1641, Deri_MMRatio: 0.000483, Price: 1676.65, Quantity: 1988, Holding Days: 758, P/L: 19.45%, Account Total: 3333843.24
+2020-03-24 00:00:00 Buy RUSSELL2000, Price: 1100.14, Quantity: 3030, Cash Balance: 419.04
+2020-06-03 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -6.9225, Deri_MMRatio: 0.006217, Price: 1450.16, Quantity: 3030, Holding Days: 49, P/L: 31.82%, Account Total: 4394403.84
+2020-06-30 00:00:00 Buy RUSSELL2000, Price: 1443.29, Quantity: 3044, Cash Balance: 1029.08
+2021-01-11 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -5.8690, Deri_MMRatio: 0.006142, Price: 2091.79, Quantity: 3044, Holding Days: 134, P/L: 44.93%, Account Total: 6368437.84
+2022-01-31 00:00:00 Buy RUSSELL2000, Price: 2028.78, Quantity: 3139, Cash Balance: 97.42
+2024-04-03 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: -0.6059, Deri_MMRatio: 0.000441, Price: 2089.07, Quantity: 3139, Holding Days: 545, P/L: 2.97%, Account Total: 6557688.15
+2024-04-29 00:00:00 Buy RUSSELL2000, Price: 2001.71, Quantity: 3276, Cash Balance: 86.19
+2025-04-01 00:00:00 Cond1 sell RUSSELL2000, Accu_MMRatio: 24.7671, Deri_MMRatio: -0.002730, Price: 1998.33, Quantity: 3276, Holding Days: 231, P/L: -0.17%, Account Total: 6546615.27
+2025-04-14 00:00:00 Buy RUSSELL2000, Price: 1879.68, Quantity: 3482, Cash Balance: 1569.51
+
+=== Account Position Information ===
+Code: RUSSELL2000
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: RUSSELL2000
+  Holding Quantity: 3482
+  Current Price: 2812.82
+  Holding Value: 9794246.20
+  Buy Date: 2025-04-15
+  Holding Days: 262
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1569.51
+Account Total: 9795815.71
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 2812.822
+Target Total Return (Start->Latest): 978.49%
+Target Annualized Return (CAGR): 7.95%
+Target Max Drawdown: -59.89%
+Target Max Drawdown Period: 2007-07-13 (Close=855.770) -> 2009-03-09 (Close=343.260) (416 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.87%
+Max Drawdown: -59.88%
+Max Drawdown Period: 2007-07-13 (Account total=1605548.77) -> 2009-03-09 (Account total=644080.01) (416 trading days)
+
+Annual Returns (from first buy):
+  1995: 21.17%
+  1996: 24.94%
+  1997: 27.60%
+  1998: 34.24%
+  1999: 10.36%
+  2000: 21.11%
+  2001: 1.03%
+  2002: -21.57%
+  2003: 40.81%
+  2004: 5.40%
+  2005: 3.32%
+  2006: 17.00%
+  2007: -2.75%
+  2008: -34.80%
+  2009: 25.21%
+  2010: 44.34%
+  2011: -5.48%
+  2012: 14.63%
+  2013: 30.26%
+  2014: 1.36%
+  2015: -5.71%
+  2016: 19.47%
+  2017: 11.86%
+  2018: -12.17%
+  2019: 23.72%
+  2020: 81.23%
+  2021: 5.92%
+  2022: -13.19%
+  2023: 15.09%
+  2024: 14.82%
+  2025: 18.31%
+  2026: 13.33%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = RUSSELL2000
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.015
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 99.0
+Deri2 = 0.006
+Trend2 = 0.42
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

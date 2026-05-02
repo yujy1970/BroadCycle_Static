@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>BroadCycle · Combination Strategy</title>
+  <link rel="stylesheet" href="/static/css/site.css"/>
+  
+  <style>
+
+    .app{display:flex;min-height:100vh;width:100%}
+    .main{flex:1}
+    /* reduce whitespace and let content expand */
+    .wrap{max-width:1200px;margin:0 auto;padding:4px 8px}
+    .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 10px;font-size:14px;cursor:pointer}
+    .overlay{position:fixed;inset:0;background:rgba(0,0,0,.28);display:none;z-index:50}
+    .overlay.open{display:block}
+    .overlay-panel{position:absolute;right:10px;top:10px;width:min(340px, calc(100% - 20px));background:#fff;border-radius:14px;border:1px solid var(--line);box-shadow:0 10px 30px rgba(0,0,0,.12);padding:10px}
+    .overlay-panel a{display:block;padding:10px 10px;border-radius:10px;color:var(--text);text-decoration:none}
+    .overlay-panel a:hover{background:#f5f5f5}
+    @media (max-width: 900px){
+      .sidebar{display:none}
+      .menu-btn{display:inline-block}
+      .mobile-brand-header{display:flex}
+    }
+  
+    /* Combo page: maximize chart area */
+    .detail-layout{max-width:none;margin:0;padding:6px 0 0 0;display:block}
+    .detail-main{width:100%}
+    .chart-card{max-width:none}
+    /* hide side panel to make chart much wider */
+    .detail-side{display:none}
+
+
+    /* expand width: hide sidebar on this page */
+    .main{width:100%}
+    .wrap{padding:6px 0}
+    .detail-layout{padding:4px 0}
+
+    /* Ensure layout utilities exist on this page (strategy detail style parity) */
+    .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    .chk{display:inline-flex;align-items:center;gap:6px;padding:4px 8px;border-radius:10px;border:1px solid var(--line);background:#fff;cursor:pointer;user-select:none}
+    .chk input{margin:0}
+
+    /* Make canvas behave like strategy detail chart */
+    canvas.chart{display:block;width:100%;background:#ffffff;border-radius:14px;border:1px solid var(--line)}
+    .combo-chart-wrap{width:100%;margin:0;}
+    .combo-chart-grid{display:flex;align-items:stretch;gap:10px;width:81%;margin-right:auto}
+    .combo-main-wrap{flex:1 1 auto;min-width:0}
+    .combo-pie-wrap{flex:0 0 280px;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;border:1px solid var(--line);border-radius:14px;background:#fff;padding:8px}
+    #pieCanvas{display:block;width:100%;height:min(38vw,420px);max-height:420px;min-height:260px;margin-top:92px}
+
+    .pie-aux-wrap{position:relative;width:100%;display:flex;justify-content:center}
+    .sr-wrap{position:absolute;right:6px;top:0px;width:160px;height:138px;background:#fff;display:flex;align-items:center;justify-content:center;z-index:4}
+    #srCanvas{display:block;width:160px;height:138px;background:#fff}
+    @media (max-width:900px){ .sr-wrap{right:2px;top:-2px;width:142px;height:128px} #srCanvas{width:142px;height:128px} }
+
+    #bcSummaryRow{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:nowrap;margin-bottom:8px}
+    #bcSelectedKeys{flex:1 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    #bcPortfolioStats{flex:0 0 auto;font-weight:700;white-space:nowrap}
+    @media (max-width: 1100px){ .combo-chart-grid{flex-direction:column;} .combo-pie-wrap{flex-basis:auto} #pieCanvas{height:280px;margin-top:96px} }
+    @media (max-width: 900px){
+      .wrap{padding:4px 0 0 0;}
+      .detail-layout{padding:2px 0 0 0;}
+      .detail-main{padding-right:0;margin-right:0;}
+      .combo-chart-grid{width:100%;gap:6px;}
+      .combo-main-wrap{margin-right:-14px;}
+      .combo-chart-wrap{width:100%;margin-right:-14px;}
+      .combo-chart-wrap canvas{width:calc(100% + 14px) !important;}
+      .combo-pie-wrap{margin-right:-6px;} #pieCanvas{margin-top:104px;}
+    }
+  
+
+    /* Smaller font for sector/key selectors */
+    #bcSectorRows, #bcSectorRows * { font-size: 80% !important; line-height: 1.15 !important; }
+    .americas-sep{opacity:.45; padding:0 2px}
+
+    /* Portfolio builder: sector + keys must stay in one line */
+    #bcSectorRows{display:flex;flex-direction:column;gap:6px;margin-top:4px}
+    #bcSectorRows .sector-row{display:flex;align-items:center;gap:10px;flex-wrap:nowrap}
+    #bcSectorRows .sector-name{flex:0 0 auto;white-space:nowrap;font-weight:600;opacity:.9}
+    #bcSectorRows .sector-keys{flex:1 1 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;padding-bottom:2px}
+    #bcSectorRows .sector-keys::-webkit-scrollbar{height:6px}
+    #bcSectorRows .sector-keys::-webkit-scrollbar-thumb{background:rgba(0,0,0,.18);border-radius:999px}
+    /* Force smaller font (80%) even if site.css overrides */
+    #bcSectorRows, #bcSectorRows * { font-size: 80% !important; line-height: 1.15 !important; }
+    .americas-sep{opacity:.45; padding:0 2px}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="mobile-brand-header">
+    <div class="brand">
+      <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Research demo — not investment advice</div>
+        </div>
+      </div>
+    </div>
+    <button class="menu-btn" id="bcMenuBtn">Menu</button>
+  </div>
+  
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Research demo — not investment advice</div>
+        </div>
+      </div>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    <a class="nav-item " href="/Home/Introduction/">Introduction</a>
+    <a class="nav-item " href="/Home/Explorer/">Global Explorer</a>
+    <a class="nav-item active" href="/Home/Combination/">Combination Strategy</a>
+    <a class="nav-item " href="/Home/Portfolio/">Portfolio</a>
+    <a class="nav-item " href="/Home/MessageBoard/">Message Board</a>
+    <a class="nav-item " href="/Home/Contacts/">Contact us</a>
+  </nav>
+</aside>
+
+  <main class="main">
+<div class="detail-layout" style="padding-top:6px">
+  <div class="detail-main">
+    <div class="chart-card">
+      <div class="row" style="align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:6px">
+        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+</div>
+        <span class="muted small" id="bcCursorInfo"></span>
+      </div>
+
+      <div id="bcComboSelector" class="card" style="padding:10px 10px;margin-bottom:10px">
+                <div id="bcSectorRows"></div>
+      </div>
+
+      <div class="row" id="bcChartTabs" style="gap:8px;flex-wrap:wrap;margin:4px 0 4px 0"></div>
+
+      <div class="muted small" id="bcStatus" style="margin:2px 0 4px 0">Loading…</div>
+
+      <div class="combo-chart-grid">
+        <div class="combo-main-wrap">
+          <div class="combo-chart-wrap">
+            <canvas id="mainCanvas" class="chart" height="420" style="height:calc(100vh - 360px);"></canvas>
+          </div>
+        </div>
+        <div class="combo-pie-wrap">
+          <div class="muted small" style="font-weight:700;margin:2px 0 8px 0;align-self:flex-start">Portfolio Composition</div>
+          <div class="pie-aux-wrap">
+            <canvas id="pieCanvas" class="chart" height="420"></canvas>
+            <div class="sr-wrap">
+              <canvas id="srCanvas" height="120"></canvas>
+            </div>
+          </div>
+          <div id="bcPieStats" class="muted small" style="margin-top:10px;width:100%;text-align:left;line-height:1.5">
+            <div id="bcTradingStartLine">Trading Start: --</div>
+            <div id="bcInitialCapitalLine">Initial Capital: --</div>
+            <div id="bcAccountTotalLine">Account Total: --</div>
+            <div id="bcCAGRLine">CAGR: --</div>
+            <div id="bcMaxDDLine">MaxDD: --</div>
+            <div id="bcMaxDDPeriodLine">MaxDD Period: --</div>
+          </div>
+        </div>
+      </div>
+
+      <div id="bcSummaryRow" class="muted small" style="margin-top:8px;justify-content:flex-end">
+        <a id="bcDownloadAll" class="btn" style="display:none;border:1px solid var(--line);background:#fff;border-radius:12px;padding:6px 10px;text-decoration:none;color:var(--text)">Download MoneyGrow_All.txt</a>
+      </div>
+</div>
+  </div>
+</div>
+
+<div class="overlay" id="bcOverlay" aria-hidden="true">
+  <div class="overlay-panel" role="dialog" aria-label="Menu">
+    <a href="/Home/Introduction/">Introduction</a>
+    <a href="/Home/Explorer/">Global Explorer</a>
+    <a href="/Home/Combination/">Combination Strategy</a>
+    <a href="/Home/Portfolio/">Portfolio</a>
+    <a href="/Home/MessageBoard/">Message Board</a>
+    <a href="/Home/Contacts/">Contact us</a>
+  </div>
+</div>
+
+
+<script>
+  window.BC_CFG = {
+    mode: "portfolio_builder",
+    assetDbPath: "/static/data/asset_db.txt",
+    indexDir: "/static/index",
+    recordDir: "/static/record",
+    maxPoints: 900
+  };
+</script>
+<script src="/static/js/strategy_detail.js"></script>
+
+<script>
+  window.addEventListener("load", () => {
+    const btn = document.getElementById("bcMenuBtn");
+    const ov  = document.getElementById("bcOverlay");
+    if (!btn || !ov) return;
+    btn.addEventListener("click", () => {
+      ov.classList.toggle("open");
+      ov.setAttribute("aria-hidden", ov.classList.contains("open") ? "false" : "true");
+    });
+    ov.addEventListener("click", (e) => { if (e.target === ov) ov.classList.remove("open"); });
+    window.addEventListener("keydown", (e) => { if (e.key === "Escape") ov.classList.remove("open"); });
+  });
+</script>
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

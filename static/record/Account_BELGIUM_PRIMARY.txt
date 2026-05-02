@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BELGIUM_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: BELGIUM_PRIMARY
+  Holding Quantity: 54534
+  Current Price: 24.22
+  Holding Value: 1320813.48
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 14.29
+Account Total: 1320827.77
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 23.598
+Target Total Return (Start->Latest): 76.45%
+Target Annualized Return (CAGR): 2.73%
+Target Max Drawdown: -76.53%
+Target Max Drawdown Period: 2007-07-12 (Close=20.177) -> 2009-03-09 (Close=4.736) (417 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.34%
+Max Drawdown: -28.07%
+Max Drawdown Period: 2011-04-29 (Account total=600717.46) -> 2012-07-24 (Account total=432121.27) (318 trading days)

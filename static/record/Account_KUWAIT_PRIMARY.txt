@@ -1,0 +1,18 @@
+=== Account Position Information ===
+Code: KUWAIT_PRIMARY
+Current date: 2018-03-29 { After Hours }
+Mode: ETF data
+Current position: None
+  Holding quantity: 0
+  Current price: 0.00
+  Holding value: 0.00
+  Buy date: N/A
+  Holding days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+Cash balance: 300000.00
+Account total: 300000.00
+Date of Trading start: 1997-03-05
+Initial capital: 300000.00
+Annualized return: 0.00%
+Max Drawdown: 0.00%

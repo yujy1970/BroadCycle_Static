@@ -1,0 +1,132 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy SWITZERLAND, Price: 2511.9, Quantity: 119, Cash Balance: 1083.90
+1996-05-23 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 9.0994, Deri_MMRatio: -0.001270, Price: 3546.9, Quantity: 119, Holding Days: 283, P/L: 41.20%, Account Total: 423165.00
+1996-08-05 00:00:00 Buy SWITZERLAND, Price: 3622.6, Quantity: 116, Cash Balance: 2943.40
+1997-07-17 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 11.9026, Deri_MMRatio: 0.001113, Price: 5867.3, Quantity: 116, Holding Days: 238, P/L: 61.96%, Account Total: 683550.20
+1997-09-17 00:00:00 Buy SWITZERLAND, Price: 5551.7, Quantity: 123, Cash Balance: 691.10
+1997-09-24 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 14.6512, Deri_MMRatio: -0.001103, Price: 5732.3, Quantity: 123, Holding Days: 5, P/L: 3.25%, Account Total: 705764.00
+1997-11-20 00:00:00 Buy SWITZERLAND, Price: 5655.7, Quantity: 124, Cash Balance: 4457.20
+1998-03-13 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 12.2232, Deri_MMRatio: 0.001197, Price: 7329.6, Quantity: 124, Holding Days: 77, P/L: 29.60%, Account Total: 913327.60
+1998-05-04 00:00:00 Buy SWITZERLAND, Price: 7640.8, Quantity: 119, Cash Balance: 4072.40
+1998-09-01 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: 11.8045, Deri_MMRatio: -0.006407, Price: 6828.9, Quantity: 119, Holding Days: 84, P/L: -10.63%, Account Total: 816711.50
+1998-12-17 00:00:00 Buy SWITZERLAND, Price: 7006.3, Quantity: 116, Cash Balance: 3980.70
+2000-10-05 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 4.7320, Deri_MMRatio: -0.001910, Price: 7964.4, Quantity: 116, Holding Days: 452, P/L: 13.67%, Account Total: 927851.10
+2002-02-14 00:00:00 Buy SWITZERLAND, Price: 6412.6, Quantity: 144, Cash Balance: 4436.70
+2002-07-03 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: -2.9379, Deri_MMRatio: -0.003739, Price: 5777.7, Quantity: 144, Holding Days: 96, P/L: -9.90%, Account Total: 836425.50
+2003-01-03 00:00:00 Buy SWITZERLAND, Price: 4913.6, Quantity: 170, Cash Balance: 1113.50
+2003-02-10 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: -9.2075, Deri_MMRatio: -0.002693, Price: 4210.4, Quantity: 170, Holding Days: 26, P/L: -14.31%, Account Total: 716881.50
+2003-05-28 00:00:00 Buy SWITZERLAND, Price: 4649.9, Quantity: 154, Cash Balance: 796.90
+2004-04-06 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 9.5627, Deri_MMRatio: -0.001162, Price: 5776.4, Quantity: 154, Holding Days: 216, P/L: 24.23%, Account Total: 890362.50
+2004-11-03 00:00:00 Buy SWITZERLAND, Price: 5535.5, Quantity: 160, Cash Balance: 4682.50
+2006-05-10 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 9.5026, Deri_MMRatio: -0.000486, Price: 8129.2, Quantity: 160, Holding Days: 384, P/L: 46.86%, Account Total: 1305354.50
+2006-07-28 00:00:00 Buy SWITZERLAND, Price: 7954.0, Quantity: 164, Cash Balance: 898.50
+2007-08-29 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: 4.3555, Deri_MMRatio: -0.001449, Price: 8792.5, Quantity: 164, Holding Days: 272, P/L: 10.54%, Account Total: 1442868.50
+2007-11-28 00:00:00 Buy SWITZERLAND, Price: 8674.0, Quantity: 166, Cash Balance: 2984.50
+2008-01-23 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: -1.2633, Deri_MMRatio: -0.003456, Price: 7563.9, Quantity: 166, Holding Days: 34, P/L: -12.80%, Account Total: 1258591.90
+2009-05-08 00:00:00 Buy SWITZERLAND, Price: 5378.36, Quantity: 234, Cash Balance: 55.66
+2010-04-13 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 9.4662, Deri_MMRatio: 0.000154, Price: 6921.59, Quantity: 234, Holding Days: 234, P/L: 28.69%, Account Total: 1619707.72
+2010-09-01 00:00:00 Buy SWITZERLAND, Price: 6322.13, Quantity: 256, Cash Balance: 1242.44
+2011-08-02 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: 0.1163, Deri_MMRatio: -0.001533, Price: 5482.1, Quantity: 256, Holding Days: 232, P/L: -13.29%, Account Total: 1404660.04
+2011-11-30 00:00:00 Buy SWITZERLAND, Price: 5665.41, Quantity: 247, Cash Balance: 5303.77
+2012-11-16 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 5.0031, Deri_MMRatio: -0.001681, Price: 6541.73, Quantity: 247, Holding Days: 244, P/L: 15.47%, Account Total: 1621111.08
+2013-04-24 00:00:00 Buy SWITZERLAND, Price: 7859.67, Quantity: 206, Cash Balance: 2019.06
+2013-06-27 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 9.0861, Deri_MMRatio: -0.003124, Price: 7685.33, Quantity: 206, Holding Days: 43, P/L: -2.22%, Account Total: 1585197.04
+2013-10-22 00:00:00 Buy SWITZERLAND, Price: 8205.58, Quantity: 193, Cash Balance: 1520.10
+2015-09-30 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: 1.8224, Deri_MMRatio: -0.002079, Price: 8620.46, Quantity: 193, Holding Days: 483, P/L: 5.06%, Account Total: 1665268.88
+2015-10-23 00:00:00 Buy SWITZERLAND, Price: 8913.89, Quantity: 186, Cash Balance: 7285.34
+2016-02-10 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: -0.7675, Deri_MMRatio: -0.002656, Price: 7614.06, Quantity: 186, Holding Days: 74, P/L: -14.58%, Account Total: 1423500.50
+2016-05-26 00:00:00 Buy SWITZERLAND, Price: 8278.45, Quantity: 171, Cash Balance: 7885.55
+2017-11-24 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 4.4679, Deri_MMRatio: -0.000439, Price: 9305.33, Quantity: 171, Holding Days: 382, P/L: 12.40%, Account Total: 1599096.98
+2018-10-31 00:00:00 Buy SWITZERLAND, Price: 9005.31, Quantity: 177, Cash Balance: 5157.11
+2020-02-06 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 4.9637, Deri_MMRatio: 0.000552, Price: 10995.65, Quantity: 177, Holding Days: 313, P/L: 22.10%, Account Total: 1951387.16
+2020-06-05 00:00:00 Buy SWITZERLAND, Price: 10114.02, Quantity: 192, Cash Balance: 9495.32
+2021-10-13 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 6.0128, Deri_MMRatio: -0.002103, Price: 11849.72, Quantity: 192, Holding Days: 345, P/L: 17.16%, Account Total: 2284641.56
+2021-12-08 00:00:00 Buy SWITZERLAND, Price: 12620.22, Quantity: 181, Cash Balance: 381.74
+2022-06-20 00:00:00 Cond3 sell SWITZERLAND, Accu_MMRatio: 0.3593, Deri_MMRatio: -0.002732, Price: 10519.4, Quantity: 181, Holding Days: 132, P/L: -16.65%, Account Total: 1904393.14
+2022-10-04 00:00:00 Buy SWITZERLAND, Price: 10532.17, Quantity: 180, Cash Balance: 8602.54
+2024-10-31 00:00:00 Cond1 sell SWITZERLAND, Accu_MMRatio: 4.0879, Deri_MMRatio: -0.000421, Price: 11843.05, Quantity: 180, Holding Days: 524, P/L: 12.45%, Account Total: 2140351.54
+2025-01-22 00:00:00 Buy SWITZERLAND, Price: 12203.4, Quantity: 175, Cash Balance: 4756.54
+
+=== Account Position Information ===
+Code: SWITZERLAND
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: SWITZERLAND
+  Holding Quantity: 175
+  Current Price: 12839.27
+  Holding Value: 2246872.25
+  Buy Date: 2025-01-23
+  Holding Days: 284
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 4756.54
+Account Total: 2251628.79
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 12839.270
+Target Total Return (Start->Latest): 411.30%
+Target Annualized Return (CAGR): 5.42%
+Target Max Drawdown: -56.31%
+Target Max Drawdown Period: 1998-07-21 (Close=8412.000) -> 2003-03-12 (Close=3675.400) (1169 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.70%
+Max Drawdown: -29.01%
+Max Drawdown Period: 2015-08-05 (Account total=1840190.57) -> 2016-11-04 (Account total=1306322.75) (318 trading days)
+
+Annual Returns (from first buy):
+  1995: 29.92%
+  1996: 16.96%
+  1997: 69.78%
+  1998: 6.81%
+  1999: 5.69%
+  2000: 5.19%
+  2001: 0.00%
+  2002: -9.85%
+  2003: 1.13%
+  2004: 8.24%
+  2005: 33.04%
+  2006: 18.36%
+  2007: -2.10%
+  2008: -10.83%
+  2009: 21.71%
+  2010: 7.64%
+  2011: -10.75%
+  2012: 10.16%
+  2013: -2.25%
+  2014: 9.50%
+  2015: -5.06%
+  2016: -14.20%
+  2017: 13.13%
+  2018: -6.38%
+  2019: 25.86%
+  2020: 9.56%
+  2021: 12.90%
+  2022: -16.77%
+  2023: 3.79%
+  2024: 6.31%
+  2025: 8.70%
+  2026: -3.22%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SWITZERLAND
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.022
+QQQ = 10
+MedMax2 = 0.12
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.04
+Accu1 = -99.0
+Deri1 = -0.006
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

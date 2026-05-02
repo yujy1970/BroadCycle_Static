@@ -1,0 +1,132 @@
+=== Trade Process ===
+2007-04-18 00:00:00 Initial Buy NATGAS_PRIMARY, Price: 6438.4, Quantity: 46, Cash Balance: 3833.60
+2007-09-17 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -18.7617, Deri_MMRatio: 0.015032, Price: 4990.72, Quantity: 46, Holding Days: 105, P/L: -22.49%, Account Total: 233406.72
+2008-01-02 00:00:00 Buy NATGAS_PRIMARY, Price: 4802.56, Quantity: 48, Cash Balance: 2883.84
+2008-01-10 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -20.9845, Deri_MMRatio: 0.015571, Price: 5136.64, Quantity: 48, Holding Days: 6, P/L: 6.96%, Account Total: 249442.56
+2008-10-01 00:00:00 Buy NATGAS_PRIMARY, Price: 4450.56, Quantity: 56, Cash Balance: 211.20
+2008-10-20 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 49.8664, Deri_MMRatio: -0.001222, Price: 3832.32, Quantity: 56, Holding Days: 13, P/L: -13.89%, Account Total: 214821.12
+2008-12-16 00:00:00 Buy NATGAS_PRIMARY, Price: 3079.68, Quantity: 69, Cash Balance: 2323.20
+2009-03-16 00:00:00 Cond3 sell NATGAS_PRIMARY, Accu_MMRatio: 2.9352, Deri_MMRatio: -0.003560, Price: 2018.56, Quantity: 69, Holding Days: 60, P/L: -34.46%, Account Total: 141603.84
+2009-04-14 00:00:00 Buy NATGAS_PRIMARY, Price: 1888.0, Quantity: 75, Cash Balance: 3.84
+2009-05-12 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -42.5840, Deri_MMRatio: 0.015460, Price: 2205.44, Quantity: 75, Holding Days: 20, P/L: 16.81%, Account Total: 165411.84
+2009-07-14 00:00:00 Buy NATGAS_PRIMARY, Price: 1616.64, Quantity: 102, Cash Balance: 514.56
+2009-09-18 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -91.1058, Deri_MMRatio: 0.018931, Price: 1469.44, Quantity: 102, Holding Days: 47, P/L: -9.11%, Account Total: 150397.44
+2009-12-08 00:00:00 Buy NATGAS_PRIMARY, Price: 1210.88, Quantity: 124, Cash Balance: 248.32
+2009-12-17 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -93.1214, Deri_MMRatio: 0.019863, Price: 1370.88, Quantity: 124, Holding Days: 7, P/L: 13.21%, Account Total: 170237.44
+2010-03-03 00:00:00 Buy NATGAS_PRIMARY, Price: 1108.48, Quantity: 153, Cash Balance: 640.00
+2010-06-15 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -66.3212, Deri_MMRatio: 0.015942, Price: 1111.04, Quantity: 153, Holding Days: 72, P/L: 0.23%, Account Total: 170629.12
+2010-09-03 00:00:00 Buy NATGAS_PRIMARY, Price: 823.04, Quantity: 207, Cash Balance: 259.84
+2010-11-08 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -57.2069, Deri_MMRatio: 0.017372, Price: 762.88, Quantity: 207, Holding Days: 45, P/L: -7.31%, Account Total: 158176.00
+2011-01-07 00:00:00 Buy NATGAS_PRIMARY, Price: 762.88, Quantity: 207, Cash Balance: 259.84
+2012-06-27 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -61.9089, Deri_MMRatio: 0.016338, Price: 306.24, Quantity: 207, Holding Days: 370, P/L: -59.86%, Account Total: 63651.52
+2012-08-23 00:00:00 Buy NATGAS_PRIMARY, Price: 304.8, Quantity: 208, Cash Balance: 253.12
+2012-10-01 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -68.3228, Deri_MMRatio: 0.017332, Price: 353.92, Quantity: 208, Holding Days: 26, P/L: 16.12%, Account Total: 73868.48
+2012-12-18 00:00:00 Buy NATGAS_PRIMARY, Price: 300.96, Quantity: 245, Cash Balance: 133.28
+2013-04-18 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -17.3301, Deri_MMRatio: 0.013040, Price: 380.8, Quantity: 245, Holding Days: 82, P/L: 26.53%, Account Total: 93429.28
+2013-09-20 00:00:00 Buy NATGAS_PRIMARY, Price: 305.92, Quantity: 305, Cash Balance: 123.68
+2013-12-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 17.5887, Deri_MMRatio: 0.014034, Price: 334.24, Quantity: 305, Holding Days: 55, P/L: 9.26%, Account Total: 102066.88
+2014-10-28 00:00:00 Buy NATGAS_PRIMARY, Price: 315.84, Quantity: 323, Cash Balance: 50.56
+2014-11-06 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 47.7473, Deri_MMRatio: 0.019618, Price: 360.8, Quantity: 323, Holding Days: 7, P/L: 14.24%, Account Total: 116588.96
+2015-01-09 00:00:00 Buy NATGAS_PRIMARY, Price: 233.76, Quantity: 498, Cash Balance: 176.48
+2015-03-17 00:00:00 Cond3 sell NATGAS_PRIMARY, Accu_MMRatio: 1.7578, Deri_MMRatio: 0.003909, Price: 225.28, Quantity: 498, Holding Days: 45, P/L: -3.63%, Account Total: 112365.92
+2015-04-15 00:00:00 Buy NATGAS_PRIMARY, Price: 207.36, Quantity: 541, Cash Balance: 184.16
+2015-12-31 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -63.4227, Deri_MMRatio: 0.015923, Price: 140.16, Quantity: 541, Holding Days: 181, P/L: -32.41%, Account Total: 76010.72
+2016-03-07 00:00:00 Buy NATGAS_PRIMARY, Price: 96.8, Quantity: 785, Cash Balance: 22.72
+2016-06-08 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -76.4090, Deri_MMRatio: 0.016126, Price: 118.88, Quantity: 785, Holding Days: 65, P/L: 22.81%, Account Total: 93343.52
+2016-08-16 00:00:00 Buy NATGAS_PRIMARY, Price: 124.8, Quantity: 747, Cash Balance: 117.92
+2016-11-28 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -43.1615, Deri_MMRatio: 0.021891, Price: 134.08, Quantity: 747, Holding Days: 70, P/L: 7.44%, Account Total: 100275.68
+2017-07-27 00:00:00 Buy NATGAS_PRIMARY, Price: 106.88, Quantity: 938, Cash Balance: 22.24
+2017-10-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 29.5494, Deri_MMRatio: -0.003122, Price: 100.0, Quantity: 938, Holding Days: 51, P/L: -6.44%, Account Total: 93822.24
+2018-04-03 00:00:00 Buy NATGAS_PRIMARY, Price: 90.04, Quantity: 1042, Cash Balance: 0.56
+2018-11-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 5.2267, Deri_MMRatio: 0.017329, Price: 123.12, Quantity: 1042, Holding Days: 155, P/L: 36.74%, Account Total: 128291.60
+2019-03-18 00:00:00 Buy NATGAS_PRIMARY, Price: 100.8, Quantity: 1272, Cash Balance: 74.00
+2019-07-10 00:00:00 Cond3 sell NATGAS_PRIMARY, Accu_MMRatio: 0.7013, Deri_MMRatio: 0.004781, Price: 84.76, Quantity: 1272, Holding Days: 79, P/L: -15.91%, Account Total: 107888.72
+2019-08-08 00:00:00 Buy NATGAS_PRIMARY, Price: 73.48, Quantity: 1468, Cash Balance: 20.08
+2019-09-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -10.9734, Deri_MMRatio: 0.015203, Price: 90.44, Quantity: 1468, Holding Days: 21, P/L: 23.08%, Account Total: 132786.00
+2020-01-08 00:00:00 Buy NATGAS_PRIMARY, Price: 65.84, Quantity: 2016, Cash Balance: 52.56
+2020-08-03 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -56.8530, Deri_MMRatio: 0.018350, Price: 47.96, Quantity: 2016, Holding Days: 143, P/L: -27.16%, Account Total: 96739.92
+2023-06-05 00:00:00 Buy NATGAS_PRIMARY, Price: 24.6, Quantity: 3932, Cash Balance: 12.72
+2023-06-20 00:00:00 Cond3 sell NATGAS_PRIMARY, Accu_MMRatio: 5.4823, Deri_MMRatio: 0.005261, Price: 27.44, Quantity: 3932, Holding Days: 10, P/L: 11.54%, Account Total: 107906.80
+2023-07-18 00:00:00 Buy NATGAS_PRIMARY, Price: 28.08, Quantity: 3842, Cash Balance: 23.44
+2023-10-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -80.2555, Deri_MMRatio: 0.015593, Price: 31.6, Quantity: 3842, Holding Days: 58, P/L: 12.54%, Account Total: 121430.64
+2023-12-15 00:00:00 Buy NATGAS_PRIMARY, Price: 20.2, Quantity: 6011, Cash Balance: 8.44
+2024-01-12 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -93.0336, Deri_MMRatio: 0.016494, Price: 23.96, Quantity: 6011, Holding Days: 18, P/L: 18.61%, Account Total: 144032.00
+2024-03-19 00:00:00 Buy NATGAS_PRIMARY, Price: 15.35, Quantity: 9383, Cash Balance: 2.95
+2024-05-09 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -96.8643, Deri_MMRatio: 0.016046, Price: 16.7, Quantity: 9383, Holding Days: 36, P/L: 8.79%, Account Total: 156699.05
+2024-07-22 00:00:00 Buy NATGAS_PRIMARY, Price: 14.89, Quantity: 10523, Cash Balance: 11.58
+2024-09-27 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: -98.8390, Deri_MMRatio: 0.017208, Price: 16.24, Quantity: 10523, Holding Days: 48, P/L: 9.07%, Account Total: 170905.10
+2025-09-25 00:00:00 Buy NATGAS_PRIMARY, Price: 12.39, Quantity: 13793, Cash Balance: 9.83
+2025-10-02 00:00:00 Cond1 sell NATGAS_PRIMARY, Accu_MMRatio: 42.0965, Deri_MMRatio: 0.017108, Price: 13.37, Quantity: 13793, Holding Days: 5, P/L: 7.91%, Account Total: 184422.24
+2026-04-17 00:00:00 Buy NATGAS_PRIMARY, Price: 10.87, Quantity: 16966, Cash Balance: 1.82
+
+=== Account Position Information ===
+Code: NATGAS_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: NATGAS_PRIMARY
+  Holding Quantity: 16966
+  Current Price: 10.71
+  Holding Value: 181705.86
+  Buy Date: 2026-04-20
+  Holding Days: 9
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1.82
+Account Total: 181707.68
+Date Of Trading Start: 2007-04-19
+
+Target Latest Close : 10.710
+Target Total Return (Start->Latest): -99.84%
+Target Annualized Return (CAGR): -28.58%
+Target Max Drawdown: -99.88%
+Target Max Drawdown Period: 2008-07-01 (Close=8125.440) -> 2026-04-29 (Close=10.150) (4484 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: -2.63%
+Max Drawdown: -85.16%
+Max Drawdown Period: 2007-05-17 (Account total=319724.80) -> 2012-04-19 (Account total=47455.84) (1241 trading days)
+
+Annual Returns (from first buy):
+  2007: -22.59%
+  2008: -11.33%
+  2009: -17.74%
+  2010: -7.09%
+  2011: -45.73%
+  2012: -13.54%
+  2013: 37.52%
+  2014: 14.23%
+  2015: -34.80%
+  2016: 31.92%
+  2017: -6.44%
+  2018: 36.74%
+  2019: 3.50%
+  2020: -27.15%
+  2021: 0.00%
+  2022: 0.00%
+  2023: 26.02%
+  2024: 40.19%
+  2025: 7.91%
+  2026: -1.47%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NATGAS
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 40
+PPP = 0.99
+QQQ = 5
+MedMax2 = 0.19
+Accu2 = 99.0
+Deri2 = 0.015
+Trend2 = 0.105
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.455
+date_start_backtest = 2007-04-18

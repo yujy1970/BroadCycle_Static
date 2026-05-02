@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: MALAYSIA_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: MALAYSIA_PRIMARY
+  Holding Quantity: 24466
+  Current Price: 28.28
+  Holding Value: 691898.48
+  Buy Date: 2025-05-02
+  Holding Days: 219
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3.62
+Account Total: 691902.10
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 28.280
+Target Total Return (Start->Latest): 104.71%
+Target Annualized Return (CAGR): 3.46%
+Target Max Drawdown: -53.04%
+Target Max Drawdown Period: 2008-01-14 (Close=27.072) -> 2008-10-27 (Close=12.714) (199 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.11%
+Max Drawdown: -34.50%
+Max Drawdown Period: 2013-05-14 (Account total=874384.66) -> 2025-06-20 (Account total=572752.68) (2965 trading days)

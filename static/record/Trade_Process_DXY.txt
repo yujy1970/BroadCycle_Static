@@ -1,0 +1,194 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy DXY, Price: 81.71, Quantity: 3671, Cash Balance: 42.59
+1995-04-04 00:00:00 Cond3 sell DXY, Accu_MMRatio: -4.2776, Deri_MMRatio: -0.001242, Price: 82.07, Quantity: 3671, Holding Days: 1, P/L: 0.44%, Account Total: 301321.56
+1995-06-23 00:00:00 Buy DXY, Price: 81.47, Quantity: 3698, Cash Balance: 45.50
+1996-01-31 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.3771, Deri_MMRatio: 0.000301, Price: 87.25, Quantity: 3698, Holding Days: 158, P/L: 7.09%, Account Total: 322696.00
+1996-03-26 00:00:00 Buy DXY, Price: 86.57, Quantity: 3727, Cash Balance: 49.61
+1996-06-07 00:00:00 Cond1 sell DXY, Accu_MMRatio: 3.2111, Deri_MMRatio: 0.001116, Price: 88.5, Quantity: 3727, Holding Days: 53, P/L: 2.23%, Account Total: 329889.11
+1996-07-29 00:00:00 Buy DXY, Price: 86.36, Quantity: 3819, Cash Balance: 80.27
+1997-10-01 00:00:00 Cond1 sell DXY, Accu_MMRatio: 6.0966, Deri_MMRatio: 0.000187, Price: 97.71, Quantity: 3819, Holding Days: 307, P/L: 13.14%, Account Total: 373234.76
+1997-11-20 00:00:00 Buy DXY, Price: 96.73, Quantity: 3858, Cash Balance: 50.42
+1998-09-11 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.7918, Deri_MMRatio: -0.003046, Price: 96.59, Quantity: 3858, Holding Days: 211, P/L: -0.14%, Account Total: 372694.64
+1999-01-11 00:00:00 Buy DXY, Price: 94.59, Quantity: 3940, Cash Balance: 10.04
+1999-06-24 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.0951, Deri_MMRatio: -0.000772, Price: 102.52, Quantity: 3940, Holding Days: 116, P/L: 8.38%, Account Total: 403938.84
+1999-08-18 00:00:00 Buy DXY, Price: 100.51, Quantity: 4018, Cash Balance: 89.66
+1999-10-05 00:00:00 Cond3 sell DXY, Accu_MMRatio: 2.6986, Deri_MMRatio: -0.002099, Price: 98.03, Quantity: 4018, Holding Days: 34, P/L: -2.47%, Account Total: 393974.20
+1999-11-30 00:00:00 Buy DXY, Price: 101.98, Quantity: 3863, Cash Balance: 25.46
+1999-12-13 00:00:00 Cond1 sell DXY, Accu_MMRatio: 2.7435, Deri_MMRatio: 0.001337, Price: 101.64, Quantity: 3863, Holding Days: 9, P/L: -0.33%, Account Total: 392660.78
+2000-01-20 00:00:00 Buy DXY, Price: 101.36, Quantity: 3873, Cash Balance: 93.50
+2000-11-22 00:00:00 Cond1 sell DXY, Accu_MMRatio: 6.6773, Deri_MMRatio: 0.001695, Price: 117.87, Quantity: 3873, Holding Days: 216, P/L: 16.29%, Account Total: 456604.01
+2001-02-28 00:00:00 Buy DXY, Price: 112.04, Quantity: 4075, Cash Balance: 41.01
+2001-08-17 00:00:00 Cond3 sell DXY, Accu_MMRatio: 2.3645, Deri_MMRatio: -0.003878, Price: 113.08, Quantity: 4075, Holding Days: 120, P/L: 0.93%, Account Total: 460842.01
+2001-12-18 00:00:00 Buy DXY, Price: 115.29, Quantity: 3997, Cash Balance: 27.88
+2002-04-09 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.1517, Deri_MMRatio: -0.000805, Price: 117.42, Quantity: 3997, Holding Days: 77, P/L: 1.85%, Account Total: 469355.62
+2002-10-01 00:00:00 Buy DXY, Price: 107.27, Quantity: 4375, Cash Balance: 49.37
+2002-12-19 00:00:00 Cond3 sell DXY, Accu_MMRatio: -5.0530, Deri_MMRatio: -0.001854, Price: 103.53, Quantity: 4375, Holding Days: 57, P/L: -3.49%, Account Total: 452993.12
+2003-07-28 00:00:00 Buy DXY, Price: 95.14, Quantity: 4761, Cash Balance: 31.58
+2003-10-06 00:00:00 Cond3 sell DXY, Accu_MMRatio: -5.6488, Deri_MMRatio: -0.001003, Price: 92.36, Quantity: 4761, Holding Days: 50, P/L: -2.92%, Account Total: 439757.54
+2004-03-22 00:00:00 Buy DXY, Price: 87.76, Quantity: 5010, Cash Balance: 79.94
+2004-10-25 00:00:00 Cond3 sell DXY, Accu_MMRatio: -1.7825, Deri_MMRatio: -0.004077, Price: 84.91, Quantity: 5010, Holding Days: 153, P/L: -3.25%, Account Total: 425479.04
+2005-02-08 00:00:00 Buy DXY, Price: 85.15, Quantity: 4996, Cash Balance: 69.64
+2005-08-18 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.1763, Deri_MMRatio: 0.002751, Price: 88.55, Quantity: 4996, Holding Days: 135, P/L: 3.99%, Account Total: 442465.44
+2005-10-12 00:00:00 Buy DXY, Price: 89.67, Quantity: 4934, Cash Balance: 33.66
+2006-01-25 00:00:00 Cond1 sell DXY, Accu_MMRatio: 4.5004, Deri_MMRatio: -0.002106, Price: 88.42, Quantity: 4934, Holding Days: 71, P/L: -1.39%, Account Total: 436297.94
+2006-03-20 00:00:00 Buy DXY, Price: 89.17, Quantity: 4892, Cash Balance: 78.30
+2006-04-27 00:00:00 Cond3 sell DXY, Accu_MMRatio: 2.3832, Deri_MMRatio: -0.003041, Price: 86.69, Quantity: 4892, Holding Days: 27, P/L: -2.78%, Account Total: 424165.78
+2006-07-31 00:00:00 Buy DXY, Price: 85.28, Quantity: 4973, Cash Balance: 68.34
+2006-08-04 00:00:00 Cond3 sell DXY, Accu_MMRatio: -1.3669, Deri_MMRatio: -0.001434, Price: 84.53, Quantity: 4973, Holding Days: 4, P/L: -0.88%, Account Total: 420436.03
+2006-08-29 00:00:00 Buy DXY, Price: 84.96, Quantity: 4948, Cash Balance: 53.95
+2006-12-01 00:00:00 Cond3 sell DXY, Accu_MMRatio: -2.7356, Deri_MMRatio: -0.002447, Price: 82.36, Quantity: 4948, Holding Days: 67, P/L: -3.06%, Account Total: 407571.23
+2007-01-05 00:00:00 Buy DXY, Price: 84.64, Quantity: 4815, Cash Balance: 29.63
+2007-09-21 00:00:00 Cond3 sell DXY, Accu_MMRatio: -2.9780, Deri_MMRatio: -0.002157, Price: 78.39, Quantity: 4815, Holding Days: 179, P/L: -7.38%, Account Total: 377477.48
+2008-01-07 00:00:00 Buy DXY, Price: 76.1, Quantity: 4960, Cash Balance: 21.48
+2008-02-29 00:00:00 Cond3 sell DXY, Accu_MMRatio: -4.7380, Deri_MMRatio: -0.004165, Price: 73.75, Quantity: 4960, Holding Days: 37, P/L: -3.09%, Account Total: 365821.48
+2008-05-20 00:00:00 Buy DXY, Price: 72.45, Quantity: 5049, Cash Balance: 21.43
+2008-10-15 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.4766, Deri_MMRatio: 0.001848, Price: 82.32, Quantity: 5049, Holding Days: 103, P/L: 13.62%, Account Total: 415655.11
+2008-12-19 00:00:00 Buy DXY, Price: 81.04, Quantity: 5129, Cash Balance: 0.95
+2009-02-11 00:00:00 Cond1 sell DXY, Accu_MMRatio: 6.6897, Deri_MMRatio: -0.000613, Price: 85.86, Quantity: 5129, Holding Days: 35, P/L: 5.95%, Account Total: 440376.89
+2009-12-29 00:00:00 Buy DXY, Price: 77.88, Quantity: 5654, Cash Balance: 43.37
+2010-05-18 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.4519, Deri_MMRatio: 0.005399, Price: 87.25, Quantity: 5654, Holding Days: 96, P/L: 12.03%, Account Total: 493354.87
+2010-07-19 00:00:00 Buy DXY, Price: 82.61, Quantity: 5972, Cash Balance: 7.95
+2010-08-05 00:00:00 Cond3 sell DXY, Accu_MMRatio: 3.7343, Deri_MMRatio: -0.001986, Price: 80.78, Quantity: 5972, Holding Days: 13, P/L: -2.22%, Account Total: 482426.11
+2010-09-01 00:00:00 Buy DXY, Price: 82.48, Quantity: 5849, Cash Balance: 0.59
+2010-09-17 00:00:00 Cond3 sell DXY, Accu_MMRatio: 4.2981, Deri_MMRatio: -0.003201, Price: 81.41, Quantity: 5849, Holding Days: 11, P/L: -1.30%, Account Total: 476167.68
+2010-12-13 00:00:00 Buy DXY, Price: 79.36, Quantity: 6000, Cash Balance: 7.68
+2010-12-17 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.3072, Deri_MMRatio: 0.001095, Price: 80.46, Quantity: 6000, Holding Days: 4, P/L: 1.39%, Account Total: 482767.68
+2011-07-05 00:00:00 Buy DXY, Price: 74.61, Quantity: 6470, Cash Balance: 40.98
+2012-01-05 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.2576, Deri_MMRatio: 0.000304, Price: 80.9, Quantity: 6470, Holding Days: 128, P/L: 8.43%, Account Total: 523463.98
+2012-03-01 00:00:00 Buy DXY, Price: 78.73, Quantity: 6648, Cash Balance: 66.94
+2012-07-31 00:00:00 Cond1 sell DXY, Accu_MMRatio: 4.3861, Deri_MMRatio: -0.003828, Price: 82.71, Quantity: 6648, Holding Days: 105, P/L: 5.06%, Account Total: 549923.02
+2012-10-16 00:00:00 Buy DXY, Price: 79.17, Quantity: 6946, Cash Balance: 8.20
+2012-11-13 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.4978, Deri_MMRatio: 0.001293, Price: 81.05, Quantity: 6946, Holding Days: 18, P/L: 2.37%, Account Total: 562981.50
+2012-12-11 00:00:00 Buy DXY, Price: 80.05, Quantity: 7032, Cash Balance: 69.90
+2012-12-21 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.7335, Deri_MMRatio: 0.000433, Price: 79.62, Quantity: 7032, Holding Days: 8, P/L: -0.54%, Account Total: 559957.74
+2013-02-14 00:00:00 Buy DXY, Price: 80.43, Quantity: 6962, Cash Balance: 4.08
+2013-06-10 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.4136, Deri_MMRatio: -0.002728, Price: 81.69, Quantity: 6962, Holding Days: 79, P/L: 1.57%, Account Total: 568729.86
+2013-07-18 00:00:00 Buy DXY, Price: 82.8, Quantity: 6868, Cash Balance: 59.46
+2013-10-23 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.6286, Deri_MMRatio: -0.002490, Price: 79.28, Quantity: 6868, Holding Days: 68, P/L: -4.25%, Account Total: 544554.50
+2013-11-19 00:00:00 Buy DXY, Price: 80.49, Quantity: 6765, Cash Balance: 39.65
+2013-12-17 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.4209, Deri_MMRatio: 0.000548, Price: 80.05, Quantity: 6765, Holding Days: 19, P/L: -0.55%, Account Total: 541577.90
+2014-04-16 00:00:00 Buy DXY, Price: 79.81, Quantity: 6785, Cash Balance: 67.05
+2014-08-27 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.2461, Deri_MMRatio: 0.000179, Price: 82.47, Quantity: 6785, Holding Days: 92, P/L: 3.33%, Account Total: 559626.00
+2014-10-23 00:00:00 Buy DXY, Price: 85.83, Quantity: 6520, Cash Balance: 14.40
+2015-02-23 00:00:00 Cond1 sell DXY, Accu_MMRatio: 6.7057, Deri_MMRatio: -0.000282, Price: 94.58, Quantity: 6520, Holding Days: 82, P/L: 10.19%, Account Total: 616676.00
+2015-10-27 00:00:00 Buy DXY, Price: 96.96, Quantity: 6360, Cash Balance: 10.40
+2016-02-09 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.7842, Deri_MMRatio: -0.005763, Price: 96.05, Quantity: 6360, Holding Days: 72, P/L: -0.94%, Account Total: 610888.40
+2016-03-21 00:00:00 Buy DXY, Price: 95.43, Quantity: 6401, Cash Balance: 40.97
+2016-03-24 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.8506, Deri_MMRatio: 0.002675, Price: 96.28, Quantity: 6401, Holding Days: 3, P/L: 0.89%, Account Total: 616329.25
+2016-07-06 00:00:00 Buy DXY, Price: 96.14, Quantity: 6410, Cash Balance: 71.85
+2016-08-26 00:00:00 Cond3 sell DXY, Accu_MMRatio: -0.2639, Deri_MMRatio: 0.002237, Price: 95.46, Quantity: 6410, Holding Days: 37, P/L: -0.71%, Account Total: 611970.45
+2016-10-26 00:00:00 Buy DXY, Price: 98.62, Quantity: 6205, Cash Balance: 33.35
+2016-12-09 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.1658, Deri_MMRatio: 0.001073, Price: 101.69, Quantity: 6205, Holding Days: 30, P/L: 3.11%, Account Total: 631019.80
+2017-02-06 00:00:00 Buy DXY, Price: 99.93, Quantity: 6314, Cash Balance: 61.78
+2017-05-19 00:00:00 Cond3 sell DXY, Accu_MMRatio: 2.7900, Deri_MMRatio: -0.003783, Price: 97.16, Quantity: 6314, Holding Days: 72, P/L: -2.77%, Account Total: 613530.02
+2017-10-26 00:00:00 Buy DXY, Price: 94.72, Quantity: 6477, Cash Balance: 28.58
+2018-01-19 00:00:00 Cond3 sell DXY, Accu_MMRatio: -4.2459, Deri_MMRatio: -0.002511, Price: 90.67, Quantity: 6477, Holding Days: 57, P/L: -4.28%, Account Total: 587298.17
+2018-03-19 00:00:00 Buy DXY, Price: 89.88, Quantity: 6534, Cash Balance: 22.25
+2018-07-31 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.2496, Deri_MMRatio: -0.000737, Price: 94.56, Quantity: 6534, Holding Days: 93, P/L: 5.21%, Account Total: 617877.29
+2018-09-27 00:00:00 Buy DXY, Price: 95.02, Quantity: 6502, Cash Balance: 57.25
+2019-03-07 00:00:00 Cond1 sell DXY, Accu_MMRatio: 3.4408, Deri_MMRatio: 0.002805, Price: 97.61, Quantity: 6502, Holding Days: 109, P/L: 2.73%, Account Total: 634717.47
+2019-04-30 00:00:00 Buy DXY, Price: 97.53, Quantity: 6507, Cash Balance: 89.76
+2020-03-09 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.5576, Deri_MMRatio: -0.004614, Price: 95.34, Quantity: 6507, Holding Days: 216, P/L: -2.25%, Account Total: 620467.14
+2020-04-06 00:00:00 Buy DXY, Price: 100.75, Quantity: 6158, Cash Balance: 48.64
+2020-06-25 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.6977, Deri_MMRatio: 0.000037, Price: 97.35, Quantity: 6158, Holding Days: 56, P/L: -3.37%, Account Total: 599529.94
+2020-10-13 00:00:00 Buy DXY, Price: 93.54, Quantity: 6409, Cash Balance: 32.08
+2020-12-07 00:00:00 Cond3 sell DXY, Accu_MMRatio: -2.5401, Deri_MMRatio: -0.001703, Price: 90.9, Quantity: 6409, Holding Days: 38, P/L: -2.82%, Account Total: 582610.18
+2021-02-02 00:00:00 Buy DXY, Price: 91.05, Quantity: 6398, Cash Balance: 72.28
+2021-10-07 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.2108, Deri_MMRatio: -0.000395, Price: 94.21, Quantity: 6398, Holding Days: 172, P/L: 3.47%, Account Total: 602827.86
+2021-12-02 00:00:00 Buy DXY, Price: 96.12, Quantity: 6271, Cash Balance: 59.34
+2022-09-01 00:00:00 Cond1 sell DXY, Accu_MMRatio: 6.6930, Deri_MMRatio: 0.001350, Price: 109.64, Quantity: 6271, Holding Days: 188, P/L: 14.07%, Account Total: 687611.78
+2023-03-15 00:00:00 Buy DXY, Price: 104.62, Quantity: 6572, Cash Balance: 49.14
+2023-04-11 00:00:00 Cond3 sell DXY, Accu_MMRatio: 1.6403, Deri_MMRatio: 0.001003, Price: 102.13, Quantity: 6572, Holding Days: 18, P/L: -2.38%, Account Total: 671247.50
+2023-08-23 00:00:00 Buy DXY, Price: 103.36, Quantity: 6494, Cash Balance: 27.66
+2023-12-28 00:00:00 Cond3 sell DXY, Accu_MMRatio: -0.1030, Deri_MMRatio: -0.002253, Price: 101.2, Quantity: 6494, Holding Days: 88, P/L: -2.09%, Account Total: 657220.46
+2024-03-27 00:00:00 Buy DXY, Price: 104.44, Quantity: 6292, Cash Balance: 83.98
+2024-07-30 00:00:00 Cond3 sell DXY, Accu_MMRatio: 0.8308, Deri_MMRatio: 0.000144, Price: 104.43, Quantity: 6292, Holding Days: 85, P/L: -0.01%, Account Total: 657157.54
+2024-10-22 00:00:00 Buy DXY, Price: 104.09, Quantity: 6313, Cash Balance: 37.37
+2024-11-26 00:00:00 Cond1 sell DXY, Accu_MMRatio: -0.1933, Deri_MMRatio: 0.001437, Price: 106.82, Quantity: 6313, Holding Days: 25, P/L: 2.62%, Account Total: 674392.03
+2025-01-31 00:00:00 Buy DXY, Price: 108.5, Quantity: 6215, Cash Balance: 64.53
+2025-02-21 00:00:00 Cond1 sell DXY, Accu_MMRatio: 1.6389, Deri_MMRatio: -0.001801, Price: 106.64, Quantity: 6215, Holding Days: 14, P/L: -1.71%, Account Total: 662832.13
+2025-08-18 00:00:00 Buy DXY, Price: 98.15, Quantity: 6753, Cash Balance: 25.18
+
+=== Account Position Information ===
+Code: DXY
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: DXY
+  Holding Quantity: 6753
+  Current Price: 98.21
+  Holding Value: 663218.88
+  Buy Date: 2025-08-19
+  Holding Days: 176
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 25.18
+Account Total: 663244.06
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 98.211
+Target Total Return (Start->Latest): 19.95%
+Target Annualized Return (CAGR): 0.59%
+Target Max Drawdown: -41.00%
+Target Max Drawdown Period: 2001-07-05 (Close=120.900) -> 2008-04-22 (Close=71.330) (1728 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.57%
+Max Drawdown: -26.35%
+Max Drawdown Period: 2001-07-05 (Account total=492708.51) -> 2008-07-15 (Account total=362893.06) (1786 trading days)
+
+Annual Returns (from first buy):
+  1995: 4.04%
+  1996: 7.45%
+  1997: 14.15%
+  1998: -3.07%
+  1999: 5.36%
+  2000: 16.28%
+  2001: 2.21%
+  2002: -2.93%
+  2003: -2.92%
+  2004: -3.25%
+  2005: 5.73%
+  2006: -9.40%
+  2007: -7.38%
+  2008: 10.48%
+  2009: 5.57%
+  2010: 9.65%
+  2011: 7.45%
+  2012: 7.95%
+  2013: -3.28%
+  2014: 8.68%
+  2015: 6.58%
+  2016: 0.59%
+  2017: -5.44%
+  2018: 4.80%
+  2019: 0.31%
+  2020: -7.12%
+  2021: 2.99%
+  2022: 14.60%
+  2023: -4.42%
+  2024: 2.61%
+  2025: -1.58%
+  2026: -0.07%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = DXY
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 0.99
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 6.666667
+Deri2 = 99.0
+Trend2 = 0.373333
+MedMax1 = -0.026667
+Accu1 = -6.666667
+Deri1 = -99.0
+Trend1 = -0.093333
+date_start_backtest = 1995-04-01

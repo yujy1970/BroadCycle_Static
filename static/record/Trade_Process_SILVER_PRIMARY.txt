@@ -1,0 +1,108 @@
+=== Trade Process ===
+2006-04-28 00:00:00 Initial Buy SILVER_PRIMARY, Price: 13.92, Quantity: 21551, Cash Balance: 10.08
+2006-07-14 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 65.7397, Deri_MMRatio: -0.007928, Price: 11.258, Quantity: 21551, Holding Days: 53, P/L: -19.12%, Account Total: 242631.24
+2006-08-21 00:00:00 Buy SILVER_PRIMARY, Price: 12.176, Quantity: 19927, Cash Balance: 0.09
+2007-03-09 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 91.4304, Deri_MMRatio: -0.003120, Price: 12.804, Quantity: 19927, Holding Days: 138, P/L: 5.16%, Account Total: 255145.39
+2007-03-20 00:00:00 Buy SILVER_PRIMARY, Price: 13.287, Quantity: 19202, Cash Balance: 8.42
+2008-09-10 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 57.9442, Deri_MMRatio: -0.007357, Price: 10.6, Quantity: 19202, Holding Days: 373, P/L: -20.22%, Account Total: 203549.62
+2008-11-21 00:00:00 Buy SILVER_PRIMARY, Price: 10.1, Quantity: 20153, Cash Balance: 4.32
+2009-02-26 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 7.4302, Deri_MMRatio: 0.003127, Price: 13.11, Quantity: 20153, Holding Days: 64, P/L: 29.80%, Account Total: 264210.15
+2009-05-05 00:00:00 Buy SILVER_PRIMARY, Price: 13.52, Quantity: 19542, Cash Balance: 2.31
+2009-10-23 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: -14.6851, Deri_MMRatio: 0.004331, Price: 17.37, Quantity: 19542, Holding Days: 120, P/L: 28.48%, Account Total: 339446.85
+2010-02-16 00:00:00 Buy SILVER_PRIMARY, Price: 15.89, Quantity: 21362, Cash Balance: 4.67
+2011-05-03 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 99.3125, Deri_MMRatio: 0.006262, Price: 40.3, Quantity: 21362, Holding Days: 306, P/L: 153.62%, Account Total: 860893.27
+2012-04-02 00:00:00 Buy SILVER_PRIMARY, Price: 32.04, Quantity: 26869, Cash Balance: 10.51
+2013-03-07 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 2.8531, Deri_MMRatio: -0.002419, Price: 27.58, Quantity: 26869, Holding Days: 232, P/L: -13.92%, Account Total: 741057.53
+2013-05-23 00:00:00 Buy SILVER_PRIMARY, Price: 21.63, Quantity: 34260, Cash Balance: 13.73
+2016-09-27 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: -13.3557, Deri_MMRatio: -0.000405, Price: 18.09, Quantity: 34260, Holding Days: 843, P/L: -16.37%, Account Total: 619777.13
+2017-01-31 00:00:00 Buy SILVER_PRIMARY, Price: 16.54, Quantity: 37471, Cash Balance: 6.79
+2017-06-08 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 16.3833, Deri_MMRatio: 0.000536, Price: 16.32, Quantity: 37471, Holding Days: 89, P/L: -1.33%, Account Total: 611533.51
+2017-06-27 00:00:00 Buy SILVER_PRIMARY, Price: 15.89, Quantity: 38485, Cash Balance: 6.86
+2018-05-04 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 0.8513, Deri_MMRatio: -0.000001, Price: 15.5, Quantity: 38485, Holding Days: 214, P/L: -2.45%, Account Total: 596524.36
+2018-07-25 00:00:00 Buy SILVER_PRIMARY, Price: 14.57, Quantity: 40941, Cash Balance: 13.99
+2019-10-25 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: -9.0331, Deri_MMRatio: 0.001780, Price: 16.8, Quantity: 40941, Holding Days: 316, P/L: 15.31%, Account Total: 687822.79
+2020-03-25 00:00:00 Buy SILVER_PRIMARY, Price: 13.59, Quantity: 50612, Cash Balance: 5.71
+2021-07-20 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 82.3095, Deri_MMRatio: -0.001968, Price: 23.19, Quantity: 50612, Holding Days: 332, P/L: 70.64%, Account Total: 1173697.99
+2021-08-03 00:00:00 Buy SILVER_PRIMARY, Price: 24.02, Quantity: 48863, Cash Balance: 8.73
+2022-09-07 00:00:00 Cond3 sell SILVER_PRIMARY, Accu_MMRatio: 3.3289, Deri_MMRatio: -0.002874, Price: 17.06, Quantity: 48863, Holding Days: 276, P/L: -28.98%, Account Total: 833611.51
+2022-11-10 00:00:00 Buy SILVER_PRIMARY, Price: 19.76, Quantity: 42186, Cash Balance: 16.15
+2023-08-31 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: -8.1270, Deri_MMRatio: 0.000723, Price: 22.61, Quantity: 42186, Holding Days: 201, P/L: 14.42%, Account Total: 953841.61
+2024-02-12 00:00:00 Buy SILVER_PRIMARY, Price: 20.43, Quantity: 46688, Cash Balance: 5.77
+2025-05-21 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 50.4571, Deri_MMRatio: 0.000323, Price: 30.01, Quantity: 46688, Holding Days: 320, P/L: 46.89%, Account Total: 1401112.65
+2025-06-02 00:00:00 Buy SILVER_PRIMARY, Price: 31.27, Quantity: 44806, Cash Balance: 29.03
+2026-01-26 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 78.5462, Deri_MMRatio: 0.024693, Price: 97.98, Quantity: 44806, Holding Days: 164, P/L: 213.34%, Account Total: 4390120.91
+2026-02-10 00:00:00 Buy SILVER_PRIMARY, Price: 76.92, Quantity: 57073, Cash Balance: 65.75
+2026-03-03 00:00:00 Cond1 sell SILVER_PRIMARY, Accu_MMRatio: 99.4532, Deri_MMRatio: 0.005364, Price: 76.34, Quantity: 57073, Holding Days: 14, P/L: -0.75%, Account Total: 4357018.57
+
+=== Account Position Information ===
+Code: SILVER_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-03
+Cash Balance: 4357018.57
+Account Total: 4357018.57
+Date Of Trading Start: 2006-05-01
+
+Target Latest Close : 68.290
+Target Total Return (Start->Latest): 394.43%
+Target Annualized Return (CAGR): 8.32%
+Target Max Drawdown: -76.28%
+Target Max Drawdown Period: 2011-04-28 (Close=47.260) -> 2020-03-18 (Close=11.210) (2236 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.34%
+Max Drawdown: -55.68%
+Max Drawdown Period: 2011-04-28 (Account total=1009572.79) -> 2015-12-14 (Account total=447449.33) (1165 trading days)
+
+Annual Returns (from first buy):
+  2006: -14.24%
+  2007: 10.10%
+  2008: -20.02%
+  2009: 50.39%
+  2010: 89.93%
+  2011: 33.53%
+  2012: -8.33%
+  2013: -18.77%
+  2014: -19.51%
+  2015: -12.42%
+  2016: 37.15%
+  2017: -0.71%
+  2018: -3.40%
+  2019: 15.70%
+  2020: 80.79%
+  2021: -15.48%
+  2022: -11.62%
+  2023: 2.68%
+  2024: 28.88%
+  2025: 134.80%
+  2026: 50.95%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SILVER
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 0.9925
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.02
+Trend2 = 0.07
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.007
+Trend1 = -0.175
+date_start_backtest = 2006-04-28

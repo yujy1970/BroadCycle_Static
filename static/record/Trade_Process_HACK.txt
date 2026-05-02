@@ -1,0 +1,88 @@
+=== Trade Process ===
+2014-11-12 00:00:00 Initial Buy HACK, Price: 25.24, Quantity: 11885, Cash Balance: 22.60
+2015-08-27 00:00:00 Cond1 sell HACK, Accu_MMRatio: 4.6761, Deri_MMRatio: -0.004087, Price: 27.43, Quantity: 11885, Holding Days: 198, P/L: 8.68%, Account Total: 326028.15
+2015-10-28 00:00:00 Buy HACK, Price: 26.87, Quantity: 12133, Cash Balance: 14.44
+2015-11-13 00:00:00 Cond3 sell HACK, Accu_MMRatio: 0.2504, Deri_MMRatio: 0.002229, Price: 25.87, Quantity: 12133, Holding Days: 12, P/L: -3.72%, Account Total: 313895.15
+2016-02-17 00:00:00 Buy HACK, Price: 20.65, Quantity: 15200, Cash Balance: 15.15
+2017-04-25 00:00:00 Cond1 sell HACK, Accu_MMRatio: 7.5832, Deri_MMRatio: -0.000301, Price: 29.26, Quantity: 15200, Holding Days: 299, P/L: 41.69%, Account Total: 444767.15
+2017-09-01 00:00:00 Buy HACK, Price: 29.81, Quantity: 14920, Cash Balance: 1.95
+2018-10-23 00:00:00 Cond1 sell HACK, Accu_MMRatio: 8.7190, Deri_MMRatio: -0.002968, Price: 36.51, Quantity: 14920, Holding Days: 287, P/L: 22.48%, Account Total: 544731.15
+2019-01-07 00:00:00 Buy HACK, Price: 34.79, Quantity: 15657, Cash Balance: 24.12
+2020-04-15 00:00:00 Cond3 sell HACK, Accu_MMRatio: 0.3845, Deri_MMRatio: -0.000197, Price: 38.15, Quantity: 15657, Holding Days: 320, P/L: 9.66%, Account Total: 597338.67
+2020-05-22 00:00:00 Buy HACK, Price: 44.0, Quantity: 13575, Cash Balance: 38.67
+2020-10-09 00:00:00 Cond1 sell HACK, Accu_MMRatio: 7.7680, Deri_MMRatio: -0.001656, Price: 49.48, Quantity: 13575, Holding Days: 97, P/L: 12.45%, Account Total: 671729.67
+2020-12-03 00:00:00 Buy HACK, Price: 51.58, Quantity: 13023, Cash Balance: 3.33
+2021-01-20 00:00:00 Cond1 sell HACK, Accu_MMRatio: 6.9725, Deri_MMRatio: 0.003460, Price: 61.81, Quantity: 13023, Holding Days: 31, P/L: 19.83%, Account Total: 804954.96
+2021-04-05 00:00:00 Buy HACK, Price: 56.11, Quantity: 14346, Cash Balance: 0.90
+2021-04-06 00:00:00 Cond1 sell HACK, Accu_MMRatio: 14.8062, Deri_MMRatio: -0.003247, Price: 56.5, Quantity: 14346, Holding Days: 1, P/L: 0.70%, Account Total: 810549.90
+2021-05-26 00:00:00 Buy HACK, Price: 58.39, Quantity: 13881, Cash Balance: 38.31
+2022-03-28 00:00:00 Cond3 sell HACK, Accu_MMRatio: 0.1182, Deri_MMRatio: 0.003048, Price: 59.3, Quantity: 13881, Holding Days: 211, P/L: 1.56%, Account Total: 823181.61
+2022-06-23 00:00:00 Buy HACK, Price: 46.94, Quantity: 17536, Cash Balance: 41.77
+2024-04-26 00:00:00 Cond1 sell HACK, Accu_MMRatio: 10.9355, Deri_MMRatio: -0.001525, Price: 62.93, Quantity: 17536, Holding Days: 463, P/L: 34.06%, Account Total: 1103582.25
+2024-06-17 00:00:00 Buy HACK, Price: 63.51, Quantity: 17376, Cash Balance: 32.49
+2026-04-29 00:00:00 Cond3 sell HACK, Accu_MMRatio: 0.3354, Deri_MMRatio: 0.001732, Price: 80.09, Quantity: 17376, Holding Days: 467, P/L: 26.11%, Account Total: 1391676.33
+
+=== Account Position Information ===
+Code: HACK
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-29
+Cash Balance: 1391676.33
+Account Total: 1391676.33
+Date Of Trading Start: 2014-11-13
+
+Target Latest Close : 80.780
+Target Total Return (Start->Latest): 236.49%
+Target Annualized Return (CAGR): 11.16%
+Target Max Drawdown: -42.68%
+Target Max Drawdown Period: 2015-06-23 (Close=32.137) -> 2016-02-09 (Close=18.422) (159 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.79%
+Max Drawdown: -32.45%
+Max Drawdown Period: 2020-02-20 (Account total=681557.67) -> 2020-03-16 (Account total=460402.55) (17 trading days)
+
+Annual Returns (from first buy):
+  2014: 5.16%
+  2015: 4.23%
+  2016: 23.98%
+  2017: 17.47%
+  2018: 19.15%
+  2019: 15.85%
+  2020: 17.70%
+  2021: 14.08%
+  2022: -9.24%
+  2023: 37.44%
+  2024: 22.36%
+  2025: 7.97%
+  2026: -0.35%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = HACK
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 0.12
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 2009-01-02

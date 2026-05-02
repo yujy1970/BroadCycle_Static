@@ -1,0 +1,161 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy GREECE, Price: 820.8, Quantity: 365, Cash Balance: 408.00
+1995-04-07 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -6.9087, Deri_MMRatio: 0.000028, Price: 817.86, Quantity: 365, Holding Days: 4, P/L: -0.36%, Account Total: 298926.90
+1995-12-01 00:00:00 Buy GREECE, Price: 911.47, Quantity: 327, Cash Balance: 876.21
+1995-12-18 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 3.0750, Deri_MMRatio: 0.000144, Price: 890.32, Quantity: 327, Holding Days: 11, P/L: -2.32%, Account Total: 292010.85
+1997-07-10 00:00:00 Buy GREECE, Price: 1591.44, Quantity: 183, Cash Balance: 777.33
+1997-08-01 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 19.2359, Deri_MMRatio: 0.000574, Price: 1586.85, Quantity: 183, Holding Days: 16, P/L: -0.29%, Account Total: 291170.88
+1998-07-02 00:00:00 Buy GREECE, Price: 2542.85, Quantity: 114, Cash Balance: 1285.98
+1998-07-27 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 15.6858, Deri_MMRatio: 0.000184, Price: 2709.3, Quantity: 114, Holding Days: 17, P/L: 6.55%, Account Total: 310146.18
+1998-09-09 00:00:00 Buy GREECE, Price: 2207.9, Quantity: 140, Cash Balance: 1040.18
+1998-10-16 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 14.4701, Deri_MMRatio: 0.001034, Price: 2039.67, Quantity: 140, Holding Days: 27, P/L: -7.62%, Account Total: 286593.98
+2000-12-01 00:00:00 Buy GREECE, Price: 3457.18, Quantity: 82, Cash Balance: 3105.22
+2000-12-06 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -12.0756, Deri_MMRatio: 0.000718, Price: 3696.82, Quantity: 82, Holding Days: 3, P/L: 6.93%, Account Total: 306244.46
+2001-07-19 00:00:00 Buy GREECE, Price: 2602.72, Quantity: 117, Cash Balance: 1726.22
+2001-07-31 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -10.5380, Deri_MMRatio: 0.000147, Price: 2739.42, Quantity: 117, Holding Days: 8, P/L: 5.25%, Account Total: 322238.36
+2001-10-19 00:00:00 Buy GREECE, Price: 2352.44, Quantity: 136, Cash Balance: 2306.52
+2001-10-26 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -13.7122, Deri_MMRatio: 0.000338, Price: 2370.41, Quantity: 136, Holding Days: 5, P/L: 0.76%, Account Total: 324682.28
+2002-10-14 00:00:00 Buy GREECE, Price: 1822.33, Quantity: 178, Cash Balance: 307.54
+2002-10-31 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -7.5219, Deri_MMRatio: 0.000412, Price: 1785.12, Quantity: 178, Holding Days: 12, P/L: -2.04%, Account Total: 318058.90
+2003-04-07 00:00:00 Buy GREECE, Price: 1571.54, Quantity: 202, Cash Balance: 607.82
+2003-04-10 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -11.5266, Deri_MMRatio: 0.000394, Price: 1587.9, Quantity: 202, Holding Days: 3, P/L: 1.04%, Account Total: 321363.62
+2003-10-03 00:00:00 Buy GREECE, Price: 2094.49, Quantity: 153, Cash Balance: 906.65
+2003-10-29 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 4.5191, Deri_MMRatio: 0.000197, Price: 2105.5, Quantity: 153, Holding Days: 17, P/L: 0.53%, Account Total: 323048.15
+2004-04-05 00:00:00 Buy GREECE, Price: 2417.39, Quantity: 133, Cash Balance: 1535.28
+2004-04-15 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 13.6396, Deri_MMRatio: -0.001374, Price: 2442.65, Quantity: 133, Holding Days: 6, P/L: 1.04%, Account Total: 326407.73
+2005-04-08 00:00:00 Buy GREECE, Price: 2990.02, Quantity: 109, Cash Balance: 495.55
+2005-06-01 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 7.4001, Deri_MMRatio: 0.000466, Price: 2972.67, Quantity: 109, Holding Days: 36, P/L: -0.58%, Account Total: 324516.58
+2005-09-30 00:00:00 Buy GREECE, Price: 3381.96, Quantity: 95, Cash Balance: 3230.38
+2005-10-05 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 10.1525, Deri_MMRatio: 0.000015, Price: 3368.21, Quantity: 95, Holding Days: 3, P/L: -0.41%, Account Total: 323210.33
+2006-04-06 00:00:00 Buy GREECE, Price: 4250.97, Quantity: 76, Cash Balance: 136.61
+2006-04-20 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 11.0292, Deri_MMRatio: 0.000465, Price: 4183.73, Quantity: 76, Holding Days: 8, P/L: -1.58%, Account Total: 318100.09
+2007-03-22 00:00:00 Buy GREECE, Price: 4635.6, Quantity: 68, Cash Balance: 2879.29
+2007-04-12 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 3.9150, Deri_MMRatio: 0.000474, Price: 4780.99, Quantity: 68, Holding Days: 13, P/L: 3.14%, Account Total: 327986.61
+2008-07-18 00:00:00 Buy GREECE, Price: 3376.78, Quantity: 97, Cash Balance: 438.95
+2008-08-04 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -8.3600, Deri_MMRatio: 0.000159, Price: 3362.17, Quantity: 97, Holding Days: 11, P/L: -0.43%, Account Total: 326569.44
+2008-11-03 00:00:00 Buy GREECE, Price: 2118.63, Quantity: 154, Cash Balance: 300.42
+2008-12-01 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -22.3336, Deri_MMRatio: 0.000793, Price: 1860.27, Quantity: 154, Holding Days: 20, P/L: -12.19%, Account Total: 286782.00
+2009-07-21 00:00:00 Buy GREECE, Price: 2271.07, Quantity: 126, Cash Balance: 627.18
+2009-08-20 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -12.3161, Deri_MMRatio: 0.000218, Price: 2399.4, Quantity: 126, Holding Days: 22, P/L: 5.65%, Account Total: 302951.58
+2010-01-05 00:00:00 Buy GREECE, Price: 2277.6, Quantity: 133, Cash Balance: 30.78
+2010-01-25 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 12.1739, Deri_MMRatio: 0.000159, Price: 2090.94, Quantity: 133, Holding Days: 13, P/L: -8.20%, Account Total: 278125.80
+2010-06-14 00:00:00 Buy GREECE, Price: 1540.69, Quantity: 180, Cash Balance: 801.60
+2010-06-21 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -6.3337, Deri_MMRatio: 0.001645, Price: 1595.21, Quantity: 180, Holding Days: 5, P/L: 3.54%, Account Total: 287939.40
+2011-05-31 00:00:00 Buy GREECE, Price: 1309.46, Quantity: 219, Cash Balance: 1167.66
+2011-06-28 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -3.8226, Deri_MMRatio: 0.000791, Price: 1258.84, Quantity: 219, Holding Days: 19, P/L: -3.87%, Account Total: 276853.62
+2012-06-14 00:00:00 Buy GREECE, Price: 548.63, Quantity: 504, Cash Balance: 344.10
+2012-06-20 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -21.6106, Deri_MMRatio: 0.000772, Price: 602.57, Quantity: 504, Holding Days: 4, P/L: 9.83%, Account Total: 304039.38
+2012-12-07 00:00:00 Buy GREECE, Price: 837.54, Quantity: 363, Cash Balance: 12.36
+2012-12-13 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 4.7241, Deri_MMRatio: 0.000419, Price: 859.67, Quantity: 363, Holding Days: 4, P/L: 2.64%, Account Total: 312072.57
+2013-04-09 00:00:00 Buy GREECE, Price: 875.68, Quantity: 356, Cash Balance: 330.49
+2013-05-08 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 14.3646, Deri_MMRatio: 0.000628, Price: 1043.6, Quantity: 356, Holding Days: 17, P/L: 19.18%, Account Total: 371852.09
+2014-01-02 00:00:00 Buy GREECE, Price: 1200.95, Quantity: 309, Cash Balance: 758.54
+2014-01-07 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 7.4891, Deri_MMRatio: 0.000051, Price: 1242.18, Quantity: 309, Holding Days: 2, P/L: 3.43%, Account Total: 384592.16
+2014-05-22 00:00:00 Buy GREECE, Price: 1157.2, Quantity: 332, Cash Balance: 401.76
+2014-05-30 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 10.3214, Deri_MMRatio: 0.000831, Price: 1228.4, Quantity: 332, Holding Days: 6, P/L: 6.15%, Account Total: 408230.56
+2014-08-14 00:00:00 Buy GREECE, Price: 1118.68, Quantity: 364, Cash Balance: 1031.04
+2014-08-21 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 9.7202, Deri_MMRatio: 0.000536, Price: 1149.1, Quantity: 364, Holding Days: 4, P/L: 2.72%, Account Total: 419303.44
+2014-11-06 00:00:00 Buy GREECE, Price: 959.68, Quantity: 436, Cash Balance: 882.96
+2014-11-19 00:00:00 Cond1 sell GREECE, Accu_MMRatio: -2.2710, Deri_MMRatio: 0.000314, Price: 951.24, Quantity: 436, Holding Days: 9, P/L: -0.88%, Account Total: 415623.60
+2017-02-21 00:00:00 Buy GREECE, Price: 657.29, Quantity: 632, Cash Balance: 216.32
+2017-03-09 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 5.3080, Deri_MMRatio: -0.001523, Price: 647.48, Quantity: 632, Holding Days: 11, P/L: -1.49%, Account Total: 409423.68
+2018-04-10 00:00:00 Buy GREECE, Price: 808.87, Quantity: 506, Cash Balance: 135.46
+2018-04-20 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 5.6160, Deri_MMRatio: 0.000550, Price: 844.58, Quantity: 506, Holding Days: 8, P/L: 4.41%, Account Total: 427492.94
+2019-08-22 00:00:00 Buy GREECE, Price: 846.62, Quantity: 504, Cash Balance: 796.46
+2019-09-19 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 7.2626, Deri_MMRatio: 0.000219, Price: 872.11, Quantity: 504, Holding Days: 20, P/L: 3.01%, Account Total: 440339.90
+2020-03-20 00:00:00 Buy GREECE, Price: 553.19, Quantity: 796, Cash Balance: 0.66
+2020-04-27 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 1.5431, Deri_MMRatio: 0.003783, Price: 626.09, Quantity: 796, Holding Days: 21, P/L: 13.18%, Account Total: 498368.30
+2021-03-01 00:00:00 Buy GREECE, Price: 803.7, Quantity: 620, Cash Balance: 74.30
+2021-03-08 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 2.2687, Deri_MMRatio: 0.000216, Price: 829.18, Quantity: 620, Holding Days: 5, P/L: 3.17%, Account Total: 514165.90
+2021-07-27 00:00:00 Buy GREECE, Price: 876.19, Quantity: 586, Cash Balance: 718.56
+2021-08-11 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 11.7405, Deri_MMRatio: 0.000011, Price: 899.41, Quantity: 586, Holding Days: 11, P/L: 2.65%, Account Total: 527772.82
+2022-03-30 00:00:00 Buy GREECE, Price: 888.44, Quantity: 594, Cash Balance: 39.46
+2022-04-11 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 1.7091, Deri_MMRatio: 0.001000, Price: 907.76, Quantity: 594, Holding Days: 8, P/L: 2.17%, Account Total: 539248.90
+2024-04-22 00:00:00 Buy GREECE, Price: 1424.1, Quantity: 378, Cash Balance: 939.10
+2024-04-26 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 7.5748, Deri_MMRatio: 0.000171, Price: 1454.48, Quantity: 378, Holding Days: 4, P/L: 2.13%, Account Total: 550732.54
+2025-05-12 00:00:00 Buy GREECE, Price: 1773.99, Quantity: 310, Cash Balance: 795.64
+2025-05-16 00:00:00 Cond1 sell GREECE, Accu_MMRatio: 4.3952, Deri_MMRatio: 0.000011, Price: 1800.86, Quantity: 310, Holding Days: 4, P/L: 1.51%, Account Total: 559062.24
+
+=== Account Position Information ===
+Code: GREECE
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-05-16
+Cash Balance: 559062.24
+Account Total: 559062.24
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 2132.560
+Target Total Return (Start->Latest): 157.48%
+Target Annualized Return (CAGR): 3.10%
+Target Max Drawdown: -93.06%
+Target Max Drawdown Period: 1999-09-17 (Close=6355.040) -> 2016-02-11 (Close=440.880) (4060 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 2.03%
+Max Drawdown: -24.37%
+Max Drawdown Period: 1998-07-21 (Account total=323395.26) -> 1998-10-12 (Account total=244585.58) (59 trading days)
+
+Annual Returns (from first buy):
+  1995: -2.66%
+  1996: 0.00%
+  1997: -0.29%
+  1998: -1.57%
+  1999: 0.00%
+  2000: 6.86%
+  2001: 6.02%
+  2002: -2.04%
+  2003: 1.57%
+  2004: 1.04%
+  2005: -0.98%
+  2006: -1.58%
+  2007: 3.11%
+  2008: -12.56%
+  2009: 5.64%
+  2010: -4.96%
+  2011: -3.85%
+  2012: 12.72%
+  2013: 19.16%
+  2014: 11.77%
+  2015: 0.00%
+  2016: 0.00%
+  2017: -1.49%
+  2018: 4.41%
+  2019: 3.01%
+  2020: 13.18%
+  2021: 5.90%
+  2022: 2.17%
+  2023: 0.00%
+  2024: 2.13%
+  2025: 1.51%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = GREECE
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

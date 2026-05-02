@@ -1,0 +1,71 @@
+=== Trade Process ===
+
+=== Position Information ===
+Current position: None
+      Holding quantity: 0
+      Current price: 0.00
+      Holding value: 0.00
+      Buy date: N/A
+      Holding days: 0
+Cash balance: 300000.00
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+
+=== Backtest Statistics ===
+Initial capital: 300000.00
+Final capital: 300000.00
+Total return: 0.00%
+Annualized return (from first buy): 0.00%
+Max Drawdown: 0.00%
+Buys: 0
+Sells: 0
+Date of Trading start: 1997-03-05
+Backtest end date: 2018-03-29
+
+=== Annual Returns (from first buy) ===
+1997Year: 0.00%
+1998Year: 0.00%
+1999Year: 0.00%
+2000Year: 0.00%
+2001Year: 0.00%
+2002Year: 0.00%
+2003Year: 0.00%
+2004Year: 0.00%
+2005Year: 0.00%
+2006Year: 0.00%
+2007Year: 0.00%
+2008Year: 0.00%
+2009Year: 0.00%
+2010Year: 0.00%
+2011Year: 0.00%
+2012Year: 0.00%
+2013Year: 0.00%
+2014Year: 0.00%
+2015Year: 0.00%
+2016Year: 0.00%
+2017Year: 0.00%
+2018Year: 0.00%
+
+=== Big-Arc Sell Statistics ===
+Big-Arc related sell logs: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = KUWAIT
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+back_long = 175
+back_medium = 25
+TTT = 25
+PPP = 1.015
+QQQ = 25
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.04
+Accu1 = -20.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

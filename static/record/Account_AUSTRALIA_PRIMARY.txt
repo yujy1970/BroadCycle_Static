@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: AUSTRALIA_PRIMARY
+Current Date: 2026-02-27 16:00
+Mode: Etf Data
+Current Position: AUSTRALIA_PRIMARY
+  Holding Quantity: 41558
+  Current Price: 30.09
+  Holding Value: 1250480.22
+  Buy Date: 2025-04-30
+  Holding Days: 212
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 19.62
+Account Total: 1250499.84
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 27.170
+Target Total Return (Start->Latest): 149.98%
+Target Annualized Return (CAGR): 4.44%
+Target Max Drawdown: -69.72%
+Target Max Drawdown Period: 2007-10-31 (Close=21.546) -> 2009-03-09 (Close=6.524) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.06%
+Max Drawdown: -35.36%
+Max Drawdown Period: 2014-09-03 (Account total=531929.77) -> 2016-01-15 (Account total=343828.57) (347 trading days)

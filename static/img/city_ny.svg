@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1220" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b08d33" stop-opacity="0.00"/>
+      <stop offset="1" stop-color="#b08d33" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="420" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1100" height="420" fill="url(#glow)"/>
+
+  <!-- skyline blocks -->
+  <g fill="#0b1220" fill-opacity="0.18">
+    <rect x="60"  y="190" width="70" height="130" rx="6"/>
+    <rect x="150" y="140" width="80" height="180" rx="6"/>
+    <rect x="250" y="170" width="60" height="150" rx="6"/>
+    <rect x="330" y="110" width="95" height="210" rx="6"/>
+    <rect x="445" y="165" width="70" height="155" rx="6"/>
+    <rect x="535" y="90"  width="110" height="230" rx="6"/>
+    <rect x="665" y="150" width="85" height="170" rx="6"/>
+    <rect x="770" y="120" width="95" height="200" rx="6"/>
+    <rect x="885" y="160" width="75" height="160" rx="6"/>
+    <rect x="980" y="135" width="70" height="185" rx="6"/>
+  </g>
+
+  <!-- window lines -->
+  <g stroke="#0b1220" stroke-opacity="0.22" stroke-width="2">
+    <path d="M80 215H110"/><path d="M80 240H110"/><path d="M80 265H110"/><path d="M80 290H110"/><path d="M180 215H210"/><path d="M180 240H210"/><path d="M180 265H210"/><path d="M180 290H210"/><path d="M280 215H310"/><path d="M280 240H310"/><path d="M280 265H310"/><path d="M280 290H310"/><path d="M380 215H410"/><path d="M380 240H410"/><path d="M380 265H410"/><path d="M380 290H410"/><path d="M480 215H510"/><path d="M480 240H510"/><path d="M480 265H510"/><path d="M480 290H510"/><path d="M580 215H610"/><path d="M580 240H610"/><path d="M580 265H610"/><path d="M580 290H610"/><path d="M680 215H710"/><path d="M680 240H710"/><path d="M680 265H710"/><path d="M680 290H710"/><path d="M780 215H810"/><path d="M780 240H810"/><path d="M780 265H810"/><path d="M780 290H810"/><path d="M880 215H910"/><path d="M880 240H910"/><path d="M880 265H910"/><path d="M880 290H910"/><path d="M980 215H1010"/><path d="M980 240H1010"/><path d="M980 265H1010"/><path d="M980 290H1010"/>
+  </g>
+
+  <!-- candlestick-like financial motif -->
+  <g stroke="#0b1220" stroke-opacity="0.28" stroke-linecap="round">
+    <path d="M120 350V310" stroke-width="6"/>
+    <path d="M120 330H120" stroke-width="10"/>
+    <path d="M230 350V295" stroke-width="6"/>
+    <path d="M230 325H230" stroke-width="12"/>
+    <path d="M360 350V280" stroke-width="6"/>
+    <path d="M360 320H360" stroke-width="14"/>
+    <path d="M520 350V300" stroke-width="6"/>
+    <path d="M520 330H520" stroke-width="12"/>
+    <path d="M690 350V285" stroke-width="6"/>
+    <path d="M690 315H690" stroke-width="14"/>
+    <path d="M860 350V305" stroke-width="6"/>
+    <path d="M860 335H860" stroke-width="12"/>
+  </g>
+
+  <!-- label (safe text, no special chars) -->
+  <text x="24" y="52" font-family="system-ui, -apple-system, Segoe UI, Arial"
+        font-size="22" fill="#0b1220" fill-opacity="0.30">US Tech Liquidity</text>
+</svg>

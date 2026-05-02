@@ -1,0 +1,144 @@
+=== Trade Process ===
+2007-03-01 00:00:00 Initial Buy DXY_PRIMARY, Price: 25.02, Quantity: 11990, Cash Balance: 10.20
+2007-09-21 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -2.9780, Deri_MMRatio: -0.002157, Price: 24.22, Quantity: 11990, Holding Days: 142, P/L: -3.20%, Account Total: 290408.00
+2008-01-07 00:00:00 Buy DXY_PRIMARY, Price: 23.56, Quantity: 12326, Cash Balance: 7.44
+2008-02-29 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -4.7380, Deri_MMRatio: -0.004165, Price: 23.0, Quantity: 12326, Holding Days: 37, P/L: -2.38%, Account Total: 283505.44
+2008-05-20 00:00:00 Buy DXY_PRIMARY, Price: 22.41, Quantity: 12650, Cash Balance: 18.94
+2008-10-15 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.4766, Deri_MMRatio: 0.001848, Price: 25.79, Quantity: 12650, Holding Days: 103, P/L: 15.08%, Account Total: 326262.44
+2008-12-19 00:00:00 Buy DXY_PRIMARY, Price: 24.64, Quantity: 13241, Cash Balance: 4.20
+2009-02-11 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 6.6897, Deri_MMRatio: -0.000613, Price: 26.06, Quantity: 13241, Holding Days: 35, P/L: 5.76%, Account Total: 345064.66
+2009-12-29 00:00:00 Buy DXY_PRIMARY, Price: 23.1, Quantity: 14937, Cash Balance: 19.96
+2010-05-18 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.4519, Deri_MMRatio: 0.005399, Price: 25.38, Quantity: 14937, Holding Days: 96, P/L: 9.87%, Account Total: 379121.02
+2010-07-19 00:00:00 Buy DXY_PRIMARY, Price: 24.14, Quantity: 15705, Cash Balance: 2.32
+2010-08-05 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 3.7343, Deri_MMRatio: -0.001986, Price: 23.37, Quantity: 15705, Holding Days: 13, P/L: -3.19%, Account Total: 367028.17
+2010-09-01 00:00:00 Buy DXY_PRIMARY, Price: 23.92, Quantity: 15343, Cash Balance: 23.61
+2010-09-17 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 4.2981, Deri_MMRatio: -0.003201, Price: 23.59, Quantity: 15343, Holding Days: 11, P/L: -1.38%, Account Total: 361964.98
+2010-12-13 00:00:00 Buy DXY_PRIMARY, Price: 22.88, Quantity: 15820, Cash Balance: 3.38
+2010-12-17 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 1.3072, Deri_MMRatio: 0.001095, Price: 23.2, Quantity: 15820, Holding Days: 4, P/L: 1.40%, Account Total: 367027.38
+2011-07-05 00:00:00 Buy DXY_PRIMARY, Price: 21.38, Quantity: 17166, Cash Balance: 18.30
+2012-01-05 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.2576, Deri_MMRatio: 0.000304, Price: 22.68, Quantity: 17166, Holding Days: 128, P/L: 6.08%, Account Total: 389343.18
+2012-03-01 00:00:00 Buy DXY_PRIMARY, Price: 22.09, Quantity: 17625, Cash Balance: 6.93
+2012-07-31 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 4.3861, Deri_MMRatio: -0.003828, Price: 22.71, Quantity: 17625, Holding Days: 105, P/L: 2.81%, Account Total: 400270.68
+2012-10-16 00:00:00 Buy DXY_PRIMARY, Price: 21.65, Quantity: 18488, Cash Balance: 5.48
+2012-11-13 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 1.4978, Deri_MMRatio: 0.001293, Price: 22.19, Quantity: 18488, Holding Days: 18, P/L: 2.49%, Account Total: 410254.20
+2012-12-11 00:00:00 Buy DXY_PRIMARY, Price: 21.86, Quantity: 18767, Cash Balance: 7.58
+2012-12-21 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.7335, Deri_MMRatio: 0.000433, Price: 21.73, Quantity: 18767, Holding Days: 8, P/L: -0.59%, Account Total: 407814.49
+2013-02-14 00:00:00 Buy DXY_PRIMARY, Price: 21.98, Quantity: 18553, Cash Balance: 19.55
+2013-06-10 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.4136, Deri_MMRatio: -0.002728, Price: 22.11, Quantity: 18553, Holding Days: 79, P/L: 0.59%, Account Total: 410226.38
+2013-07-18 00:00:00 Buy DXY_PRIMARY, Price: 22.4, Quantity: 18313, Cash Balance: 15.18
+2013-10-23 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.6286, Deri_MMRatio: -0.002490, Price: 21.32, Quantity: 18313, Holding Days: 68, P/L: -4.82%, Account Total: 390448.34
+2013-11-19 00:00:00 Buy DXY_PRIMARY, Price: 21.68, Quantity: 18009, Cash Balance: 13.22
+2013-12-17 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.4209, Deri_MMRatio: 0.000548, Price: 21.53, Quantity: 18009, Holding Days: 19, P/L: -0.69%, Account Total: 387746.99
+2014-04-16 00:00:00 Buy DXY_PRIMARY, Price: 21.32, Quantity: 18187, Cash Balance: 0.15
+2014-08-27 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.2461, Deri_MMRatio: 0.000179, Price: 22.02, Quantity: 18187, Holding Days: 92, P/L: 3.28%, Account Total: 400477.89
+2014-10-23 00:00:00 Buy DXY_PRIMARY, Price: 22.77, Quantity: 17587, Cash Balance: 21.90
+2015-02-23 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 6.7057, Deri_MMRatio: -0.000282, Price: 25.04, Quantity: 17587, Holding Days: 82, P/L: 9.97%, Account Total: 440400.38
+2015-10-27 00:00:00 Buy DXY_PRIMARY, Price: 25.19, Quantity: 17483, Cash Balance: 3.61
+2016-02-09 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 1.7842, Deri_MMRatio: -0.005763, Price: 24.99, Quantity: 17483, Holding Days: 72, P/L: -0.79%, Account Total: 436903.78
+2016-03-21 00:00:00 Buy DXY_PRIMARY, Price: 24.78, Quantity: 17631, Cash Balance: 7.60
+2016-03-24 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.8506, Deri_MMRatio: 0.002675, Price: 24.86, Quantity: 17631, Holding Days: 3, P/L: 0.32%, Account Total: 438314.26
+2016-07-06 00:00:00 Buy DXY_PRIMARY, Price: 24.85, Quantity: 17638, Cash Balance: 9.96
+2016-08-26 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -0.2639, Deri_MMRatio: 0.002237, Price: 24.76, Quantity: 17638, Holding Days: 37, P/L: -0.36%, Account Total: 436726.84
+2016-10-26 00:00:00 Buy DXY_PRIMARY, Price: 25.5, Quantity: 17126, Cash Balance: 13.84
+2016-12-09 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.1658, Deri_MMRatio: 0.001073, Price: 26.12, Quantity: 17126, Holding Days: 30, P/L: 2.43%, Account Total: 447344.96
+2017-02-06 00:00:00 Buy DXY_PRIMARY, Price: 25.96, Quantity: 17232, Cash Balance: 2.24
+2017-05-19 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 2.7900, Deri_MMRatio: -0.003783, Price: 25.04, Quantity: 17232, Holding Days: 72, P/L: -3.54%, Account Total: 431491.52
+2017-10-26 00:00:00 Buy DXY_PRIMARY, Price: 24.71, Quantity: 17462, Cash Balance: 5.50
+2018-01-19 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -4.2459, Deri_MMRatio: -0.002511, Price: 23.59, Quantity: 17462, Holding Days: 57, P/L: -4.53%, Account Total: 411934.08
+2018-03-19 00:00:00 Buy DXY_PRIMARY, Price: 23.59, Quantity: 17462, Cash Balance: 5.50
+2018-07-31 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.2496, Deri_MMRatio: -0.000737, Price: 25.01, Quantity: 17462, Holding Days: 93, P/L: 6.02%, Account Total: 436730.12
+2018-09-27 00:00:00 Buy DXY_PRIMARY, Price: 25.3, Quantity: 17262, Cash Balance: 1.52
+2019-03-07 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 3.4408, Deri_MMRatio: 0.002805, Price: 25.99, Quantity: 17262, Holding Days: 109, P/L: 2.73%, Account Total: 448640.90
+2019-04-30 00:00:00 Buy DXY_PRIMARY, Price: 26.14, Quantity: 17163, Cash Balance: 0.08
+2020-03-09 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.5576, Deri_MMRatio: -0.004614, Price: 25.91, Quantity: 17163, Holding Days: 216, P/L: -0.88%, Account Total: 444693.41
+2020-04-06 00:00:00 Buy DXY_PRIMARY, Price: 27.01, Quantity: 16464, Cash Balance: 0.77
+2020-06-25 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.6977, Deri_MMRatio: 0.000037, Price: 26.33, Quantity: 16464, Holding Days: 56, P/L: -2.52%, Account Total: 433497.89
+2020-10-13 00:00:00 Buy DXY_PRIMARY, Price: 25.21, Quantity: 17195, Cash Balance: 11.94
+2020-12-07 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -2.5401, Deri_MMRatio: -0.001703, Price: 24.49, Quantity: 17195, Holding Days: 38, P/L: -2.86%, Account Total: 421117.49
+2021-02-02 00:00:00 Buy DXY_PRIMARY, Price: 24.58, Quantity: 17132, Cash Balance: 12.93
+2021-10-07 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.2108, Deri_MMRatio: -0.000395, Price: 25.25, Quantity: 17132, Holding Days: 172, P/L: 2.73%, Account Total: 432595.93
+2021-12-02 00:00:00 Buy DXY_PRIMARY, Price: 25.79, Quantity: 16773, Cash Balance: 20.26
+2022-09-01 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 6.6930, Deri_MMRatio: 0.001350, Price: 29.25, Quantity: 16773, Holding Days: 188, P/L: 13.42%, Account Total: 490630.51
+2023-03-15 00:00:00 Buy DXY_PRIMARY, Price: 28.39, Quantity: 17281, Cash Balance: 22.92
+2023-04-11 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 1.6403, Deri_MMRatio: 0.001003, Price: 27.65, Quantity: 17281, Holding Days: 18, P/L: -2.61%, Account Total: 477842.57
+2023-08-23 00:00:00 Buy DXY_PRIMARY, Price: 28.89, Quantity: 16540, Cash Balance: 1.97
+2023-12-28 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: -0.1030, Deri_MMRatio: -0.002253, Price: 27.08, Quantity: 16540, Holding Days: 88, P/L: -6.27%, Account Total: 447905.17
+2024-03-27 00:00:00 Buy DXY_PRIMARY, Price: 28.32, Quantity: 15815, Cash Balance: 24.37
+2024-07-30 00:00:00 Cond3 sell DXY_PRIMARY, Accu_MMRatio: 0.8308, Deri_MMRatio: 0.000144, Price: 28.75, Quantity: 15815, Holding Days: 85, P/L: 1.52%, Account Total: 454705.62
+2024-10-22 00:00:00 Buy DXY_PRIMARY, Price: 29.28, Quantity: 15529, Cash Balance: 16.50
+2024-11-26 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: -0.1933, Deri_MMRatio: 0.001437, Price: 29.94, Quantity: 15529, Holding Days: 25, P/L: 2.25%, Account Total: 464954.76
+2025-01-31 00:00:00 Buy DXY_PRIMARY, Price: 29.73, Quantity: 15639, Cash Balance: 7.29
+2025-02-21 00:00:00 Cond1 sell DXY_PRIMARY, Accu_MMRatio: 1.6389, Deri_MMRatio: -0.001801, Price: 29.09, Quantity: 15639, Holding Days: 14, P/L: -2.15%, Account Total: 454945.80
+2025-08-18 00:00:00 Buy DXY_PRIMARY, Price: 27.42, Quantity: 16591, Cash Balance: 20.58
+
+=== Account Position Information ===
+Code: DXY_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: DXY_PRIMARY
+  Holding Quantity: 16591
+  Current Price: 27.41
+  Holding Value: 454759.31
+  Buy Date: 2025-08-19
+  Holding Days: 176
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 20.58
+Account Total: 454779.89
+Date Of Trading Start: 2007-03-02
+
+Target Latest Close : 27.410
+Target Total Return (Start->Latest): 33.39%
+Target Annualized Return (CAGR): 1.51%
+Target Max Drawdown: -22.19%
+Target Max Drawdown Period: 2008-11-20 (Close=22.472) -> 2011-07-26 (Close=17.485) (673 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.25%
+Max Drawdown: -23.91%
+Max Drawdown Period: 2016-12-09 (Account total=447344.96) -> 2018-03-26 (Account total=340374.80) (323 trading days)
+
+Annual Returns (from first buy):
+  2007: 17.91%
+  2008: -5.96%
+  2009: 5.46%
+  2010: 27.43%
+  2011: -12.20%
+  2012: 26.56%
+  2013: -4.92%
+  2014: -9.17%
+  2015: 6.37%
+  2016: 19.41%
+  2017: -21.56%
+  2018: 5.82%
+  2019: 3.49%
+  2020: 9.59%
+  2021: -11.99%
+  2022: 32.38%
+  2023: -8.71%
+  2024: 3.81%
+  2025: -3.54%
+  2026: 1.41%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = DXY
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 0.99
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 6.666667
+Deri2 = 99.0
+Trend2 = 0.373333
+MedMax1 = -0.026667
+Accu1 = -6.666667
+Deri1 = -99.0
+Trend1 = -0.093333
+date_start_backtest = 2007-03-01

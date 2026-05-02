@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SP500
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: SP500
+  Holding Quantity: 1177
+  Current Price: 7230.12
+  Holding Value: 8509851.24
+  Buy Date: 2025-04-25
+  Holding Days: 255
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1022.45
+Account Total: 8510873.69
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 7230.120
+Target Total Return (Start->Latest): 1340.69%
+Target Annualized Return (CAGR): 8.96%
+Target Max Drawdown: -56.78%
+Target Max Drawdown Period: 2007-10-09 (Close=1565.150) -> 2009-03-09 (Close=676.530) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.34%
+Max Drawdown: -36.02%
+Max Drawdown Period: 2000-03-24 (Account total=930446.40) -> 2002-10-09 (Account total=595273.80) (637 trading days)

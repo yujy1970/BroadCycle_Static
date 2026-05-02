@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: GERMANY
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: GERMANY
+  Holding Quantity: 204
+  Current Price: 22612.97
+  Holding Value: 4613045.88
+  Buy Date: 2026-01-08
+  Holding Days: 55
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 24819.32
+Account Total: 4637865.20
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 22612.970
+Target Total Return (Start->Latest): 1071.17%
+Target Annualized Return (CAGR): 8.27%
+Target Max Drawdown: -72.68%
+Target Max Drawdown Period: 2000-03-07 (Close=8064.970) -> 2003-03-12 (Close=2202.960) (763 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.21%
+Max Drawdown: -32.56%
+Max Drawdown Period: 2011-05-02 (Account total=2156877.98) -> 2011-09-12 (Account total=1454659.32) (95 trading days)

@@ -1,0 +1,100 @@
+=== Trade Process ===
+2010-06-01 00:00:00 Initial Buy CHINA_CHINEXT, Price: 967.609, Quantity: 310, Cash Balance: 41.21
+2011-02-16 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 4.4435, Deri_MMRatio: -0.000295, Price: 1108.627, Quantity: 310, Holding Days: 169, P/L: 14.57%, Account Total: 343715.58
+2011-10-28 00:00:00 Buy CHINA_CHINEXT, Price: 834.297, Quantity: 411, Cash Balance: 819.51
+2012-02-21 00:00:00 Cond3 sell CHINA_CHINEXT, Accu_MMRatio: -12.0542, Deri_MMRatio: 0.001858, Price: 737.777, Quantity: 411, Holding Days: 75, P/L: -11.57%, Account Total: 304045.86
+2012-05-07 00:00:00 Buy CHINA_CHINEXT, Price: 733.828, Quantity: 414, Cash Balance: 241.07
+2013-12-20 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 22.5155, Deri_MMRatio: 0.000726, Price: 1251.41, Quantity: 414, Holding Days: 395, P/L: 70.53%, Account Total: 518324.81
+2014-05-26 00:00:00 Buy CHINA_CHINEXT, Price: 1319.664, Quantity: 392, Cash Balance: 1016.52
+2015-03-27 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 7.0239, Deri_MMRatio: 0.006071, Price: 2319.307, Quantity: 392, Holding Days: 205, P/L: 75.75%, Account Total: 910184.86
+2015-09-23 00:00:00 Buy CHINA_CHINEXT, Price: 2090.557, Quantity: 435, Cash Balance: 792.57
+2015-10-22 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 17.9035, Deri_MMRatio: 0.010104, Price: 2488.306, Quantity: 435, Holding Days: 16, P/L: 19.03%, Account Total: 1083205.68
+2016-01-19 00:00:00 Buy CHINA_CHINEXT, Price: 2222.601, Quantity: 487, Cash Balance: 798.99
+2016-03-29 00:00:00 Cond3 sell CHINA_CHINEXT, Accu_MMRatio: 1.7303, Deri_MMRatio: 0.000337, Price: 2172.741, Quantity: 487, Holding Days: 45, P/L: -2.24%, Account Total: 1058923.86
+2018-02-26 00:00:00 Buy CHINA_CHINEXT, Price: 1729.937, Quantity: 612, Cash Balance: 202.42
+2018-07-03 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 0.2099, Deri_MMRatio: -0.003886, Price: 1595.888, Quantity: 612, Holding Days: 86, P/L: -7.75%, Account Total: 976885.87
+2018-10-22 00:00:00 Buy CHINA_CHINEXT, Price: 1313.68, Quantity: 743, Cash Balance: 821.63
+2019-04-11 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: -7.9748, Deri_MMRatio: 0.001320, Price: 1692.428, Quantity: 743, Holding Days: 115, P/L: 28.83%, Account Total: 1258295.64
+2019-08-19 00:00:00 Buy CHINA_CHINEXT, Price: 1624.801, Quantity: 774, Cash Balance: 699.66
+2020-01-20 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 9.2457, Deri_MMRatio: 0.002680, Price: 1979.373, Quantity: 774, Holding Days: 103, P/L: 21.82%, Account Total: 1532734.36
+2020-04-09 00:00:00 Buy CHINA_CHINEXT, Price: 1990.263, Quantity: 770, Cash Balance: 231.85
+2020-08-03 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 13.1315, Deri_MMRatio: 0.005462, Price: 2863.318, Quantity: 770, Holding Days: 77, P/L: 43.87%, Account Total: 2204986.71
+2020-10-09 00:00:00 Buy CHINA_CHINEXT, Price: 2702.156, Quantity: 816, Cash Balance: 27.42
+2020-11-06 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 16.3466, Deri_MMRatio: 0.000100, Price: 2753.925, Quantity: 816, Holding Days: 20, P/L: 1.92%, Account Total: 2247230.22
+2020-12-21 00:00:00 Buy CHINA_CHINEXT, Price: 2867.21, Quantity: 783, Cash Balance: 2204.79
+2022-04-12 00:00:00 Cond3 sell CHINA_CHINEXT, Accu_MMRatio: 0.4768, Deri_MMRatio: -0.001018, Price: 2499.191, Quantity: 783, Holding Days: 315, P/L: -12.84%, Account Total: 1959071.34
+2022-06-02 00:00:00 Buy CHINA_CHINEXT, Price: 2456.162, Quantity: 797, Cash Balance: 1510.23
+2024-10-08 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: -7.6126, Deri_MMRatio: 0.015223, Price: 2426.752, Quantity: 797, Holding Days: 568, P/L: -1.20%, Account Total: 1935631.57
+2025-05-12 00:00:00 Buy CHINA_CHINEXT, Price: 2091.349, Quantity: 925, Cash Balance: 1133.75
+2025-09-15 00:00:00 Cond1 sell CHINA_CHINEXT, Accu_MMRatio: 10.3570, Deri_MMRatio: 0.004817, Price: 3072.302, Quantity: 925, Holding Days: 89, P/L: 46.91%, Account Total: 2843013.10
+
+=== Account Position Information ===
+Code: CHINA_CHINEXT
+Current Date: 2026-02-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-15
+Cash Balance: 2843013.10
+Account Total: 2843013.10
+Date Of Trading Start: 2010-06-02
+
+Target Latest Close : 3344.982
+Target Total Return (Start->Latest): 243.70%
+Target Annualized Return (CAGR): 8.16%
+Target Max Drawdown: -69.74%
+Target Max Drawdown Period: 2015-06-03 (Close=3982.251) -> 2018-10-18 (Close=1205.031) (823 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.14%
+Max Drawdown: -56.26%
+Max Drawdown Period: 2021-08-04 (Account total=2792133.23) -> 2024-09-23 (Account total=1221323.51) (760 trading days)
+
+Annual Returns (from first buy):
+  2010: 14.09%
+  2011: -14.76%
+  2012: -1.62%
+  2013: 75.24%
+  2014: 11.50%
+  2015: 87.42%
+  2016: -2.24%
+  2017: 0.00%
+  2018: -12.18%
+  2019: 49.73%
+  2020: 66.96%
+  2021: 12.00%
+  2022: -28.11%
+  2023: -19.39%
+  2024: 28.28%
+  2025: 46.88%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHINA_CHINEXT
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+back_long = 100
+back_medium = 30
+TTT = 25
+PPP = 1.038
+QQQ = 15
+MedMax2 = 0.18
+Accu2 = 99.0
+Deri2 = 0.01
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -12.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 1995-04-01

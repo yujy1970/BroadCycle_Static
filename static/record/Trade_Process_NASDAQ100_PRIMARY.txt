@@ -1,0 +1,112 @@
+=== Trade Process ===
+1999-03-10 00:00:00 Initial Buy NASDAQ100_PRIMARY, Price: 51.438, Quantity: 5832, Cash Balance: 13.58
+1999-12-13 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 91.1260, Deri_MMRatio: 0.007098, Price: 80.75, Quantity: 5832, Holding Days: 193, P/L: 56.99%, Account Total: 470947.58
+1999-12-22 00:00:00 Buy NASDAQ100_PRIMARY, Price: 89.867, Quantity: 5240, Cash Balance: 44.50
+2000-03-09 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 99.1116, Deri_MMRatio: 0.005302, Price: 114.875, Quantity: 5240, Holding Days: 53, P/L: 27.83%, Account Total: 601989.50
+2000-10-13 00:00:00 Buy NASDAQ100_PRIMARY, Price: 81.125, Quantity: 7420, Cash Balance: 42.00
+2001-01-16 00:00:00 Cond3 sell NASDAQ100_PRIMARY, Accu_MMRatio: 56.0630, Deri_MMRatio: -0.004880, Price: 64.5, Quantity: 7420, Holding Days: 63, P/L: -20.49%, Account Total: 478632.00
+2003-01-29 00:00:00 Buy NASDAQ100_PRIMARY, Price: 25.32, Quantity: 18903, Cash Balance: 8.04
+2003-11-12 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: -1.7476, Deri_MMRatio: 0.001241, Price: 35.71, Quantity: 18903, Holding Days: 200, P/L: 41.03%, Account Total: 675034.17
+2003-12-11 00:00:00 Buy NASDAQ100_PRIMARY, Price: 35.31, Quantity: 19117, Cash Balance: 12.90
+2004-07-29 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 43.4167, Deri_MMRatio: -0.002142, Price: 34.76, Quantity: 19117, Holding Days: 157, P/L: -1.56%, Account Total: 664519.82
+2004-08-16 00:00:00 Buy NASDAQ100_PRIMARY, Price: 33.12, Quantity: 20064, Cash Balance: 0.14
+2008-02-20 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 25.9138, Deri_MMRatio: -0.004238, Price: 44.36, Quantity: 20064, Holding Days: 884, P/L: 33.94%, Account Total: 890039.18
+2008-03-05 00:00:00 Buy NASDAQ100_PRIMARY, Price: 43.09, Quantity: 20655, Cash Balance: 15.23
+2008-09-02 00:00:00 Cond3 sell NASDAQ100_PRIMARY, Accu_MMRatio: 7.9051, Deri_MMRatio: 0.000229, Price: 45.45, Quantity: 20655, Holding Days: 125, P/L: 5.48%, Account Total: 938784.98
+2009-05-28 00:00:00 Buy NASDAQ100_PRIMARY, Price: 34.97, Quantity: 26845, Cash Balance: 15.33
+2010-02-01 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: -1.6309, Deri_MMRatio: -0.000343, Price: 43.33, Quantity: 26845, Holding Days: 171, P/L: 23.91%, Account Total: 1163209.18
+2010-02-26 00:00:00 Buy NASDAQ100_PRIMARY, Price: 44.96, Quantity: 25872, Cash Balance: 4.06
+2010-10-04 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 38.5499, Deri_MMRatio: -0.000340, Price: 49.03, Quantity: 25872, Holding Days: 152, P/L: 9.05%, Account Total: 1268508.22
+2010-10-11 00:00:00 Buy NASDAQ100_PRIMARY, Price: 49.69, Quantity: 25528, Cash Balance: 21.90
+2014-10-31 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 36.8090, Deri_MMRatio: -0.000639, Price: 101.58, Quantity: 25528, Holding Days: 1022, P/L: 104.43%, Account Total: 2593156.14
+2014-11-12 00:00:00 Buy NASDAQ100_PRIMARY, Price: 102.65, Quantity: 25262, Cash Balance: 11.84
+2018-05-09 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 37.6364, Deri_MMRatio: -0.001645, Price: 168.42, Quantity: 25262, Holding Days: 877, P/L: 64.07%, Account Total: 4254637.88
+2018-05-18 00:00:00 Buy NASDAQ100_PRIMARY, Price: 168.76, Quantity: 25211, Cash Balance: 29.52
+2021-06-28 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 61.5386, Deri_MMRatio: -0.000242, Price: 353.53, Quantity: 25211, Holding Days: 782, P/L: 109.49%, Account Total: 8912874.35
+2021-07-07 00:00:00 Buy NASDAQ100_PRIMARY, Price: 355.74, Quantity: 25054, Cash Balance: 164.39
+2022-07-28 00:00:00 Cond3 sell NASDAQ100_PRIMARY, Accu_MMRatio: 16.1453, Deri_MMRatio: 0.000125, Price: 311.39, Quantity: 25054, Holding Days: 267, P/L: -12.47%, Account Total: 7801729.45
+2022-12-29 00:00:00 Buy NASDAQ100_PRIMARY, Price: 263.62, Quantity: 29594, Cash Balance: 159.17
+2023-10-02 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: -1.2640, Deri_MMRatio: -0.000974, Price: 358.78, Quantity: 29594, Holding Days: 189, P/L: 36.10%, Account Total: 10617894.49
+2023-10-30 00:00:00 Buy NASDAQ100_PRIMARY, Price: 349.23, Quantity: 30403, Cash Balance: 254.80
+2024-11-15 00:00:00 Cond1 sell NASDAQ100_PRIMARY, Accu_MMRatio: 47.5452, Deri_MMRatio: -0.000387, Price: 498.13, Quantity: 30403, Holding Days: 264, P/L: 42.64%, Account Total: 15144901.19
+2024-11-26 00:00:00 Buy NASDAQ100_PRIMARY, Price: 508.17, Quantity: 29802, Cash Balance: 418.85
+
+=== Account Position Information ===
+Code: NASDAQ100_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: NASDAQ100_PRIMARY
+  Holding Quantity: 29802
+  Current Price: 674.15
+  Holding Value: 20091018.30
+  Buy Date: 2024-11-27
+  Holding Days: 355
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 418.85
+Account Total: 20091437.15
+Date Of Trading Start: 1999-03-11
+
+Target Latest Close : 674.150
+Target Total Return (Start->Latest): 1465.10%
+Target Annualized Return (CAGR): 10.66%
+Target Max Drawdown: -82.96%
+Target Max Drawdown Period: 2000-03-27 (Close=99.329) -> 2002-10-09 (Close=16.922) (636 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 17.50%
+Max Drawdown: -44.43%
+Max Drawdown Period: 2000-03-09 (Account total=601989.50) -> 2001-01-02 (Account total=334520.76) (206 trading days)
+
+Annual Returns (from first buy):
+  1999: 60.01%
+  2000: -9.54%
+  2001: 30.98%
+  2002: 0.00%
+  2003: 22.89%
+  2004: 16.01%
+  2005: 1.56%
+  2006: 7.14%
+  2007: 19.03%
+  2008: 6.21%
+  2009: 13.55%
+  2010: 14.25%
+  2011: 3.48%
+  2012: 18.11%
+  2013: 36.63%
+  2014: 17.94%
+  2015: 9.44%
+  2016: 7.10%
+  2017: 32.66%
+  2018: -0.33%
+  2019: 38.96%
+  2020: 48.41%
+  2021: 26.63%
+  2022: -20.36%
+  2023: 59.09%
+  2024: 23.10%
+  2025: 20.77%
+  2026: 9.88%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = NASDAQ100
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 0.99
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.42
+MedMax1 = -0.2
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.07
+date_start_backtest = 1999-03-10

@@ -1,0 +1,83 @@
+=== Trade Process ===
+2013-10-24 00:00:00 Initial Buy FTEC, Price: 25.28, Quantity: 11867, Cash Balance: 2.24
+2017-06-30 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 9.8520, Deri_MMRatio: -0.003002, Price: 42.95, Quantity: 11867, Holding Days: 927, P/L: 69.90%, Account Total: 509689.89
+2017-10-27 00:00:00 Buy FTEC, Price: 48.77, Quantity: 10450, Cash Balance: 43.39
+2018-01-04 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 10.4792, Deri_MMRatio: 0.001199, Price: 51.78, Quantity: 10450, Holding Days: 46, P/L: 6.17%, Account Total: 541144.39
+2018-02-23 00:00:00 Buy FTEC, Price: 54.1, Quantity: 10002, Cash Balance: 36.19
+2020-03-02 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 10.6882, Deri_MMRatio: -0.002757, Price: 73.76, Quantity: 10002, Holding Days: 507, P/L: 36.34%, Account Total: 737783.71
+2020-04-14 00:00:00 Buy FTEC, Price: 67.93, Quantity: 10860, Cash Balance: 63.91
+2020-11-03 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 12.8345, Deri_MMRatio: -0.002586, Price: 92.73, Quantity: 10860, Holding Days: 142, P/L: 36.51%, Account Total: 1007111.71
+2020-12-17 00:00:00 Buy FTEC, Price: 103.64, Quantity: 9717, Cash Balance: 41.83
+2021-04-01 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 17.7398, Deri_MMRatio: 0.002198, Price: 108.95, Quantity: 9717, Holding Days: 71, P/L: 5.12%, Account Total: 1058708.98
+2021-05-24 00:00:00 Buy FTEC, Price: 110.4, Quantity: 9589, Cash Balance: 83.38
+2023-10-17 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 11.1176, Deri_MMRatio: -0.000851, Price: 125.47, Quantity: 9589, Holding Days: 604, P/L: 13.65%, Account Total: 1203215.21
+2023-12-13 00:00:00 Buy FTEC, Price: 142.6, Quantity: 8437, Cash Balance: 99.01
+2024-04-10 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 12.3859, Deri_MMRatio: -0.002847, Price: 153.38, Quantity: 8437, Holding Days: 80, P/L: 7.56%, Account Total: 1294166.07
+2024-06-11 00:00:00 Buy FTEC, Price: 168.42, Quantity: 7684, Cash Balance: 26.79
+2026-03-27 00:00:00 Cond1 sell FTEC, Accu_MMRatio: 11.7201, Deri_MMRatio: -0.001550, Price: 205.16, Quantity: 7684, Holding Days: 449, P/L: 21.81%, Account Total: 1576476.23
+
+=== Account Position Information ===
+Code: FTEC
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-27
+Cash Balance: 1576476.23
+Account Total: 1576476.23
+Date Of Trading Start: 2013-10-25
+
+Target Latest Close : 250.200
+Target Total Return (Start->Latest): 1021.22%
+Target Annualized Return (CAGR): 21.30%
+Target Max Drawdown: -34.95%
+Target Max Drawdown Period: 2021-12-27 (Close=133.805) -> 2022-10-14 (Close=87.038) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.30%
+Max Drawdown: -34.95%
+Max Drawdown Period: 2021-12-27 (Account total=1283139.52) -> 2022-10-14 (Account total=834690.76) (202 trading days)
+
+Annual Returns (from first buy):
+  2013: 8.00%
+  2014: 18.34%
+  2015: 4.97%
+  2016: 13.48%
+  2017: 20.50%
+  2018: -4.66%
+  2019: 48.93%
+  2020: 41.67%
+  2021: 28.77%
+  2022: -29.59%
+  2023: 34.88%
+  2024: 17.84%
+  2025: 22.11%
+  2026: -8.59%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FTEC
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.012
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

@@ -1,0 +1,117 @@
+=== Trade Process ===
+1996-03-18 00:00:00 Initial Buy MEXICO_PRIMARY, Price: 10.375, Quantity: 28915, Cash Balance: 6.88
+1998-02-23 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 81.1740, Deri_MMRatio: -0.002343, Price: 14.0, Quantity: 28915, Holding Days: 483, P/L: 34.94%, Account Total: 404816.88
+1998-03-20 00:00:00 Buy MEXICO_PRIMARY, Price: 15.25, Quantity: 26545, Cash Balance: 5.62
+1999-05-10 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -8.7424, Deri_MMRatio: 0.007076, Price: 16.75, Quantity: 26545, Holding Days: 282, P/L: 9.84%, Account Total: 444634.38
+1999-06-16 00:00:00 Buy MEXICO_PRIMARY, Price: 15.188, Quantity: 29275, Cash Balance: 5.67
+1999-07-21 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -0.9913, Deri_MMRatio: 0.000739, Price: 15.312, Quantity: 29275, Holding Days: 25, P/L: 0.82%, Account Total: 448264.47
+1999-09-28 00:00:00 Buy MEXICO_PRIMARY, Price: 13.25, Quantity: 33831, Cash Balance: 3.72
+2000-01-11 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 31.1505, Deri_MMRatio: 0.007116, Price: 18.0, Quantity: 33831, Holding Days: 73, P/L: 35.85%, Account Total: 608961.72
+2000-02-07 00:00:00 Buy MEXICO_PRIMARY, Price: 19.375, Quantity: 31430, Cash Balance: 5.47
+2000-10-27 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 67.3124, Deri_MMRatio: -0.001716, Price: 15.188, Quantity: 31430, Holding Days: 184, P/L: -21.61%, Account Total: 477364.32
+2000-12-27 00:00:00 Buy MEXICO_PRIMARY, Price: 13.5, Quantity: 35360, Cash Balance: 4.32
+2002-05-14 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -0.2223, Deri_MMRatio: 0.001567, Price: 16.93, Quantity: 35360, Holding Days: 341, P/L: 25.41%, Account Total: 598649.11
+2002-08-08 00:00:00 Buy MEXICO_PRIMARY, Price: 13.11, Quantity: 45663, Cash Balance: 7.19
+2003-09-05 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -0.5565, Deri_MMRatio: 0.001703, Price: 15.63, Quantity: 45663, Holding Days: 271, P/L: 19.22%, Account Total: 713719.88
+2003-11-03 00:00:00 Buy MEXICO_PRIMARY, Price: 16.5, Quantity: 43255, Cash Balance: 12.38
+2005-07-05 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 76.9291, Deri_MMRatio: 0.000152, Price: 27.45, Quantity: 43255, Holding Days: 425, P/L: 66.36%, Account Total: 1187362.12
+2005-08-01 00:00:00 Buy MEXICO_PRIMARY, Price: 30.07, Quantity: 39486, Cash Balance: 18.10
+2006-08-29 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 82.7319, Deri_MMRatio: 0.001063, Price: 41.83, Quantity: 39486, Holding Days: 274, P/L: 39.11%, Account Total: 1651717.48
+2006-09-20 00:00:00 Buy MEXICO_PRIMARY, Price: 43.29, Quantity: 38154, Cash Balance: 30.82
+2007-10-18 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 96.8815, Deri_MMRatio: 0.000143, Price: 63.25, Quantity: 38154, Holding Days: 269, P/L: 46.11%, Account Total: 2413271.33
+2007-11-28 00:00:00 Buy MEXICO_PRIMARY, Price: 56.37, Quantity: 42811, Cash Balance: 15.26
+2010-02-16 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -1.3306, Deri_MMRatio: 0.000556, Price: 48.8, Quantity: 42811, Holding Days: 555, P/L: -13.43%, Account Total: 2089192.06
+2010-05-27 00:00:00 Buy MEXICO_PRIMARY, Price: 50.16, Quantity: 41650, Cash Balance: 28.06
+2011-06-28 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 47.8932, Deri_MMRatio: -0.001981, Price: 61.35, Quantity: 41650, Holding Days: 273, P/L: 22.31%, Account Total: 2555255.56
+2011-08-15 00:00:00 Buy MEXICO_PRIMARY, Price: 55.29, Quantity: 46215, Cash Balance: 28.21
+2018-01-29 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 15.1966, Deri_MMRatio: 0.000380, Price: 52.99, Quantity: 46215, Holding Days: 1614, P/L: -4.16%, Account Total: 2448961.06
+2018-04-05 00:00:00 Buy MEXICO_PRIMARY, Price: 52.28, Quantity: 46843, Cash Balance: 9.02
+2021-06-07 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -0.8633, Deri_MMRatio: 0.001143, Price: 50.1, Quantity: 46843, Holding Days: 797, P/L: -4.17%, Account Total: 2346843.32
+2021-07-28 00:00:00 Buy MEXICO_PRIMARY, Price: 49.6, Quantity: 47315, Cash Balance: 19.32
+2022-06-08 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: 36.5889, Deri_MMRatio: -0.001574, Price: 49.78, Quantity: 47315, Holding Days: 218, P/L: 0.36%, Account Total: 2355360.02
+2022-07-28 00:00:00 Buy MEXICO_PRIMARY, Price: 46.79, Quantity: 50338, Cash Balance: 45.00
+2025-08-27 00:00:00 Cond1 sell MEXICO_PRIMARY, Accu_MMRatio: -0.1983, Deri_MMRatio: 0.000240, Price: 61.89, Quantity: 50338, Holding Days: 774, P/L: 32.27%, Account Total: 3115463.82
+2025-10-16 00:00:00 Buy MEXICO_PRIMARY, Price: 67.05, Quantity: 46464, Cash Balance: 52.62
+
+=== Account Position Information ===
+Code: MEXICO_PRIMARY
+Current Date: 2026-04-30 16:00
+Mode: Etf Data
+Current Position: MEXICO_PRIMARY
+  Holding Quantity: 46464
+  Current Price: 76.44
+  Holding Value: 3551708.16
+  Buy Date: 2025-10-17
+  Holding Days: 131
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 52.62
+Account Total: 3551760.78
+Date Of Trading Start: 1996-03-19
+
+Target Latest Close : 76.660
+Target Total Return (Start->Latest): 1319.37%
+Target Annualized Return (CAGR): 9.21%
+Target Max Drawdown: -64.94%
+Target Max Drawdown Period: 2007-07-06 (Close=43.085) -> 2009-03-09 (Close=15.104) (421 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.93%
+Max Drawdown: -74.30%
+Max Drawdown Period: 1998-02-23 (Account total=404816.88) -> 1998-09-10 (Account total=104035.48) (138 trading days)
+
+Annual Returns (from first buy):
+  1996: 12.18%
+  1997: 47.18%
+  1998: -40.64%
+  1999: 124.48%
+  2000: -19.95%
+  2001: 15.39%
+  2002: 10.13%
+  2003: 35.96%
+  2004: 48.96%
+  2005: 31.29%
+  2006: 39.94%
+  2007: 24.94%
+  2008: -41.07%
+  2009: 53.87%
+  2010: 23.29%
+  2011: -1.39%
+  2012: 32.81%
+  2013: -1.94%
+  2014: -11.24%
+  2015: -14.25%
+  2016: -10.31%
+  2017: 14.46%
+  2018: -13.42%
+  2019: 12.64%
+  2020: -3.06%
+  2021: 21.49%
+  2022: 7.71%
+  2023: 40.32%
+  2024: -28.22%
+  2025: 41.82%
+  2026: 10.26%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = MEXICO
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 15
+PPP = 1.0175
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.007
+Trend2 = 0.455
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1996-03-18

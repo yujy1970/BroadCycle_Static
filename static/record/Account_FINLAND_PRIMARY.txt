@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: FINLAND_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: FINLAND_PRIMARY
+  Holding Quantity: 20928
+  Current Price: 48.44
+  Holding Value: 1013752.32
+  Buy Date: 2022-03-15
+  Holding Days: 1004
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 9.55
+Account Total: 1013761.87
+Date Of Trading Start: 2012-06-01
+
+Target Latest Close : 48.236
+Target Total Return (Start->Latest): 192.09%
+Target Annualized Return (CAGR): 8.07%
+Target Max Drawdown: -38.70%
+Target Max Drawdown Period: 2021-09-03 (Close=49.803) -> 2022-09-27 (Close=30.529) (267 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.28%
+Max Drawdown: -23.37%
+Max Drawdown Period: 2022-03-29 (Account total=833822.93) -> 2022-09-27 (Account total=638920.46) (126 trading days)

@@ -1,0 +1,112 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy GERMANY_PRIMARY, Price: 14.108, Quantity: 21264, Cash Balance: 7.49
+2006-05-24 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 11.0918, Deri_MMRatio: -0.004561, Price: 17.445, Quantity: 21264, Holding Days: 317, P/L: 23.65%, Account Total: 370957.97
+2006-07-03 00:00:00 Buy GERMANY_PRIMARY, Price: 17.467, Quantity: 21237, Cash Balance: 11.29
+2007-07-19 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 12.0057, Deri_MMRatio: -0.001270, Price: 25.806, Quantity: 21237, Holding Days: 266, P/L: 47.74%, Account Total: 548053.31
+2007-11-30 00:00:00 Buy GERMANY_PRIMARY, Price: 27.067, Quantity: 20248, Cash Balance: 0.69
+2008-05-09 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.0853, Deri_MMRatio: 0.003538, Price: 25.128, Quantity: 20248, Holding Days: 107, P/L: -7.16%, Account Total: 508792.44
+2009-10-12 00:00:00 Buy GERMANY_PRIMARY, Price: 17.261, Quantity: 29476, Cash Balance: 7.20
+2010-01-27 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 12.0503, Deri_MMRatio: -0.003754, Price: 15.917, Quantity: 29476, Holding Days: 73, P/L: -7.79%, Account Total: 469176.69
+2010-05-12 00:00:00 Buy GERMANY_PRIMARY, Price: 15.675, Quantity: 29931, Cash Balance: 8.27
+2011-10-21 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.1348, Deri_MMRatio: 0.007757, Price: 16.175, Quantity: 29931, Holding Days: 373, P/L: 3.19%, Account Total: 484142.19
+2012-06-19 00:00:00 Buy GERMANY_PRIMARY, Price: 15.833, Quantity: 30578, Cash Balance: 0.72
+2012-11-16 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 8.1471, Deri_MMRatio: -0.003839, Price: 17.679, Quantity: 30578, Holding Days: 108, P/L: 11.66%, Account Total: 540589.18
+2013-03-05 00:00:00 Buy GERMANY_PRIMARY, Price: 20.27, Quantity: 26669, Cash Balance: 8.55
+2013-06-26 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 8.6824, Deri_MMRatio: -0.002628, Price: 20.276, Quantity: 26669, Holding Days: 78, P/L: 0.03%, Account Total: 540749.20
+2013-09-10 00:00:00 Buy GERMANY_PRIMARY, Price: 21.991, Quantity: 24589, Cash Balance: 12.50
+2015-03-16 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 3.8667, Deri_MMRatio: 0.002324, Price: 24.709, Quantity: 24589, Holding Days: 380, P/L: 12.36%, Account Total: 607582.10
+2015-05-20 00:00:00 Buy GERMANY_PRIMARY, Price: 25.367, Quantity: 23951, Cash Balance: 17.08
+2016-02-23 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.0409, Deri_MMRatio: -0.001766, Price: 19.58, Quantity: 23951, Holding Days: 194, P/L: -22.81%, Account Total: 468977.66
+2016-08-09 00:00:00 Buy GERMANY_PRIMARY, Price: 22.93, Quantity: 20452, Cash Balance: 13.30
+2017-07-04 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 8.4622, Deri_MMRatio: -0.001773, Price: 26.737, Quantity: 20452, Holding Days: 229, P/L: 16.60%, Account Total: 546838.43
+2017-09-11 00:00:00 Buy GERMANY_PRIMARY, Price: 28.359, Quantity: 19282, Cash Balance: 20.19
+2018-11-29 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.0278, Deri_MMRatio: 0.000170, Price: 24.338, Quantity: 19282, Holding Days: 308, P/L: -14.18%, Account Total: 469305.50
+2019-10-11 00:00:00 Buy GERMANY_PRIMARY, Price: 25.418, Quantity: 18463, Cash Balance: 12.97
+2020-02-17 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 6.2865, Deri_MMRatio: -0.000137, Price: 27.294, Quantity: 18463, Holding Days: 86, P/L: 7.38%, Account Total: 503942.09
+2020-03-31 00:00:00 Buy GERMANY_PRIMARY, Price: 19.332, Quantity: 26067, Cash Balance: 14.85
+2020-05-26 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.0897, Deri_MMRatio: 0.005151, Price: 23.924, Quantity: 26067, Holding Days: 37, P/L: 23.75%, Account Total: 623641.76
+2020-07-15 00:00:00 Buy GERMANY_PRIMARY, Price: 26.95, Quantity: 23140, Cash Balance: 18.76
+2020-07-21 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: -1.6781, Deri_MMRatio: 0.002492, Price: 27.911, Quantity: 23140, Holding Days: 4, P/L: 3.57%, Account Total: 645879.30
+2020-11-04 00:00:00 Buy GERMANY_PRIMARY, Price: 27.005, Quantity: 23917, Cash Balance: 0.71
+2021-05-04 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 10.5134, Deri_MMRatio: -0.002439, Price: 32.73, Quantity: 23917, Holding Days: 123, P/L: 21.20%, Account Total: 782804.12
+2021-10-15 00:00:00 Buy GERMANY_PRIMARY, Price: 32.145, Quantity: 24352, Cash Balance: 9.08
+2022-06-27 00:00:00 Cond3 sell GERMANY_PRIMARY, Accu_MMRatio: -4.0408, Deri_MMRatio: -0.003410, Price: 24.03, Quantity: 24352, Holding Days: 177, P/L: -25.24%, Account Total: 585187.64
+2023-02-02 00:00:00 Buy GERMANY_PRIMARY, Price: 28.42, Quantity: 20590, Cash Balance: 19.84
+2023-09-08 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 8.7110, Deri_MMRatio: -0.000254, Price: 27.38, Quantity: 20590, Holding Days: 153, P/L: -3.66%, Account Total: 563774.04
+2023-11-03 00:00:00 Buy GERMANY_PRIMARY, Price: 26.15, Quantity: 21559, Cash Balance: 6.19
+2025-08-29 00:00:00 Cond1 sell GERMANY_PRIMARY, Accu_MMRatio: 10.0070, Deri_MMRatio: -0.000564, Price: 41.9, Quantity: 21559, Holding Days: 461, P/L: 60.23%, Account Total: 903328.29
+2026-01-07 00:00:00 Buy GERMANY_PRIMARY, Price: 43.1, Quantity: 20958, Cash Balance: 38.49
+
+=== Account Position Information ===
+Code: GERMANY_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: GERMANY_PRIMARY
+  Holding Quantity: 20958
+  Current Price: 38.67
+  Holding Value: 810445.86
+  Buy Date: 2026-01-08
+  Holding Days: 55
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 38.49
+Account Total: 810484.35
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 38.670
+Target Total Return (Start->Latest): 175.45%
+Target Annualized Return (CAGR): 4.92%
+Target Max Drawdown: -65.13%
+Target Max Drawdown Period: 2007-12-10 (Close=27.746) -> 2009-03-09 (Close=9.675) (312 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.85%
+Max Drawdown: -37.81%
+Max Drawdown Period: 2011-04-29 (Account total=654718.96) -> 2011-10-03 (Account total=407189.59) (111 trading days)
+
+Annual Returns (from first buy):
+  2005: 9.91%
+  2006: 32.28%
+  2007: 26.91%
+  2008: -7.68%
+  2009: -0.69%
+  2010: 7.03%
+  2011: -10.48%
+  2012: 11.66%
+  2013: 17.67%
+  2014: -10.93%
+  2015: -4.62%
+  2016: -12.95%
+  2017: 20.11%
+  2018: -16.94%
+  2019: 7.27%
+  2020: 44.82%
+  2021: 6.31%
+  2022: -24.50%
+  2023: 9.38%
+  2024: 7.44%
+  2025: 31.35%
+  2026: -10.28%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = GERMANY
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 10
+MedMax2 = 0.12
+Accu2 = 12.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -4.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

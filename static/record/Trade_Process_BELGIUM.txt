@@ -1,0 +1,144 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy BELGIUM, Price: 1325.8, Quantity: 226, Cash Balance: 369.20
+1996-04-04 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 7.4593, Deri_MMRatio: -0.003696, Price: 1686.9, Quantity: 226, Holding Days: 252, P/L: 27.24%, Account Total: 381608.60
+1996-08-02 00:00:00 Buy BELGIUM, Price: 1747.6, Quantity: 218, Cash Balance: 631.80
+1997-07-31 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 12.0386, Deri_MMRatio: 0.000964, Price: 2536.0, Quantity: 218, Holding Days: 246, P/L: 45.11%, Account Total: 553479.80
+1997-12-01 00:00:00 Buy BELGIUM, Price: 2462.7, Quantity: 224, Cash Balance: 1835.00
+1998-07-24 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 12.0106, Deri_MMRatio: 0.000143, Price: 3556.58, Quantity: 224, Holding Days: 159, P/L: 44.42%, Account Total: 798508.92
+1998-12-17 00:00:00 Buy BELGIUM, Price: 3416.89, Quantity: 233, Cash Balance: 2373.55
+1999-06-02 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.5623, Deri_MMRatio: -0.001434, Price: 3086.02, Quantity: 233, Holding Days: 106, P/L: -9.68%, Account Total: 721416.21
+1999-08-13 00:00:00 Buy BELGIUM, Price: 3051.05, Quantity: 236, Cash Balance: 1368.41
+1999-11-16 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: -1.4680, Deri_MMRatio: 0.006112, Price: 3388.99, Quantity: 236, Holding Days: 65, P/L: 11.08%, Account Total: 801170.05
+1999-12-24 00:00:00 Buy BELGIUM, Price: 3317.24, Quantity: 241, Cash Balance: 1715.21
+2000-04-07 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: -4.8351, Deri_MMRatio: 0.006280, Price: 2862.27, Quantity: 241, Holding Days: 74, P/L: -13.72%, Account Total: 691522.28
+2000-08-09 00:00:00 Buy BELGIUM, Price: 3163.59, Quantity: 218, Cash Balance: 1859.66
+2001-03-15 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 2.2736, Deri_MMRatio: -0.002584, Price: 2822.36, Quantity: 218, Holding Days: 152, P/L: -10.79%, Account Total: 617134.14
+2001-09-27 00:00:00 Buy BELGIUM, Price: 2581.85, Quantity: 239, Cash Balance: 71.99
+2002-08-21 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: -4.5922, Deri_MMRatio: 0.006610, Price: 2269.87, Quantity: 239, Holding Days: 227, P/L: -12.08%, Account Total: 542570.92
+2002-10-02 00:00:00 Buy BELGIUM, Price: 1904.35, Quantity: 284, Cash Balance: 1735.52
+2002-10-18 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: -8.0956, Deri_MMRatio: 0.004303, Price: 2023.23, Quantity: 284, Holding Days: 12, P/L: 6.24%, Account Total: 576332.84
+2003-08-19 00:00:00 Buy BELGIUM, Price: 2109.57, Quantity: 273, Cash Balance: 420.23
+2004-03-31 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 11.1509, Deri_MMRatio: -0.002973, Price: 2389.97, Quantity: 273, Holding Days: 158, P/L: 13.29%, Account Total: 652882.04
+2004-10-04 00:00:00 Buy BELGIUM, Price: 2759.68, Quantity: 236, Cash Balance: 1597.56
+2007-11-27 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.3349, Deri_MMRatio: -0.003007, Price: 4047.88, Quantity: 236, Holding Days: 809, P/L: 46.68%, Account Total: 956897.24
+2008-01-29 00:00:00 Buy BELGIUM, Price: 3753.9, Quantity: 254, Cash Balance: 3406.64
+2008-04-25 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: -8.0130, Deri_MMRatio: 0.003213, Price: 3908.36, Quantity: 254, Holding Days: 61, P/L: 4.11%, Account Total: 996130.08
+2008-07-18 00:00:00 Buy BELGIUM, Price: 3051.61, Quantity: 326, Cash Balance: 1305.22
+2008-07-22 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: -8.0339, Deri_MMRatio: -0.001936, Price: 3124.53, Quantity: 326, Holding Days: 2, P/L: 2.39%, Account Total: 1019902.00
+2009-10-06 00:00:00 Buy BELGIUM, Price: 2525.02, Quantity: 403, Cash Balance: 2318.94
+2010-01-08 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 12.0118, Deri_MMRatio: 0.001097, Price: 2604.65, Quantity: 403, Holding Days: 66, P/L: 3.15%, Account Total: 1051992.89
+2010-05-13 00:00:00 Buy BELGIUM, Price: 2523.22, Quantity: 416, Cash Balance: 2333.37
+2011-08-11 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.4984, Deri_MMRatio: -0.004056, Price: 2160.79, Quantity: 416, Holding Days: 323, P/L: -14.36%, Account Total: 901222.01
+2011-09-27 00:00:00 Buy BELGIUM, Price: 2146.22, Quantity: 419, Cash Balance: 1955.83
+2011-11-28 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: -8.0107, Deri_MMRatio: -0.001025, Price: 2010.5, Quantity: 419, Holding Days: 44, P/L: -6.32%, Account Total: 844355.33
+2012-06-29 00:00:00 Buy BELGIUM, Price: 2235.4, Quantity: 377, Cash Balance: 1609.53
+2012-11-21 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 5.5358, Deri_MMRatio: -0.000193, Price: 2377.83, Quantity: 377, Holding Days: 103, P/L: 6.37%, Account Total: 898051.44
+2013-04-23 00:00:00 Buy BELGIUM, Price: 2641.0, Quantity: 340, Cash Balance: 111.44
+2013-06-17 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 7.5426, Deri_MMRatio: -0.002594, Price: 2617.26, Quantity: 340, Holding Days: 38, P/L: -0.90%, Account Total: 889979.84
+2013-08-02 00:00:00 Buy BELGIUM, Price: 2761.95, Quantity: 322, Cash Balance: 631.94
+2015-07-01 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 6.9371, Deri_MMRatio: -0.001332, Price: 3647.04, Quantity: 322, Holding Days: 486, P/L: 32.05%, Account Total: 1174978.82
+2015-10-05 00:00:00 Buy BELGIUM, Price: 3433.51, Quantity: 342, Cash Balance: 718.40
+2016-02-02 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.4088, Deri_MMRatio: -0.003090, Price: 3425.35, Quantity: 342, Holding Days: 84, P/L: -0.24%, Account Total: 1172188.10
+2016-04-13 00:00:00 Buy BELGIUM, Price: 3442.53, Quantity: 340, Cash Balance: 1727.90
+2017-07-03 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 4.9158, Deri_MMRatio: -0.001473, Price: 3828.38, Quantity: 340, Holding Days: 314, P/L: 11.21%, Account Total: 1303377.10
+2018-01-09 00:00:00 Buy BELGIUM, Price: 4143.84, Quantity: 314, Cash Balance: 2211.34
+2018-06-07 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.1225, Deri_MMRatio: -0.000250, Price: 3771.34, Quantity: 314, Holding Days: 104, P/L: -8.99%, Account Total: 1186412.10
+2018-11-01 00:00:00 Buy BELGIUM, Price: 3555.53, Quantity: 333, Cash Balance: 2420.61
+2020-02-04 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 4.2188, Deri_MMRatio: -0.000201, Price: 4043.76, Quantity: 333, Holding Days: 319, P/L: 13.73%, Account Total: 1348992.69
+2020-03-20 00:00:00 Buy BELGIUM, Price: 2675.76, Quantity: 504, Cash Balance: 409.65
+2020-03-24 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 2.3271, Deri_MMRatio: -0.010699, Price: 2980.73, Quantity: 504, Holding Days: 2, P/L: 11.40%, Account Total: 1502697.57
+2020-08-11 00:00:00 Buy BELGIUM, Price: 3430.33, Quantity: 438, Cash Balance: 213.03
+2020-11-24 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: -6.4006, Deri_MMRatio: 0.007732, Price: 3742.94, Quantity: 438, Holding Days: 75, P/L: 9.11%, Account Total: 1639620.75
+2021-02-03 00:00:00 Buy BELGIUM, Price: 3791.75, Quantity: 432, Cash Balance: 1584.75
+2021-05-07 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 8.0581, Deri_MMRatio: 0.000327, Price: 4056.93, Quantity: 432, Holding Days: 65, P/L: 6.99%, Account Total: 1754178.51
+2022-03-14 00:00:00 Buy BELGIUM, Price: 3948.58, Quantity: 444, Cash Balance: 1008.99
+2022-04-04 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 1.0339, Deri_MMRatio: 0.006832, Price: 4228.93, Quantity: 444, Holding Days: 15, P/L: 7.10%, Account Total: 1878653.91
+2022-09-12 00:00:00 Buy BELGIUM, Price: 3724.22, Quantity: 504, Cash Balance: 1647.03
+2023-10-26 00:00:00 Cond3 sell BELGIUM, Accu_MMRatio: 0.2428, Deri_MMRatio: -0.002142, Price: 3307.36, Quantity: 504, Holding Days: 289, P/L: -11.19%, Account Total: 1668556.47
+2023-12-06 00:00:00 Buy BELGIUM, Price: 3643.36, Quantity: 457, Cash Balance: 3540.95
+2024-11-28 00:00:00 Cond1 sell BELGIUM, Accu_MMRatio: 6.4866, Deri_MMRatio: -0.000420, Price: 4209.97, Quantity: 457, Holding Days: 250, P/L: 15.55%, Account Total: 1927497.24
+2025-04-15 00:00:00 Buy BELGIUM, Price: 4178.19, Quantity: 461, Cash Balance: 1351.65
+
+=== Account Position Information ===
+Code: BELGIUM
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: BELGIUM
+  Holding Quantity: 461
+  Current Price: 5109.48
+  Holding Value: 2355470.28
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1351.65
+Account Total: 2356821.93
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 5109.480
+Target Total Return (Start->Latest): 290.42%
+Target Annualized Return (CAGR): 4.50%
+Target Max Drawdown: -67.89%
+Target Max Drawdown Period: 2007-05-23 (Close=4756.810) -> 2009-03-06 (Close=1527.270) (458 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.89%
+Max Drawdown: -44.38%
+Max Drawdown Period: 1999-01-06 (Account total=860260.91) -> 2002-07-24 (Account total=478452.00) (891 trading days)
+
+Annual Returns (from first buy):
+  1995: 17.61%
+  1996: 17.29%
+  1997: 31.34%
+  1998: 51.09%
+  1999: -1.77%
+  2000: -18.04%
+  2001: 0.57%
+  2002: -13.33%
+  2003: 6.38%
+  2004: 13.15%
+  2005: 20.98%
+  2006: 23.60%
+  2007: -7.75%
+  2008: 6.58%
+  2009: -0.53%
+  2010: 5.97%
+  2011: -21.46%
+  2012: 6.36%
+  2013: 4.91%
+  2014: 12.35%
+  2015: 19.63%
+  2016: -3.03%
+  2017: 6.15%
+  2018: -16.94%
+  2019: 21.91%
+  2020: 24.24%
+  2021: 6.99%
+  2022: 6.43%
+  2023: -9.05%
+  2024: 13.52%
+  2025: 21.53%
+  2026: 0.61%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BELGIUM
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 12.0
+Deri2 = 0.006
+Trend2 = 99.0
+MedMax1 = -0.18
+Accu1 = -8.0
+Deri1 = -99.0
+Trend1 = -0.42
+date_start_backtest = 1995-04-01

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: TAIWAN
+Current Date: 2026-03-26 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-29
+Cash Balance: 11892491.85
+Account Total: 11892491.85
+Date Of Trading Start: 1995-04-06
+
+Target Latest Close : 33337.620
+Target Total Return (Start->Latest): 407.15%
+Target Annualized Return (CAGR): 5.38%
+Target Max Drawdown: -66.22%
+Target Max Drawdown Period: 2000-02-17 (Close=10202.200) -> 2001-10-03 (Close=3446.260) (397 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 12.63%
+Max Drawdown: -43.33%
+Max Drawdown Period: 2001-02-15 (Account total=607297.99) -> 2001-10-03 (Account total=344157.97) (153 trading days)

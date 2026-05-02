@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: PORTUGAL_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-10-20
+Cash Balance: 701311.96
+Account Total: 701311.96
+Date Of Trading Start: 2013-11-13
+
+Target Latest Close : 10.315
+Target Total Return (Start->Latest): -31.00%
+Target Annualized Return (CAGR): -3.54%
+Target Max Drawdown: -62.34%
+Target Max Drawdown Period: 2014-04-01 (Close=18.479) -> 2020-03-20 (Close=6.960) (1503 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.13%
+Max Drawdown: -28.97%
+Max Drawdown Period: 2021-01-07 (Account total=692478.76) -> 2022-10-12 (Account total=491885.80) (455 trading days)

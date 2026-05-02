@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: KUWAIT
+Current Date: 2018-03-29 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2017-07-25
+Cash Balance: 2955737.45
+Account Total: 2955737.45
+Date Of Trading Start: 1997-03-06
+
+Target Latest Close : 6633.440
+Target Total Return (Start->Latest): 199.22%
+Target Annualized Return (CAGR): 5.34%
+Target Max Drawdown: -68.47%
+Target Max Drawdown Period: 2008-06-24 (Close=15654.800) -> 2016-01-26 (Close=4936.510) (1754 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.47%
+Max Drawdown: -16.84%
+Max Drawdown Period: 2002-07-16 (Account total=438478.80) -> 2002-10-01 (Account total=364655.40) (54 trading days)

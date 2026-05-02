@@ -1,0 +1,85 @@
+=== Trade Process ===
+2010-06-29 00:00:00 Initial Buy TSLA, Price: 1.719, Quantity: 174520, Cash Balance: 0.12
+2011-01-21 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 12.5362, Deri_MMRatio: -0.024562, Price: 1.569, Quantity: 174520, Holding Days: 143, P/L: -8.73%, Account Total: 273822.00
+2011-02-16 00:00:00 Buy TSLA, Price: 1.642, Quantity: 166761, Cash Balance: 0.44
+2013-11-07 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 64.4243, Deri_MMRatio: -0.026163, Price: 9.099, Quantity: 166761, Holding Days: 686, P/L: 454.14%, Account Total: 1517358.78
+2013-11-27 00:00:00 Buy TSLA, Price: 8.651, Quantity: 175396, Cash Balance: 7.98
+2017-10-26 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 21.4864, Deri_MMRatio: -0.014586, Price: 21.317, Quantity: 175396, Holding Days: 985, P/L: 146.41%, Account Total: 3738924.51
+2017-11-13 00:00:00 Buy TSLA, Price: 21.0, Quantity: 178044, Cash Balance: 0.51
+2020-10-23 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 70.7164, Deri_MMRatio: -0.015694, Price: 137.21, Quantity: 178044, Holding Days: 741, P/L: 553.38%, Account Total: 24429417.75
+2020-11-05 00:00:00 Buy TSLA, Price: 145.367, Quantity: 168053, Cash Balance: 57.30
+2022-11-23 00:00:00 Cond3 sell TSLA, Accu_MMRatio: -14.0021, Deri_MMRatio: 0.000799, Price: 185.06, Quantity: 168053, Holding Days: 516, P/L: 27.31%, Account Total: 31099945.48
+2023-05-05 00:00:00 Buy TSLA, Price: 173.72, Quantity: 179023, Cash Balance: 69.92
+2023-12-07 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 15.8833, Deri_MMRatio: 0.001606, Price: 240.27, Quantity: 179023, Holding Days: 149, P/L: 38.31%, Account Total: 43013926.13
+2024-02-09 00:00:00 Buy TSLA, Price: 192.11, Quantity: 223902, Cash Balance: 112.91
+2025-03-04 00:00:00 Cond1 sell TSLA, Accu_MMRatio: 28.9291, Deri_MMRatio: -0.014196, Price: 272.92, Quantity: 223902, Holding Days: 265, P/L: 42.06%, Account Total: 61107446.75
+2025-03-21 00:00:00 Buy TSLA, Price: 258.08, Quantity: 236777, Cash Balance: 38.59
+
+=== Account Position Information ===
+Code: TSLA
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: TSLA
+  Holding Quantity: 236777
+  Current Price: 390.82
+  Holding Value: 92537187.14
+  Buy Date: 2025-03-24
+  Holding Days: 278
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 38.59
+Account Total: 92537225.73
+Date Of Trading Start: 2010-06-30
+
+Target Latest Close : 390.820
+Target Total Return (Start->Latest): 24433.58%
+Target Annualized Return (CAGR): 41.54%
+Target Max Drawdown: -73.63%
+Target Max Drawdown Period: 2021-11-04 (Close=409.970) -> 2023-01-03 (Close=108.100) (291 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 44.33%
+Max Drawdown: -60.63%
+Max Drawdown Period: 2020-02-19 (Account total=10889349.60) -> 2020-03-18 (Account total=4287478.08) (20 trading days)
+
+Annual Returns (from first buy):
+  2010: 11.71%
+  2011: 2.50%
+  2012: 18.59%
+  2013: 367.15%
+  2014: 47.84%
+  2015: 7.92%
+  2016: -10.97%
+  2017: 47.90%
+  2018: 6.89%
+  2019: 25.70%
+  2020: 696.10%
+  2021: 49.76%
+  2022: -47.46%
+  2023: 38.31%
+  2024: 110.21%
+  2025: 17.76%
+  2026: -13.10%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = TSLA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 5
+PPP = 1.03
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -14.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

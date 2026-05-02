@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: VOO
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: VOO
+  Holding Quantity: 3552
+  Current Price: 662.52
+  Holding Value: 2353271.04
+  Buy Date: 2025-04-24
+  Holding Days: 256
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 60.07
+Account Total: 2353331.11
+Date Of Trading Start: 2010-09-10
+
+Target Latest Close : 662.520
+Target Total Return (Start->Latest): 765.64%
+Target Annualized Return (CAGR): 14.80%
+Target Max Drawdown: -33.99%
+Target Max Drawdown Period: 2020-02-19 (Close=283.291) -> 2020-03-23 (Close=186.992) (23 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 16.14%
+Max Drawdown: -33.99%
+Max Drawdown Period: 2020-02-19 (Account total=806603.63) -> 2020-03-23 (Account total=532440.37) (23 trading days)

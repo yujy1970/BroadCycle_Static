@@ -1,0 +1,92 @@
+=== Trade Process ===
+2009-01-02 00:00:00 Initial Buy FDN, Price: 14.59, Quantity: 20562, Cash Balance: 0.42
+2009-01-05 00:00:00 Cond3 sell FDN, Accu_MMRatio: -16.4432, Deri_MMRatio: 0.010958, Price: 14.64, Quantity: 20562, Holding Days: 1, P/L: 0.34%, Account Total: 301028.10
+2009-03-10 00:00:00 Buy FDN, Price: 13.86, Quantity: 21719, Cash Balance: 2.76
+2009-10-19 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.2459, Deri_MMRatio: 0.001867, Price: 23.94, Quantity: 21719, Holding Days: 155, P/L: 72.73%, Account Total: 519955.62
+2010-09-01 00:00:00 Buy FDN, Price: 27.23, Quantity: 19094, Cash Balance: 26.00
+2011-01-04 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.0278, Deri_MMRatio: -0.001329, Price: 34.71, Quantity: 19094, Holding Days: 86, P/L: 27.47%, Account Total: 662778.74
+2011-10-06 00:00:00 Buy FDN, Price: 30.97, Quantity: 21400, Cash Balance: 20.74
+2013-10-03 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.0574, Deri_MMRatio: 0.001248, Price: 53.79, Quantity: 21400, Holding Days: 500, P/L: 73.68%, Account Total: 1151126.74
+2014-10-21 00:00:00 Buy FDN, Price: 58.95, Quantity: 19527, Cash Balance: 10.09
+2017-04-11 00:00:00 Cond1 sell FDN, Accu_MMRatio: 7.9648, Deri_MMRatio: -0.000515, Price: 87.55, Quantity: 19527, Holding Days: 622, P/L: 48.52%, Account Total: 1709598.94
+2017-07-12 00:00:00 Buy FDN, Price: 98.4, Quantity: 17373, Cash Balance: 95.74
+2018-03-22 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.0139, Deri_MMRatio: -0.000064, Price: 124.03, Quantity: 17373, Holding Days: 175, P/L: 26.05%, Account Total: 2154868.93
+2018-12-31 00:00:00 Buy FDN, Price: 114.09, Quantity: 18887, Cash Balance: 51.10
+2020-09-25 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.0655, Deri_MMRatio: -0.001797, Price: 188.35, Quantity: 18887, Holding Days: 438, P/L: 65.09%, Account Total: 3557417.55
+2021-08-24 00:00:00 Buy FDN, Price: 244.77, Quantity: 14533, Cash Balance: 175.14
+2022-02-17 00:00:00 Cond3 sell FDN, Accu_MMRatio: -0.0043, Deri_MMRatio: -0.001493, Price: 186.8, Quantity: 14533, Holding Days: 123, P/L: -23.68%, Account Total: 2714939.54
+2023-01-10 00:00:00 Buy FDN, Price: 127.46, Quantity: 21300, Cash Balance: 41.54
+2023-11-27 00:00:00 Cond1 sell FDN, Accu_MMRatio: 8.4910, Deri_MMRatio: 0.001637, Price: 167.73, Quantity: 21300, Holding Days: 221, P/L: 31.59%, Account Total: 3572690.54
+2024-01-22 00:00:00 Buy FDN, Price: 193.25, Quantity: 18487, Cash Balance: 77.79
+2024-03-07 00:00:00 Cond1 sell FDN, Accu_MMRatio: 10.0026, Deri_MMRatio: -0.000897, Price: 203.58, Quantity: 18487, Holding Days: 32, P/L: 5.35%, Account Total: 3763661.25
+2024-07-05 00:00:00 Buy FDN, Price: 209.98, Quantity: 17923, Cash Balance: 189.71
+
+=== Account Position Information ===
+Code: FDN
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: FDN
+  Holding Quantity: 17923
+  Current Price: 266.11
+  Holding Value: 4769489.53
+  Buy Date: 2024-07-08
+  Holding Days: 456
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 189.71
+Account Total: 4769679.24
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 266.110
+Target Total Return (Start->Latest): 1737.27%
+Target Annualized Return (CAGR): 18.30%
+Target Max Drawdown: -53.97%
+Target Max Drawdown Period: 2021-09-07 (Close=252.250) -> 2022-11-09 (Close=116.110) (297 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 17.30%
+Max Drawdown: -31.70%
+Max Drawdown Period: 2020-09-02 (Account total=3899838.86) -> 2022-01-27 (Account total=2663783.38) (353 trading days)
+
+Annual Returns (from first buy):
+  2009: 72.73%
+  2010: 25.95%
+  2011: 5.55%
+  2012: 20.65%
+  2013: 38.03%
+  2014: 4.02%
+  2015: 21.67%
+  2016: 7.00%
+  2017: 22.46%
+  2018: 15.42%
+  2019: 19.25%
+  2020: 35.39%
+  2021: -7.61%
+  2022: -17.39%
+  2023: 31.59%
+  2024: 22.00%
+  2025: 10.70%
+  2026: -1.14%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FDN
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.02
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 10.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -0.12
+Accu1 = -18.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

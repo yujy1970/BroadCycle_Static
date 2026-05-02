@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: FTSE250
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: FTSE250
+  Holding Quantity: 135
+  Current Price: 22071.10
+  Holding Value: 2979598.50
+  Buy Date: 2024-12-03
+  Holding Days: 322
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6381.86
+Account Total: 2985980.36
+Date Of Trading Start: 1995-01-04
+
+Target Latest Close : 22071.100
+Target Total Return (Start->Latest): 531.29%
+Target Annualized Return (CAGR): 6.09%
+Target Max Drawdown: -55.06%
+Target Max Drawdown Period: 2007-05-23 (Close=12220.200) -> 2008-11-21 (Close=5491.460) (382 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.66%
+Max Drawdown: -45.78%
+Max Drawdown Period: 2000-09-04 (Account total=605189.50) -> 2003-03-12 (Account total=328119.10) (626 trading days)

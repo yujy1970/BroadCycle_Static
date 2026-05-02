@@ -1,0 +1,116 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy PHILIPPINES, Price: 2418.38, Quantity: 124, Cash Balance: 120.88
+1996-02-05 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 2.4466, Deri_MMRatio: 0.003787, Price: 2915.03, Quantity: 124, Holding Days: 210, P/L: 20.54%, Account Total: 361584.60
+1996-05-09 00:00:00 Buy PHILIPPINES, Price: 3111.43, Quantity: 116, Cash Balance: 658.72
+1996-07-19 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 5.6031, Deri_MMRatio: 0.000416, Price: 3217.42, Quantity: 116, Holding Days: 49, P/L: 3.41%, Account Total: 373879.44
+1996-11-07 00:00:00 Buy PHILIPPINES, Price: 3090.0, Quantity: 120, Cash Balance: 3079.44
+1997-04-11 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 26.6814, Deri_MMRatio: -0.005622, Price: 2932.84, Quantity: 120, Holding Days: 104, P/L: -5.09%, Account Total: 355020.24
+1999-04-12 00:00:00 Buy PHILIPPINES, Price: 2165.55, Quantity: 163, Cash Balance: 2035.59
+1999-07-09 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -27.4971, Deri_MMRatio: 0.005868, Price: 2612.51, Quantity: 163, Holding Days: 64, P/L: 20.64%, Account Total: 427874.72
+2003-06-04 00:00:00 Buy PHILIPPINES, Price: 1130.76, Quantity: 378, Cash Balance: 447.44
+2003-10-28 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -13.4236, Deri_MMRatio: 0.002729, Price: 1363.25, Quantity: 378, Holding Days: 102, P/L: 20.56%, Account Total: 515755.94
+2004-09-07 00:00:00 Buy PHILIPPINES, Price: 1673.25, Quantity: 308, Cash Balance: 394.94
+2007-12-12 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 82.8592, Deri_MMRatio: -0.001696, Price: 3610.01, Quantity: 308, Holding Days: 801, P/L: 115.75%, Account Total: 1112278.02
+2008-09-25 00:00:00 Buy PHILIPPINES, Price: 2572.12, Quantity: 432, Cash Balance: 1122.18
+2008-09-26 00:00:00 Cond3 sell PHILIPPINES, Accu_MMRatio: 4.7924, Deri_MMRatio: -0.001766, Price: 2622.8, Quantity: 432, Holding Days: 1, P/L: 1.97%, Account Total: 1134171.78
+2009-07-24 00:00:00 Buy PHILIPPINES, Price: 2686.61, Quantity: 422, Cash Balance: 422.36
+2010-01-05 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -19.4993, Deri_MMRatio: -0.000980, Price: 3035.29, Quantity: 422, Holding Days: 105, P/L: 12.98%, Account Total: 1281314.74
+2010-09-03 00:00:00 Buy PHILIPPINES, Price: 3735.76, Quantity: 342, Cash Balance: 3684.82
+2011-07-05 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 77.2015, Deri_MMRatio: 0.001011, Price: 4445.43, Quantity: 342, Holding Days: 206, P/L: 19.00%, Account Total: 1524021.88
+2011-10-11 00:00:00 Buy PHILIPPINES, Price: 4112.34, Quantity: 370, Cash Balance: 2456.08
+2013-09-18 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 59.6925, Deri_MMRatio: -0.003004, Price: 6527.07, Quantity: 370, Holding Days: 486, P/L: 58.72%, Account Total: 2417471.98
+2016-01-28 00:00:00 Buy PHILIPPINES, Price: 6590.07, Quantity: 366, Cash Balance: 5506.36
+2016-07-13 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 0.5097, Deri_MMRatio: 0.002984, Price: 7953.39, Quantity: 366, Holding Days: 113, P/L: 20.69%, Account Total: 2916447.10
+2017-01-04 00:00:00 Buy PHILIPPINES, Price: 7051.86, Quantity: 413, Cash Balance: 4028.92
+2017-09-22 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: 4.0931, Deri_MMRatio: 0.001608, Price: 8247.41, Quantity: 413, Holding Days: 177, P/L: 16.95%, Account Total: 3410209.25
+2018-11-19 00:00:00 Buy PHILIPPINES, Price: 7234.81, Quantity: 471, Cash Balance: 2613.74
+2019-08-08 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -2.4212, Deri_MMRatio: -0.001559, Price: 7918.54, Quantity: 471, Holding Days: 174, P/L: 9.45%, Account Total: 3732246.08
+2021-05-27 00:00:00 Buy PHILIPPINES, Price: 6622.18, Quantity: 563, Cash Balance: 3958.74
+2021-12-27 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -3.6181, Deri_MMRatio: -0.000665, Price: 7239.78, Quantity: 563, Holding Days: 147, P/L: 9.33%, Account Total: 4079954.88
+2022-10-18 00:00:00 Buy PHILIPPINES, Price: 5997.78, Quantity: 680, Cash Balance: 1464.48
+2024-07-31 00:00:00 Cond1 sell PHILIPPINES, Accu_MMRatio: -3.5597, Deri_MMRatio: 0.002030, Price: 6645.1, Quantity: 680, Holding Days: 432, P/L: 10.79%, Account Total: 4520132.48
+2025-11-21 00:00:00 Buy PHILIPPINES, Price: 5987.94, Quantity: 754, Cash Balance: 5225.72
+
+=== Account Position Information ===
+Code: PHILIPPINES
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: PHILIPPINES
+  Holding Quantity: 754
+  Current Price: 6058.94
+  Holding Value: 4568440.76
+  Buy Date: 2025-11-24
+  Holding Days: 72
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 5225.72
+Account Total: 4573666.48
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 6058.940
+Target Total Return (Start->Latest): 154.94%
+Target Annualized Return (CAGR): 3.07%
+Target Max Drawdown: -71.59%
+Target Max Drawdown Period: 1997-02-03 (Close=3447.600) -> 2001-10-24 (Close=979.340) (1177 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 9.20%
+Max Drawdown: -25.74%
+Max Drawdown Period: 1995-07-10 (Account total=366927.76) -> 1995-11-20 (Account total=272484.40) (93 trading days)
+
+Annual Returns (from first buy):
+  1995: 7.27%
+  1996: 19.19%
+  1997: -7.44%
+  1998: 0.00%
+  1999: 20.52%
+  2000: 0.00%
+  2001: 0.00%
+  2002: 0.00%
+  2003: 20.54%
+  2004: 8.93%
+  2005: 14.98%
+  2006: 42.27%
+  2007: 21.03%
+  2008: 1.97%
+  2009: 13.62%
+  2010: 11.78%
+  2011: 12.47%
+  2012: 32.90%
+  2013: 12.28%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 20.64%
+  2017: 16.93%
+  2018: 3.19%
+  2019: 6.06%
+  2020: 0.00%
+  2021: 9.32%
+  2022: 9.48%
+  2023: -1.77%
+  2024: 3.02%
+  2025: 1.08%
+  2026: 0.10%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = PHILIPPINES
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 50
+PPP = 1.035
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.07
+MedMax1 = -0.14
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

@@ -1,0 +1,19 @@
+=== Account Position Information ===
+Current date: 2026-01-07
+Mode: Index data
+Current position: FTSE250
+  Position quantity: 23
+  Current price: 22880.80
+  Position value: 526258.40
+Cash balance: 6975.00
+Account total: 533233.40
+
+=== Performance Metrics ===
+Initial Capital: 300000.00
+Start Date: 2011-01-04
+Return: 77.74%
+CAGR: 3.91%
+Volatility: 10.73%
+Sharpe: 0.364
+MaxDD: -20.20%
+MaxDD Period: 2022-01-04 to 2023-10-18

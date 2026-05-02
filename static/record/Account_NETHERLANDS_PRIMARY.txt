@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: NETHERLANDS_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: NETHERLANDS_PRIMARY
+  Holding Quantity: 51019
+  Current Price: 58.63
+  Holding Value: 2991243.97
+  Buy Date: 2025-04-16
+  Holding Days: 231
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 36.29
+Account Total: 2991280.26
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 56.850
+Target Total Return (Start->Latest): 268.49%
+Target Annualized Return (CAGR): 6.38%
+Target Max Drawdown: -68.15%
+Target Max Drawdown Period: 2007-10-12 (Close=25.970) -> 2009-03-09 (Close=8.272) (352 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.60%
+Max Drawdown: -38.06%
+Max Drawdown Period: 2007-07-19 (Account total=392919.81) -> 2009-03-09 (Account total=243387.54) (418 trading days)

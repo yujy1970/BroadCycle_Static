@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ROMANIA
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: ROMANIA
+  Holding Quantity: 499
+  Current Price: 28212.39
+  Holding Value: 14077982.61
+  Buy Date: 2024-12-10
+  Holding Days: 305
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 11253.84
+Account Total: 14089236.45
+Date Of Trading Start: 2000-11-01
+
+Target Latest Close : 28212.390
+Target Total Return (Start->Latest): 5233.76%
+Target Annualized Return (CAGR): 16.97%
+Target Max Drawdown: -82.58%
+Target Max Drawdown Period: 2007-07-23 (Close=10795.400) -> 2009-02-25 (Close=1880.220) (397 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 16.39%
+Max Drawdown: -82.50%
+Max Drawdown Period: 2007-07-23 (Account total=4754974.77) -> 2009-02-25 (Account total=832295.57) (397 trading days)

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: CIBR
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: CIBR
+  Holding Quantity: 12790
+  Current Price: 68.76
+  Holding Value: 879440.40
+  Buy Date: 2024-06-11
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 43.89
+Account Total: 879484.29
+Date Of Trading Start: 2015-07-08
+
+Target Latest Close : 68.760
+Target Total Return (Start->Latest): 262.54%
+Target Annualized Return (CAGR): 12.64%
+Target Max Drawdown: -33.89%
+Target Max Drawdown Period: 2021-11-12 (Close=54.910) -> 2022-10-14 (Close=36.303) (231 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 11.11%
+Max Drawdown: -33.04%
+Max Drawdown Period: 2020-02-19 (Account total=437938.51) -> 2020-03-18 (Account total=293224.81) (20 trading days)

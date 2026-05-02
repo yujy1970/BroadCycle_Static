@@ -1,0 +1,114 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy DOWJONES, Price: 4168.41, Quantity: 71, Cash Balance: 4042.89
+1997-11-21 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 55.0080, Deri_MMRatio: -0.001734, Price: 7876.6, Quantity: 71, Holding Days: 669, P/L: 88.96%, Account Total: 563281.49
+1997-12-29 00:00:00 Buy DOWJONES, Price: 7796.4, Quantity: 72, Cash Balance: 1940.69
+2001-05-03 00:00:00 Cond3 sell DOWJONES, Accu_MMRatio: 2.7389, Deri_MMRatio: 0.002235, Price: 10793.2, Quantity: 72, Holding Days: 843, P/L: 38.44%, Account Total: 779051.09
+2001-09-27 00:00:00 Buy DOWJONES, Price: 8679.07, Quantity: 89, Cash Balance: 6613.86
+2003-12-31 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: -4.1830, Deri_MMRatio: 0.002127, Price: 10452.74, Quantity: 89, Holding Days: 569, P/L: 20.44%, Account Total: 936907.72
+2004-03-18 00:00:00 Buy DOWJONES, Price: 10295.85, Quantity: 90, Cash Balance: 10281.22
+2004-11-01 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 23.8408, Deri_MMRatio: -0.001090, Price: 10053.87, Quantity: 90, Holding Days: 157, P/L: -2.35%, Account Total: 915129.52
+2004-11-24 00:00:00 Buy DOWJONES, Price: 10518.69, Quantity: 87, Cash Balance: 3.49
+2007-12-07 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 28.3139, Deri_MMRatio: -0.001128, Price: 13623.55, Quantity: 87, Holding Days: 764, P/L: 29.52%, Account Total: 1185252.34
+2008-01-24 00:00:00 Buy DOWJONES, Price: 12391.7, Quantity: 95, Cash Balance: 8040.84
+2008-08-12 00:00:00 Cond3 sell DOWJONES, Accu_MMRatio: 5.7161, Deri_MMRatio: -0.000496, Price: 11632.81, Quantity: 95, Holding Days: 139, P/L: -6.12%, Account Total: 1113157.79
+2008-12-02 00:00:00 Buy DOWJONES, Price: 8409.14, Quantity: 132, Cash Balance: 3151.31
+2010-05-04 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: -6.4304, Deri_MMRatio: 0.001285, Price: 10918.4, Quantity: 132, Holding Days: 356, P/L: 29.84%, Account Total: 1444380.11
+2010-07-22 00:00:00 Buy DOWJONES, Price: 10321.16, Quantity: 139, Cash Balance: 9738.87
+2011-08-24 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 33.2362, Deri_MMRatio: -0.003735, Price: 11321.02, Quantity: 139, Holding Days: 276, P/L: 9.69%, Account Total: 1583360.65
+2011-09-27 00:00:00 Buy DOWJONES, Price: 11189.1, Quantity: 141, Cash Balance: 5697.55
+2014-03-14 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 29.8428, Deri_MMRatio: -0.000705, Price: 16066.37, Quantity: 141, Holding Days: 618, P/L: 43.59%, Account Total: 2271055.72
+2014-04-09 00:00:00 Buy DOWJONES, Price: 16437.24, Quantity: 138, Cash Balance: 2716.60
+2016-03-29 00:00:00 Cond3 sell DOWJONES, Accu_MMRatio: 2.8840, Deri_MMRatio: 0.002247, Price: 17652.359, Quantity: 138, Holding Days: 495, P/L: 7.39%, Account Total: 2438742.14
+2016-09-21 00:00:00 Buy DOWJONES, Price: 18343.76, Quantity: 132, Cash Balance: 17365.82
+2022-02-17 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 39.7052, Deri_MMRatio: -0.002558, Price: 34310.449, Quantity: 132, Holding Days: 1362, P/L: 87.04%, Account Total: 4546345.09
+2022-03-15 00:00:00 Buy DOWJONES, Price: 33653.93, Quantity: 135, Cash Balance: 3064.54
+2022-11-08 00:00:00 Cond3 sell DOWJONES, Accu_MMRatio: 6.2772, Deri_MMRatio: 0.001884, Price: 33004.469, Quantity: 135, Holding Days: 165, P/L: -1.93%, Account Total: 4458667.85
+2023-03-02 00:00:00 Buy DOWJONES, Price: 33076.328, Quantity: 134, Cash Balance: 26439.90
+2023-08-22 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: -2.2028, Deri_MMRatio: -0.000041, Price: 34338.59, Quantity: 134, Holding Days: 119, P/L: 3.82%, Account Total: 4627810.96
+2023-10-31 00:00:00 Buy DOWJONES, Price: 33081.871, Quantity: 139, Cash Balance: 29430.89
+2025-04-14 00:00:00 Cond1 sell DOWJONES, Accu_MMRatio: 30.6550, Deri_MMRatio: -0.002541, Price: 40527.82, Quantity: 139, Holding Days: 363, P/L: 22.51%, Account Total: 5662797.87
+2025-05-09 00:00:00 Buy DOWJONES, Price: 41899.051, Quantity: 135, Cash Balance: 6425.99
+
+=== Account Position Information ===
+Code: DOWJONES
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: DOWJONES
+  Holding Quantity: 135
+  Current Price: 49499.27
+  Holding Value: 6682401.45
+  Buy Date: 2025-05-12
+  Holding Days: 244
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6425.99
+Account Total: 6688827.44
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 49499.270
+Target Total Return (Start->Latest): 1087.49%
+Target Annualized Return (CAGR): 8.29%
+Target Max Drawdown: -53.78%
+Target Max Drawdown Period: 2007-10-09 (Close=14164.530) -> 2009-03-09 (Close=6547.050) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.48%
+Max Drawdown: -36.92%
+Max Drawdown Period: 2020-02-12 (Account total=3918153.26) -> 2020-03-23 (Account total=2471500.58) (27 trading days)
+
+Annual Returns (from first buy):
+  1995: 21.50%
+  1996: 25.73%
+  1997: 23.70%
+  1998: 16.04%
+  1999: 25.15%
+  2000: -6.15%
+  2001: 15.39%
+  2002: -16.64%
+  2003: 25.08%
+  2004: 0.13%
+  2005: -0.61%
+  2006: 16.29%
+  2007: 9.31%
+  2008: -1.99%
+  2009: 18.77%
+  2010: 17.35%
+  2011: 6.75%
+  2012: 7.23%
+  2013: 26.42%
+  2014: 5.09%
+  2015: -2.23%
+  2016: 9.08%
+  2017: 24.91%
+  2018: -5.60%
+  2019: 22.21%
+  2020: 7.21%
+  2021: 18.65%
+  2022: -7.38%
+  2023: 18.16%
+  2024: 12.81%
+  2025: 9.29%
+  2026: 2.98%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = DOWJONES
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 15
+PPP = 1.0
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.14
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.105
+date_start_backtest = 1995-04-01

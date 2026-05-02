@@ -1,0 +1,100 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy US_AAPL, Price: 1.339, Quantity: 224047, Cash Balance: 1.07
+2006-02-09 00:00:00 Cond3 sell US_AAPL, Accu_MMRatio: 87.4203, Deri_MMRatio: -0.024652, Price: 1.953, Quantity: 224047, Holding Days: 241, P/L: 45.86%, Account Total: 437564.86
+2006-03-13 00:00:00 Buy US_AAPL, Price: 1.973, Quantity: 221776, Cash Balance: 0.81
+2006-06-12 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 93.4395, Deri_MMRatio: -0.010490, Price: 1.728, Quantity: 221776, Holding Days: 63, P/L: -12.42%, Account Total: 383229.74
+2006-07-03 00:00:00 Buy US_AAPL, Price: 1.712, Quantity: 223849, Cash Balance: 0.25
+2008-01-09 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 99.2908, Deri_MMRatio: -0.010554, Price: 5.327, Quantity: 223849, Holding Days: 382, P/L: 211.16%, Account Total: 1192443.87
+2008-03-20 00:00:00 Buy US_AAPL, Price: 4.02, Quantity: 296627, Cash Balance: 3.33
+2008-09-29 00:00:00 Cond3 sell US_AAPL, Accu_MMRatio: 45.3662, Deri_MMRatio: -0.020222, Price: 3.248, Quantity: 296627, Holding Days: 133, P/L: -19.20%, Account Total: 963447.83
+2008-10-23 00:00:00 Buy US_AAPL, Price: 2.709, Quantity: 355647, Cash Balance: 0.11
+2010-08-09 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 90.4271, Deri_MMRatio: -0.001616, Price: 7.794, Quantity: 355647, Holding Days: 450, P/L: 187.71%, Account Total: 2771912.82
+2010-08-30 00:00:00 Buy US_AAPL, Price: 7.251, Quantity: 382280, Cash Balance: 0.54
+2012-11-30 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 72.2061, Deri_MMRatio: -0.002142, Price: 17.962, Quantity: 382280, Holding Days: 568, P/L: 147.72%, Account Total: 6866513.90
+2012-12-31 00:00:00 Buy US_AAPL, Price: 16.756, Quantity: 409794, Cash Balance: 5.64
+2018-01-12 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 54.1580, Deri_MMRatio: -0.000039, Price: 41.66, Quantity: 409794, Holding Days: 1268, P/L: 148.63%, Account Total: 17072023.68
+2018-02-12 00:00:00 Buy US_AAPL, Price: 38.088, Quantity: 448225, Cash Balance: 29.88
+2020-03-16 00:00:00 Cond3 sell US_AAPL, Accu_MMRatio: 44.1558, Deri_MMRatio: -0.020229, Price: 59.861, Quantity: 448225, Holding Days: 525, P/L: 57.16%, Account Total: 26831226.60
+2020-04-06 00:00:00 Buy US_AAPL, Price: 65.493, Quantity: 409680, Cash Balance: 54.36
+2020-12-07 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 86.2669, Deri_MMRatio: -0.000814, Price: 121.059, Quantity: 409680, Holding Days: 170, P/L: 84.84%, Account Total: 49595505.48
+2020-12-30 00:00:00 Buy US_AAPL, Price: 130.516, Quantity: 379995, Cash Balance: 78.07
+2021-04-07 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 93.7783, Deri_MMRatio: 0.001206, Price: 125.712, Quantity: 379995, Holding Days: 66, P/L: -3.68%, Account Total: 47770009.51
+2021-04-29 00:00:00 Buy US_AAPL, Price: 128.474, Quantity: 371826, Cash Balance: 35.98
+2024-03-14 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 29.1495, Deri_MMRatio: -0.003740, Price: 169.784, Quantity: 371826, Holding Days: 723, P/L: 32.15%, Account Total: 63130141.57
+2024-04-04 00:00:00 Buy US_AAPL, Price: 168.217, Quantity: 375289, Cash Balance: 151.85
+2025-04-11 00:00:00 Cond1 sell US_AAPL, Accu_MMRatio: 34.0160, Deri_MMRatio: -0.003722, Price: 210.72, Quantity: 375289, Holding Days: 256, P/L: 25.27%, Account Total: 79081049.93
+2025-05-12 00:00:00 Buy US_AAPL, Price: 209.987, Quantity: 376599, Cash Balance: 155.72
+
+=== Account Position Information ===
+Code: US_AAPL
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: US_AAPL
+  Holding Quantity: 376599
+  Current Price: 251.49
+  Holding Value: 94710882.51
+  Buy Date: 2025-05-13
+  Holding Days: 215
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 155.72
+Account Total: 94711038.23
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 251.490
+Target Total Return (Start->Latest): 18752.32%
+Target Annualized Return (CAGR): 28.23%
+Target Max Drawdown: -60.87%
+Target Max Drawdown Period: 2007-12-28 (Close=5.993) -> 2009-01-20 (Close=2.345) (266 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 31.39%
+Max Drawdown: -50.66%
+Max Drawdown Period: 2008-05-13 (Account total=1690183.98) -> 2009-01-20 (Account total=833992.32) (173 trading days)
+
+Annual Returns (from first buy):
+  2005: 60.30%
+  2006: 17.89%
+  2007: 133.53%
+  2008: -31.54%
+  2009: 146.87%
+  2010: 64.53%
+  2011: 25.54%
+  2012: 42.11%
+  2013: 8.07%
+  2014: 40.66%
+  2015: -3.02%
+  2016: 12.46%
+  2017: 48.47%
+  2018: 3.49%
+  2019: 88.95%
+  2020: 54.57%
+  2021: 31.75%
+  2022: -26.40%
+  2023: 49.01%
+  2024: 31.92%
+  2025: 9.43%
+  2026: -7.49%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US_AAPL
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 10
+PPP = 0.99
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.02
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.02
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

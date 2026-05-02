@@ -1,0 +1,87 @@
+=== Trade Process ===
+2014-10-31 00:00:00 Initial Buy ARKK, Price: 20.49, Quantity: 14641, Cash Balance: 5.91
+2015-03-31 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 0.1268, Deri_MMRatio: -0.001111, Price: 20.5, Quantity: 14641, Holding Days: 102, P/L: 0.05%, Account Total: 300146.41
+2016-02-22 00:00:00 Buy ARKK, Price: 16.3, Quantity: 18413, Cash Balance: 14.51
+2016-08-16 00:00:00 Cond1 sell ARKK, Accu_MMRatio: -1.0802, Deri_MMRatio: 0.001913, Price: 21.164, Quantity: 18413, Holding Days: 123, P/L: 29.84%, Account Total: 389707.24
+2016-11-10 00:00:00 Buy ARKK, Price: 20.361, Quantity: 19139, Cash Balance: 18.06
+2018-04-05 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 18.4021, Deri_MMRatio: -0.002674, Price: 39.16, Quantity: 19139, Holding Days: 350, P/L: 92.33%, Account Total: 749501.30
+2018-06-06 00:00:00 Buy ARKK, Price: 46.02, Quantity: 16286, Cash Balance: 19.58
+2019-08-19 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 0.4068, Deri_MMRatio: -0.001278, Price: 45.54, Quantity: 16286, Holding Days: 302, P/L: -1.04%, Account Total: 741684.02
+2019-10-28 00:00:00 Buy ARKK, Price: 44.48, Quantity: 16674, Cash Balance: 24.50
+2021-04-01 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 36.1198, Deri_MMRatio: -0.009137, Price: 124.36, Quantity: 16674, Holding Days: 359, P/L: 179.59%, Account Total: 2073603.14
+2021-05-24 00:00:00 Buy ARKK, Price: 109.5, Quantity: 18937, Cash Balance: 1.64
+2021-12-02 00:00:00 Cond3 sell ARKK, Accu_MMRatio: 1.1863, Deri_MMRatio: -0.003622, Price: 98.66, Quantity: 18937, Holding Days: 134, P/L: -9.90%, Account Total: 1868326.06
+2022-05-04 00:00:00 Buy ARKK, Price: 51.23, Quantity: 36469, Cash Balance: 19.19
+2022-05-05 00:00:00 Cond3 sell ARKK, Accu_MMRatio: -18.1368, Deri_MMRatio: -0.002821, Price: 47.64, Quantity: 36469, Holding Days: 1, P/L: -7.01%, Account Total: 1737402.35
+2023-05-05 00:00:00 Buy ARKK, Price: 37.44, Quantity: 46404, Cash Balance: 36.59
+2023-08-09 00:00:00 Cond1 sell ARKK, Accu_MMRatio: -1.8344, Deri_MMRatio: -0.001121, Price: 43.78, Quantity: 46404, Holding Days: 65, P/L: 16.93%, Account Total: 2031603.71
+2023-11-02 00:00:00 Buy ARKK, Price: 39.189, Quantity: 51841, Cash Balance: 6.76
+2024-04-19 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 8.9132, Deri_MMRatio: -0.005060, Price: 42.19, Quantity: 51841, Holding Days: 115, P/L: 7.66%, Account Total: 2187178.55
+2024-07-16 00:00:00 Buy ARKK, Price: 48.44, Quantity: 45152, Cash Balance: 15.67
+2025-10-20 00:00:00 Cond1 sell ARKK, Accu_MMRatio: 16.3600, Deri_MMRatio: 0.001200, Price: 89.69, Quantity: 45152, Holding Days: 317, P/L: 85.16%, Account Total: 4049698.55
+2026-02-26 00:00:00 Buy ARKK, Price: 72.75, Quantity: 55665, Cash Balance: 69.80
+
+=== Account Position Information ===
+Code: ARKK
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: ARKK
+  Holding Quantity: 55665
+  Current Price: 76.92
+  Holding Value: 4281751.80
+  Buy Date: 2026-02-27
+  Holding Days: 44
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 69.80
+Account Total: 4281821.60
+Date Of Trading Start: 2014-11-03
+
+Target Latest Close : 76.920
+Target Total Return (Start->Latest): 318.23%
+Target Annualized Return (CAGR): 13.25%
+Target Max Drawdown: -80.91%
+Target Max Drawdown Period: 2021-02-12 (Close=154.014) -> 2022-12-28 (Close=29.395) (472 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 27.22%
+Max Drawdown: -42.54%
+Max Drawdown Period: 2020-02-19 (Account total=974536.43) -> 2020-03-18 (Account total=560004.12) (20 trading days)
+
+Annual Returns (from first buy):
+  2014: -1.08%
+  2015: 12.68%
+  2016: 17.96%
+  2017: 87.32%
+  2018: -11.91%
+  2019: 38.29%
+  2020: 152.71%
+  2021: -8.49%
+  2022: -7.01%
+  2023: 56.26%
+  2024: -5.58%
+  2025: 57.99%
+  2026: 5.73%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ARKK
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.034
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.21
+MedMax1 = -0.18
+Accu1 = -18.0
+Deri1 = -99.0
+Trend1 = -0.35
+date_start_backtest = 2009-01-02

@@ -1,0 +1,97 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy US_GOOGL, Price: 4.633, Quantity: 64752, Cash Balance: 3.98
+2005-06-02 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 6.9806, Deri_MMRatio: 0.009351, Price: 7.144, Quantity: 64752, Holding Days: 67, P/L: 54.20%, Account Total: 462592.27
+2006-06-26 00:00:00 Buy US_GOOGL, Price: 10.106, Quantity: 45774, Cash Balance: 0.23
+2007-11-14 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 6.9487, Deri_MMRatio: 0.001052, Price: 15.907, Quantity: 45774, Holding Days: 350, P/L: 57.40%, Account Total: 728127.25
+2008-04-01 00:00:00 Buy US_GOOGL, Price: 11.705, Quantity: 62206, Cash Balance: 6.02
+2009-11-25 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 16.1873, Deri_MMRatio: -0.000937, Price: 14.248, Quantity: 62206, Holding Days: 419, P/L: 21.73%, Account Total: 886317.10
+2010-06-02 00:00:00 Buy US_GOOGL, Price: 12.333, Quantity: 71865, Cash Balance: 6.06
+2013-07-11 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 12.0919, Deri_MMRatio: 0.000471, Price: 22.917, Quantity: 71865, Holding Days: 782, P/L: 85.82%, Account Total: 1646936.26
+2013-09-05 00:00:00 Buy US_GOOGL, Price: 21.981, Quantity: 74925, Cash Balance: 9.84
+2014-04-08 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 12.3987, Deri_MMRatio: -0.004038, Price: 28.261, Quantity: 74925, Holding Days: 148, P/L: 28.57%, Account Total: 2117465.26
+2014-05-22 00:00:00 Buy US_GOOGL, Price: 27.799, Quantity: 76170, Cash Balance: 15.43
+2016-02-11 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 11.4844, Deri_MMRatio: -0.004627, Price: 35.482, Quantity: 76170, Holding Days: 434, P/L: 27.64%, Account Total: 2702679.37
+2016-04-18 00:00:00 Buy US_GOOGL, Price: 39.382, Quantity: 68627, Cash Balance: 10.86
+2018-03-16 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 8.8431, Deri_MMRatio: -0.002671, Price: 55.686, Quantity: 68627, Holding Days: 482, P/L: 41.40%, Account Total: 3821573.98
+2018-05-07 00:00:00 Buy US_GOOGL, Price: 53.039, Quantity: 72052, Cash Balance: 7.95
+2020-10-01 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 7.3940, Deri_MMRatio: -0.001860, Price: 72.718, Quantity: 72052, Holding Days: 606, P/L: 37.10%, Account Total: 5239485.29
+2020-12-02 00:00:00 Buy US_GOOGL, Price: 90.698, Quantity: 57768, Cash Balance: 43.23
+2021-06-15 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 15.5779, Deri_MMRatio: -0.001386, Price: 121.133, Quantity: 57768, Holding Days: 133, P/L: 33.56%, Account Total: 6997654.37
+2022-03-16 00:00:00 Buy US_GOOGL, Price: 132.668, Quantity: 52745, Cash Balance: 80.71
+2024-02-29 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 12.7562, Deri_MMRatio: -0.000984, Price: 137.93, Quantity: 52745, Holding Days: 491, P/L: 3.97%, Account Total: 7275198.56
+2024-04-26 00:00:00 Buy US_GOOGL, Price: 168.447, Quantity: 43189, Cash Balance: 141.08
+2025-09-17 00:00:00 Cond1 sell US_GOOGL, Accu_MMRatio: 5.0883, Deri_MMRatio: 0.004191, Price: 251.68, Quantity: 43189, Holding Days: 348, P/L: 49.41%, Account Total: 10869948.60
+
+=== Account Position Information ===
+Code: US_GOOGL
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-09-17
+Cash Balance: 10869948.60
+Account Total: 10869948.60
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 302.060
+Target Total Return (Start->Latest): 6423.97%
+Target Annualized Return (CAGR): 21.93%
+Target Max Drawdown: -65.29%
+Target Max Drawdown Period: 2007-11-06 (Close=18.478) -> 2008-11-24 (Close=6.413) (265 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 18.52%
+Max Drawdown: -56.72%
+Max Drawdown Period: 2008-05-05 (Account total=921836.73) -> 2008-11-24 (Account total=398933.09) (142 trading days)
+
+Annual Returns (from first buy):
+  2005: 52.55%
+  2006: 13.50%
+  2007: 38.68%
+  2008: -34.53%
+  2009: 85.93%
+  2010: 19.96%
+  2011: 8.75%
+  2012: 9.52%
+  2013: 65.18%
+  2014: -3.73%
+  2015: 46.61%
+  2016: -8.23%
+  2017: 32.93%
+  2018: 4.15%
+  2019: 28.18%
+  2020: 4.91%
+  2021: 38.73%
+  2022: -33.74%
+  2023: 58.32%
+  2024: 11.37%
+  2025: 32.95%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US_GOOGL
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 0.16
+Accu2 = 16.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

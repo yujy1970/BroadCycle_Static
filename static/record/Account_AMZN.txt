@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: AMZN
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: AMZN
+  Holding Quantity: 110946
+  Current Price: 268.26
+  Holding Value: 29762373.96
+  Buy Date: 2026-01-28
+  Holding Days: 65
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 74.37
+Account Total: 29762448.33
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 268.260
+Target Total Return (Start->Latest): 9769.76%
+Target Annualized Return (CAGR): 30.35%
+Target Max Drawdown: -56.15%
+Target Max Drawdown Period: 2021-07-08 (Close=186.570) -> 2022-12-28 (Close=81.820) (372 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 30.63%
+Max Drawdown: -44.49%
+Max Drawdown Period: 2022-08-16 (Account total=19526201.91) -> 2023-03-10 (Account total=10839249.68) (142 trading days)

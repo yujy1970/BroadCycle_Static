@@ -1,0 +1,74 @@
+=== Trade Process ===
+2016-12-19 00:00:00 Initial Buy DENMARK, Price: 999.76, Quantity: 300, Cash Balance: 72.00
+2017-05-22 00:00:00 Cond1 sell DENMARK, Accu_MMRatio: 0.2180, Deri_MMRatio: 0.001431, Price: 1142.66, Quantity: 300, Holding Days: 102, P/L: 14.29%, Account Total: 342870.00
+2020-05-26 00:00:00 Buy DENMARK, Price: 1330.15, Quantity: 257, Cash Balance: 1021.45
+2020-11-12 00:00:00 Cond1 sell DENMARK, Accu_MMRatio: 9.7726, Deri_MMRatio: -0.000955, Price: 1584.64, Quantity: 257, Holding Days: 118, P/L: 19.13%, Account Total: 408273.93
+2022-02-28 00:00:00 Buy DENMARK, Price: 1755.04, Quantity: 232, Cash Balance: 1104.65
+2022-04-21 00:00:00 Cond3 sell DENMARK, Accu_MMRatio: 1.2822, Deri_MMRatio: 0.000474, Price: 1762.63, Quantity: 232, Holding Days: 35, P/L: 0.43%, Account Total: 410034.81
+2022-10-18 00:00:00 Buy DENMARK, Price: 1533.56, Quantity: 267, Cash Balance: 574.29
+2023-03-15 00:00:00 Cond1 sell DENMARK, Accu_MMRatio: -0.6955, Deri_MMRatio: -0.003054, Price: 1725.37, Quantity: 267, Holding Days: 101, P/L: 12.51%, Account Total: 461248.08
+2025-04-15 00:00:00 Buy DENMARK, Price: 1574.885, Quantity: 292, Cash Balance: 1381.66
+2026-01-26 00:00:00 Cond1 sell DENMARK, Accu_MMRatio: -0.8953, Deri_MMRatio: 0.002683, Price: 1940.483, Quantity: 292, Holding Days: 192, P/L: 23.21%, Account Total: 568002.70
+
+=== Account Position Information ===
+Code: DENMARK
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-26
+Cash Balance: 568002.70
+Account Total: 568002.70
+Date Of Trading Start: 2016-12-20
+
+Target Latest Close : 1668.324
+Target Total Return (Start->Latest): 66.88%
+Target Annualized Return (CAGR): 5.71%
+Target Max Drawdown: -29.76%
+Target Max Drawdown Period: 2021-11-12 (Close=2020.690) -> 2022-09-29 (Close=1419.340) (213 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.13%
+Max Drawdown: -11.33%
+Max Drawdown Period: 2025-06-11 (Account total=537740.98) -> 2025-09-30 (Account total=476791.53) (79 trading days)
+
+Annual Returns (from first buy):
+  2016: 1.35%
+  2017: 12.48%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 19.08%
+  2021: 0.00%
+  2022: 11.35%
+  2023: 1.46%
+  2024: 0.00%
+  2025: 15.78%
+  2026: 6.36%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = DENMARK
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.038
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.21
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -0.14
+date_start_backtest = 1995-04-01

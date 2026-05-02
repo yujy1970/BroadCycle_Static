@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: RUSSELL2000_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: RUSSELL2000_PRIMARY
+  Holding Quantity: 10203
+  Current Price: 279.28
+  Holding Value: 2849493.84
+  Buy Date: 2025-04-15
+  Holding Days: 262
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 148.16
+Account Total: 2849642.00
+Date Of Trading Start: 2000-05-30
+
+Target Latest Close : 279.280
+Target Total Return (Start->Latest): 754.90%
+Target Annualized Return (CAGR): 8.63%
+Target Max Drawdown: -58.64%
+Target Max Drawdown Period: 2007-07-13 (Close=65.883) -> 2009-03-09 (Close=27.249) (416 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 10.40%
+Max Drawdown: -58.63%
+Max Drawdown Period: 2007-07-13 (Account total=374850.21) -> 2009-03-09 (Account total=155061.39) (416 trading days)

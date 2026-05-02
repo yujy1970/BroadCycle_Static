@@ -1,0 +1,112 @@
+=== Trade Process ===
+1995-04-03 00:00:00 Initial Buy AUSTRALIA, Price: 1896.3, Quantity: 158, Cash Balance: 384.60
+1996-03-06 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 5.3498, Deri_MMRatio: -0.000181, Price: 2203.8, Quantity: 158, Holding Days: 234, P/L: 16.22%, Account Total: 348585.00
+1996-08-02 00:00:00 Buy AUSTRALIA, Price: 2160.3, Quantity: 161, Cash Balance: 776.70
+1997-08-11 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 6.0102, Deri_MMRatio: -0.001940, Price: 2583.4, Quantity: 161, Holding Days: 258, P/L: 19.59%, Account Total: 416704.10
+1997-11-04 00:00:00 Buy AUSTRALIA, Price: 2497.1, Quantity: 166, Cash Balance: 2185.50
+1999-09-29 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 5.6700, Deri_MMRatio: -0.001124, Price: 2817.0, Quantity: 166, Holding Days: 482, P/L: 12.81%, Account Total: 469807.50
+1999-12-06 00:00:00 Buy AUSTRALIA, Price: 3048.3, Quantity: 154, Cash Balance: 369.30
+2004-04-28 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 4.5443, Deri_MMRatio: -0.000404, Price: 3433.7, Quantity: 154, Holding Days: 1107, P/L: 12.64%, Account Total: 529159.10
+2006-09-29 00:00:00 Buy AUSTRALIA, Price: 5153.0, Quantity: 102, Cash Balance: 3553.10
+2007-05-29 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 6.0169, Deri_MMRatio: -0.000503, Price: 6317.0, Quantity: 102, Holding Days: 164, P/L: 22.59%, Account Total: 647887.10
+2008-01-25 00:00:00 Buy AUSTRALIA, Price: 5862.1, Quantity: 110, Cash Balance: 3056.10
+2008-08-25 00:00:00 Cond3 sell AUSTRALIA, Accu_MMRatio: -6.0282, Deri_MMRatio: 0.001620, Price: 4995.4, Quantity: 110, Holding Days: 146, P/L: -14.78%, Account Total: 552550.10
+2009-09-16 00:00:00 Buy AUSTRALIA, Price: 4662.2, Quantity: 118, Cash Balance: 2410.50
+2009-11-17 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 6.1659, Deri_MMRatio: -0.000820, Price: 4729.4, Quantity: 118, Holding Days: 44, P/L: 1.44%, Account Total: 560479.70
+2010-09-02 00:00:00 Buy AUSTRALIA, Price: 4536.9, Quantity: 123, Cash Balance: 2441.00
+2013-05-13 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 6.0494, Deri_MMRatio: 0.000154, Price: 5210.3, Quantity: 123, Holding Days: 672, P/L: 14.84%, Account Total: 643307.90
+2013-12-20 00:00:00 Buy AUSTRALIA, Price: 5265.2, Quantity: 122, Cash Balance: 953.50
+2017-03-24 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 3.8037, Deri_MMRatio: -0.000603, Price: 5753.5, Quantity: 122, Holding Days: 822, P/L: 9.27%, Account Total: 702880.50
+2019-02-07 00:00:00 Buy AUSTRALIA, Price: 6092.5, Quantity: 115, Cash Balance: 2243.00
+2019-12-27 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 5.2366, Deri_MMRatio: 0.000093, Price: 6821.7, Quantity: 115, Holding Days: 224, P/L: 11.97%, Account Total: 786738.50
+2020-03-26 00:00:00 Buy AUSTRALIA, Price: 5113.3, Quantity: 153, Cash Balance: 4403.60
+2020-06-29 00:00:00 Cond3 sell AUSTRALIA, Accu_MMRatio: -6.0019, Deri_MMRatio: 0.004378, Price: 5815.0, Quantity: 153, Holding Days: 64, P/L: 13.72%, Account Total: 894098.60
+2020-07-21 00:00:00 Buy AUSTRALIA, Price: 6156.3, Quantity: 145, Cash Balance: 1435.10
+2021-03-25 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 6.1026, Deri_MMRatio: -0.001617, Price: 6790.6, Quantity: 145, Holding Days: 173, P/L: 10.30%, Account Total: 986072.10
+2022-02-09 00:00:00 Buy AUSTRALIA, Price: 7261.8, Quantity: 135, Cash Balance: 5729.10
+2024-11-13 00:00:00 Cond1 sell AUSTRALIA, Accu_MMRatio: 4.5713, Deri_MMRatio: -0.000541, Price: 8193.4, Quantity: 135, Holding Days: 699, P/L: 12.83%, Account Total: 1111838.10
+2025-04-29 00:00:00 Buy AUSTRALIA, Price: 8070.6, Quantity: 137, Cash Balance: 6165.90
+
+=== Account Position Information ===
+Code: AUSTRALIA
+Current Date: 2026-02-27 16:00
+Mode: Index Data
+Current Position: AUSTRALIA
+  Holding Quantity: 137
+  Current Price: 9191.00
+  Holding Value: 1259167.00
+  Buy Date: 2025-04-30
+  Holding Days: 212
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 6165.90
+Account Total: 1265332.90
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 9191.000
+Target Total Return (Start->Latest): 394.38%
+Target Annualized Return (CAGR): 5.31%
+Target Max Drawdown: -53.94%
+Target Max Drawdown Period: 2007-11-01 (Close=6828.700) -> 2009-03-06 (Close=3145.500) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 4.77%
+Max Drawdown: -27.34%
+Max Drawdown Period: 2008-05-19 (Account total=657490.10) -> 2011-09-26 (Account total=477700.70) (848 trading days)
+
+Annual Returns (from first buy):
+  1995: 13.62%
+  1996: 12.07%
+  1997: 12.14%
+  1998: 5.82%
+  1999: 6.00%
+  2000: 2.84%
+  2001: 6.74%
+  2002: -12.12%
+  2003: 9.73%
+  2004: 4.05%
+  2005: 0.00%
+  2006: 9.96%
+  2007: 11.34%
+  2008: -14.72%
+  2009: 1.44%
+  2010: 4.57%
+  2011: -14.45%
+  2012: 14.53%
+  2013: 13.87%
+  2014: 1.10%
+  2015: -2.12%
+  2016: 6.97%
+  2017: 1.55%
+  2018: 0.00%
+  2019: 11.93%
+  2020: 21.59%
+  2021: 3.08%
+  2022: -3.05%
+  2023: 7.80%
+  2024: 7.89%
+  2025: 7.93%
+  2026: 5.44%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = AUSTRALIA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 6.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -6.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

@@ -1,0 +1,78 @@
+=== Trade Process ===
+2011-04-06 00:00:00 Initial Buy CHINA_PRIMARY, Price: 45.707, Quantity: 6563, Cash Balance: 24.96
+2011-07-28 00:00:00 Cond1 sell CHINA_PRIMARY, Accu_MMRatio: 16.7382, Deri_MMRatio: -0.004674, Price: 42.138, Quantity: 6563, Holding Days: 79, P/L: -7.81%, Account Total: 276576.65
+2011-10-28 00:00:00 Buy CHINA_PRIMARY, Price: 35.978, Quantity: 7687, Cash Balance: 13.77
+2015-08-17 00:00:00 Cond1 sell CHINA_PRIMARY, Accu_MMRatio: 99.2871, Deri_MMRatio: 0.007600, Price: 43.886, Quantity: 7687, Holding Days: 924, P/L: 21.98%, Account Total: 337365.45
+2016-03-21 00:00:00 Buy CHINA_PRIMARY, Price: 38.597, Quantity: 8740, Cash Balance: 27.67
+2018-07-05 00:00:00 Cond1 sell CHINA_PRIMARY, Accu_MMRatio: 25.3286, Deri_MMRatio: -0.007150, Price: 59.981, Quantity: 8740, Holding Days: 560, P/L: 55.40%, Account Total: 524261.61
+2018-09-21 00:00:00 Buy CHINA_PRIMARY, Price: 57.094, Quantity: 9182, Cash Balance: 24.50
+2021-06-29 00:00:00 Cond1 sell CHINA_PRIMARY, Accu_MMRatio: 56.5205, Deri_MMRatio: -0.000432, Price: 81.718, Quantity: 9182, Holding Days: 668, P/L: 43.13%, Account Total: 750359.18
+2024-09-24 00:00:00 Buy CHINA_PRIMARY, Price: 45.89, Quantity: 16351, Cash Balance: 11.79
+
+=== Account Position Information ===
+Code: CHINA_PRIMARY
+Current Date: 2026-03-27 16:00
+Mode: Etf Data
+Current Position: CHINA_PRIMARY
+  Holding Quantity: 16351
+  Current Price: 55.04
+  Holding Value: 899959.04
+  Buy Date: 2024-09-25
+  Holding Days: 361
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 11.79
+Account Total: 899970.83
+Date Of Trading Start: 2011-04-07
+
+Target Latest Close : 55.040
+Target Total Return (Start->Latest): 21.33%
+Target Annualized Return (CAGR): 1.30%
+Target Max Drawdown: -62.95%
+Target Max Drawdown Period: 2021-02-17 (Close=96.045) -> 2022-10-31 (Close=35.580) (430 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.65%
+Max Drawdown: -29.77%
+Max Drawdown Period: 2018-01-26 (Account total=635897.63) -> 2018-10-29 (Account total=446581.89) (180 trading days)
+
+Annual Returns (from first buy):
+  2011: -12.08%
+  2012: 20.56%
+  2013: 2.19%
+  2014: 6.84%
+  2015: -2.41%
+  2016: 5.69%
+  2017: 54.68%
+  2018: -15.47%
+  2019: 23.35%
+  2020: 27.77%
+  2021: 2.13%
+  2022: 0.00%
+  2023: 0.00%
+  2024: 2.11%
+  2025: 28.19%
+  2026: -8.37%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = CHINA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.04
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2011-04-05

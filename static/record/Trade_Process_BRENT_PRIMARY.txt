@@ -1,0 +1,96 @@
+=== Trade Process ===
+2010-06-02 00:00:00 Initial Buy BRENT_PRIMARY, Price: 25.715, Quantity: 11666, Cash Balance: 8.81
+2012-11-19 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.3613, Deri_MMRatio: -0.000261, Price: 40.66, Quantity: 11666, Holding Days: 604, P/L: 58.12%, Account Total: 474348.37
+2013-04-25 00:00:00 Buy BRENT_PRIMARY, Price: 39.03, Quantity: 12153, Cash Balance: 16.78
+2013-07-09 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.2878, Deri_MMRatio: 0.001068, Price: 41.24, Quantity: 12153, Holding Days: 50, P/L: 5.66%, Account Total: 501206.50
+2013-11-14 00:00:00 Buy BRENT_PRIMARY, Price: 42.68, Quantity: 11743, Cash Balance: 15.26
+2014-04-16 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.2837, Deri_MMRatio: 0.000528, Price: 43.71, Quantity: 11743, Holding Days: 100, P/L: 2.41%, Account Total: 513301.79
+2015-01-27 00:00:00 Buy BRENT_PRIMARY, Price: 18.83, Quantity: 27259, Cash Balance: 14.82
+2016-06-10 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -16.4690, Deri_MMRatio: 0.002969, Price: 15.06, Quantity: 27259, Holding Days: 346, P/L: -20.02%, Account Total: 410535.36
+2016-09-22 00:00:00 Buy BRENT_PRIMARY, Price: 13.95, Quantity: 29429, Cash Balance: 0.81
+2016-10-19 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.6796, Deri_MMRatio: 0.001658, Price: 15.04, Quantity: 29429, Holding Days: 18, P/L: 7.81%, Account Total: 442612.97
+2017-06-28 00:00:00 Buy BRENT_PRIMARY, Price: 12.74, Quantity: 34741, Cash Balance: 12.63
+2018-08-17 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: 14.4956, Deri_MMRatio: -0.002245, Price: 20.2, Quantity: 34741, Holding Days: 287, P/L: 58.56%, Account Total: 701780.83
+2018-12-03 00:00:00 Buy BRENT_PRIMARY, Price: 17.58, Quantity: 39919, Cash Balance: 4.81
+2020-01-16 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.6800, Deri_MMRatio: 0.000514, Price: 20.56, Quantity: 39919, Holding Days: 281, P/L: 16.95%, Account Total: 820739.45
+2020-04-29 00:00:00 Buy BRENT_PRIMARY, Price: 6.98, Quantity: 117584, Cash Balance: 3.13
+2020-08-20 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -19.6972, Deri_MMRatio: 0.004556, Price: 11.47, Quantity: 117584, Holding Days: 79, P/L: 64.33%, Account Total: 1348691.61
+2020-11-20 00:00:00 Buy BRENT_PRIMARY, Price: 11.39, Quantity: 118410, Cash Balance: 1.71
+2021-02-24 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -3.3809, Deri_MMRatio: 0.002876, Price: 16.6, Quantity: 118410, Holding Days: 63, P/L: 45.74%, Account Total: 1965607.71
+2021-09-15 00:00:00 Buy BRENT_PRIMARY, Price: 19.66, Quantity: 99980, Cash Balance: 0.91
+2022-04-19 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: 12.5034, Deri_MMRatio: 0.000813, Price: 30.79, Quantity: 99980, Holding Days: 149, P/L: 56.61%, Account Total: 3078385.11
+2022-07-18 00:00:00 Buy BRENT_PRIMARY, Price: 31.38, Quantity: 98100, Cash Balance: 7.11
+2023-11-30 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.7726, Deri_MMRatio: -0.003087, Price: 28.71, Quantity: 98100, Holding Days: 347, P/L: -8.51%, Account Total: 2816458.11
+2024-03-14 00:00:00 Buy BRENT_PRIMARY, Price: 30.87, Quantity: 91236, Cash Balance: 2.79
+2024-04-08 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -0.2642, Deri_MMRatio: 0.001709, Price: 33.29, Quantity: 91236, Holding Days: 16, P/L: 7.84%, Account Total: 3037249.23
+2024-08-12 00:00:00 Buy BRENT_PRIMARY, Price: 31.42, Quantity: 96666, Cash Balance: 3.51
+2026-03-31 00:00:00 Cond1 sell BRENT_PRIMARY, Accu_MMRatio: -2.5602, Deri_MMRatio: 0.008629, Price: 50.76, Quantity: 96666, Holding Days: 411, P/L: 61.55%, Account Total: 4906769.67
+
+=== Account Position Information ===
+Code: BRENT_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-31
+Cash Balance: 4906769.67
+Account Total: 4906769.67
+Date Of Trading Start: 2010-06-03
+
+Target Latest Close : 57.270
+Target Total Return (Start->Latest): 123.80%
+Target Annualized Return (CAGR): 5.19%
+Target Max Drawdown: -87.06%
+Target Max Drawdown Period: 2014-06-19 (Close=46.450) -> 2020-04-28 (Close=6.010) (1474 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 19.17%
+Max Drawdown: -62.77%
+Max Drawdown Period: 2015-05-06 (Account total=670041.04) -> 2016-01-20 (Account total=249434.67) (178 trading days)
+
+Annual Returns (from first buy):
+  2010: 20.89%
+  2011: 19.52%
+  2012: 8.95%
+  2013: 10.27%
+  2014: -1.86%
+  2015: -35.00%
+  2016: 32.65%
+  2017: 42.07%
+  2018: -2.68%
+  2019: 36.01%
+  2020: 83.24%
+  2021: 37.08%
+  2022: 32.70%
+  2023: 1.52%
+  2024: 2.79%
+  2025: -5.44%
+  2026: 79.24%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = BRENT
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.0225
+QQQ = 15
+MedMax2 = 0.16
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 0.28
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2010-06-02

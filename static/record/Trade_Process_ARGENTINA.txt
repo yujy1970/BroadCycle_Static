@@ -1,0 +1,119 @@
+=== Trade Process ===
+1996-10-08 00:00:00 Initial Buy ARGENTINA, Price: 590.0, Quantity: 508, Cash Balance: 280.00
+1997-11-03 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 8.7220, Deri_MMRatio: -0.003521, Price: 687.0, Quantity: 508, Holding Days: 268, P/L: 16.44%, Account Total: 349276.00
+1997-12-30 00:00:00 Buy ARGENTINA, Price: 688.0, Quantity: 507, Cash Balance: 460.00
+2000-03-03 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 11.4197, Deri_MMRatio: 0.001861, Price: 647.0, Quantity: 507, Holding Days: 541, P/L: -5.96%, Account Total: 328489.00
+2000-05-30 00:00:00 Buy ARGENTINA, Price: 473.0, Quantity: 694, Cash Balance: 227.00
+2002-12-19 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 19.2289, Deri_MMRatio: 0.000373, Price: 496.0, Quantity: 694, Holding Days: 615, P/L: 4.86%, Account Total: 344451.00
+2003-03-21 00:00:00 Buy ARGENTINA, Price: 583.0, Quantity: 590, Cash Balance: 481.00
+2003-08-28 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 23.0769, Deri_MMRatio: -0.001505, Price: 716.0, Quantity: 590, Holding Days: 107, P/L: 22.81%, Account Total: 422921.00
+2003-10-20 00:00:00 Buy ARGENTINA, Price: 903.0, Quantity: 468, Cash Balance: 317.00
+2007-08-29 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 10.0743, Deri_MMRatio: -0.002908, Price: 2040.0, Quantity: 468, Holding Days: 963, P/L: 125.91%, Account Total: 955037.00
+2008-01-30 00:00:00 Buy ARGENTINA, Price: 2036.0, Quantity: 469, Cash Balance: 153.00
+2010-03-11 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 26.6400, Deri_MMRatio: -0.000387, Price: 2346.0, Quantity: 469, Holding Days: 519, P/L: 15.23%, Account Total: 1100427.00
+2010-06-03 00:00:00 Buy ARGENTINA, Price: 2238.0, Quantity: 491, Cash Balance: 1569.00
+2013-07-03 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 14.6948, Deri_MMRatio: -0.005107, Price: 3029.0, Quantity: 491, Holding Days: 745, P/L: 35.34%, Account Total: 1488808.00
+2013-09-03 00:00:00 Buy ARGENTINA, Price: 4054.0, Quantity: 367, Cash Balance: 990.00
+2013-12-19 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 23.1559, Deri_MMRatio: -0.005416, Price: 5357.0, Quantity: 367, Holding Days: 74, P/L: 32.14%, Account Total: 1967009.00
+2014-02-14 00:00:00 Buy ARGENTINA, Price: 6071.0, Quantity: 324, Cash Balance: 5.00
+2014-08-15 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 26.9442, Deri_MMRatio: -0.001832, Price: 8806.0, Quantity: 324, Holding Days: 120, P/L: 45.05%, Account Total: 2853149.00
+2014-10-20 00:00:00 Buy ARGENTINA, Price: 11108.0, Quantity: 256, Cash Balance: 9501.00
+2017-04-05 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 13.6215, Deri_MMRatio: -0.000174, Price: 20754.0, Quantity: 256, Holding Days: 597, P/L: 86.84%, Account Total: 5322525.00
+2017-05-29 00:00:00 Buy ARGENTINA, Price: 22337.0, Quantity: 238, Cash Balance: 6319.00
+2017-06-08 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 14.5580, Deri_MMRatio: -0.000459, Price: 21918.0, Quantity: 238, Holding Days: 8, P/L: -1.88%, Account Total: 5222803.00
+2017-08-14 00:00:00 Buy ARGENTINA, Price: 22540.0, Quantity: 231, Cash Balance: 16063.00
+2018-04-06 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 16.4101, Deri_MMRatio: -0.002465, Price: 31739.0, Quantity: 231, Holding Days: 154, P/L: 40.81%, Account Total: 7347772.00
+2018-06-05 00:00:00 Buy ARGENTINA, Price: 30359.0, Quantity: 242, Cash Balance: 894.00
+2020-10-15 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 13.3998, Deri_MMRatio: 0.000654, Price: 48239.0, Quantity: 242, Holding Days: 575, P/L: 58.90%, Account Total: 11674732.00
+2021-02-08 00:00:00 Buy ARGENTINA, Price: 52029.0, Quantity: 224, Cash Balance: 20236.00
+2021-04-14 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 15.0981, Deri_MMRatio: -0.000302, Price: 47299.0, Quantity: 224, Holding Days: 42, P/L: -9.09%, Account Total: 10615212.00
+2021-06-07 00:00:00 Buy ARGENTINA, Price: 68151.0, Quantity: 155, Cash Balance: 51807.00
+2022-04-19 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 20.1773, Deri_MMRatio: -0.000350, Price: 92038.0, Quantity: 155, Holding Days: 212, P/L: 35.05%, Account Total: 14317697.00
+2022-07-01 00:00:00 Buy ARGENTINA, Price: 90249.0, Quantity: 158, Cash Balance: 58355.00
+2023-12-11 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 48.0742, Deri_MMRatio: 0.005453, Price: 976823.0, Quantity: 158, Holding Days: 352, P/L: 982.36%, Account Total: 154396389.00
+2024-01-25 00:00:00 Buy ARGENTINA, Price: 1284940.0, Quantity: 120, Cash Balance: 203589.00
+2024-04-04 00:00:00 Cond1 sell ARGENTINA, Accu_MMRatio: 51.9241, Deri_MMRatio: -0.002224, Price: 1183127.0, Quantity: 120, Holding Days: 44, P/L: -7.92%, Account Total: 142178829.00
+2024-05-30 00:00:00 Buy ARGENTINA, Price: 1643011.0, Quantity: 86, Cash Balance: 879883.00
+
+=== Account Position Information ===
+Code: ARGENTINA
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: ARGENTINA
+  Holding Quantity: 86
+  Current Price: 2832851.00
+  Holding Value: 243625186.00
+  Buy Date: 2024-05-31
+  Holding Days: 467
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 879883.00
+Account Total: 244505069.00
+Date Of Trading Start: 1996-10-09
+
+Target Latest Close : 2832851.000
+Target Total Return (Start->Latest): 480044.24%
+Target Annualized Return (CAGR): 33.21%
+Target Max Drawdown: -76.82%
+Target Max Drawdown Period: 1997-08-20 (Close=867.000) -> 2001-11-29 (Close=201.000) (1063 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 25.51%
+Max Drawdown: -68.30%
+Max Drawdown Period: 1997-08-20 (Account total=440716.00) -> 2001-11-29 (Account total=139721.00) (1063 trading days)
+
+Annual Returns (from first buy):
+  1996: 11.31%
+  1997: 5.85%
+  1998: -37.45%
+  1999: 28.08%
+  2000: 3.51%
+  2001: -29.23%
+  2002: 68.06%
+  2003: 45.74%
+  2004: 28.25%
+  2005: 12.21%
+  2006: 35.50%
+  2007: -2.44%
+  2008: -46.95%
+  2009: 114.87%
+  2010: 59.08%
+  2011: -30.08%
+  2012: 15.85%
+  2013: 40.21%
+  2014: 12.14%
+  2015: 35.93%
+  2016: 44.77%
+  2017: 59.90%
+  2018: 5.64%
+  2019: 37.56%
+  2020: 15.76%
+  2021: 11.30%
+  2022: 146.17%
+  2023: 382.67%
+  2024: 41.70%
+  2025: 20.36%
+  2026: -7.14%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = ARGENTINA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.03
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

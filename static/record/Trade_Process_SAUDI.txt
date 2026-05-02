@@ -1,0 +1,136 @@
+=== Trade Process ===
+2001-07-12 00:00:00 Initial Buy SAUDI, Price: 2418.0, Quantity: 124, Cash Balance: 168.00
+2001-12-26 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: -0.0996, Deri_MMRatio: 0.001029, Price: 2436.0, Quantity: 124, Holding Days: 102, P/L: 0.74%, Account Total: 302232.00
+2002-03-11 00:00:00 Buy SAUDI, Price: 2539.0, Quantity: 119, Cash Balance: 91.00
+2002-08-15 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 5.0794, Deri_MMRatio: -0.001697, Price: 2637.0, Quantity: 119, Holding Days: 108, P/L: 3.86%, Account Total: 313894.00
+2002-12-18 00:00:00 Buy SAUDI, Price: 2491.0, Quantity: 126, Cash Balance: 28.00
+2003-04-01 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.6027, Deri_MMRatio: 0.002214, Price: 2830.0, Quantity: 126, Holding Days: 62, P/L: 13.61%, Account Total: 356608.00
+2003-05-26 00:00:00 Buy SAUDI, Price: 3152.0, Quantity: 113, Cash Balance: 432.00
+2004-03-07 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 18.3199, Deri_MMRatio: 0.001569, Price: 4898.0, Quantity: 113, Holding Days: 195, P/L: 55.39%, Account Total: 553906.00
+2004-05-02 00:00:00 Buy SAUDI, Price: 5721.0, Quantity: 96, Cash Balance: 4690.00
+2005-08-29 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 26.0690, Deri_MMRatio: 0.006200, Price: 14834.0, Quantity: 96, Holding Days: 328, P/L: 159.29%, Account Total: 1428754.00
+2006-01-04 00:00:00 Buy SAUDI, Price: 17458.0, Quantity: 81, Cash Balance: 14656.00
+2006-04-17 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 19.0760, Deri_MMRatio: -0.010740, Price: 13121.0, Quantity: 81, Holding Days: 60, P/L: -24.84%, Account Total: 1077457.00
+2006-06-18 00:00:00 Buy SAUDI, Price: 12610.0, Quantity: 85, Cash Balance: 5607.00
+2006-06-20 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 4.6958, Deri_MMRatio: 0.006821, Price: 12729.0, Quantity: 85, Holding Days: 2, P/L: 0.94%, Account Total: 1087572.00
+2006-11-21 00:00:00 Buy SAUDI, Price: 8702.0, Quantity: 124, Cash Balance: 8524.00
+2007-02-24 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: -25.3054, Deri_MMRatio: 0.006896, Price: 8443.47, Quantity: 124, Holding Days: 57, P/L: -2.97%, Account Total: 1055514.28
+2007-07-07 00:00:00 Buy SAUDI, Price: 7307.07, Quantity: 144, Cash Balance: 3296.20
+2008-04-13 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 8.3030, Deri_MMRatio: -0.001070, Price: 9562.23, Quantity: 144, Holding Days: 191, P/L: 30.86%, Account Total: 1380257.32
+2008-08-24 00:00:00 Buy SAUDI, Price: 8899.27, Quantity: 155, Cash Balance: 870.47
+2008-10-12 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 2.1966, Deri_MMRatio: -0.007846, Price: 5814.6, Quantity: 155, Holding Days: 29, P/L: -34.66%, Account Total: 902133.47
+2008-12-17 00:00:00 Buy SAUDI, Price: 4903.81, Quantity: 183, Cash Balance: 4736.24
+2009-01-07 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: -18.6234, Deri_MMRatio: 0.006015, Price: 5322.22, Quantity: 183, Holding Days: 15, P/L: 8.53%, Account Total: 978702.50
+2009-03-24 00:00:00 Buy SAUDI, Price: 4584.21, Quantity: 213, Cash Balance: 2265.77
+2009-04-13 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: -24.2433, Deri_MMRatio: 0.006610, Price: 5308.42, Quantity: 213, Holding Days: 14, P/L: 15.80%, Account Total: 1132959.23
+2009-07-15 00:00:00 Buy SAUDI, Price: 5631.78, Quantity: 201, Cash Balance: 971.45
+2010-03-01 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 10.3293, Deri_MMRatio: -0.000145, Price: 6424.24, Quantity: 201, Holding Days: 153, P/L: 14.07%, Account Total: 1292243.69
+2010-06-12 00:00:00 Buy SAUDI, Price: 6278.26, Quantity: 205, Cash Balance: 5200.39
+2010-09-26 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.8471, Deri_MMRatio: 0.001361, Price: 6453.23, Quantity: 205, Holding Days: 70, P/L: 2.79%, Account Total: 1328112.54
+2011-02-07 00:00:00 Buy SAUDI, Price: 6616.41, Quantity: 200, Cash Balance: 4830.54
+2011-02-27 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.4399, Deri_MMRatio: -0.003566, Price: 5950.64, Quantity: 200, Holding Days: 13, P/L: -10.06%, Account Total: 1194958.54
+2011-09-04 00:00:00 Buy SAUDI, Price: 6153.36, Quantity: 194, Cash Balance: 1206.70
+2011-09-19 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.7048, Deri_MMRatio: -0.000997, Price: 6118.34, Quantity: 194, Holding Days: 11, P/L: -0.57%, Account Total: 1188164.66
+2012-02-04 00:00:00 Buy SAUDI, Price: 6733.68, Quantity: 176, Cash Balance: 3036.98
+2012-06-12 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 4.1684, Deri_MMRatio: -0.004123, Price: 6727.83, Quantity: 176, Holding Days: 93, P/L: -0.09%, Account Total: 1187135.06
+2013-08-05 00:00:00 Buy SAUDI, Price: 8072.3, Quantity: 147, Cash Balance: 506.96
+2014-06-23 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 8.5598, Deri_MMRatio: -0.001597, Price: 9553.56, Quantity: 147, Holding Days: 218, P/L: 18.35%, Account Total: 1404880.28
+2014-10-26 00:00:00 Buy SAUDI, Price: 10313.96, Quantity: 136, Cash Balance: 2181.72
+2014-11-05 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 9.0458, Deri_MMRatio: -0.004217, Price: 9628.84, Quantity: 136, Holding Days: 8, P/L: -6.64%, Account Total: 1311703.96
+2014-12-29 00:00:00 Buy SAUDI, Price: 8855.35, Quantity: 148, Cash Balance: 1112.16
+2015-01-22 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 1.9187, Deri_MMRatio: 0.002483, Price: 8421.72, Quantity: 148, Holding Days: 18, P/L: -4.90%, Account Total: 1247526.72
+2015-04-13 00:00:00 Buy SAUDI, Price: 9041.12, Quantity: 137, Cash Balance: 8893.28
+2016-11-13 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: -6.2634, Deri_MMRatio: 0.006483, Price: 6663.31, Quantity: 137, Holding Days: 394, P/L: -26.30%, Account Total: 921766.75
+2017-01-24 00:00:00 Buy SAUDI, Price: 7091.88, Quantity: 129, Cash Balance: 6914.23
+2017-03-15 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 4.4264, Deri_MMRatio: -0.002679, Price: 6835.76, Quantity: 129, Holding Days: 36, P/L: -3.61%, Account Total: 888727.27
+2017-06-19 00:00:00 Buy SAUDI, Price: 7046.53, Quantity: 126, Cash Balance: 864.49
+2017-10-11 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 6.3525, Deri_MMRatio: -0.001656, Price: 6889.98, Quantity: 126, Holding Days: 71, P/L: -2.22%, Account Total: 869001.97
+2018-03-11 00:00:00 Buy SAUDI, Price: 7696.07, Quantity: 112, Cash Balance: 7042.13
+2019-12-03 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.6846, Deri_MMRatio: 0.001164, Price: 7883.03, Quantity: 112, Holding Days: 429, P/L: 2.43%, Account Total: 889941.49
+2020-03-26 00:00:00 Buy SAUDI, Price: 6326.92, Quantity: 140, Cash Balance: 4172.69
+2021-07-29 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 11.6073, Deri_MMRatio: -0.001222, Price: 11041.85, Quantity: 140, Holding Days: 330, P/L: 74.52%, Account Total: 1550031.69
+2021-12-16 00:00:00 Buy SAUDI, Price: 11241.41, Quantity: 137, Cash Balance: 9958.52
+2022-12-11 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.6742, Deri_MMRatio: -0.003082, Price: 10168.17, Quantity: 137, Holding Days: 244, P/L: -9.55%, Account Total: 1402997.81
+2023-03-05 00:00:00 Buy SAUDI, Price: 10420.87, Quantity: 134, Cash Balance: 6601.23
+2024-04-28 00:00:00 Cond1 sell SAUDI, Accu_MMRatio: 4.4245, Deri_MMRatio: -0.001948, Price: 12273.7, Quantity: 134, Holding Days: 283, P/L: 17.78%, Account Total: 1651277.03
+2024-07-17 00:00:00 Buy SAUDI, Price: 12158.52, Quantity: 135, Cash Balance: 9876.83
+2025-01-01 00:00:00 Cond3 sell SAUDI, Accu_MMRatio: 0.7280, Deri_MMRatio: 0.000350, Price: 12087.94, Quantity: 135, Holding Days: 119, P/L: -0.58%, Account Total: 1641748.73
+2025-06-24 00:00:00 Buy SAUDI, Price: 10999.5, Quantity: 149, Cash Balance: 2823.23
+
+=== Account Position Information ===
+Code: SAUDI
+Current Date: 2026-03-12 16:00
+Mode: Index Data
+Current Position: SAUDI
+  Holding Quantity: 149
+  Current Price: 10893.27
+  Holding Value: 1623097.23
+  Buy Date: 2025-06-25
+  Holding Days: 184
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 2823.23
+Account Total: 1625920.46
+Date Of Trading Start: 2001-07-15
+
+Target Latest Close : 10893.270
+Target Total Return (Start->Latest): 349.58%
+Target Annualized Return (CAGR): 6.28%
+Target Max Drawdown: -79.98%
+Target Max Drawdown Period: 2006-02-23 (Close=20625.000) -> 2009-03-09 (Close=4130.010) (724 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.09%
+Max Drawdown: -55.50%
+Max Drawdown Period: 2008-01-12 (Account total=1687665.64) -> 2016-10-03 (Account total=750949.67) (2176 trading days)
+
+Annual Returns (from first buy):
+  2001: 0.74%
+  2002: 4.98%
+  2003: 58.19%
+  2004: 57.89%
+  2005: 80.29%
+  2006: -30.55%
+  2007: 60.54%
+  2008: -44.52%
+  2009: 39.35%
+  2010: 7.85%
+  2011: -10.54%
+  2012: -0.09%
+  2013: 5.74%
+  2014: -1.66%
+  2015: -22.57%
+  2016: -3.56%
+  2017: -5.72%
+  2018: 1.68%
+  2019: 0.71%
+  2020: 37.17%
+  2021: 27.43%
+  2022: -9.81%
+  2023: 14.77%
+  2024: 1.53%
+  2025: -4.21%
+  2026: 3.83%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SAUDI
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.006
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.01
+Trend1 = -0.21
+date_start_backtest = 1995-04-01

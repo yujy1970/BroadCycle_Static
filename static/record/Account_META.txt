@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: META
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: META
+  Holding Quantity: 13636
+  Current Price: 608.75
+  Holding Value: 8300846.82
+  Buy Date: 2024-05-06
+  Holding Days: 498
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 368.06
+Account Total: 8301214.88
+Date Of Trading Start: 2012-05-21
+
+Target Latest Close : 608.745
+Target Total Return (Start->Latest): 1504.83%
+Target Annualized Return (CAGR): 22.01%
+Target Max Drawdown: -76.74%
+Target Max Drawdown Period: 2021-09-07 (Close=379.204) -> 2022-11-03 (Close=88.218) (293 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 27.60%
+Max Drawdown: -51.17%
+Max Drawdown Period: 2021-09-07 (Account total=3354918.22) -> 2022-03-14 (Account total=1638361.35) (130 trading days)

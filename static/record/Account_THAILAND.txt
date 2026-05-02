@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: THAILAND
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: THAILAND
+  Holding Quantity: 2383
+  Current Price: 1493.69
+  Holding Value: 3559463.27
+  Buy Date: 2024-08-26
+  Holding Days: 405
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1113.18
+Account Total: 3560576.45
+Date Of Trading Start: 1996-12-12
+
+Target Latest Close : 1493.690
+Target Total Return (Start->Latest): 68.61%
+Target Annualized Return (CAGR): 1.79%
+Target Max Drawdown: -76.60%
+Target Max Drawdown Period: 1996-12-11 (Close=885.860) -> 1998-09-04 (Close=207.310) (424 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.82%
+Max Drawdown: -76.07%
+Max Drawdown Period: 1996-12-16 (Account total=297422.80) -> 1998-09-04 (Account total=71169.80) (421 trading days)

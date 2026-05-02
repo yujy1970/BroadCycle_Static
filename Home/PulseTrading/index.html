@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>BroadCycle — Pulse Trading</title>
+  <link rel="stylesheet" href="../../static/css/site.css"/>
+
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Index Strategies, Powered by Cycles.</div>
+        </div>
+      </div>
+      </div>
+      <nav class="nav">
+                <a class="nav-item" href="../Introduction/">Introduction</a>
+        <a class="nav-item active" href="../PulseTrading/">Broad Market Pulse Trading Strategy</a>
+        <a class="nav-item" href="../Sync/">Market Driven by Stocks Extreme Sync Strategy</a>
+        <a class="nav-item" href="../Combination/">Combination Strategy</a>
+        <a class="nav-item" href="../MessageBoard/">Message Board</a>
+        <a class="nav-item" href="../Contacts/">Contacts</a>
+    </nav>
+      <div class="sidebar-footer">
+        <div class="small muted">Research demo — not investment advice</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar topbar-tall">
+        <div class="topbar-left">
+          <h1 class="topbar-title">Broad Market Pulse Trading Strategy</h1>
+          <div class="topbar-subtitle">Markets have their own pulse cycles; manage exposure between long and cash.</div>
+        </div>
+      </header>
+
+      <section class="content">
+        
+<div class="grid-3x2">
+  <a class="tile city-bg bg-ndq" href="NDQ/">
+    <div class="tile-title">US Nasdaq 100 (NDQ) Strategy</div>
+    <div class="tile-sub">Pulse trading on a tech‑heavy large‑cap benchmark.</div>
+  </a>
+  <a class="tile city-bg bg-ftse" href="FTSE250/">
+    <div class="tile-title">UK FTSE 250 Strategy</div>
+    <div class="tile-sub">Pulse trading on an active mid‑cap benchmark.</div>
+  </a>
+  <a class="tile city-bg bg-hsi" href="HSI/">
+    <div class="tile-title">Hong Kong Hang Seng (HSI) Strategy</div>
+    <div class="tile-sub">Pulse trading on a major HK large‑cap benchmark.</div>
+  </a>
+    <a class="tile city-bg bg-dax" href="DAX/">
+    <div class="tile-title">Gemany DAX (GDAXI) Strategy</div>
+    <div class="tile-sub">Pulse trading on Germany’s flagship large‑cap benchmark.</div>
+  </a>
+  <a class="tile city-bg bg-cyb" href="ChiNext/">
+    <div class="tile-title">China ChiNext (399006) Strategy</div>
+    <div class="tile-sub">Pulse trading on China’s growth‑oriented ChiNext benchmark.</div>
+  </a>
+<div class="tile tile-empty">
+    <div class="tile-title">Coming soon</div>
+    <div class="tile-sub">More global indices under research.</div>
+  </div>
+</div>
+
+      </section>
+    </main>
+  </div>
+  
+<script>
+window.addEventListener("load", () => {
+  fetch("/api/visit", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({ path: location.pathname })
+  }).catch(()=>{});
+});
+</script>
+
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

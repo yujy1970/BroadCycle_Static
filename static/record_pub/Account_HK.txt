@@ -1,0 +1,18 @@
+=== Account Position Information ===
+Current date: 2026-01-07
+Mode: Index data
+Current position: HSI
+  Position quantity: 59
+  Current price: 26458.95
+  Position value: 1561078.05
+Cash balance: 2663.72
+Total account: 1563741.77
+
+=== Performance Summary ===
+Initial Capital: 300000.00
+Start Date: 2011-01-04
+Return: 421.25%
+CAGR: 11.62%
+Volatility: 13.72%
+Sharpe: 0.8470
+MaxDD: -28.36%

@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: ETHEREUM
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: ETHEREUM
+  Holding Quantity: 245
+  Current Price: 2256.25
+  Holding Value: 552781.49
+  Buy Date: 2026-01-17
+  Holding Days: 103
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 1308.64
+Account Total: 554090.13
+Date Of Trading Start: 2017-11-10
+
+Target Latest Close : 2256.251
+Target Total Return (Start->Latest): 603.14%
+Target Annualized Return (CAGR): 25.89%
+Target Max Drawdown: -93.96%
+Target Max Drawdown Period: 2018-01-13 (Close=1396.420) -> 2018-12-14 (Close=84.308) (335 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 8.39%
+Max Drawdown: -93.95%
+Max Drawdown Period: 2018-01-13 (Account total=1305825.31) -> 2018-12-14 (Account total=79000.60) (335 trading days)

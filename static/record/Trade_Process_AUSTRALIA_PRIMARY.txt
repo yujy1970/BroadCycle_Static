@@ -1,0 +1,96 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy AUSTRALIA_PRIMARY, Price: 11.026, Quantity: 27208, Cash Balance: 4.59
+2005-02-28 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 6.0066, Deri_MMRatio: -0.000305, Price: 10.981, Quantity: 27208, Holding Days: 1, P/L: -0.41%, Account Total: 298775.64
+2006-09-29 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 13.216, Quantity: 22607, Cash Balance: 1.53
+2007-05-29 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 6.0169, Deri_MMRatio: -0.000503, Price: 16.914, Quantity: 22607, Holding Days: 164, P/L: 27.98%, Account Total: 382376.33
+2008-01-25 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 16.587, Quantity: 23052, Cash Balance: 12.80
+2008-08-25 00:00:00 Cond3 sell AUSTRALIA_PRIMARY, Accu_MMRatio: -6.0282, Deri_MMRatio: 0.001620, Price: 14.298, Quantity: 23052, Holding Days: 146, P/L: -13.80%, Account Total: 329610.30
+2009-09-16 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 13.706, Quantity: 24048, Cash Balance: 8.41
+2009-11-17 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 6.1659, Deri_MMRatio: -0.000820, Price: 14.978, Quantity: 24048, Holding Days: 44, P/L: 9.28%, Account Total: 360199.35
+2010-09-02 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 13.954, Quantity: 25813, Cash Balance: 4.75
+2013-05-13 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 6.0494, Deri_MMRatio: 0.000154, Price: 17.995, Quantity: 25813, Holding Days: 672, P/L: 28.96%, Account Total: 464509.69
+2013-12-20 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 16.928, Quantity: 27440, Cash Balance: 5.37
+2017-03-24 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 3.8037, Deri_MMRatio: -0.000603, Price: 17.775, Quantity: 27440, Holding Days: 822, P/L: 5.00%, Account Total: 487751.37
+2019-02-07 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 18.447, Quantity: 26440, Cash Balance: 12.69
+2019-12-27 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 5.2366, Deri_MMRatio: 0.000093, Price: 21.157, Quantity: 26440, Holding Days: 224, P/L: 14.69%, Account Total: 559403.77
+2020-03-26 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 13.444, Quantity: 41609, Cash Balance: 12.37
+2020-06-29 00:00:00 Cond3 sell AUSTRALIA_PRIMARY, Accu_MMRatio: -6.0019, Deri_MMRatio: 0.004378, Price: 17.951, Quantity: 41609, Holding Days: 64, P/L: 33.52%, Account Total: 746935.53
+2020-07-21 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 19.144, Quantity: 39016, Cash Balance: 13.23
+2021-03-25 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 6.1026, Deri_MMRatio: -0.001617, Price: 23.524, Quantity: 39016, Holding Days: 173, P/L: 22.88%, Account Total: 917825.61
+2022-02-09 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 23.244, Quantity: 39486, Cash Balance: 13.03
+2024-11-13 00:00:00 Cond1 sell AUSTRALIA_PRIMARY, Accu_MMRatio: 4.5713, Deri_MMRatio: -0.000541, Price: 25.77, Quantity: 39486, Holding Days: 699, P/L: 10.87%, Account Total: 1017567.25
+2025-04-29 00:00:00 Buy AUSTRALIA_PRIMARY, Price: 24.485, Quantity: 41558, Cash Balance: 19.62
+
+=== Account Position Information ===
+Code: AUSTRALIA_PRIMARY
+Current Date: 2026-02-27 16:00
+Mode: Etf Data
+Current Position: AUSTRALIA_PRIMARY
+  Holding Quantity: 41558
+  Current Price: 30.09
+  Holding Value: 1250480.22
+  Buy Date: 2025-04-30
+  Holding Days: 212
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 19.62
+Account Total: 1250499.84
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 27.170
+Target Total Return (Start->Latest): 149.98%
+Target Annualized Return (CAGR): 4.44%
+Target Max Drawdown: -69.72%
+Target Max Drawdown Period: 2007-10-31 (Close=21.546) -> 2009-03-09 (Close=6.524) (339 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 7.06%
+Max Drawdown: -35.36%
+Max Drawdown Period: 2014-09-03 (Account total=531929.77) -> 2016-01-15 (Account total=343828.57) (347 trading days)
+
+Annual Returns (from first buy):
+  2005: 0.00%
+  2006: 10.38%
+  2007: 15.94%
+  2008: -13.80%
+  2009: 9.28%
+  2010: 13.19%
+  2011: -11.59%
+  2012: 19.72%
+  2013: 8.22%
+  2014: -4.64%
+  2015: -9.94%
+  2016: 11.11%
+  2017: 9.44%
+  2018: 0.00%
+  2019: 14.69%
+  2020: 58.33%
+  2021: 3.63%
+  2022: -4.36%
+  2023: 9.49%
+  2024: 5.88%
+  2025: 6.96%
+  2026: 14.89%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = AUSTRALIA
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 6.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -6.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

@@ -1,0 +1,109 @@
+=== Trade Process ===
+2010-06-28 00:00:00 Initial Buy US_TSLA, Price: 1.133, Quantity: 264783, Cash Balance: 0.86
+2011-01-05 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 8.5240, Deri_MMRatio: -0.013277, Price: 1.787, Quantity: 264783, Holding Days: 133, P/L: 57.72%, Account Total: 473168.08
+2011-04-20 00:00:00 Buy US_TSLA, Price: 1.723, Quantity: 274618, Cash Balance: 1.27
+2011-08-25 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 10.7619, Deri_MMRatio: -0.004572, Price: 1.514, Quantity: 274618, Holding Days: 88, P/L: -12.13%, Account Total: 415772.92
+2011-10-05 00:00:00 Buy US_TSLA, Price: 1.699, Quantity: 244716, Cash Balance: 0.44
+2012-01-13 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 4.2595, Deri_MMRatio: -0.012132, Price: 1.777, Quantity: 244716, Holding Days: 69, P/L: 4.59%, Account Total: 434860.77
+2012-02-06 00:00:00 Buy US_TSLA, Price: 2.12, Quantity: 205123, Cash Balance: 0.01
+2013-05-10 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 7.7068, Deri_MMRatio: 0.019169, Price: 5.399, Quantity: 205123, Holding Days: 316, P/L: 154.67%, Account Total: 1107459.08
+2013-07-05 00:00:00 Buy US_TSLA, Price: 8.091, Quantity: 136875, Cash Balance: 3.46
+2013-07-10 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 30.7616, Deri_MMRatio: -0.013798, Price: 8.325, Quantity: 136875, Holding Days: 3, P/L: 2.89%, Account Total: 1139487.83
+2013-07-31 00:00:00 Buy US_TSLA, Price: 9.0, Quantity: 126609, Cash Balance: 6.83
+2013-11-07 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 60.2350, Deri_MMRatio: -0.013534, Price: 9.099, Quantity: 126609, Holding Days: 70, P/L: 1.10%, Account Total: 1152022.13
+2014-01-14 00:00:00 Buy US_TSLA, Price: 11.23, Quantity: 102584, Cash Balance: 3.81
+2014-02-25 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 51.8790, Deri_MMRatio: 0.017196, Price: 17.239, Quantity: 102584, Holding Days: 28, P/L: 53.51%, Account Total: 1768449.38
+2014-04-02 00:00:00 Buy US_TSLA, Price: 15.353, Quantity: 115185, Cash Balance: 14.08
+2014-04-09 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 49.5239, Deri_MMRatio: -0.012103, Price: 14.455, Quantity: 115185, Holding Days: 5, P/L: -5.85%, Account Total: 1665013.25
+2014-05-19 00:00:00 Buy US_TSLA, Price: 13.129, Quantity: 126819, Cash Balance: 6.60
+2017-11-10 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 20.4753, Deri_MMRatio: -0.001609, Price: 20.009, Quantity: 126819, Holding Days: 879, P/L: 52.40%, Account Total: 2537527.97
+2018-01-08 00:00:00 Buy US_TSLA, Price: 22.344, Quantity: 113566, Cash Balance: 9.27
+2020-02-04 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 6.9005, Deri_MMRatio: 0.019324, Price: 54.883, Quantity: 113566, Holding Days: 521, P/L: 145.63%, Account Total: 6232852.05
+2020-04-30 00:00:00 Buy US_TSLA, Price: 50.333, Quantity: 123832, Cash Balance: 15.99
+2020-07-10 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 44.2592, Deri_MMRatio: 0.019797, Price: 110.6, Quantity: 123832, Holding Days: 49, P/L: 119.74%, Account Total: 13695835.19
+2020-08-19 00:00:00 Buy US_TSLA, Price: 124.047, Quantity: 110408, Cash Balance: 54.01
+2020-10-08 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 66.2515, Deri_MMRatio: -0.012313, Price: 143.377, Quantity: 110408, Holding Days: 35, P/L: 15.58%, Account Total: 15830021.83
+2020-11-04 00:00:00 Buy US_TSLA, Price: 142.767, Quantity: 110880, Cash Balance: 16.87
+2020-11-10 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 66.0789, Deri_MMRatio: -0.007591, Price: 138.817, Quantity: 110880, Holding Days: 4, P/L: -2.77%, Account Total: 15392045.83
+2020-12-30 00:00:00 Buy US_TSLA, Price: 233.33, Quantity: 65966, Cash Balance: 199.05
+2021-02-23 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 61.3045, Deri_MMRatio: -0.015858, Price: 237.283, Quantity: 65966, Holding Days: 36, P/L: 1.69%, Account Total: 15652809.43
+2021-05-24 00:00:00 Buy US_TSLA, Price: 202.437, Quantity: 77321, Cash Balance: 178.15
+2021-12-14 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: 13.2405, Deri_MMRatio: -0.014176, Price: 317.737, Quantity: 77321, Holding Days: 142, P/L: 56.96%, Account Total: 24567920.73
+2022-02-01 00:00:00 Buy US_TSLA, Price: 309.393, Quantity: 79406, Cash Balance: 260.17
+2022-11-09 00:00:00 Cond3 sell US_TSLA, Accu_MMRatio: -7.1698, Deri_MMRatio: -0.012873, Price: 189.9, Quantity: 79406, Holding Days: 195, P/L: -38.62%, Account Total: 15079459.57
+2022-12-01 00:00:00 Buy US_TSLA, Price: 191.78, Quantity: 78628, Cash Balance: 181.73
+2023-02-07 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: -20.7252, Deri_MMRatio: 0.016536, Price: 196.1, Quantity: 78628, Holding Days: 45, P/L: 2.25%, Account Total: 15419132.53
+2023-05-05 00:00:00 Buy US_TSLA, Price: 173.72, Quantity: 88758, Cash Balance: 92.77
+2024-01-05 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 13.6818, Deri_MMRatio: -0.000417, Price: 236.14, Quantity: 88758, Holding Days: 168, P/L: 35.93%, Account Total: 20959406.89
+2024-02-15 00:00:00 Buy US_TSLA, Price: 202.06, Quantity: 103728, Cash Balance: 127.21
+2024-12-17 00:00:00 Cond1 sell US_TSLA, Accu_MMRatio: 5.2175, Deri_MMRatio: 0.016732, Price: 466.495, Quantity: 103728, Holding Days: 211, P/L: 130.87%, Account Total: 48388720.57
+2025-05-14 00:00:00 Buy US_TSLA, Price: 340.34, Quantity: 142177, Cash Balance: 200.39
+
+=== Account Position Information ===
+Code: US_TSLA
+Current Date: 2026-03-23 16:00
+Mode: Index Data
+Current Position: US_TSLA
+  Holding Quantity: 142177
+  Current Price: 380.85
+  Holding Value: 54148110.45
+  Buy Date: 2025-05-15
+  Holding Days: 213
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 200.39
+Account Total: 54148310.84
+Date Of Trading Start: 2010-06-29
+
+Target Latest Close : 380.850
+Target Total Return (Start->Latest): 33514.30%
+Target Annualized Return (CAGR): 44.73%
+Target Max Drawdown: -73.63%
+Target Max Drawdown Period: 2021-11-04 (Close=409.970) -> 2023-01-03 (Close=108.100) (291 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 39.13%
+Max Drawdown: -73.19%
+Max Drawdown Period: 2021-11-04 (Account total=31699468.52) -> 2023-01-03 (Account total=8499868.53) (291 trading days)
+
+Annual Returns (from first buy):
+  2010: 56.66%
+  2011: -0.86%
+  2012: -0.59%
+  2013: 148.73%
+  2014: 63.22%
+  2015: 7.92%
+  2016: -10.97%
+  2017: 40.45%
+  2018: -0.70%
+  2019: 25.70%
+  2020: 389.92%
+  2021: 58.33%
+  2022: -60.58%
+  2023: 127.71%
+  2024: 119.40%
+  2025: 32.14%
+  2026: -15.31%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = US_TSLA
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.022
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.016
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.012
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

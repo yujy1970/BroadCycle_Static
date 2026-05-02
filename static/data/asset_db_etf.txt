@@ -1,0 +1,319 @@
+{
+  "ARKK": {
+    "index": {
+      "name": "ARK Innovation ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "arkk.us",
+        "yahoo": "ARKK"
+      },
+      "rank_id": 211,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=arkk.us"
+    },
+    "etfs": []
+  },
+  "CIBR": {
+    "index": {
+      "name": "First Trust NASDAQ Cybersecurity ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "cibr.us",
+        "yahoo": "CIBR"
+      },
+      "rank_id": 208,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=cibr.us"
+    },
+    "etfs": []
+  },
+  "ETHA": {
+    "index": {
+      "name": "iShares Ethereum Trust",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "etha.us",
+        "yahoo": "ETHA"
+      },
+      "rank_id": 222,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=etha.us"
+    },
+    "etfs": []
+  },
+  "FBTC": {
+    "index": {
+      "name": "Fidelity Wise Origin Bitcoin Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "fbtc.us",
+        "yahoo": "FBTC"
+      },
+      "rank_id": 221,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=fbtc.us"
+    },
+    "etfs": []
+  },
+  "FDN": {
+    "index": {
+      "name": "First Trust Dow Jones Internet Index Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "fdn.us",
+        "yahoo": "FDN"
+      },
+      "rank_id": 210,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=fdn.us"
+    },
+    "etfs": []
+  },
+  "FTEC": {
+    "index": {
+      "name": "Fidelity MSCI Information Technology Index ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "ftec.us",
+        "yahoo": "FTEC"
+      },
+      "rank_id": 202,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=ftec.us"
+    },
+    "etfs": []
+  },
+  "FTSE250": {
+    "index": {
+      "name": "FTSE 250 Index",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "^ftmc",
+        "yahoo": "^FTMC"
+      },
+      "rank_id": 150,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC+00:00",
+      "continent": "Europe",
+      "country_name": "United Kingdom",
+      "market_close": "16:30 Europe/London",
+      "real_time_link": "https://stooq.com/q/?s=%5Eftmc"
+    },
+    "etfs": [
+      {
+        "alias": "PRIMARY",
+        "name": "iShares FTSE 250 UCITS ETF",
+        "market": "NONCN",
+        "identity": {},
+        "symbols": {
+          "yahoo": "MIDD.L",
+          "stooq": null
+        },
+        "market_close": "16:30 Europe/London",
+        "real_time_link": "https://finance.yahoo.com/quote/MIDD.L"
+      }
+    ]
+  },
+  "HACK": {
+    "index": {
+      "name": "ETFMG Prime Cyber Security ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "hack.us",
+        "yahoo": "HACK"
+      },
+      "rank_id": 209,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=hack.us"
+    },
+    "etfs": []
+  },
+  "IBIT": {
+    "index": {
+      "name": "iShares Bitcoin Trust",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "ibit.us",
+        "yahoo": "IBIT"
+      },
+      "rank_id": 220,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=ibit.us"
+    },
+    "etfs": []
+  },
+  "IGV": {
+    "index": {
+      "name": "iShares Expanded Tech-Software ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "igv.us",
+        "yahoo": "IGV"
+      },
+      "rank_id": 206,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=igv.us"
+    },
+    "etfs": []
+  },
+  "IYW": {
+    "index": {
+      "name": "iShares U.S. Technology ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "iyw.us",
+        "yahoo": "IYW"
+      },
+      "rank_id": 203,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=iyw.us"
+    },
+    "etfs": []
+  },
+  "SKYY": {
+    "index": {
+      "name": "First Trust Cloud Computing ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "skyy.us",
+        "yahoo": "SKYY"
+      },
+      "rank_id": 207,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=skyy.us"
+    },
+    "etfs": []
+  },
+  "SMH": {
+    "index": {
+      "name": "VanEck Semiconductor ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "smh.us",
+        "yahoo": "SMH"
+      },
+      "rank_id": 204,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=smh.us"
+    },
+    "etfs": []
+  },
+  "SOXX": {
+    "index": {
+      "name": "iShares Semiconductor ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "soxx.us",
+        "yahoo": "SOXX"
+      },
+      "rank_id": 205,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=soxx.us"
+    },
+    "etfs": []
+  },
+  "VGT": {
+    "index": {
+      "name": "Vanguard Information Technology ETF",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "vgt.us",
+        "yahoo": "VGT"
+      },
+      "rank_id": 200,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=vgt.us"
+    },
+    "etfs": []
+  },
+  "XLK": {
+    "index": {
+      "name": "Technology Select Sector SPDR Fund",
+      "market": "NONCN",
+      "identity": {},
+      "symbols": {
+        "stooq": "xlk.us",
+        "yahoo": "XLK"
+      },
+      "rank_id": 201,
+      "market_cap_usd_billion": 0,
+      "trading_timezone": "UTC-05:00",
+      "continent": "North America",
+      "country_name": "United States",
+      "market_close": "16:00 America/New_York",
+      "real_time_link": "https://stooq.com/q/?s=xlk.us"
+    },
+    "etfs": []
+  }
+}

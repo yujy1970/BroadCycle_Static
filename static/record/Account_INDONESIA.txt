@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: INDONESIA
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-01
+Cash Balance: 26326327.57
+Account Total: 26326327.57
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 6956.804
+Target Total Return (Start->Latest): 1538.93%
+Target Annualized Return (CAGR): 9.42%
+Target Max Drawdown: -65.33%
+Target Max Drawdown Period: 1997-07-08 (Close=740.804) -> 1998-09-21 (Close=256.824) (298 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 15.49%
+Max Drawdown: -40.74%
+Max Drawdown Period: 2000-01-17 (Account total=1210175.39) -> 2001-04-30 (Account total=717204.93) (313 trading days)

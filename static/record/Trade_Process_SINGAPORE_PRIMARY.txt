@@ -1,0 +1,86 @@
+=== Trade Process ===
+2005-02-25 00:00:00 Initial Buy SINGAPORE_PRIMARY, Price: 9.614, Quantity: 31204, Cash Balance: 4.74
+2007-12-07 00:00:00 Cond1 sell SINGAPORE_PRIMARY, Accu_MMRatio: 49.6638, Deri_MMRatio: -0.002489, Price: 19.074, Quantity: 31204, Holding Days: 699, P/L: 98.40%, Account Total: 595189.84
+2008-02-15 00:00:00 Buy SINGAPORE_PRIMARY, Price: 16.136, Quantity: 36885, Cash Balance: 13.48
+2008-02-18 00:00:00 Cond3 sell SINGAPORE_PRIMARY, Accu_MMRatio: 42.2153, Deri_MMRatio: -0.003831, Price: 16.736, Quantity: 36885, Holding Days: 1, P/L: 3.72%, Account Total: 617320.84
+2009-11-11 00:00:00 Buy SINGAPORE_PRIMARY, Price: 14.662, Quantity: 42103, Cash Balance: 6.65
+2010-11-09 00:00:00 Cond1 sell SINGAPORE_PRIMARY, Accu_MMRatio: 41.4192, Deri_MMRatio: 0.000852, Price: 18.653, Quantity: 42103, Holding Days: 246, P/L: 27.22%, Account Total: 785353.91
+2011-08-31 00:00:00 Buy SINGAPORE_PRIMARY, Price: 17.169, Quantity: 45742, Cash Balance: 9.51
+2011-09-01 00:00:00 Cond3 sell SINGAPORE_PRIMARY, Accu_MMRatio: 15.8096, Deri_MMRatio: -0.002570, Price: 16.808, Quantity: 45742, Holding Days: 1, P/L: -2.10%, Account Total: 768841.05
+2021-03-08 00:00:00 Buy SINGAPORE_PRIMARY, Price: 21.309, Quantity: 36080, Cash Balance: 12.33
+2022-03-30 00:00:00 Cond1 sell SINGAPORE_PRIMARY, Accu_MMRatio: 19.9582, Deri_MMRatio: -0.000782, Price: 20.762, Quantity: 36080, Holding Days: 269, P/L: -2.57%, Account Total: 749105.29
+2024-04-24 00:00:00 Buy SINGAPORE_PRIMARY, Price: 18.84, Quantity: 39761, Cash Balance: 8.05
+
+=== Account Position Information ===
+Code: SINGAPORE_PRIMARY
+Current Date: 2026-03-13 16:00
+Mode: Etf Data
+Current Position: SINGAPORE_PRIMARY
+  Holding Quantity: 39761
+  Current Price: 27.13
+  Holding Value: 1078715.93
+  Buy Date: 2024-04-25
+  Holding Days: 473
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 8.05
+Account Total: 1078723.98
+Date Of Trading Start: 2005-02-28
+
+Target Latest Close : 27.610
+Target Total Return (Start->Latest): 185.26%
+Target Annualized Return (CAGR): 5.10%
+Target Max Drawdown: -66.92%
+Target Max Drawdown Period: 2007-10-09 (Close=20.742) -> 2009-03-09 (Close=6.862) (355 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 6.30%
+Max Drawdown: -19.93%
+Max Drawdown Period: 2021-11-08 (Account total=832594.41) -> 2022-03-08 (Account total=666626.41) (84 trading days)
+
+Annual Returns (from first buy):
+  2005: 7.75%
+  2006: 41.80%
+  2007: 30.55%
+  2008: 3.72%
+  2009: 2.24%
+  2010: 24.44%
+  2011: -2.10%
+  2012: 0.00%
+  2013: 0.00%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 0.00%
+  2017: 0.00%
+  2018: 0.00%
+  2019: 0.00%
+  2020: 0.00%
+  2021: -1.09%
+  2022: -1.49%
+  2023: 0.00%
+  2024: 15.98%
+  2025: 25.90%
+  2026: -1.38%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SINGAPORE
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 30
+PPP = 1.025
+QQQ = 10
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.02
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2005-02-25

@@ -1,0 +1,127 @@
+=== Trade Process ===
+2000-08-30 00:00:00 Initial Buy GOLD, Price: 274.8, Quantity: 1091, Cash Balance: 193.20
+2002-10-14 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 0.4284, Deri_MMRatio: 0.000618, Price: 315.5, Quantity: 1091, Holding Days: 527, P/L: 14.81%, Account Total: 344403.70
+2002-12-05 00:00:00 Buy GOLD, Price: 324.3, Quantity: 1061, Cash Balance: 321.40
+2004-06-15 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 33.0566, Deri_MMRatio: -0.001904, Price: 386.5, Quantity: 1061, Holding Days: 379, P/L: 19.18%, Account Total: 410397.90
+2004-07-30 00:00:00 Buy GOLD, Price: 394.0, Quantity: 1041, Cash Balance: 243.90
+2006-01-13 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 17.5402, Deri_MMRatio: 0.003078, Price: 553.4, Quantity: 1041, Holding Days: 362, P/L: 40.46%, Account Total: 576333.30
+2006-03-14 00:00:00 Buy GOLD, Price: 553.1, Quantity: 1042, Cash Balance: 3.10
+2006-05-02 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 29.1668, Deri_MMRatio: 0.003287, Price: 669.2, Quantity: 1042, Holding Days: 34, P/L: 20.99%, Account Total: 697309.50
+2006-07-06 00:00:00 Buy GOLD, Price: 634.3, Quantity: 1099, Cash Balance: 213.80
+2006-12-15 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 55.6475, Deri_MMRatio: -0.000166, Price: 614.0, Quantity: 1099, Holding Days: 114, P/L: -3.20%, Account Total: 674999.80
+2007-01-29 00:00:00 Buy GOLD, Price: 643.0, Quantity: 1049, Cash Balance: 492.80
+2007-11-02 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 34.8678, Deri_MMRatio: 0.003411, Price: 804.6, Quantity: 1049, Holding Days: 194, P/L: 25.13%, Account Total: 844518.20
+2007-12-20 00:00:00 Buy GOLD, Price: 800.0, Quantity: 1055, Cash Balance: 518.20
+2008-02-21 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 38.1855, Deri_MMRatio: 0.003026, Price: 944.9, Quantity: 1055, Holding Days: 41, P/L: 18.11%, Account Total: 997387.70
+2008-04-22 00:00:00 Buy GOLD, Price: 916.8, Quantity: 1087, Cash Balance: 826.10
+2008-09-26 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 54.7883, Deri_MMRatio: -0.002172, Price: 871.3, Quantity: 1087, Holding Days: 110, P/L: -4.96%, Account Total: 947929.20
+2008-11-07 00:00:00 Buy GOLD, Price: 749.0, Quantity: 1265, Cash Balance: 444.20
+2009-01-23 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 36.8916, Deri_MMRatio: 0.003247, Price: 907.3, Quantity: 1265, Holding Days: 51, P/L: 21.13%, Account Total: 1148178.70
+2009-04-13 00:00:00 Buy GOLD, Price: 896.1, Quantity: 1281, Cash Balance: 274.60
+2009-12-02 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 23.6645, Deri_MMRatio: 0.003109, Price: 1218.0, Quantity: 1281, Holding Days: 163, P/L: 35.92%, Account Total: 1560532.60
+2010-01-08 00:00:00 Buy GOLD, Price: 1150.7, Quantity: 1356, Cash Balance: 183.40
+2011-08-22 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 49.9631, Deri_MMRatio: 0.003200, Price: 1909.0, Quantity: 1356, Holding Days: 408, P/L: 65.90%, Account Total: 2588787.40
+2011-10-10 00:00:00 Buy GOLD, Price: 1685.0, Quantity: 1536, Cash Balance: 627.40
+2013-03-18 00:00:00 Cond3 sell GOLD, Accu_MMRatio: 12.4993, Deri_MMRatio: -0.000899, Price: 1613.1, Quantity: 1536, Holding Days: 359, P/L: -4.27%, Account Total: 2478349.00
+2016-04-26 00:00:00 Buy GOLD, Price: 1248.6, Quantity: 1984, Cash Balance: 1126.60
+2016-09-07 00:00:00 Cond1 sell GOLD, Accu_MMRatio: -1.5379, Deri_MMRatio: 0.000762, Price: 1344.8, Quantity: 1984, Holding Days: 93, P/L: 7.70%, Account Total: 2669209.80
+2016-12-02 00:00:00 Buy GOLD, Price: 1181.8, Quantity: 2258, Cash Balance: 705.40
+2017-01-09 00:00:00 Cond3 sell GOLD, Accu_MMRatio: 11.3683, Deri_MMRatio: -0.001130, Price: 1184.3, Quantity: 2258, Holding Days: 24, P/L: 0.21%, Account Total: 2674854.80
+2017-03-30 00:00:00 Buy GOLD, Price: 1242.1, Quantity: 2153, Cash Balance: 613.50
+2018-07-24 00:00:00 Cond3 sell GOLD, Accu_MMRatio: 7.5953, Deri_MMRatio: -0.001163, Price: 1231.4, Quantity: 2153, Holding Days: 330, P/L: -0.86%, Account Total: 2651817.70
+2019-03-08 00:00:00 Buy GOLD, Price: 1291.0, Quantity: 2054, Cash Balance: 103.70
+2019-07-22 00:00:00 Cond1 sell GOLD, Accu_MMRatio: -0.7441, Deri_MMRatio: 0.001940, Price: 1418.6, Quantity: 2054, Holding Days: 93, P/L: 9.88%, Account Total: 2913908.10
+2019-10-02 00:00:00 Buy GOLD, Price: 1497.4, Quantity: 1945, Cash Balance: 1465.10
+2021-03-02 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 47.7426, Deri_MMRatio: -0.001715, Price: 1730.0, Quantity: 1945, Holding Days: 355, P/L: 15.53%, Account Total: 3366315.10
+2021-04-08 00:00:00 Buy GOLD, Price: 1750.8, Quantity: 1922, Cash Balance: 1277.50
+2022-07-12 00:00:00 Cond3 sell GOLD, Accu_MMRatio: 5.4765, Deri_MMRatio: -0.002203, Price: 1710.0, Quantity: 1922, Holding Days: 317, P/L: -2.33%, Account Total: 3287897.50
+2023-03-02 00:00:00 Buy GOLD, Price: 1837.3, Quantity: 1789, Cash Balance: 967.80
+2023-06-08 00:00:00 Cond1 sell GOLD, Accu_MMRatio: -0.9716, Deri_MMRatio: 0.000104, Price: 1965.1, Quantity: 1789, Holding Days: 68, P/L: 6.96%, Account Total: 3516531.70
+2023-08-21 00:00:00 Buy GOLD, Price: 1894.6, Quantity: 1856, Cash Balance: 154.10
+2024-04-16 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 13.2771, Deri_MMRatio: 0.003086, Price: 2384.2, Quantity: 1856, Holding Days: 164, P/L: 25.84%, Account Total: 4425229.30
+2024-05-21 00:00:00 Buy GOLD, Price: 2417.5, Quantity: 1830, Cash Balance: 1204.30
+2025-04-21 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 48.8776, Deri_MMRatio: 0.003062, Price: 3422.2, Quantity: 1830, Holding Days: 229, P/L: 41.56%, Account Total: 6263830.30
+2025-05-28 00:00:00 Buy GOLD, Price: 3283.7, Quantity: 1907, Cash Balance: 1814.40
+2025-10-13 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 62.9156, Deri_MMRatio: 0.003186, Price: 4131.7, Quantity: 1907, Holding Days: 96, P/L: 25.82%, Account Total: 7880966.30
+2025-12-18 00:00:00 Buy GOLD, Price: 4350.1, Quantity: 1811, Cash Balance: 2935.20
+2026-01-22 00:00:00 Cond1 sell GOLD, Accu_MMRatio: 75.7167, Deri_MMRatio: 0.003014, Price: 4949.6, Quantity: 1811, Holding Days: 22, P/L: 13.78%, Account Total: 8966660.80
+2026-04-07 00:00:00 Buy GOLD, Price: 4760.0, Quantity: 1883, Cash Balance: 3580.80
+
+=== Account Position Information ===
+Code: GOLD
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: GOLD
+  Holding Quantity: 1883
+  Current Price: 4625.60
+  Holding Value: 8710004.80
+  Buy Date: 2026-04-08
+  Holding Days: 17
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 3580.80
+Account Total: 8713585.60
+Date Of Trading Start: 2000-08-31
+
+Target Latest Close : 4625.600
+Target Total Return (Start->Latest): 1588.79%
+Target Annualized Return (CAGR): 11.64%
+Target Max Drawdown: -44.36%
+Target Max Drawdown Period: 2011-08-22 (Close=1888.700) -> 2015-12-17 (Close=1050.800) (1088 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.97%
+Max Drawdown: -24.16%
+Max Drawdown Period: 2008-07-15 (Account total=1063586.00) -> 2008-09-11 (Account total=806619.20) (41 trading days)
+
+Annual Returns (from first buy):
+  2000: -2.26%
+  2001: 2.46%
+  2002: 21.32%
+  2003: 19.57%
+  2004: 3.24%
+  2005: 18.18%
+  2006: 25.34%
+  2007: 30.57%
+  2008: 26.88%
+  2009: 39.56%
+  2010: 23.50%
+  2011: 24.83%
+  2012: 6.96%
+  2013: -3.68%
+  2014: 0.00%
+  2015: 0.00%
+  2016: 4.80%
+  2017: 8.30%
+  2018: -5.73%
+  2019: 11.50%
+  2020: 24.57%
+  2021: -4.61%
+  2022: -6.43%
+  2023: 16.43%
+  2024: 25.72%
+  2025: 62.83%
+  2026: 11.19%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = GOLD
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 0.9925
+QQQ = 15
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.003
+Trend2 = 0.245
+MedMax1 = 0.0
+Accu1 = -99.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 1995-04-01

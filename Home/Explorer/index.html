@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>BroadCycle · Global Explorer</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <link rel="stylesheet" href="/static/css/site.css"/>
+  
+  <style>
+    .app{display:flex;min-height:100vh;width:100%}
+    .main{flex:1}
+    .wrap{max-width:1100px;margin:0 auto;padding:4px 16px 16px}
+    .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:10px;padding:7px 10px;font-size:14px;cursor:pointer}
+    .overlay{position:fixed;inset:0;background:rgba(0,0,0,.28);display:none;z-index:50}
+    .overlay.open{display:block}
+    .overlay-panel{position:absolute;right:10px;top:10px;width:min(340px, calc(100% - 20px));background:#fff;border-radius:14px;border:1px solid var(--line);box-shadow:0 10px 30px rgba(0,0,0,.12);padding:10px}
+    .overlay-panel a{display:block;padding:10px 10px;border-radius:10px;color:var(--text);text-decoration:none}
+    .overlay-panel a:hover{background:#f5f5f5}
+    .bc-market-header{display:block;background:#fff;border-bottom:1px solid var(--line);padding:0;min-height:auto;margin-bottom:2px}
+    .bc-market-header .inner{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px 16px}
+    .bc-market-title{font-size:15px;font-weight:700;line-height:1.15;color:#111}
+    @media (max-width: 900px){
+      .sidebar{display:none}
+      .menu-btn{display:inline-block}
+      .bc-market-header{position:sticky;top:0;z-index:5}
+      .bc-market-header .inner{padding:6px 16px}
+    }
+
+    .visitor-counter{border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:13px;color:var(--muted);background:#fafafa;display:inline-flex;align-items:center;gap:6px;max-width:100%;white-space:nowrap}
+    .visitor-counter strong{color:var(--text)}
+    .bc-page-footer{display:flex;justify-content:flex-start;align-items:center;margin-top:12px;padding-bottom:10px;overflow-x:auto}
+    @media (max-width: 900px){
+      .bc-page-footer{margin-top:10px;padding-bottom:14px}
+      .visitor-counter{font-size:12px;padding:8px 10px}
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Research demo — not investment advice</div>
+        </div>
+      </div>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    <a class="nav-item " href="/Home/Introduction/">Introduction</a>
+    <a class="nav-item active" href="/Home/Explorer/">Global Explorer</a>
+    <a class="nav-item " href="/Home/Combination/">Combination Strategy</a>
+    <a class="nav-item " href="/Home/Portfolio/">Portfolio</a>
+    <a class="nav-item " href="/Home/MessageBoard/">Message Board</a>
+    <a class="nav-item " href="/Home/Contacts/">Contact us</a>
+  </nav>
+</aside>
+
+  <main class="main">
+    <header class="header bc-market-header">
+      <div class="inner">
+        <div class="bc-market-title">Global Market...</div>
+        <button class="menu-btn" id="bcMenuBtn">Menu</button>
+      </div>
+    </header>
+    
+<div class="wrap">
+  <div id="bcContinentBar" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:6px"></div>
+  <div style="display:flex;justify-content:flex-end;gap:14px;margin:0 0 6px 0;">
+    <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:#111">
+      <span style="width:16px;height:10px;border:1px solid #34c26b;background:#dcffe8;border-radius:2px;display:inline-block"></span>
+      <span>Secure</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:#111">
+      <span style="width:16px;height:10px;border:1px solid #ff6b6b;background:#ffe1e1;border-radius:2px;display:inline-block"></span>
+      <span>Risk</span>
+    </div>
+  </div>
+
+  <div id="bcMarketGrid" style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:4px"></div>
+
+  <div class="bc-page-footer">
+    <div id="bcVisitorCounter" class="visitor-counter">Visitor: <strong>Loading...</strong></div>
+  </div>
+</div>
+
+<script defer src="/static/js/app/asset_db.js?v=20260323_tabstate_v35"></script>
+<script defer src="/static/js/app/explorer_assetdb.js?v=20260323_tabstate_v35"></script>
+
+  </main>
+</div>
+
+<div class="overlay" id="bcOverlay" aria-hidden="true">
+  <div class="overlay-panel" role="dialog" aria-label="Menu">
+    <a href="/Home/Introduction/">Introduction</a>
+    <a href="/Home/Explorer/">Global Explorer</a>
+    <a href="/Home/Combination/">Combination Strategy</a>
+    <a href="/Home/Portfolio/">Portfolio</a>
+    <a href="/Home/MessageBoard/">Message Board</a>
+    <a href="/Home/Contacts/">Contact us</a>
+  </div>
+</div>
+
+<script>
+  window.addEventListener("load", () => {
+    const btn = document.getElementById("bcMenuBtn");
+    const ov  = document.getElementById("bcOverlay");
+    if (!btn || !ov) return;
+    btn.addEventListener("click", () => {
+      ov.classList.toggle("open");
+      ov.setAttribute("aria-hidden", ov.classList.contains("open") ? "false" : "true");
+    });
+    ov.addEventListener("click", (e) => { if (e.target === ov) ov.classList.remove("open"); });
+    window.addEventListener("keydown", (e) => { if (e.key === "Escape") ov.classList.remove("open"); });
+  });
+</script>
+
+<script>
+  (function(){
+    function extractCount(obj){
+      if (obj == null) return null;
+      if (typeof obj === 'number' && isFinite(obj)) return obj;
+      if (typeof obj === 'string'){
+        const m = obj.match(/(\d[\d,]*)/);
+        return m ? Number(String(m[1]).replace(/,/g,'')) : null;
+      }
+      if (Array.isArray(obj)){
+        for (const it of obj){
+          const v = extractCount(it);
+          if (v != null) return v;
+        }
+        return null;
+      }
+      const keys = ['count','visits','value','counter','total','visitor','visitors','current','result'];
+      for (const k of keys){
+        if (Object.prototype.hasOwnProperty.call(obj,k)){
+          const v = extractCount(obj[k]);
+          if (v != null) return v;
+        }
+      }
+      for (const v of Object.values(obj)){
+        const n = extractCount(v);
+        if (n != null) return n;
+      }
+      return null;
+    }
+    async function readPayload(resp){
+      const ct = resp.headers.get('content-type') || '';
+      if (ct.includes('application/json')) return await resp.json();
+      return await resp.text();
+    }
+    async function tryEndpoint(url, init){
+      const resp = await fetch(url, Object.assign({cache:'no-store'}, init || {}));
+      if (!resp.ok) throw new Error(url + ' ' + resp.status);
+      return extractCount(await readPayload(resp));
+    }
+    function buildEndpoints(){
+      const configured = [];
+      configured.push('https://counter.broadcycle.net/api/visit');
+      if (Array.isArray(window.BC_VISITOR_ENDPOINTS)) configured.push(...window.BC_VISITOR_ENDPOINTS);
+      const meta = document.querySelector('meta[name="bc-visitor-api"]');
+      if (meta && meta.content) configured.push(...meta.content.split(','));
+      configured.push('/api/visit','/api/visiit','/visit','/counter','/api/counter');
+      return [...new Set(configured.map(s => String(s || '').trim()).filter(Boolean))];
+    }
+    async function hitCounter(ep){
+      const path = location.pathname;
+      const attempts = [
+        () => tryEndpoint(ep, { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({ path }) }),
+        () => tryEndpoint(ep, { method:'POST' }),
+        () => tryEndpoint(ep + (ep.includes('?') ? '&' : '?') + 'path=' + encodeURIComponent(path), { method:'GET' }),
+        () => tryEndpoint(ep, { method:'GET' })
+      ];
+      for (const run of attempts){
+        try {
+          const count = await run();
+          if (count != null) return count;
+        } catch(_e){}
+      }
+      return null;
+    }
+    async function initVisitorCounter(){
+      const el = document.getElementById('bcVisitorCounter');
+      if (!el) return;
+      const strong = el.querySelector('strong');
+      if (strong) strong.textContent = 'Loading...';
+      let count = null;
+      for (const ep of buildEndpoints()){
+        count = await hitCounter(ep);
+        if (count != null) break;
+      }
+      if (strong) strong.textContent = (count != null ? String(count) : 'N/A');
+      if (count == null) {
+        el.title = 'Counter endpoint returned no numeric value. In Cloudflare, bind your worker route to /api/visit or set window.BC_VISITOR_ENDPOINTS.';
+      }
+    }
+    window.addEventListener('load', initVisitorCounter);
+  })();
+</script>
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

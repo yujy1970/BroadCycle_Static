@@ -1,0 +1,64 @@
+=== Trade Process ===
+2024-01-11 00:00:00 Initial Buy FBTC, Price: 40.74, Quantity: 7363, Cash Balance: 31.38
+2024-11-21 00:00:00 Cond1 sell FBTC, Accu_MMRatio: 0.4069, Deri_MMRatio: 0.013279, Price: 85.46, Quantity: 7363, Holding Days: 218, P/L: 109.77%, Account Total: 629273.36
+2025-03-19 00:00:00 Buy FBTC, Price: 74.34, Quantity: 8464, Cash Balance: 59.60
+2025-03-24 00:00:00 Cond1 sell FBTC, Accu_MMRatio: 15.1030, Deri_MMRatio: -0.004935, Price: 76.595, Quantity: 8464, Holding Days: 3, P/L: 3.03%, Account Total: 648359.68
+2025-05-14 00:00:00 Buy FBTC, Price: 89.53, Quantity: 7241, Cash Balance: 72.95
+2025-07-30 00:00:00 Cond1 sell FBTC, Accu_MMRatio: 18.1033, Deri_MMRatio: -0.000439, Price: 103.08, Quantity: 7241, Holding Days: 52, P/L: 15.13%, Account Total: 746475.23
+2025-11-28 00:00:00 Buy FBTC, Price: 75.18, Quantity: 9929, Cash Balance: 13.01
+2025-12-10 00:00:00 Cond3 sell FBTC, Accu_MMRatio: 6.5680, Deri_MMRatio: -0.004488, Price: 78.61, Quantity: 9929, Holding Days: 8, P/L: 4.56%, Account Total: 780531.70
+
+=== Account Position Information ===
+Code: FBTC
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-12-10
+Cash Balance: 780531.70
+Account Total: 780531.70
+Date Of Trading Start: 2024-01-12
+
+Target Latest Close : 68.300
+Target Total Return (Start->Latest): 67.07%
+Target Annualized Return (CAGR): 24.97%
+Target Max Drawdown: -49.33%
+Target Max Drawdown Period: 2025-10-06 (Close=109.440) -> 2026-02-05 (Close=55.450) (84 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 55.59%
+Max Drawdown: -27.42%
+Max Drawdown Period: 2024-03-13 (Account total=474208.58) -> 2024-09-06 (Account total=344178.00) (122 trading days)
+
+Annual Returns (from first buy):
+  2024: 122.83%
+  2025: 24.04%
+  2026: 0.00%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = FBTC
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 15
+MedMax2 = 0.2
+Accu2 = 18.0
+Deri2 = 0.012
+Trend2 = 99.0
+MedMax1 = -0.12
+Accu1 = -99.0
+Deri1 = -0.02
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

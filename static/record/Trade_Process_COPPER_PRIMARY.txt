@@ -1,0 +1,76 @@
+=== Trade Process ===
+2011-11-15 00:00:00 Initial Buy COPPER_PRIMARY, Price: 24.75, Quantity: 12121, Cash Balance: 5.25
+2018-07-02 00:00:00 Cond1 sell COPPER_PRIMARY, Accu_MMRatio: 44.4346, Deri_MMRatio: -0.002214, Price: 18.58, Quantity: 12121, Holding Days: 1667, P/L: -24.93%, Account Total: 225213.43
+2018-09-21 00:00:00 Buy COPPER_PRIMARY, Price: 17.97, Quantity: 12532, Cash Balance: 13.39
+2021-12-31 00:00:00 Cond1 sell COPPER_PRIMARY, Accu_MMRatio: 71.9596, Deri_MMRatio: -0.000629, Price: 27.01, Quantity: 12532, Holding Days: 827, P/L: 50.31%, Account Total: 338502.71
+2022-07-28 00:00:00 Buy COPPER_PRIMARY, Price: 21.28, Quantity: 15907, Cash Balance: 1.75
+2025-02-19 00:00:00 Cond1 sell COPPER_PRIMARY, Accu_MMRatio: 18.1185, Deri_MMRatio: 0.000860, Price: 29.05, Quantity: 15907, Holding Days: 646, P/L: 36.51%, Account Total: 462100.10
+2025-10-03 00:00:00 Buy COPPER_PRIMARY, Price: 31.04, Quantity: 14887, Cash Balance: 7.62
+
+=== Account Position Information ===
+Code: COPPER_PRIMARY
+Current Date: 2026-03-26 16:00
+Mode: Etf Data
+Current Position: COPPER_PRIMARY
+  Holding Quantity: 14887
+  Current Price: 33.33
+  Holding Value: 496183.71
+  Buy Date: 2025-10-06
+  Holding Days: 120
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 7.62
+Account Total: 496191.33
+Date Of Trading Start: 2011-11-16
+
+Target Latest Close : 36.230
+Target Total Return (Start->Latest): 43.88%
+Target Annualized Return (CAGR): 2.55%
+Target Max Drawdown: -57.83%
+Target Max Drawdown Period: 2012-02-09 (Close=28.220) -> 2015-02-02 (Close=11.900) (748 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 3.44%
+Max Drawdown: -57.83%
+Max Drawdown Period: 2012-02-09 (Account total=342059.87) -> 2015-02-02 (Account total=144245.15) (751 trading days)
+
+Annual Returns (from first buy):
+  2011: -2.74%
+  2012: 2.08%
+  2013: -8.44%
+  2014: -16.94%
+  2015: -24.97%
+  2016: 14.58%
+  2017: 28.81%
+  2018: -19.29%
+  2019: 6.69%
+  2020: 23.89%
+  2021: 24.30%
+  2022: 8.51%
+  2023: 4.55%
+  2024: 4.23%
+  2025: 30.04%
+  2026: -4.66%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = COPPER
+choose_ETF_simulate = 1
+TARGET_ETF_CODE = PRIMARY
+TTT = 45
+PPP = 1.03
+QQQ = 5
+MedMax2 = 99.0
+Accu2 = 99.0
+Deri2 = 0.016
+Trend2 = 99.0
+MedMax1 = -99.0
+Accu1 = -99.0
+Deri1 = -0.007
+Trend1 = -99.0
+date_start_backtest = 2011-11-15

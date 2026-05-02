@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SILVER_PRIMARY
+Current Date: 2026-05-01 16:00
+Mode: Etf Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-03-03
+Cash Balance: 4357018.57
+Account Total: 4357018.57
+Date Of Trading Start: 2006-05-01
+
+Target Latest Close : 68.290
+Target Total Return (Start->Latest): 394.43%
+Target Annualized Return (CAGR): 8.32%
+Target Max Drawdown: -76.28%
+Target Max Drawdown Period: 2011-04-28 (Close=47.260) -> 2020-03-18 (Close=11.210) (2236 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 14.34%
+Max Drawdown: -55.68%
+Max Drawdown Period: 2011-04-28 (Account total=1009572.79) -> 2015-12-14 (Account total=447449.33) (1165 trading days)

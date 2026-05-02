@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: BITCOIN
+Current Date: 2026-04-30 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2025-11-28
+Cash Balance: 138111743.78
+Account Total: 138111743.78
+Date Of Trading Start: 2014-09-18
+
+Target Latest Close : 76304.320
+Target Total Return (Start->Latest): 16584.59%
+Target Annualized Return (CAGR): 55.35%
+Target Max Drawdown: -83.40%
+Target Max Drawdown Period: 2017-12-16 (Close=19497.400) -> 2018-12-15 (Close=3236.762) (364 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 70.63%
+Max Drawdown: -48.92%
+Max Drawdown Period: 2021-04-13 (Account total=62241166.96) -> 2021-09-21 (Account total=31795648.44) (161 trading days)

@@ -1,0 +1,94 @@
+=== Trade Process ===
+2011-07-06 00:00:00 Initial Buy SKYY, Price: 20.52, Quantity: 14619, Cash Balance: 18.12
+2012-05-31 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 6.0571, Deri_MMRatio: -0.005099, Price: 17.66, Quantity: 14619, Holding Days: 228, P/L: -13.94%, Account Total: 258189.66
+2012-07-27 00:00:00 Buy SKYY, Price: 18.31, Quantity: 14101, Cash Balance: 0.35
+2013-12-04 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 8.2420, Deri_MMRatio: -0.000946, Price: 25.17, Quantity: 14101, Holding Days: 340, P/L: 37.47%, Account Total: 354922.52
+2014-02-07 00:00:00 Buy SKYY, Price: 27.25, Quantity: 13024, Cash Balance: 18.52
+2014-04-28 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 8.9069, Deri_MMRatio: -0.002908, Price: 25.41, Quantity: 13024, Holding Days: 54, P/L: -6.75%, Account Total: 330958.36
+2014-08-19 00:00:00 Buy SKYY, Price: 27.7, Quantity: 11947, Cash Balance: 26.46
+2017-04-27 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 8.5910, Deri_MMRatio: -0.000935, Price: 39.41, Quantity: 11947, Holding Days: 677, P/L: 42.27%, Account Total: 470857.73
+2017-06-23 00:00:00 Buy SKYY, Price: 40.89, Quantity: 11515, Cash Balance: 9.38
+2018-09-14 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 9.6079, Deri_MMRatio: 0.000167, Price: 56.8, Quantity: 11515, Holding Days: 309, P/L: 38.91%, Account Total: 654061.38
+2018-11-01 00:00:00 Buy SKYY, Price: 52.66, Quantity: 12420, Cash Balance: 24.18
+2020-06-25 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 2.0388, Deri_MMRatio: 0.003520, Price: 73.83, Quantity: 12420, Holding Days: 413, P/L: 40.20%, Account Total: 916992.78
+2020-10-01 00:00:00 Buy SKYY, Price: 77.7, Quantity: 11801, Cash Balance: 55.08
+2020-11-23 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 10.5628, Deri_MMRatio: -0.000974, Price: 86.61, Quantity: 11801, Holding Days: 37, P/L: 11.47%, Account Total: 1022139.69
+2021-01-08 00:00:00 Buy SKYY, Price: 95.61, Quantity: 10690, Cash Balance: 68.79
+2021-02-12 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 14.6718, Deri_MMRatio: 0.001455, Price: 111.59, Quantity: 10690, Holding Days: 24, P/L: 16.71%, Account Total: 1192965.89
+2021-05-26 00:00:00 Buy SKYY, Price: 98.0, Quantity: 12173, Cash Balance: 11.89
+2022-02-25 00:00:00 Cond3 sell SKYY, Accu_MMRatio: 0.9126, Deri_MMRatio: -0.002932, Price: 85.45, Quantity: 12173, Holding Days: 190, P/L: -12.81%, Account Total: 1040194.74
+2023-05-10 00:00:00 Buy SKYY, Price: 64.71, Quantity: 16074, Cash Balance: 46.20
+2024-04-23 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 12.3413, Deri_MMRatio: -0.002330, Price: 92.75, Quantity: 16074, Holding Days: 239, P/L: 43.33%, Account Total: 1490909.70
+2024-06-27 00:00:00 Buy SKYY, Price: 95.55, Quantity: 15603, Cash Balance: 43.05
+2024-12-05 00:00:00 Cond1 sell SKYY, Accu_MMRatio: 8.2794, Deri_MMRatio: 0.004083, Price: 128.94, Quantity: 15603, Holding Days: 112, P/L: 34.95%, Account Total: 2011893.87
+2025-03-19 00:00:00 Buy SKYY, Price: 107.58, Quantity: 18701, Cash Balance: 40.29
+2025-04-16 00:00:00 Cond3 sell SKYY, Accu_MMRatio: 8.2943, Deri_MMRatio: -0.004292, Price: 96.2, Quantity: 18701, Holding Days: 20, P/L: -10.58%, Account Total: 1799076.49
+2025-06-06 00:00:00 Buy SKYY, Price: 119.06, Quantity: 15110, Cash Balance: 79.89
+
+=== Account Position Information ===
+Code: SKYY
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: SKYY
+  Holding Quantity: 15110
+  Current Price: 124.39
+  Holding Value: 1879532.90
+  Buy Date: 2025-06-09
+  Holding Days: 225
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: None
+Cash Balance: 79.89
+Account Total: 1879612.79
+Date Of Trading Start: 2011-07-07
+
+Target Latest Close : 124.390
+Target Total Return (Start->Latest): 538.09%
+Target Annualized Return (CAGR): 13.32%
+Target Max Drawdown: -53.20%
+Target Max Drawdown Period: 2021-11-16 (Close=118.602) -> 2022-12-28 (Close=55.500) (280 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 13.49%
+Max Drawdown: -33.00%
+Max Drawdown Period: 2020-02-19 (Account total=842870.22) -> 2020-03-16 (Account total=564699.48) (18 trading days)
+
+Annual Returns (from first buy):
+  2011: -16.07%
+  2012: 11.44%
+  2013: 31.72%
+  2014: -7.74%
+  2015: 6.02%
+  2016: 15.21%
+  2017: 28.63%
+  2018: 15.01%
+  2019: 25.25%
+  2020: 37.92%
+  2021: 24.03%
+  2022: -17.95%
+  2023: 35.48%
+  2024: 42.76%
+  2025: -2.30%
+  2026: -4.37%
+
+Big-Arc Sell Statistics:
+  Big-Arc Sell Count: 0
+
+
+
+=== Parameters (runtime values) ===
+TARGET_INDEX_CODE = SKYY
+choose_ETF_simulate = 0
+TARGET_ETF_CODE = PRIMARY
+TTT = 25
+PPP = 1.02
+QQQ = 10
+MedMax2 = 0.12
+Accu2 = 99.0
+Deri2 = 99.0
+Trend2 = 99.0
+MedMax1 = -0.12
+Accu1 = -10.0
+Deri1 = -99.0
+Trend1 = -99.0
+date_start_backtest = 2009-01-02

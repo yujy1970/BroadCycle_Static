@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>BroadCycle — FTSE250 Strategy</title>
+  <link rel="stylesheet" href="../../../static/css/site.css"/>
+
+</head>
+<body class="detail-page">
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo-row">
+        <img class="logo-mark" src="/static/img/logo_mark.svg" alt="BroadCycle logo"/>
+        <div>
+          <div class="logo">BroadCycle</div>
+          <div class="logo-slogan">Index Strategies, Powered by Cycles.</div>
+        </div>
+      </div>
+      </div>
+      <nav class="nav">
+                <a class="nav-item" href="../../Introduction/">Introduction</a>
+        <a class="nav-item active" href="../../PulseTrading/">Broad Market Pulse Trading Strategy</a>
+        <a class="nav-item" href="../../Sync/">Market Driven by Stocks Extreme Sync Strategy</a>
+        <a class="nav-item" href="../../Combination/">Combination Strategy</a>
+        <a class="nav-item" href="../../MessageBoard/">Message Board</a>
+        <a class="nav-item" href="../../Contacts/">Contacts</a>
+    </nav>
+      <div class="sidebar-footer">
+        <div class="small muted">Research demo — not investment advice</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar topbar-tall">
+        <div class="topbar-left">
+          <div class="topbar-row">
+          <a class="back-btn" href="../index.html" onclick="if (history.length &gt; 1) { history.back(); return false; }">← Back</a>
+          <h1 class="topbar-title">UK FTSE 250 — Strategy Detail</h1>
+        
+          <button class="btn" id="btnTrade">View Backtest Results</button>
+</div>
+          <div class="topbar-subtitle">You can trade the corresponding ETF to implement the index strategy (e.g., US: QQQ; UK: MIDD; HK: 159920.SZ; Germany: DAX; China ChiNext: 159915.SZ).</div>
+        </div>
+        
+      </header>
+
+      <section class="content">
+        
+<div class="detail-layout">
+  <div class="detail-main">
+    <div class="chart-card">
+      <div class="muted small" id="bcStatus">Loading…</div>
+      <div class="small" id="bcCursorInfo">Move pointer over chart to inspect values.</div>
+      <canvas id="mainCanvas" class="chart"></canvas>
+      <canvas id="indicatorCanvas" class="chart chart-small"></canvas>
+    </div>
+
+    <div class="card">
+      <h2>Display</h2>
+      <div class="controls">
+        <label><input type="checkbox" id="chkIndex" checked/> Index</label>
+        <label><input type="checkbox" id="chkEquity" checked/> Equity (MoneyGrow)</label>
+        <span class="sep"></span>
+        <label><input type="checkbox" id="chkRSI" checked/> RSI</label>
+        <label><input type="checkbox" id="chkMed"/> Med_Max_Ratio</label>
+        <label><input type="checkbox" id="chkDeri"/> Deri_MMRatio</label>
+        <label><input type="checkbox" id="chkAccu"/> Accu_MMRatio</label>
+        <label><input type="checkbox" id="chkST"/> Short_Trend</label>
+      </div>
+      <div class="muted small">Tip: toggle series to compare regimes; all series share the same time axis.</div>
+    </div>
+  </div>
+
+  <aside class="detail-side">
+    <div class="card">
+      <h2>Notes</h2>
+      <ul class="small">
+        <li>Data: daily bars (index) + backtest equity curve.</li>
+        <li>MoneyGrow fields are parsed from the pipe-delimited record.</li>
+        <li>This is research material — not investment advice.</li>
+      </ul>
+    </div>
+<div class="card">
+      <h2>About</h2>
+      <p class="small muted">
+        Broad Market Pulse Trading seeks market pulse cycles and manages exposure via peak‑avoidance and rapid drawdown stops.
+      </p>
+    </div>
+  </aside>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="tradeModal" aria-hidden="true">
+  <div class="modal-overlay" data-close="1"></div>
+  <div class="modal-dialog">
+    <div class="modal-header">
+      <div class="modal-title">Backtest Results</div>
+      <button class="icon-btn" id="btnClose" title="Close">✕</button>
+    </div>
+    <div class="modal-body">
+      <pre id="tradeText" class="pre"></pre>
+    </div>
+  </div>
+</div>
+
+      </section>
+    </main>
+  </div>
+  <script>
+window.BC_CFG = {
+  "indexCsv": "../../../static/index/FTSE250.csv",
+  "moneyGrowTxt": "../../../static/record/MoneyGrow_UK.txt",
+  "accountTxt": "../../../static/record/Account_UK.txt",
+  "pageKey": "../../../FTSE250"
+};
+</script>
+<script src="../../../static/js/strategy_detail.js"></script>
+
+<script>
+window.addEventListener("load", () => {
+  fetch("/api/visit", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify({ path: location.pathname })
+  }).catch(()=>{});
+});
+</script>
+
+<script defer src="/static/js/meteors.js"></script>
+</body>
+</html>

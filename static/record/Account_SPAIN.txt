@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SPAIN
+Current Date: 2026-03-13 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-01-20
+Cash Balance: 1731720.57
+Account Total: 1731720.57
+Date Of Trading Start: 1995-04-04
+
+Target Latest Close : 17059.300
+Target Total Return (Start->Latest): 481.58%
+Target Annualized Return (CAGR): 5.85%
+Target Max Drawdown: -62.65%
+Target Max Drawdown Period: 2007-11-08 (Close=15945.700) -> 2012-07-24 (Close=5956.300) (1198 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 5.83%
+Max Drawdown: -58.00%
+Max Drawdown Period: 2000-03-06 (Account total=1070013.56) -> 2002-10-09 (Account total=449378.36) (652 trading days)

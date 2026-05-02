@@ -1,0 +1,6 @@
+=== Account Holding Information ===
+Current date: 2026-01-07
+Mode: Index data
+Currently no holdings
+Cash balance: 1270881.60
+Account total: 1270881.60

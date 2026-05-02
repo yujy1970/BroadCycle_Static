@@ -1,0 +1,27 @@
+=== Account Position Information ===
+Code: SMH
+Current Date: 2026-05-01 16:00
+Mode: Index Data
+Current Position: None
+  Holding Quantity: 0
+  Current Price: 0.00
+  Holding Value: 0.00
+  Buy Date: N/A
+  Holding Days: 0
+Exit Signal Trigger Today?: No
+Hold Signal Trigger Today?: No
+The Last Date To Hold Position: 2026-04-27
+Cash Balance: 12109737.95
+Account Total: 12109737.95
+Date Of Trading Start: 2009-01-05
+
+Target Latest Close : 509.820
+Target Total Return (Start->Latest): 6432.80%
+Target Annualized Return (CAGR): 27.28%
+Target Max Drawdown: -45.30%
+Target Max Drawdown Period: 2021-12-27 (Close=154.396) -> 2022-10-14 (Close=84.451) (202 trading days)
+
+Initial Capital: 300000.00
+Annualized Return: 23.72%
+Max Drawdown: -45.30%
+Max Drawdown Period: 2021-12-27 (Account total=5434481.21) -> 2022-10-14 (Account total=2972557.10) (202 trading days)
